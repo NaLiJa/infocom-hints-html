@@ -187,9 +187,9 @@ h2 {
             output += "<ol>\n";
             for (const hint of node.hints) {
                 output += `
-                    <li><div class="spoiler" role="button" tabindex="0" aria-expanded="false" aria-label="Reveal hint" aria-live="polite">
-                      <div aria-hidden="true">${hint}</div>
-                    </div></li>\n`;
+                    <li><span class="spoiler" role="button" tabindex="0" aria-expanded="false" aria-label="Reveal hint" aria-live="polite">
+                      <span aria-hidden="true">${hint}</span>
+                    </span></li>\n`;
             }
             output += "</ol>\n";
         } else {
