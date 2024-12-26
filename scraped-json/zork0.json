@@ -1,0 +1,1705 @@
+{
+    "type": "menu",
+    "title": "Zork Zero: The Revenge of Megaboz",
+    "children": [
+        {
+            "title": "About",
+            "child": {
+                "type": "page",
+                "title": "About PRIZM Invisiclues",
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+            }
+        },
+        {
+            "title": "Credits ",
+            "child": {
+                "type": "page",
+                "title": "Credits",
+                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>from material supplied by:</p><p>  Steven Marsh</p><p>  Volker Blasius</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Zork Zero</b> and all other game names are registered trade marks of Activision.</p>"
+            }
+        },
+        {
+            "title": "Prologue",
+            "child": {
+                "type": "menu",
+                "title": "Prologue",
+                "children": [
+                    {
+                        "title": "surviving Megaboz's attack",
+                        "child": {
+                            "type": "hints",
+                            "title": "surviving Megaboz's attack",
+                            "hints": [
+                                "Just DIVE UNDER A TABLE when everyone else does."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "getting the scrap of parchment",
+                        "child": {
+                            "type": "hints",
+                            "title": "getting the scrap of parchment",
+                            "hints": [
+                                "After Megaboz's departure, just get out from under the table. You can now pick up the scrap."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "saving Dimwit from the evil witch",
+                        "child": {
+                            "type": "hints",
+                            "title": "saving Dimwit from the evil witch",
+                            "hints": [
+                                "Don't go on until you've read the enchanted fairy tale book.",
+                                "First you must get to the parapet area.",
+                                "Then say DIMWIT, DIMWIT, LET DOWN YOUR GOLDEN HAIR.",
+                                "There is no evil witch. There is no enchanted fairy tale book. And there is no reason that you should be reading this hint, unless you want to ruin the game for yourself by looking at hints you don't need!"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Great Hall Area",
+            "child": {
+                "type": "menu",
+                "title": "Great Hall Area",
+                "children": [
+                    {
+                        "title": "opening the portcullis",
+                        "child": {
+                            "type": "hints",
+                            "title": "opening the portcullis",
+                            "hints": [
+                                "Ring the bell.",
+                                "Answer the jester's riddle!",
+                                "ANSWER \"TIME\""
+                            ]
+                        }
+                    },
+                    {
+                        "title": "the four torches",
+                        "child": {
+                            "type": "hints",
+                            "title": "the four torches",
+                            "hints": [
+                                "Two of the torches are already burned out and the other two burn out within about 12 turns. Not too useful, eh?",
+                                "See the hints about finding a permanent light source in the General Questions section."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "about the cauldron",
+                        "child": {
+                            "type": "hints",
+                            "title": "about the cauldron",
+                            "hints": [
+                                "See the hints about the goal of the game in the General Questions section."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "reading the rebus",
+                        "child": {
+                            "type": "hints",
+                            "title": "reading the rebus",
+                            "hints": [
+                                "You'll have to remove those flattened animals.",
+                                "Something in the vicinity of the Gallery does something regarding the rebus.",
+                                "The key-shaped button in the closet. See the hints about these buttons n the General Questions section.",
+                                "You probably won't be able to remove all the animals until almost the very end  of ZORK ZERO.",
+                                "Once you've removed all the animals, you should be able to decipher the rebus -- if you've noticed one key point.",
+                                "Look at the \"N\" in the upper left corner of the rebus.",
+                                "It's a mirror image of an \"N.\" In fact, the entire rebus is a mirror image. Read it from right to left.",
+                                "The rebus, in text form, reads: (first line) TIE + BIRD - B + PIE + N (second line) EYE + URN + MIND - D (third line) W + OAR (fourth line) MATCH + CHICK + STORM - M",
+                                "This forms the words (first line) \"tired pine\" (second line) \"iron mine\" (third line) \"wore\" (fourth line) \"magic store.\" Now you just have to figure out what to do with these words!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "opening the walnut",
+                        "child": {
+                            "type": "hints",
+                            "title": "opening the walnut",
+                            "hints": [
+                                "You can't open the nutshell without a tool.",
+                                "Namely, a nutcracker. Magic is also involved.",
+                                "Don't go on until you've found the magic wand and know what it does.",
+                                "The wand can turn something into a nutcracker.",
+                                "Point wand at lobster."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "East Wing",
+            "child": {
+                "type": "menu",
+                "title": "East Wing",
+                "children": [
+                    {
+                        "title": "opening the door in East Hall",
+                        "child": {
+                            "type": "hints",
+                            "title": "opening the door in East Hall",
+                            "hints": [
+                                "You'll need a key from another section of the game.",
+                                "It's the iron key from the Solar (in the secret wing)."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Encyclopedia Frobozzica",
+                        "child": {
+                            "type": "hints",
+                            "title": "Encyclopedia Frobozzica",
+                            "hints": [
+                                "It's extremely useful for reading about all sorts of interesting things. For example, try READ ABOUT MEGABOZ."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "using the wand",
+                        "child": {
+                            "type": "hints",
+                            "title": "using the wand",
+                            "hints": [
+                                "Have you read the writing on the wand?",
+                                "You can find out what the wand does by looking up \"Fisha\" in the encyclopedia.",
+                                "Try pointing the wand at various living creatures to see what they turn into.",
+                                "For example, the flamingo turns into a lawn ornament. Anything inanimated using the wand will return to its former state after 16 turns. Also, the wand can only be used 5 times, so don't waste it!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Tower of Bozbar",
+                        "child": {
+                            "type": "hints",
+                            "title": "Tower of Bozbar",
+                            "hints": [
+                                "To find out the rules, read about Tower of Bozbar in the encyclopedia.",
+                                "To move the tower to (for example) the right peg, you must get the 6-ugh weight to the right peg without crushing any other weight. Therefore, you must get the 5-ugh weight to the left peg without crushing other weights. And so on...",
+                                "Here are the keystrokes required to move the pile of weights to the left peg: 1R 2L 1L 3R 1C 2R 1R 4L 1L 2C 1C 3L 1R 2L 1L 5R 1C 2R 1R 3C 1L 2C 1C 4R 1R 2L 1L 3R 1C 2R 1R 6L 1L 2C 1C 3L 1R 2L 1L 4C 1C 2R 1R 3C 1L 2C 1C 5L 1R 2L 1L 3R 1C 2R 1R 4L 1L 2C 1C 3L 1R 2L 1L.",
+                                "When you \"win,\" you'll be able to get to a new room by going north from the Jester's Quarters.",
+                                "There are three different Pyramid Rooms, depending on whether the six weights are on the left peg, the center peg, or the right peg."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "large arched door",
+                        "child": {
+                            "type": "hints",
+                            "title": "large arched door",
+                            "hints": [
+                                "It cannot be opened unless all six Tower of Bozbar weights are on the same peg. See the Tower of Bozbar hints in this section."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "magic goggles",
+                        "child": {
+                            "type": "hints",
+                            "title": "magic goggles",
+                            "hints": [
+                                "Wear them.",
+                                "Try looking at various things.",
+                                "Try looking at a closed container with something inside, such as the package.",
+                                "The goggles give you x-ray vision."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "West Wing",
+            "child": {
+                "type": "menu",
+                "title": "West Wing",
+                "children": [
+                    {
+                        "title": "opening the door in West Hall",
+                        "child": {
+                            "type": "hints",
+                            "title": "opening the door in West Hall",
+                            "hints": [
+                                "It's the steel key from the locker in the Garrison (in the bailey area)."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "riddle of the West Wing",
+                        "child": {
+                            "type": "hints",
+                            "title": "riddle of the West Wing",
+                            "hints": [
+                                "You can't go west from the West Wing until you've solved the jester's puzzle. You must physically show him something that satisfies his conditions.",
+                                "It's an object from a dark area of the castle.",
+                                "The walnut from the Root Cellar.",
+                                "You must open it in his presence (to prove that no one has seen it before) and then SHOW THE WALNUT TO THE JESTER.",
+                                "To prove that no one will ever see it again, simply EAT THE WALNUT."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "winning Peggleboz",
+                        "child": {
+                            "type": "hints",
+                            "title": "winning Peggleboz",
+                            "hints": [
+                                "Unfortunately, there's no good way to give hints for Peggleboz. There's no \"trick\" to it. Just keep trying, and if you finally give up, look at the next hint for one set of winning moves.",
+                                "Move the peg at Q to G. Then S to Q. H to R. U to L. I to K. T to I. E to J. O to G. A to E. F to N. M to O. L to J. P to F. F to C. B to D. D to K. Q to G. E to J. O to G. Other solutions are possible."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "jester's shell game",
+                        "child": {
+                            "type": "hints",
+                            "title": "jester's shell game",
+                            "hints": [
+                                "The jester is obviously pretty handy with magic, and is the sort of person who wouldn't be above cheating at a game like this.",
+                                "You can point at various shells all day long, but it won't get you the zorkmid bill!",
+                                "You must use magic yourself, and catch the jester cheating.",
+                                "You'll need a magical item from another area.",
+                                "It's something from the East Wing. Don't read on unless you've been there.",
+                                "The goggles from the Pyramid Room. Do you know what they do?",
+                                "They give you x-ray vision. If you go into the Gaming Room wearing them, you'll see where the zorkmid bill really is. Just point at that location."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "flying the dirigible",
+                        "child": {
+                            "type": "hints",
+                            "title": "flying the dirigible",
+                            "hints": [
+                                "First, ENTER THE GONDOLA.",
+                                "Next, EXAMINE THE CONTROLS.",
+                                "Since you're in Flatheadia now, PUSH THE RIGHT BUTTON.",
+                                "Later, when you want to return from Fenshire, use the left button."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Secret Wing",
+            "child": {
+                "type": "menu",
+                "title": "Secret Wing",
+                "children": [
+                    {
+                        "title": "getting into the secret wing",
+                        "child": {
+                            "type": "hints",
+                            "title": "getting into the secret wing",
+                            "hints": [
+                                "See the hints about finding a permanent light source in the General Questions section."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "getting the iron key",
+                        "child": {
+                            "type": "hints",
+                            "title": "getting the iron key",
+                            "hints": [
+                                "When you try to take it the jester will ask you a riddle.",
+                                "Don't take the riddle too literally. There's a trick to it.",
+                                "\"...beginning of youth...center of eye...end of eternity...\"",
+                                "...Youth...eYe...eternitY..",
+                                "ANSWER \"THE LETTER Y\""
+                            ]
+                        }
+                    },
+                    {
+                        "title": "magic glove",
+                        "child": {
+                            "type": "hints",
+                            "title": "magic glove",
+                            "hints": [
+                                "Putting the glove on gives you additional sensory keeness and dexterity."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "magic cloak",
+                        "child": {
+                            "type": "hints",
+                            "title": "magic cloak",
+                            "hints": [
+                                "Wear it.",
+                                "You've been teleported to a strange new region. See the hints about the Plain in that section."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "getting the fly",
+                        "child": {
+                            "type": "hints",
+                            "title": "getting the fly",
+                            "hints": [
+                                "See the hints about flies in the General Questions section."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "getting out of the Oubliette",
+                        "child": {
+                            "type": "hints",
+                            "title": "getting out of the Oubliette",
+                            "hints": [
+                                "A few turns after picking up the seaman's cap, the jester should appear and ask a riddle.",
+                                "It will help if you think of \"twins\" as \"doublets.\"",
+                                "ANSWER \"A TRIPLET\""
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Torture Chamber ticking noise",
+                        "child": {
+                            "type": "hints",
+                            "title": "Torture Chamber ticking noise",
+                            "hints": [
+                                "Just look inside each of the torture devices."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "cobwebs in the Cell",
+                        "child": {
+                            "type": "hints",
+                            "title": "cobwebs in the Cell",
+                            "hints": [
+                                "You want to clear them away, but you can't do it by hand.",
+                                "You need a cleaning implement, which you'll find in a later section.",
+                                "The broom from winning Double Fanucci in Port Foozle."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Crypt",
+                        "child": {
+                            "type": "hints",
+                            "title": "Crypt",
+                            "hints": [
+                                "See the hints about the funny paper in the Jester section."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Oracle",
+                        "child": {
+                            "type": "hints",
+                            "title": "Oracle",
+                            "hints": [
+                                "Read about the Oracle of Bargth in the encyclopedia.",
+                                "The oracle can do amazing things -- if activated. See anything that might activate it?",
+                                "There's that depression on the forehead.",
+                                "You must put something in the depression.",
+                                "Something from the lake area.",
+                                "The moby ruby from the Lake Bottom.",
+                                "Once you've put the ruby in the depression, you can use the oracle. Don't expect it to talk to you though.",
+                                "ENTER THE ORACLE'S MOUTH. This will transport you to a new region!",
+                                "But wait -- there's more! Have you found the amulet?",
+                                "Notice any similarities between the amulet and the oracle?",
+                                "They're both serpent's heads with four eyes. Examine the amulet at several different times.",
+                                "Every four turns, the amulet will display a different number of open eyes.",
+                                "The oracle will transport you to a different region depending on how many eyes are open on the amulet.",
+                                "When no eyes are open, you'll go to the Crag. One eye --&gt; Glacier. Two eyes --&gt; Delta. Three eyes --&gt; Foot of Statue. All four eyes --&gt; Mine Entrance."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Bailey/Village Area",
+            "child": {
+                "type": "menu",
+                "title": "Bailey/Village Area",
+                "children": [
+                    {
+                        "title": "opening the drawbridge",
+                        "child": {
+                            "type": "hints",
+                            "title": "opening the drawbridge",
+                            "hints": [
+                                "You can't open it from the Barbican...",
+                                "...but you can from the Upper Barbican.",
+                                "TURN THE WHEEL. This will raise and lower the drawbridge."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "opening the locker",
+                        "child": {
+                            "type": "hints",
+                            "title": "opening the locker",
+                            "hints": [
+                                "Try OPEN THE LOCKER."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Ursula Flathead",
+                        "child": {
+                            "type": "hints",
+                            "title": "Ursula Flathead",
+                            "hints": [
+                                "Don't read any further until you've summoned Ursula using the ouija board.",
+                                "Examine Ursula's legs.",
+                                "Nice legs, huh?",
+                                "There's no ouija board and no way to summon Ursula Flathead. If you read hints about areas you're not stuck at, you'll ruin the game for yourself!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "opening the doors at Perimeter Wall",
+                        "child": {
+                            "type": "hints",
+                            "title": "opening the doors at Perimeter Wall",
+                            "hints": [
+                                "\"It would take the power of a mighty wizard...\"",
+                                "...such as Megaboz.",
+                                "You won't be able to open these doors until you've stopped the Curse."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "URS Office riddle",
+                        "child": {
+                            "type": "hints",
+                            "title": "URS Office riddle",
+                            "hints": [
+                                "Read it carefully.",
+                                "ANSWER \"BOOKKEEPER\""
+                            ]
+                        }
+                    },
+                    {
+                        "title": "pigeon and perch",
+                        "child": {
+                            "type": "hints",
+                            "title": "pigeon and perch",
+                            "hints": [
+                                "The address on the package should give you a clue.",
+                                "The pigeon is some kind of homing pigeon -- and the perch is presumably its \"home.\"",
+                                "Have you noticed anything unusual about the behavior of the pigeon, such as when you pick it up.",
+                                "The address on the package refers to FrobozzCo Bldg, 193-E. If you go to the 193rd floor and go east, you'll find a clue -- but you should be able to figure it out without it.",
+                                "Try dropping both the pigeon and perch, and picking up the pigeon.",
+                                "Try dropping the perch in one room, the pigeon in another, and picking up the pigeon.",
+                                "The pigeon is a teleportation device. When a person, such as yourself, takes the pigeon, it teleports that person to the location of the perch. This can be quite useful."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "climbing the FrobozzCo Building",
+                        "child": {
+                            "type": "hints",
+                            "title": "climbing the FrobozzCo Building",
+                            "hints": [
+                                "Since you have no rappelling equipment, you'd best do your climbing INSIDE the building.",
+                                "Have you found the memo on the fourth floor?",
+                                "Don't bother trying to find any of those teleportation tokens. The memo is just a \"red herring.\" You'll have to climb the building on foot.",
+                                "Of course, other than your driving curiosity, there's no reason to go all the way to the top."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Lower Levels",
+            "child": {
+                "type": "menu",
+                "title": "Lower Levels",
+                "children": [
+                    {
+                        "title": "opening the vault",
+                        "child": {
+                            "type": "hints",
+                            "title": "opening the vault",
+                            "hints": [
+                                "You'll need something from elsewhere.",
+                                "Have you found anything which increases your dexterity?",
+                                "Wearing the glove from the Magic Clothes Closet, turn the dial to any number."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "getting the brass lantern",
+                        "child": {
+                            "type": "hints",
+                            "title": "getting the brass lantern",
+                            "hints": [
+                                "Have you been to the Cave-In?",
+                                "THROW THE ANTI-PIT BOMB when you're in Pits."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Testing Room booths",
+                        "child": {
+                            "type": "hints",
+                            "title": "Testing Room booths",
+                            "hints": [
+                                "Have you entered either booth? Pushed the black button?",
+                                "Try dropping one (and only one) thing in one booth, getting in the other booth, and pushing the button.",
+                                "The above procedure turns you into whatever you put in the first booth. This is useful for solving a puzzle from another part of the game."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "snake",
+                        "child": {
+                            "type": "hints",
+                            "title": "snake",
+                            "hints": [
+                                "As long as there's a snake in the cage, you can't open the cage...and live.",
+                                "When is a snake not a snake?",
+                                "Have you found the magic wand and used it on the snake?",
+                                "Once you've turned the snake into a rope, you can safely open the cage. The rope is useful elsewhere."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "G. U. Highway",
+            "child": {
+                "type": "menu",
+                "title": "G. U. Highway",
+                "children": [
+                    {
+                        "title": "Construction site",
+                        "child": {
+                            "type": "hints",
+                            "title": "Construction site",
+                            "hints": [
+                                "First, refer to the blueprint of this area that came in your Zork Zero package.",
+                                "You want to get to the room where Quizbo left his hardhat, but it isn't currently accessible.",
+                                "You can get a lot closer using the Frobozz Magic Passages.",
+                                "The closest you can get is room #17.",
+                                "Have you noticed any similarity between the Construction area geography and the geography of any other section of the game?",
+                                "Count the number of rooms in the Construction area. Don't go on until you've been somewhere else with the same number of rooms.",
+                                "The Plain. There's a connection between it and the Construction area. Read the hints about the Plain.",
+                                "Look at the relationship of room #17 and the hardhat room.",
+                                "You need someone's help...",
+                                "...someone who can \"jump\" over the walls between you and the hardhat...",
+                                "...such as the black knight or the white knight.",
+                                "You must figure out a way to get one of the knights to room #17.",
+                                "See the question about the pigeon and perch.",
+                                "Leave the perch in room #17, and give the pigeon to one of the knights. Return to room #17 by removing the cloak. The knight will have picked up the perch.",
+                                "Next, take the pigeon, and give the knight directions to send him to the hardhat room. Drop the pigeon, and pick it up again to teleport yourself to the hardhat room.",
+                                "Reverse the process to get the knight and yourself back to room #17. Take the hardhat from the knight, and wend your way back out of the Construction area. That's all, folks! There's no other purpose of the chess/Plain area besides supplying you with a knight!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "the jester's middle name",
+                        "child": {
+                            "type": "hints",
+                            "title": "the jester's middle name",
+                            "hints": [
+                                "Any wrong guess will give you a clue.",
+                                "\"I should know...I LOOKED IT UP this morning.\"",
+                                "Go to the Library and read about the jester."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "getting past the toll gate",
+                        "child": {
+                            "type": "hints",
+                            "title": "getting past the toll gate",
+                            "hints": [
+                                "Examine the toll gate.",
+                                "You can get a coin at the URS Office in the village.",
+                                "Put the coin in the basket."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "crossing the fissure",
+                        "child": {
+                            "type": "hints",
+                            "title": "crossing the fissure",
+                            "hints": [
+                                "No way, Jose."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "entering the rest stop",
+                        "child": {
+                            "type": "hints",
+                            "title": "entering the rest stop",
+                            "hints": [
+                                "You can't."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Port Foozle",
+            "child": {
+                "type": "menu",
+                "title": "Port Foozle",
+                "children": [
+                    {
+                        "title": "giant sandcrab",
+                        "child": {
+                            "type": "hints",
+                            "title": "giant sandcrab",
+                            "hints": [
+                                "Use the tartar sauce.",
+                                "There's no giant sandcrab in ZORK ZERO."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Inquisition",
+                        "child": {
+                            "type": "hints",
+                            "title": "Inquisition",
+                            "hints": [
+                                "You need to go in there to get the box and its contents. Then of course, you need to get out alive.",
+                                "It's a logic puzzle. Read the rules, and think about their implication.",
+                                "When it's your turn, you need to ask the executioner one particular request.",
+                                "Upon entering, take a ticket. When your number is called, say EXECUTIONER, BEHEAD ME. (Don't forget to pick up the box while you're waiting.)"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "playing Double Fanucci",
+                        "child": {
+                            "type": "hints",
+                            "title": "playing Double Fanucci",
+                            "hints": [
+                                "Just play for a while, have fun, and try to deduce rules.",
+                                "For one thing, everything is consistent. For example, every time you single-play the Seven of Plungers, you will get the same result.",
+                                "So, if a particular play is illegal (the jester won't let you do it) that will always be true.",
+                                "There are, however, far too many rules for you to ever learn them all. Also, when either player exceeds a score of 1241 points, the game ends in a tie.",
+                                "You can cheat to your heart's content...",
+                                "...but to win, you need an indefensible gambit.",
+                                "Sound familiar?",
+                                "Re-read your calendar.",
+                                "Specifically, the bio of Babe Flathead.",
+                                "Now that you know an indefensible gambit, wait for your opening and play it! (If any of the plays during your gambit are illegal, you're out of luck -- you'll just have to try again later.)"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Room of Three Doors",
+                        "child": {
+                            "type": "hints",
+                            "title": "Room of Three Doors",
+                            "hints": [
+                                "Read the sign in the Warning Room. Also read each of the three doors.",
+                                "This is just a straightforward logic puzzle. You must solve it every time you enter this room, because the signs on the doors are randomized each time.",
+                                "Make a list of all six possible combinations of doors:  1) Wishyfoo - Prevaricon - Veritassi  2) W - V - P  3) V - W - P  4) V - P - W  5) P - W - V  6) P - V - W",
+                                "Now, using the rules from the sign in the Warning Room, and the facts on each of the three doors, test the six combinations. Only one combination will fit all the rules.",
+                                "If you're still stuck, or want to save time in future visits to this area, here's a convenient rule: the door to Wishyfoo Territory is the one door whose sign mentions the Veritassi in statement #2."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Lake/Desert Area",
+            "child": {
+                "type": "menu",
+                "title": "Lake/Desert Area",
+                "children": [
+                    {
+                        "title": "royal yacht",
+                        "child": {
+                            "type": "hints",
+                            "title": "royal yacht",
+                            "hints": [
+                                "\"You need nautical gear.\"",
+                                "Have you seen anything a sailor might wear?",
+                                "You must be wearing the seaman's cap from the Oubliette.",
+                                "Pushing each of the four colored buttons will send you to a different shore. Pushing the white button will send you to the center of the lake."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "bathysphere",
+                        "child": {
+                            "type": "hints",
+                            "title": "bathysphere",
+                            "hints": [
+                                "You must be in it.",
+                                "You should close the door.",
+                                "PUSH THE LEVER DOWN to lower the bathysphere.",
+                                "The diving bell won't work when the yacht is docked at the shore, only when it's in the center of the lake."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "that darn squid",
+                        "child": {
+                            "type": "hints",
+                            "title": "that darn squid",
+                            "hints": [
+                                "You won't be able to get that ruby until you deal with the squid.",
+                                "Don't look any further until you've explored Port Foozle.",
+                                "You need something from the Inquisition. See those hints.",
+                                "The pellet of squid repellent. Read the instructions on the box.",
+                                "You must get the pellet into the vicinity of the squid.",
+                                "You can drop it in the Hold...",
+                                "...then go into the bathysphere and use the waldo to pick it up...",
+                                "...then drop it when you get to Lake Bottom. You'll then be able to pick up the ruby in the waldo, unmolested.",
+                                "Alternately, you could throw the pellet off the yacht when you're in the center of the lake; it will sink to Lake Bottom."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Philharmonic Hall",
+                        "child": {
+                            "type": "hints",
+                            "title": "Philharmonic Hall",
+                            "hints": [
+                                "Something in the room's description is highlighted.",
+                                "Or, should we say, \"spotlighted.\"",
+                                "The conductor's stand. STAND ON THE STAND.",
+                                "To get back from the Conductor's Pit, get off the stand and then stand on it again."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Theatre",
+                        "child": {
+                            "type": "hints",
+                            "title": "Theatre",
+                            "hints": [
+                                "There's nothing important here."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "crossing the bridge",
+                        "child": {
+                            "type": "hints",
+                            "title": "crossing the bridge",
+                            "hints": [
+                                "Try CROSS THE BRIDGE.",
+                                "There's no way to cross the stream. However, if you answer the jester's riddle here, you'll get the object that was on the other side of the stream."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "riddle of the four men",
+                        "child": {
+                            "type": "hints",
+                            "title": "riddle of the four men",
+                            "hints": [
+                                "The men were not playing cards or any other kind of game. Reread the riddle with that in mind.",
+                                "Key words are \"play\" and \"score.\"",
+                                "The men were musicians in a band. ANSWER \"MUSIC.\""
+                            ]
+                        }
+                    },
+                    {
+                        "title": "riding the camel",
+                        "child": {
+                            "type": "hints",
+                            "title": "riding the camel",
+                            "hints": [
+                                "First, get on the camel.",
+                                "Then, just type the direction you want to move in, as you normally do.",
+                                "The camel will only enter the desert if \"watered.\"",
+                                "Ride the camel to the Stream. He will now be willing to enter the desert. Once in the desert, you must locate the Great Underground Oasis, which will be useful later."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "riding the unicorn",
+                        "child": {
+                            "type": "hints",
+                            "title": "riding the unicorn",
+                            "hints": [
+                                "First, get on the unicorn.",
+                                "It looks as if you can't ride a unicorn."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "boulder",
+                        "child": {
+                            "type": "hints",
+                            "title": "boulder",
+                            "hints": [
+                                "Try PUSH THE BOULDER.",
+                                "If you don't want to sink the yacht, leave it docked at the South Shore when you push the boulder."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "bowl of elixir",
+                        "child": {
+                            "type": "hints",
+                            "title": "bowl of elixir",
+                            "hints": [
+                                "You can't drink the elixir without a straw.",
+                                "There's a straw in the Kitchen, but if you've already tried, you know that it's deadly to drink the elixir. You want to do something else with the elixir.",
+                                "You simply want to touch the elixir.",
+                                "Since the bowl is so narrow, you can't reach the elixir -- at its current level.",
+                                "But there's a way to raise the level of the elixir.",
+                                "Have you ever gone DOWN from the Grotto?",
+                                "Put the gravel in the bowl.",
+                                "Each of the first three times you slide down the chute from the Grotto, you'll get a pile of gravel. If you put all three in the bowl, the level of the elixir will be raised enough to touch it.",
+                                "Now that you've touched the elixir, do you have a clue about what you've accomplished?",
+                                "The description you get from touching the elixir contains a clue. Also, look up St. Foobus in the encyclopedia.",
+                                "The elixir has given you \"power over small insects.\"",
+                                "Such as flies.",
+                                "You can now take all the flies."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Crag & Environs",
+            "child": {
+                "type": "menu",
+                "title": "Crag & Environs",
+                "children": [
+                    {
+                        "title": "getting to the lower ledge",
+                        "child": {
+                            "type": "hints",
+                            "title": "getting to the lower ledge",
+                            "hints": [
+                                "The spire is important.",
+                                "You need to tie a rope to the spire.",
+                                "You won't find a rope anywhere...",
+                                "...but you can \"make\" one...",
+                                "...using magic.",
+                                "Have you found the magic wand? Read the hints about it.",
+                                "Turn the snake into a rope, tie the rope to the spire, and climb down. The snake will only stay a rope for 16 turns, so you have few turns to waste."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Enchanted Cave",
+                        "child": {
+                            "type": "hints",
+                            "title": "Enchanted Cave",
+                            "hints": [
+                                "Read about Zilbeetha in the encyclopedia.",
+                                "You must find the orb in which Zilbeetha is imprisoned.",
+                                "You'll find four orbs beyond the toll gate.",
+                                "You must identify the correct orb or else (like many before you) you will die.",
+                                "There's a location somewhere in Zork Zero where the true essence of a magically-imbued item can be seen.",
+                                "It's somewhere \"beyond\" the oracle.",
+                                "It's the Mirror Lake below the Glacier.",
+                                "Look at each of the orbs in the mirror.",
+                                "Now return to the Enchanted Cave with Zilbeetha's orb and place it on the altar. The fragile flower is your prize."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "hexagonal hole",
+                        "child": {
+                            "type": "hints",
+                            "title": "hexagonal hole",
+                            "hints": [
+                                "Most likely, when you're able to solve this puzzle, you'll know it.",
+                                "You must get a hexagonal block from somewhere in Fenshire.",
+                                "By solving the borphbelly stew puzzle.",
+                                "Put the hexagonal block into the hexagonal hole."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "getting back to Flatheadia",
+                        "child": {
+                            "type": "hints",
+                            "title": "getting back to Flatheadia",
+                            "hints": [
+                                "There are a couple of ways. One involves something from the lake area.",
+                                "It something which has an obvious link with the oracle.",
+                                "It's the amulet from the Great Underground Mountain. (See the oracle hints.)",
+                                "To get back, you simply need to rub the amulet...",
+                                "...while wearing it.",
+                                "The other method involves the pigeon and perch. See those hints.",
+                                "Just leave the perch somewhere in Flatheadia, bring the pigeon with you when you enter the oracle, and use it to teleport back."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Glacier",
+            "child": {
+                "type": "menu",
+                "title": "Glacier",
+                "children": [
+                    {
+                        "title": "surviving the climb down",
+                        "child": {
+                            "type": "hints",
+                            "title": "surviving the climb down",
+                            "hints": [
+                                "You'll never make it on foot.",
+                                "You must ride something.",
+                                "The toboggan from the Kennel."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "mirror",
+                        "child": {
+                            "type": "hints",
+                            "title": "mirror",
+                            "hints": [
+                                "The mirror has certain magical properties.",
+                                "LOOK AT THE MIRROR.",
+                                "As suggested by the previous response, look at the reflection of various things in the mirror.",
+                                "The mirror reveals the unseen essence of magically-imbued items, such as the amulet, pigeon, wand, etc.",
+                                "You'll need the mirror to solve a puzzle which you'll come across elsewhere.",
+                                "Specifically, the Enchanted Cave puzzle."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Chalet",
+                        "child": {
+                            "type": "hints",
+                            "title": "Chalet",
+                            "hints": [
+                                "To get to Frank Lloyd Flathead's chalet, you have to get off Mirror Lake.",
+                                "In addition to its magical properties, the lake also seems to be a frictionless surface, making walking impossible.",
+                                "Other methods of propulsion are possible, though.",
+                                "Throw something. You can pick a direction, if you like, and you'll go in the opposite direction. Otherwise, you'll go in a random direction. For example, THROW TOBOGGAN NORTH."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "getting back to Flatheadia",
+                        "child": {
+                            "type": "hints",
+                            "title": "getting back to Flatheadia",
+                            "hints": [
+                                "There are a couple of ways. One involves something from the lake area.",
+                                "It something which has an obvious link with the oracle.",
+                                "It's the amulet from the Great Underground Mountain. (See the oracle hints.)",
+                                "To get back, you simply need to rub the amulet...",
+                                "...while wearing it.",
+                                "The other method involves the pigeon and perch. See those hints.",
+                                "Just leave the perch somewhere in Flatheadia, bring the pigeon with you when you enter the oracle, and use it to teleport back."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Delta",
+            "child": {
+                "type": "menu",
+                "title": "Delta",
+                "children": [
+                    {
+                        "title": "Help! I'm lost",
+                        "child": {
+                            "type": "hints",
+                            "title": "Help! I'm lost",
+                            "hints": [
+                                "There's a common method in interactive fiction for mapping maze-like regions. It's a way to make seemingly identical rooms non-identical.",
+                                "Drop a different object in each room. Then you'll be able to map the geography with no trouble!",
+                                "Delta locations will appear on the on-screen map only if you've dropped an object there."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "toad and spyglass",
+                        "child": {
+                            "type": "hints",
+                            "title": "toad and spyglass",
+                            "hints": [
+                                "You must ask the toad for the spyglass.",
+                                "But he'll only allow himself to be addressed by his proper name. You must find out his name.",
+                                "Look to your packaging.",
+                                "More specifically, the calendar.",
+                                "More specifically, the biography on John Paul Flathead.",
+                                "Now that you know the toad's name, ask him for the spyglass.",
+                                "The flies which you've probably run across in various places are the Four Fantastic Flies of Famathria. See the hints in General Questions about the flies.",
+                                "Once you've gotten all four flies, give them to the toad and ask him again for the spyglass."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "riddle of the lily pad",
+                        "child": {
+                            "type": "hints",
+                            "title": "riddle of the lily pad",
+                            "hints": [
+                                "Read the riddle again carefully, noting the various puns and allusions.",
+                                "The key words are \"fool,\" \"nonsense,\" and \"wildebeest.\"",
+                                "There's no riddle of the lily pad. You shouldn't have even been looking at these hints!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "getting back to Flatheadia",
+                        "child": {
+                            "type": "hints",
+                            "title": "getting back to Flatheadia",
+                            "hints": [
+                                "There are a couple of ways. One involves something from the lake area.",
+                                "It something which has an obvious link with the oracle.",
+                                "It's the amulet from the Great Underground Mountain. (See the oracle hints.)",
+                                "To get back, you simply need to rub the amulet...",
+                                "...while wearing it.",
+                                "The other method involves the pigeon and perch. See those hints.",
+                                "Just leave the perch somewhere in Flatheadia, bring the pigeon with you when you enter the oracle, and use it to teleport back."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Fublio Valley",
+            "child": {
+                "type": "menu",
+                "title": "Fublio Valley",
+                "children": [
+                    {
+                        "title": "opening Megaboz's trap door",
+                        "child": {
+                            "type": "hints",
+                            "title": "opening Megaboz's trap door",
+                            "hints": [
+                                "You can't reach it without help.",
+                                "There's a ladder elsewhere in the game.",
+                                "In Fenshire.",
+                                "See the hints about the vase.",
+                                "Once you have the ladder, put it down, stand on it, and open the trap door."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "opening Megaboz's trunk",
+                        "child": {
+                            "type": "hints",
+                            "title": "opening Megaboz's trunk",
+                            "hints": [
+                                "The poem in Megaboz's hut is the key to finding the key.",
+                                "You must find the words to fill in the blanks.",
+                                "The blank words come from the rebus. See those hints.",
+                                "As the complete poem indicates, you must stand in a shade of a tired pine. Find it.",
+                                "It's at the Quarry's Edge. You must be in the Quarry to be in the tree's shadow.",
+                                "Furthermore, you must be wearing the ring of ineptitude from the Magic Shop (in Flatheadia) and carrying the sapphire from the iron mine (near the Crag).",
+                                "If you've satisfied those three conditions, a key will appear that will open the trunk."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "getting the four-gloop vial",
+                        "child": {
+                            "type": "hints",
+                            "title": "getting the four-gloop vial",
+                            "hints": [
+                                "There's no way without getting zapped with the hunger spell.",
+                                "You'll have to find something to eat.",
+                                "There's nothing in the entire game that's edible by a human (except the walnut, which isn't enough for a meal).",
+                                "But there are several things which are edible by animals.",
+                                "Too bad you're not an animal.",
+                                "For example, if you were a flamingo, you could eat the flamingo food from the closet near the Gallery.",
+                                "See the hints about the booths in the Laboratory...",
+                                "...and about the wand."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "toe fungus",
+                        "child": {
+                            "type": "hints",
+                            "title": "toe fungus",
+                            "hints": [
+                                "Have you seen any other fungus?",
+                                "Remember these two groups of fungi; they'll be important later.",
+                                "See the hints about the witches in the Antharia section."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "getting back to Flatheadia",
+                        "child": {
+                            "type": "hints",
+                            "title": "getting back to Flatheadia",
+                            "hints": [
+                                "There are a couple of ways. One involves something from the lake area.",
+                                "It something which has an obvious link with the oracle.",
+                                "It's the amulet from the Great Underground Mountain. (See the oracle hints.)",
+                                "To get back, you simply need to rub the amulet...",
+                                "...while wearing it.",
+                                "The other method involves the pigeon and perch. See those hints.",
+                                "Just leave the perch somewhere in Flatheadia, bring the pigeon with you when you enter the oracle, and use it to teleport back."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Antharia",
+            "child": {
+                "type": "menu",
+                "title": "Antharia",
+                "children": [
+                    {
+                        "title": "entering the mine and surviving",
+                        "child": {
+                            "type": "hints",
+                            "title": "entering the mine and surviving",
+                            "hints": [
+                                "Yes. You'll need something, though. Look to your packaging for inspiration.",
+                                "You'll need the hardhat that's mentioned in the note attached to your blueprint. See the hints about the construction site."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "picking up the club",
+                        "child": {
+                            "type": "hints",
+                            "title": "picking up the club",
+                            "hints": [
+                                "It's enchanted.",
+                                "You need the help of others.",
+                                "Met the witches in the Icky Cave? If not, read the TID BITZ from Ottobur (on your calendar) to find out how to summon them.",
+                                "Try speaking to the witches. If you do what they want, they'll remove the enchantment on the club."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "that darn black bird",
+                        "child": {
+                            "type": "hints",
+                            "title": "that darn black bird",
+                            "hints": [
+                                "There's no way to keep the bird from snatching your light source.",
+                                "But the bird will only snatch one light source for each turn you're in the Aerie.",
+                                "So, if you had two light sources, and didn't dawdle, you could get light into the cave.",
+                                "Bring both the candle from the Secret Passage and the brass lantern from the Pits.",
+                                "Once you're in the Icky Cave with a light source, consult the Ottobur TID BITZ (in the calendar from your package) to learn how to summon the witches."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "helping the witches, part 1",
+                        "child": {
+                            "type": "hints",
+                            "title": "helping the witches, part 1",
+                            "hints": [
+                                "Talk to either witch. Example: SICKLY WITCH, HELLO.",
+                                "To fulfill the witches' task, you'll need to get to the Great Underground Oasis. It's beyond the desert to the south of Lake Flathead. See the hints about the desert.",
+                                "It's impossible to measure exactly six gloops using only the nine-gloop vial, since the vial isn't calibrated. You need something else.",
+                                "You need the four-gloop vial from Gumboz's Shack in the Fublio Valley. See the hints about getting that vial.",
+                                "Once you have both vials at the oasis, use the following procedure. (The numbers in brackets refer to the number of gloops that will be in the large and small vials after each step.) 1) fill the large vial [L:9,S:0] 2) pour the large vial into the small vial [L:5,S:4] 3) empty the small vial [L:5,S:0] 4) pour the large vial into the small vial [L:1,S:4] 5) empty the small vial [L:1,S:0] 6) pour the large vial into the small vial [L:0,S:1] 7) fill the large vial [L:9,S:1] 8) pour the large vial into the small vial [L:6,S:4]",
+                                "To get the large vial with six gloops back to the witches, you'll have to use the yacht to cross the lake, since taking the chute from the Grotto will spill the oasis water."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "helping the witches, part 2",
+                        "child": {
+                            "type": "hints",
+                            "title": "helping the witches, part 2",
+                            "hints": [
+                                "Once you've given water to the witches, you'll discover that they need something else: brogmoid ear wax. Have you seen a brogmoid ear anywhere?",
+                                "Climb down the one pit that remains open in Pits after you throw the bomb. You'll eventually meet the giant brogmoid who holds up the world. But the passage into his ear is blocked by fungus.",
+                                "There's a way to get the fungus to part. It involves magic.",
+                                "If you haven't solved the Tower of Bozbar, see those hints.",
+                                "The potion from the left-hand Pyramid Room is useful. If you don't know what it does, your calendar might be helpful.",
+                                "Read the bio of Thomas Alva.",
+                                "Fungus is a plant.",
+                                "At the Ear, drink the potion and listen to the fungus.",
+                                "The fungus would probably be very appreciative if you were to restore their long-lost cousin. Have you seen any other fungus?",
+                                "Have you been to Fublio Valley?",
+                                "Keep climbing up into the mountains, and you'll eventually get to the foot of the giant brogmoid who holds up the \"next\" world. There's more fungus there.",
+                                "Drink more potion, then call the name of the lost cousin. [Note: this name changes each time you play.] For example, &gt;CALL RALPH.",
+                                "Take the little fungus, return to the Ear, and give it to the ear fungus. Now, go IN to the Inner Ear to get the ear wax.",
+                                "Bring the ear wax back to the witches and give it to them. They will now remove the enchantment...",
+                                "...and the club in the stadium is now takeable!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "getting back to Flatheadia",
+                        "child": {
+                            "type": "hints",
+                            "title": "getting back to Flatheadia",
+                            "hints": [
+                                "There are a couple of ways. One involves something from the lake area.",
+                                "It something which has an obvious link with the oracle.",
+                                "It's the amulet from the Great Underground Mountain. (See the oracle hints.)",
+                                "To get back, you simply need to rub the amulet...",
+                                "...while wearing it.",
+                                "The other method involves the pigeon and perch. See those hints.",
+                                "Just leave the perch somewhere in Flatheadia, bring the pigeon with you when you enter the oracle, and use it to teleport back."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Mareilon",
+            "child": {
+                "type": "menu",
+                "title": "Mareilon",
+                "children": [
+                    {
+                        "title": "travelling in time",
+                        "child": {
+                            "type": "hints",
+                            "title": "travelling in time",
+                            "hints": [
+                                "You must be in the metal cage.",
+                                "You select a destination year using the beaver pelts.",
+                                "Don't forget to say the magic word, GEEKO."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "stopping the Endless Fire",
+                        "child": {
+                            "type": "hints",
+                            "title": "stopping the Endless Fire",
+                            "hints": [
+                                "Have you been to Outside the Tavern?",
+                                "Examine the utility pole.",
+                                "That red box is a fire alarm. Pull it.",
+                                "The firemen will leave after seven turns unless you give them the glass wombat."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "the moss salesman",
+                        "child": {
+                            "type": "hints",
+                            "title": "the moss salesman",
+                            "hints": [
+                                "Don't read on until you've been to the Moss Farm.",
+                                "Are you aware that hedgehogs love moss?",
+                                "Are you aware that diamonds come from coal?",
+                                "Are you aware that good dental hygiene prevents cavities?",
+                                "Are you aware that there's no moss salesman in Zork Zero? Are you aware that there isn't even a scene in Mareilon? Are you aware that you shouldn't be reading this section? Are you aware?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "returning to Flatheadia",
+                        "child": {
+                            "type": "hints",
+                            "title": "returning to Flatheadia",
+                            "hints": [
+                                "You get back the same way you got here to Mareilon.",
+                                "In other words, fantasize!"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Fenshire",
+            "child": {
+                "type": "menu",
+                "title": "Fenshire",
+                "children": [
+                    {
+                        "title": "fireplace",
+                        "child": {
+                            "type": "hints",
+                            "title": "fireplace",
+                            "hints": [
+                                "If you could clean out the rubble, you might be able to climb up the chimney.",
+                                "But you can't clean out the rubble.",
+                                "This space intentionally left blank."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "mural",
+                        "child": {
+                            "type": "hints",
+                            "title": "mural",
+                            "hints": [
+                                "Nice picture of a ladder, eh?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "vase",
+                        "child": {
+                            "type": "hints",
+                            "title": "vase",
+                            "hints": [
+                                "What do you normally use a vase for?",
+                                "Seen a flower?",
+                                "You can get a flower if you solve the Enchanted Cave puzzle. Put the flower in the vase."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Snarfem",
+                        "child": {
+                            "type": "hints",
+                            "title": "Snarfem",
+                            "hints": [
+                                "It's a math puzzle.",
+                                "The number of pebbles in each pile can be translated into a binary form: 0=0, 1=1, 2=10, 3=11, 4=100, 5=101, 6=110, 7=111, 8=1000, 9=1001. Then, add the four resulting numbers as though they were in base 10, not base 2. This sum should then be adjusted so that each digit is even (0, 2 or 4). Examine the four binary numbers, and determine which one must be reduced in order to create a sum whose digits are all even. Next, determine the number of pebbles you need to take from the appropriate pile in order to achieve the new binary number which will result in the all-even sum. That's your correct move for the current turn! For example, if you had piles of 7, 3, 9, and 2 pebbles, the binary equivalents would be 111, 11, 1001, and 10. The non-binary sum of those four numbers is 1133. If 1001 were reduced to 110, the new sum would be 242 -- all digits even! In order to change 1001 (binary 9) to 110 (binary 6), remove 3 pebbles from pile 3. It's that simple!",
+                                "Some of you may be just a tad confused. Take heart! There's also a non-mathematical solution!",
+                                "As you play, watch the screen carefully.",
+                                "Specifically, keep an eye on the blossoms.",
+                                "Notice how they are constantly opening and closing. Notice any pattern?",
+                                "How many flowers are on each side?",
+                                "The four flowers on the left side are telling you (or the jester) which pile to select. The nine flowers on the right side indicate how many pebbles to remove from that pile.",
+                                "If there's no \"correct\" move to make, all the blossoms will be closed. However, since you get to go first, if you keep making the \"correct\" move every turn, it will be the jester who will never have a \"correct\" move, and you will win every time!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "borphbelly stew",
+                        "child": {
+                            "type": "hints",
+                            "title": "borphbelly stew",
+                            "hints": [
+                                "To find out the ingredients, look up borphbelly stew in the encyclopedia.",
+                                "Bring the three ingredients to the Marsh. The rooster and fox can be found on the far side of the lake, and the worm is found just beyond the castle portcullis.",
+                                "If the jester has crossed the quicksand, you've got to bring the ingredients to him. But you can only carry one thing at a time across the rocks. Worse, the fox will eat the rooster if you leave them alone, and the rooster will eat the worm if you leave them alone.",
+                                "Drop everything but the rooster. Cross the quicksand. Drop the rooster. Go back and get the fox. Cross the quicksand. Drop the fox and get the rooster...",
+                                "Go back, drop the rooster, and get the worm. Cross the quicksand and drop the worm. Finally, go back and get the rooster!"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Plain",
+            "child": {
+                "type": "menu",
+                "title": "Plain",
+                "children": [
+                    {
+                        "title": "explain the geography",
+                        "child": {
+                            "type": "hints",
+                            "title": "explain the geography",
+                            "hints": [
+                                "Walk around as much as you can, making a map and noticing how the descriptions change and the characters you meet.",
+                                "You seem to be in a region of 64 locations...",
+                                "...arranged in an 8 by 8 matrix...",
+                                "...with alternating locations dark and light...",
+                                "...and various dark- and light-colored royal and martial characters.",
+                                "You are on a giant chessboard."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "explain the puzzle",
+                        "child": {
+                            "type": "hints",
+                            "title": "explain the puzzle",
+                            "hints": [
+                                "Don't read on until you understand the geography.",
+                                "Although you're on a giant chessboard, this isn't a chess puzzle. (That is, you don't have to figure out how to checkmate one of the kings or whatever.) But you do need to know how chess pieces move.",
+                                "Actually, there's no puzzle on the Plain at all; but the Plain DOES relate to another puzzle elsewhere in Zork Zero.",
+                                "Have you seen a geography which is similar to the Plain?",
+                                "How many rooms are there in the Plain?",
+                                "There are also 64 rooms, arranged in a 8 by 8 matrix, in the Construction area! See those hints."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "getting back from the Plain",
+                        "child": {
+                            "type": "hints",
+                            "title": "getting back from the Plain",
+                            "hints": [
+                                "How did you get here?",
+                                "Just remove the cloak!"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Jester",
+            "child": {
+                "type": "menu",
+                "title": "The Jester",
+                "children": [
+                    {
+                        "title": "read this note about riddles!",
+                        "child": {
+                            "type": "hints",
+                            "title": "read this note about riddles!",
+                            "hints": [
+                                "Riddle hints are in the sections relating to the location where you're asked the riddle."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "killing the jester",
+                        "child": {
+                            "type": "hints",
+                            "title": "killing the jester",
+                            "hints": [
+                                "You can't. There's no way to get the jester to leave you alone. In fact, you wouldn't want him to -- he does some useful things as well as annoying things."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "scroll",
+                        "child": {
+                            "type": "hints",
+                            "title": "scroll",
+                            "hints": [
+                                "The scroll is a word puzzle.",
+                                "Try rearranging the letters in \"RAM A NAG.\"",
+                                "They rearrange to \"ANAGRAM,\" of which this message is an example.",
+                                "The scroll anagrams to \"ENTER LIBRARY; TOUCH ARMOR THRICE.\" So -- do so!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "slate",
+                        "child": {
+                            "type": "hints",
+                            "title": "slate",
+                            "hints": [
+                                "The first step is finding the tree in question. The dusty old slate refers to the tree as the oldest elm around.",
+                                "Examine the slate.",
+                                "The slate itself is very old!",
+                                "So, you're looking for what was the oldest elm tree around...a century ago!",
+                                "The elm in question has since died...",
+                                "...and is now the stump in the Outer Bailey.",
+                                "Stand on the stump and follow the instructions on the slate (these directions vary each time you play). You've now identified a spot.",
+                                "But, as you can tell by the fact that nothing happened, you're not done yet. Do these directions remind you of any sort of classic directions?",
+                                "They're just like the directions you might expect to find on a map leading to buried treasure!",
+                                "Once you've obtained the shovel from Wishyfoo Territory, follow the slate directions from the stump and dig a hole in the ground."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "that pesky bedbug",
+                        "child": {
+                            "type": "hints",
+                            "title": "that pesky bedbug",
+                            "hints": [
+                                "Re-read the jester's parting comment for a clue.",
+                                "Also, examine the bedbug.",
+                                "The bedbug is very, very tired.",
+                                "You need to put it to sleep.",
+                                "How would you normally put someone or something to sleep? Like a child, for instance...",
+                                "Try singing a lullaby, or yawning, or lying down, or going to sleep yourself...",
+                                "Alternately, you could use the wand, but that would waste precious wand shots."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "funny paper",
+                        "child": {
+                            "type": "hints",
+                            "title": "funny paper",
+                            "hints": [
+                                "Read it.",
+                                "Once you've gotten to the Crypt, look under the slab mentioned in the funny paper! (The slab in question changes each time you play.)"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "General Questions",
+            "child": {
+                "type": "menu",
+                "title": "General Questions",
+                "children": [
+                    {
+                        "title": "permanent light source",
+                        "child": {
+                            "type": "hints",
+                            "title": "permanent light source",
+                            "hints": [
+                                "Forget the torches. They'll always burn out right away. Look elsewhere.",
+                                "You software pirates might as well give up now.",
+                                "Peruse your Lives of the Twelve Flatheads calendar.",
+                                "Especially the Suspendur FUN FAX.",
+                                "Do what this FUN FAX suggests, in order to find Dimwit's secret wing. You'll find a light source there. (Note: there are two locations where you could perform this act -- so try them both!)"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "goal of the game",
+                        "child": {
+                            "type": "hints",
+                            "title": "goal of the game",
+                            "hints": [
+                                "The key to stopping the Curse is contained on the scrap of parchment which fell out of Megaboz's pocket (and which is enclosed in your Zork Zero package). Read it carefully.",
+                                "Only the long piece of writing toward the left-center of the scrap is important -- but some of it is cut off.",
+                                "This missing text is:",
+                                "Good luck, Blackbeard."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "all those key-shaped buttons",
+                        "child": {
+                            "type": "hints",
+                            "title": "all those key-shaped buttons",
+                            "hints": [
+                                "Try pushing them, of course!",
+                                "The first time you push a button, it produces a sound. Do these sounds remind you of anything?",
+                                "The sounds are like the sounds made by certain animals...",
+                                "...specifically, the animals covering the rebus!",
+                                "Each time you push a button, one of the rebus animals will go away. There are six buttons, corresponding to the six animals, located in the Closet, the FrobozzCo Basement, the Grotto, the Crag, the Crawl, and the Attic."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "getting the flies",
+                        "child": {
+                            "type": "hints",
+                            "title": "getting the flies",
+                            "hints": [
+                                "You can't catch them, even with the added help of the Frobozz Magic Glove.",
+                                "You need to do something magical before you can get the flies. You'll probably know it when you come to it.",
+                                "See the hints about the elixir in the Lake Area section.",
+                                "The flies are in the Parapet (Secret Wing), the Great Underground Savannah (Lake Area), River's End (Delta Area), and inside the trunk in Megaboz's Attic."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "As a Last Resort",
+            "child": {
+                "type": "menu",
+                "title": "As a Last Resort",
+                "children": [
+                    {
+                        "title": "Read this note first",
+                        "child": {
+                            "type": "page",
+                            "title": "Read this note first",
+                            "content": "<p>Use this section as a last resort if you can't find the information you need anywhere else in the hints. The first part is a list of the 24 items you need, and where to find them. The second and third parts are a list of how all 1000 points are scored.</p>"
+                        }
+                    },
+                    {
+                        "title": "The Flathead Items",
+                        "child": {
+                            "type": "items",
+                            "title": "The Flathead Items",
+                            "content": "<p>The following hints each tell you everything you need to know about one Flathead Item: what it is, which Flathead it belongs to, and where to find it.</p><p>gaudy crown (Dimwit): buried in the Outer Bailey according to the slate puzzle</p><p>sceptre (Dimwit): in the Throne Room</p><p>diploma (John D.): solving the riddle at the Stream</p><p>stock certificate (John D.): in the Vault</p><p>saddle (Stonewall): in the Stable</p><p>lance (Stonewall): inside the armor in the Library according to the scroll puzzle</p><p>violin (Johann Sebastian): in the Conductor's Pit</p><p>metronome (Johann Sebastian): hidden in the Torture Chamber</p><p>zorkmid bill (J. Pierpont): winning the shell game in the Gaming Room.</p><p>silk tie (J. Pierpont): in the nest in the Aerie</p><p>screwdriver (Thomas Alva): in the Laboratory</p><p>brass lantern (Thomas Alva): in the Pits</p><p>landscape (Leonardo): on the Lower Ledge</p><p>easel (Leonardo): also on the Lower Ledge</p><p>flask (Lucrezia): behind the cobwebs in the Cell</p><p>fan (Lucrezia): winning Snarfem in the Hothouse</p><p>manuscript (Ralph Waldo): in the rightmost Pyramid Room which can be accessed by solving the Tower of Bozbar to the right peg</p><p>quill pen (Ralph Waldo): in a Dead End of the granola mine</p><p>seaman's cap (John Paul): in the Oubliette</p><p>spyglass (John Paul): in one of the Delta rooms</p><p>scale model (Frank Lloyd): in the Chalet</p><p>t-square (Frank Lloyd): in the room of the FrobozzCo Building where Frank Lloyd had to move his office to due to acrophobia, according to his bio in the calendar</p><p>club (Babe): in Flathead Stadium</p><p>dumbbell (Babe): in the Gym</p>"
+                        }
+                    },
+                    {
+                        "title": "How all points are scored",
+                        "child": {
+                            "type": "items",
+                            "title": "How all points are scored",
+                            "content": "<p>The list of points is broken down into four parts due to length. The hints in each part tell all the places in which your score increases, and the number of points (in parentheses). </p><p>You get 12 points for getting each of the Flathead Items (12 x 24 = 288)</p><p>You get 5 points for putting each Flathead Item in the \"right place\" (see \"goal of the game\") (5 x 24 = 120). You will also LOSE 5 points if you put anything OTHER than a Flathead Item in the \"right place.\"</p><p>opening the portcullis (20)</p><p>opening the Secret Passage (18)</p><p>getting the iron key (20)</p><p>leaving the Oubliette (20)</p><p>entering the East Wing (8)</p><p>entering the West Wing (8)</p><p>winning Peggleboz (16)</p><p>entering the center Pyramid Room (7)</p><p>entering the left Pyramid Room (7)</p><p>entering the right Pyramid Room (7)</p><p>solving the walnut riddle (20)</p><p>getting the zorkmid coin (6)</p><p>opening the toll gate (14)</p><p>entering Wishyfoo Territory (6)</p><p>getting out of the Inquisition (25)</p><p>winning Double Fanucci (18)</p><p>getting the anti-pit bomb (6)</p><p>reaching the center of Lake Flathead (18)</p><p>pushing the boulder (6)</p><p>getting the moby ruby (25)</p><p>reaching the Oracle (10)</p><p>putting the ruby in the depression (9)</p><p>reaching the Crag (10)</p><p>reaching the Glacier (10)</p><p>reaching the Delta (10)</p><p>reaching the Foot of Statue (10)</p><p>reaching the Mine Entrance (10)</p><p>throwing something at Mirror Lake (14)</p><p>getting the flower (25)</p><p>reaching the Smaller Hangar (6)</p><p>entering the Secret Room at Fenshire (16)</p><p>solving the borphbelly stew puzzle (9)</p><p>entering the Iron Mine (14)</p><p>abating your hunger (20)</p><p>reaching the Great Underground Oasis (8)</p><p>entering the Plain (16)</p><p>getting the hardhat (25)</p><p>entering the Rubble Room and surviving (9)</p><p>entering the Inner Ear (18)</p><p>touching the elixir (16)</p><p>getting the rusty key (14)</p><p>entering the Attic (8)</p><p>winning the game (30)</p>"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "For Your Amusement",
+            "child": {
+                "type": "menu",
+                "title": "For Your Amusement",
+                "children": [
+                    {
+                        "title": "Read this note first",
+                        "child": {
+                            "type": "page",
+                            "title": "Read this note first",
+                            "content": "<p>These are for your amusement after you have completed <b>Zork Zero</b>. We recommend against looking at these before finishing, since many of them give away the answers to various puzzles.</p>"
+                        }
+                    },
+                    {
+                        "title": "Things to try around Flatheadia",
+                        "child": {
+                            "type": "items",
+                            "title": "Things to try around Flatheadia",
+                            "content": "<p>Examine the tables in the Banquet Hall during the prologue.</p><p>Try eating the lobster.</p><p>Try entering the fish tank after trying to take it. Or, after restarting, try to take the fish tank after trying to enter it.</p><p>Try to close the walnut shell after opening it.</p><p>Put the drinking straw in your mouth.</p><p>Climb down the banner from the Balcony.</p><p>Drop the cannonball through the murder hole in the Upper Barbican, while you're holding a lit candle.</p><p>Try to enter the moat. Now, wait until the jester turns you into an alligator then enter the moat.</p><p>Climb to the 400th floor of the FrobozzCo Building.</p><p>Drop something through the machicolation in the Parapet.</p><p>Try killing the giant spiders in the Cell.</p><p>Use the Testing Room booths to turn yourself into a violin. Then DIAGNOSE.</p><p>Read the inscription on the toboggan.</p><p>Look inside the camel. And at the South Shore, type CAMEL, DRINK WATER.</p><p>At Hanging from Roots, let go.</p><p>Talk to the giant brogmoid.</p>"
+                        }
+                    },
+                    {
+                        "title": "Fun at Fenshire",
+                        "child": {
+                            "type": "items",
+                            "title": "Fun at Fenshire",
+                            "content": "<p>Leave the Gondola in mid-flight.</p><p>Try to clean the fireplace in the Ruined Hall.</p><p>Try to put something into the Borphbelly Stew cookpot.</p>"
+                        }
+                    },
+                    {
+                        "title": "Stuff to try beyond the oracle",
+                        "child": {
+                            "type": "items",
+                            "title": "Stuff to try beyond the oracle",
+                            "content": "<p>Try to wake the statue in the Enchanted Cave.</p><p>Look at the reflection of the following things in Mirror Lake: the candle, the magic wand, the flask, the cloak, the glove, the goggles, the pigeon, the perch, the amulet, the jester, the potion, the sapphire, the scrap of parchment, one of the magic passages, and a chesspiece.</p><p>Answer YES when Otto asks \"Do you think you own this swamp?\"</p><p>Play the harmonica.</p><p>Clean the rusty key, then read it.</p><p>Enter the Icky Cave, for the first time, with no light source, then cough.</p><p>Swing the bat...three times.</p><p>Taste, smell, touch, then step in the granola in the granola mines.</p>"
+                        }
+                    },
+                    {
+                        "title": "Fun with magic",
+                        "child": {
+                            "type": "items",
+                            "title": "Fun with magic",
+                            "content": "<p>Point the wand at a chess piece, the bedbug, a fly, the giant brogmoid, the jester, one of the witches, the executioner, a unicorn, and Otto. (In Otto's case, wait around until the magic wears off.)</p><p>Listen to the various elm trees, the birch, the pine, the spenseweed, the large and small lily pads, the flower, and the roots below the world (after drinking the potion, of course).</p><p>Drop the perch out of the Gondola in mid-air, or into the abyss from Under the World, or into the Oubliette, or over the fence at North of Anthar... and then pigeon to it.</p><p>Put a chess piece at (for example) Foot of Statue, then return to the Oracle. Holding the perch, put the pigeon in the oracle's mouth.</p><p>Carry the pigeon and perch into the Inquisition after leaving a chess piece out in the Fishing Village.</p><p>Carry the cloak into the Inquisition.</p><p>Smash the four orbs.</p><p>Try to install a magic passage in one of the walls of the bathysphere or dirigible.</p><p>Instead of going though the gates at the Perimeter Wall, stay in the castle when it turns into the white house.</p>"
+                        }
+                    },
+                    {
+                        "title": "Things to try anywhere",
+                        "child": {
+                            "type": "items",
+                            "title": "Things to try anywhere",
+                            "content": "<p>Cough anywhere besides the Icky Cave.</p><p>Type DATE.</p><p>When you're over 1000 turns, type TIME.</p><p>Count your eyes.</p><p>Try to remove your hand (other than when it's in the waldo hole).</p><p>Sing a lullaby when no one (including the bedbug) is around. Sing it when the jester is around. SING A LULLABY TO (an inanimate object).</p><p>Turn around.</p><p>Look through any keyhole.</p><p>For Zork Trilogy players: type HELLO SAILOR.</p>"
+                        }
+                    },
+                    {
+                        "title": "Fun things to do with the jester",
+                        "child": {
+                            "type": "items",
+                            "title": "Fun things to do with the jester",
+                            "content": "<p>Examine the jester while wearing the goggles.</p><p>When the jester is preventing you from entering the Dirigible Hangar, teleport him away using the pigeon, then go west again.</p><p>Wait for the jester to appear: at the Pits, before you've sealed them up; at the Icky Cave; at the Delta location where Otto sits; at the Testing Room while you're turned into something.</p><p>Wait at the Hold for the jester to appear, then enter the diving bell and use the waldo to pick up the jester.</p><p>Type TIP THE JESTER.</p>"
+                        }
+                    },
+                    {
+                        "title": "Encyclopedia entries",
+                        "child": {
+                            "type": "items",
+                            "title": "Encyclopedia entries",
+                            "content": "<p>The illustrated entries are: Dimwit Flathead, Megaboz, Flatheadia, the FrobozzCo Building, Brogmoidism, Zilbeetha, the Jester, and the Four Fantastic Flies of Famathria.</p><p>You can read about the following people: Boswell Barwell, Frobesius Fublius, Entharion, Korboz, Gumboz, the Wizard of Frobozz, Zorbius Blattus, Zylo Pickthorn, Belboz, Davmar, Duncanthrax, Wurb Flathead, Ursula Flathead, Saint Foobus, Saint Bovus, Saint Quakko, Saint Wiskus, Saint Honko, and Saint Balhu.</p><p>You can look up the following places: Fublio Valley, Fenshire, Quilbozza Beach, the Flathead Ocean, Frigid River, Frigid River Valley, Mirror Lake, Eastlands, Westlands, Froblo Park, Borphee, Pheebor, Flood Control Dam #3, Lake Flathead, Largoneth Castle, Egreth Castle, Mount Foobia, Land of Shadow, Rockville Estates, Royal Museum, Mareilon, Antharia, Flathead Stadium, Gray Mountains, Flathead Mountains, Zorbel Pass, Thriff, Gurth, Miznia, Mithicus, Fields of Frotzen, Port Foozle, Frobozz, Aragain Falls, Flathead Fjord, and the Great Underground Empire.</p><p>There are entries on the following events: Diablo Massacre, Zucchini Wars, Treaty of Znurg, Battle of Ragweed Gulch, Endless Fire, and Granola Riots.</p><p>You'll find moderately interesting entries on these items: Peggleboz, Tower of Bozbar, Snarfem, Double Fanucci, Oracle of Bargth, Inquisition, Encyclopedia Frobozzica, Borphbelly Stew, Jewel of Jerrimore, zorkmid, bloit, chess, the Curse, Curse Day, brogmoid, grue, hellhound, Mithican chameleon, Polar Gumffbeast, spenseweed, fungus, Wishyfoo, Prevaricon, Veritassi, Great Underground Highway, FrobozzCo International, Enchanters Guild, magic potion, magic wand, and rebus.</p><p>Don't forget to try to READ ABOUT ME.</p><p>Finally, the hopelessly fannish among you can look up Zork, Infocom, and Steve Meretzky.</p>"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

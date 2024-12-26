@@ -1,0 +1,884 @@
+{
+    "type": "menu",
+    "title": "Seatalker: [Your Name] and the Ultramarine Bioceptor",
+    "children": [
+        {
+            "title": "About",
+            "child": {
+                "type": "page",
+                "title": "About PRIZM Invisiclues",
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+            }
+        },
+        {
+            "title": "Credits ",
+            "child": {
+                "type": "page",
+                "title": "Credits",
+                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>from material supplied by:</p><p>  Judy Lynch &amp; Paul David Doherty</p><p>  Graeme Cree</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Seastalker</b> and all other game names are registered trade marks of Activision.</p>"
+            }
+        },
+        {
+            "title": "Sample Question",
+            "child": {
+                "type": "menu",
+                "title": "Sample Question",
+                "children": [
+                    {
+                        "title": "What kind of diet is Tip on? ",
+                        "child": {
+                            "type": "hints",
+                            "title": "What kind of diet is Tip on?",
+                            "hints": [
+                                "Why not ASK TIP ABOUT THE DIET.",
+                                "He's on a seafood diet.",
+                                "Says Tip, \"I see food and I eat it!\""
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Lab",
+            "child": {
+                "type": "menu",
+                "title": "The Lab",
+                "children": [
+                    {
+                        "title": "Why is the alarm bell ringing?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why is the alarm bell ringing?",
+                            "hints": [
+                                "Someone is trying to contact you.",
+                                "Someone is calling the lab on the videophone.",
+                                "Have you tried turning off the alarm?",
+                                "If you have, then you know you should TURN ON THE VIDEOPHONE."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The picture and sound on the videophone are fuzzy. What should I do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "The picture and sound on the videophone are fuzzy. What should I do?",
+                            "hints": [
+                                "You could try tuning the videophone.",
+                                "Type TUNE THE VIDEOPHONE."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get better reception on the videophone?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get better reception on the videophone?",
+                            "hints": [
+                                "Call Frobton Cable Vision and have cable installed. Much better reception, plus lots of movies!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I finish my conversation on the videophone?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I finish my conversation on the videophone?",
+                            "hints": [
+                                "How do you normally finish a phone conversation?",
+                                "Type SAY \"GOOD-BYE.\""
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why can't I walk away with the microphone?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why can't I walk away with the microphone?",
+                            "hints": [
+                                "The cord is too short."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why did the videophone conk out?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why did the videophone conk out?",
+                            "hints": [
+                                "Power failure?",
+                                "Someone in the lab shut off the power...",
+                                "...by opening the circuit breaker. Who was it?",
+                                "Use the microwave security scanner.",
+                                "There are only three people in the lab...",
+                                "...and you and Tip were in the same room when the videophone conked out.",
+                                "That leaves only one person.",
+                                "That person is Sharon."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I fix the videophone?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I fix the videophone?",
+                            "hints": [
+                                "Is there a technician nearby?",
+                                "If not, you may have to fix it yourself.",
+                                "Go to the computestor and ask about the videophone.",
+                                "Go to the electrical panel and close the circuit breaker."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the storage closet used for?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the storage closet used for?",
+                            "hints": [
+                                "Storage. But you don't have anything to store.",
+                                "Nothing."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why does Tip always follow me around?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why does Tip always follow me around?",
+                            "hints": [
+                                "He doesn't <b>always</b> follow you around.",
+                                "He tries to keep you in sight, except when he's working on something.",
+                                "He's your pal and there to help."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why does Sharon Kemp look embarrassed?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why does Sharon Kemp look embarrassed?",
+                            "hints": [
+                                "There is something about her you don't know.",
+                                "And it has nothing to do with her mother.",
+                                "Try reading the article in Tip's magazine.",
+                                "Sharon opened the circuit breaker, which made the videophone conk out. Hmmm..."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there anything I should look at in the file cabinet?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there anything I should look at in the file cabinet?",
+                            "hints": [
+                                "There seems to be nothing interesting about the papers.",
+                                "But there are a lot of them.",
+                                "The papers are of no help to you."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get out of the lab building?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get out of the lab building?",
+                            "hints": [
+                                "Have you tried all the doors in all the rooms?",
+                                "There's a door to the parking lot, but you can't open it.",
+                                "The only way out is by submarine."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where is the submarine?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where is the submarine?",
+                            "hints": [
+                                "Right where you left it.",
+                                "Did you try to FIND it?",
+                                "The Scimitar is in the test tank.",
+                                "Go south from the lab center, three times."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why won't the submarine start?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why won't the submarine start?",
+                            "hints": [
+                                "Try asking the computestor."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do with the catalyst capsule?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do with the catalyst capsule?",
+                            "hints": [
+                                "Don't try to swallow it.",
+                                "The capsule powers the Scimitar's plasma-fusion reactor.",
+                                "Take the capsule and try inserting it in the reactor.",
+                                "PUT THE CAPSULE IN THE REACTOR THEN CLOSE THE REACTOR."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Scimitar",
+            "child": {
+                "type": "menu",
+                "title": "The Scimitar",
+                "children": [
+                    {
+                        "title": "How do I get the Scimitar moving?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get the Scimitar moving?",
+                            "hints": [
+                                "Look at the control panel.",
+                                "You'll need the catalyst capsule.",
+                                "Put the capsule in the reactor.",
+                                "Close the reactor.",
+                                "Turn on the reactor.",
+                                "Close the entry hatch.",
+                                "Fill the test tank.",
+                                "Open the gate.",
+                                "Start the engine.",
+                                "Open the throttle.",
+                                "Go east."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Should I set my throttle to slow, medium, or fast?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Should I set my throttle to slow, medium, or fast?",
+                            "hints": [
+                                "It depends on how quickly you want to reach your destination.",
+                                "Remember, the Aquadome is in trouble, and your help is needed.",
+                                "On the other hand, you haven't fully tested this sub yet.",
+                                "Set it to slow the first time you play, then experiment later."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The Scimitar is overheating! What should I do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "The Scimitar is overheating! What should I do?",
+                            "hints": [
+                                "If your throttle is set to slow, relax.",
+                                "It's not?! Better do something quick!",
+                                "Did the program prompt you to press the test button? If so, you know that you should...",
+                                "...adjust the voltage regulator located in the engine crawl space.",
+                                "Be careful; it's dangerous."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I open the engine access panel?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I open the engine access panel?",
+                            "hints": [
+                                "Read the sign.",
+                                "Ask Tip for the universal tool.",
+                                "Type OPEN THE ACCESS PANEL."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I fix the regulator?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I fix the regulator?",
+                            "hints": [
+                                "Open the engine access panel.",
+                                "Enter the engine crawl space.",
+                                "Type FIX THE REGULATOR."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I keep from disturbing the machinery in the crawl space?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I keep from disturbing the machinery in the crawl space?",
+                            "hints": [
+                                "Don't spend any more time than you need in the crawl space.",
+                                "When you are in the crawl space, use the word CAREFULLY in each command. Example: FIX REGULATOR CAREFULLY.",
+                                "Enter the crawl space, fix the regulator, then leave.",
+                                "The more time you spend in the engine crawl space, the greater your chances of disturbing the machinery."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How to I use the sonarscope?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How to I use the sonarscope?",
+                            "hints": [
+                                "You can use it only in the bay and near the Aquadome.",
+                                "When you look at it, you see a small area around the Scimitar.",
+                                "The sonarscope shows obstacles at the same depth as the Scimitar.",
+                                "To check for obstacles below you, use the depth finder."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I use the depth finder?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I use the depth finder?",
+                            "hints": [
+                                "Type EXAMINE THE DEPTH FINDER.",
+                                "The depth finder tells you how deep you are and how far below you the bottom is."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I use the hydrophone?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I use the hydrophone?",
+                            "hints": [
+                                "Type LISTEN TO HYDROPHONE."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I use the temperature gauge?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I use the temperature gauge?",
+                            "hints": [
+                                "Type LOOK AT GAUGE."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Bay And Ocean",
+            "child": {
+                "type": "menu",
+                "title": "The Bay And Ocean",
+                "children": [
+                    {
+                        "title": "How do I keep from getting hit by the speedboats?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I keep from getting hit by the speedboats?",
+                            "hints": [
+                                "Duck!",
+                                "You can avoid them if you are underwater.",
+                                "If you DIVE TO 5 METERS, you will not be hit by the speedboats."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I find my way through the bay?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I find my way through the bay?",
+                            "hints": [
+                                "Once you are in the sub and in the bay, you should look at the sonarscope.",
+                                "Use the sonarscope and the map of Frobton Bay to avoid shoals and safely navigate through the bay.",
+                                "Head for the opening in the sea wall."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Ships keep running into Tip and me. What should I do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Ships keep running into Tip and me. What should I do?",
+                            "hints": [
+                                "Stay out of their way.",
+                                "Go around them.",
+                                "You're in a submarine -- dive under them.",
+                                "You will have to dive to at least 15 meters to avoid the ships' keels, which are 10 meters deep."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where is the Aquadome?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where is the Aquadome?",
+                            "hints": [
+                                "Ask Commander Bly when you talk to her on the videophone.",
+                                "Ask Tip. He's a sharp guy.",
+                                "Look at your map of Frobton Bay.",
+                                "The Aquadome can be reached only from the open sea.",
+                                "When you reach the open sea, turn on the autopilot."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the Friendly Mermaid trying to tell me?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the Friendly Mermaid trying to tell me?",
+                            "hints": [
+                                "You left the gas cap off the sub.",
+                                "She's telling you the directions to the Aquadome.",
+                                "But it's very hard to hear her...",
+                                "...because there is no Friendly Mermaid in this game. Remember, some of these questions and answers are fakes. Don't assume the absence or presence of a question means it's important. Also don't assume long answers are always associated with important questions.",
+                                "Because that was hardly the case here!"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Aquadome",
+            "child": {
+                "type": "menu",
+                "title": "The Aquadome",
+                "children": [
+                    {
+                        "title": "How do I enter the Aquadome?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I enter the Aquadome?",
+                            "hints": [
+                                "When the autopilot shuts off, type DOCK."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Now that I am at the Aquadome, what should I do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Now that I am at the Aquadome, what should I do?",
+                            "hints": [
+                                "When Commander Bly asks if she can speak to you in private, you should type YES.",
+                                "Once Commander Bly starts telling you about the problems at the Aquadome, you will have an idea what you should do."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why is everyone having trouble breathing?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why is everyone having trouble breathing?",
+                            "hints": [
+                                "Did you remember to use your mouthwash this morning?",
+                                "There must be something wrong with the air.",
+                                "Do you have your emergency oxygen gear?",
+                                "Even if you do have it, you should find out what is wrong with the air supply system."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I fix the air supply system?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I fix the air supply system?",
+                            "hints": [
+                                "First you must OPEN THE DOOR WITH THE UNIVERSAL TOOL.",
+                                "If you don't have the universal tool, ask Tip for it.",
+                                "Something inside has been unscrewed.",
+                                "Could it be the electrolyte relay?",
+                                "Type TAKE RELAY THEN SCREW IT INTO THE EMPTY SPACE."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where is the Fram Bolt wrench?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where is the Fram Bolt wrench?",
+                            "hints": [
+                                "Did you read the sign on the air supply system?",
+                                "It should be on the hook.",
+                                "Someone misplaced the Fram Bolt wrench.",
+                                "It might have been the same person who unscrewed the electrolyte relay."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the black box useful for anything?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the black box useful for anything?",
+                            "hints": [
+                                "Yes.",
+                                "Try opening the black box.",
+                                "Any time after Commander Bly tells you about the black box, ask Tip about his idea."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Should I let Mick examine my sub?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Should I let Mick examine my sub?",
+                            "hints": [
+                                "Yes.",
+                                "You really don't have any choice."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why does Commander Bly want to talk to me?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why does Commander Bly want to talk to me?",
+                            "hints": [
+                                "She has something important to tell you.",
+                                "When Commander Bly asks for a word in private, go with her.",
+                                "When she tells you she has evidence, ASK BLY ABOUT THE EVIDENCE.",
+                                "The black box is her evidence."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Do I need the emergency survival unit?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Do I need the emergency survival unit?",
+                            "hints": [
+                                "It would come in handy if there were an emergency.",
+                                "You also need it installed to get all the points in the game."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is that oddly shaped metallic object?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is that oddly shaped metallic object?",
+                            "hints": [
+                                "It's the Fram Bolt wrench.",
+                                "It's supposed to be hanging on the hook next to the air supply system.",
+                                "In case of an emergency, you would need the Fram Bolt wrench to repair the air supply system.",
+                                "Someone took the Fram Bolt wrench from the hook and dropped it under Commander Bly's desk.",
+                                "It was the same person who sabotaged the air supply system by unscrewing the electrolyte relay."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What happened to the air supply system?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What happened to the air supply system?",
+                            "hints": [
+                                "Someone unscrewed the electrolyte relay, causing the system to malfunction...",
+                                "...and that someone also took the Fram bolt wrench so no one could repair the air supply system."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is Commander Bly in love with anyone?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is Commander Bly in love with anyone?",
+                            "hints": [
+                                "No.",
+                                "But might someone be in love with her?",
+                                "Have you checked personal storage areas?",
+                                "Including the lockers in the dorms?",
+                                "Did you read the diary?",
+                                "Then you know Doc Horvak is in love with Commander Bly."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I found a \"mushy\" diary. What should I do with it?",
+                        "child": {
+                            "type": "hints",
+                            "title": "I found a \"mushy\" diary. What should I do with it?",
+                            "hints": [
+                                "Reading a diary is an invasion of privacy.",
+                                "But this is a life-or-death situation.",
+                                "Under the circumstances, you should read it.",
+                                "Doc Horvak sabotaged the air supply system because he wanted to embarrass Commander Bly.",
+                                "Take the diary and the photo, and show them to Commander Bly."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Amy Lowell asked to borrow the Scimitar. Should I let her?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Amy Lowell asked to borrow the Scimitar. Should I let her?",
+                            "hints": [
+                                "Ask her if she has a submariner's license.",
+                                "Tell her you promised the Scimitar to Tip for the day.",
+                                "Amy never asks to borrow the Scimitar. You must be cheating.",
+                                "Ask your parents to firmly punish you by...",
+                                "...buying <b>Suspended</b>(tm) and making you complete the game before they will feed you again."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I do with the dart gun?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do with the dart gun?",
+                            "hints": [
+                                "Doc Horvak can fix it.",
+                                "Doc Horvak will prepare a special tranquilizer for the dart gun, which you can use on the Snark if you need to.",
+                                "Show Doc Horvak the magazine that Tip brought along.",
+                                "When Doc Horvak asks you what he should do with the dart gun, type DOC, MOUNT DART GUN ON SUB."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What about the \"49er\" Prospecting Bazooka?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What about the \"49er\" Prospecting Bazooka?",
+                            "hints": [
+                                "A bazooka seems as if it might come in handy.",
+                                "There are several ways to mount the bazooka on the Scimitar.",
+                                "One way is to find the bazooka. Take it and mount it on the claw of the Scimitar yourself.",
+                                "Or, when Commander Bly asks you if you can think of any high-powered weapon, tell her about the bazooka.  Get the bazooka, then tell Commander Bly to mount it on the Scimitar."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I know when I'm ready to leave the Aquadome?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I know when I'm ready to leave the Aquadome?",
+                            "hints": [
+                                "Commander Bly will ask you if you are ready to take off."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What does the fine grid do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What does the fine grid do?",
+                            "hints": [
+                                "The fine grid will show objects within 25 meters of the Scimitar. The regular sonar shows objects within 2,500 meters.",
+                                "Having the fine grid installed will give you a better picture of objects very near the Scimitar, like the Snark.",
+                                "So when Tip asks if he should install it, type YES."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Who put the stew in the galley?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Who put the stew in the galley?",
+                            "hints": [
+                                "Stu Galley?",
+                                "The cook?",
+                                "What stew? There is no stew in this game."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is someone trying to kill me?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is someone trying to kill me?",
+                            "hints": [
+                                "Have you been killed yet?",
+                                "Someone replaced the stimulant in the syringe with poison.",
+                                "Someone is trying to kill you.",
+                                "Someone who worked on the Scimitar.",
+                                "Someone who installed the emergency survival unit.",
+                                "Someone who installed the part under your seat.",
+                                "Give up?",
+                                "That someone is Bill Greenup."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do with the syringe?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do with the syringe?",
+                            "hints": [
+                                "Talk to the person who installed the emergency survival unit under your seat.",
+                                "Ask that person about the syringe."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Hey, where is Bill Greenup going and how can I stop him?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Hey, where is Bill Greenup going and how can I stop him?",
+                            "hints": [
+                                "If you don't know why Bill is running away, don't develop any more of the answers for this question until you do.",
+                                "Bill is running away because you know he tried to kill you.",
+                                "One way to stop him is to close the docking tank roof when he first appears on the station monitor.",
+                                "Another way is to turn off the docking tank electricity.",
+                                "Another way to stop Bill is to flood the docking tank before he enters the Scimitar."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I'm ready to leave the Aquadome. What should I do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "I'm ready to leave the Aquadome. What should I do?",
+                            "hints": [
+                                "Remember what you had to do to leave the lab's test tank?",
+                                "Flood the tank, open the gate, start the engine, open the throttle and go south."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Battle",
+            "child": {
+                "type": "menu",
+                "title": "The Battle",
+                "children": [
+                    {
+                        "title": "Where's the Snark?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where's the Snark?",
+                            "hints": [
+                                "Try asking Commander Bly.",
+                                "Or any of the crew members.",
+                                "Go southeast from the Aquadome."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I have spotted a cloud of silt ahead. Should I continue?",
+                        "child": {
+                            "type": "hints",
+                            "title": "I have spotted a cloud of silt ahead. Should I continue?",
+                            "hints": [
+                                "It might be the Snark. Are you prepared to deal with it?",
+                                "Yes, you should continue.",
+                                "Besides, you don't have any choice."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How did Sharon get in the Sea Cat?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How did Sharon get in the Sea Cat?",
+                            "hints": [
+                                "Hitch-hiked?",
+                                "Dr.Thorpe picked her up at the Research Lab."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is Sharon a traitor?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is Sharon a traitor?",
+                            "hints": [
+                                "She opened the circuit breaker, didn't she?",
+                                "She left the catalyst capsule out of the Scimitar, didn't she?",
+                                "And now she is in the Sea Cat with the man who is trying to kill you.",
+                                "What do you think?",
+                                "Try saying something to her over the sonarphone.",
+                                "Of course she isn't a traitor. She was just playing along with Dr. Thorpe in the hopes of stopping him."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is Tip a traitor?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is Tip a traitor?",
+                            "hints": [
+                                "Tip, your good buddy, pal, and friend -- a traitor?",
+                                "Tip, who has stood by you in this game while you killed both yourself and him many times, a traitor?",
+                                "No way. You should be ashamed of yourself for even developing the answers to this question.",
+                                "You owe Tip an apology."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Am I a traitor?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Am I a traitor?",
+                            "hints": [
+                                "Why are you wasting your developing fluid on this answer?",
+                                "Go ahead and develop, there's plenty of fluid.",
+                                "And plenty more dumb answers.",
+                                "See?!",
+                                "You can stop now.",
+                                "Some people never learn!",
+                                "Absolutely never!!!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why can't I get around the Snark?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why can't I get around the Snark?",
+                            "hints": [
+                                "Are the Snark and the Sea Cat moving too fast?",
+                                "Maybe you should move faster.",
+                                "Try setting the throttle to medium.",
+                                "Better yet, try setting the throttle to fast."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do with the dart?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do with the dart?",
+                            "hints": [
+                                "You could tranquilize the Snark.",
+                                "Or maybe that isn't such a good idea.",
+                                "If you tranquilize the Snark, there won't be much to stop Dr. Thorpe from blasting you with his rocket."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do with the bazooka?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do with the bazooka?",
+                            "hints": [
+                                "You could try shooting the Snark.",
+                                "But the Snark has tremendous scientific value, so it would be a waste to shoot it.",
+                                "Another good reason not to shoot the Snark with the bazooka is that then Dr. Thorpe will have a clear shot at you!",
+                                "So why not shoot the Sea Cat's power pod and disable it?"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "How Points Are Scored",
+            "child": {
+                "type": "items",
+                "title": "How Points Are Scored",
+                "content": "<p>(use only as a last resort)</p><pre>  Points  Actions\n  1       Turning on the videophone.\n  1       Tuning the videophone.\n  1       Picking up the microphone.\n  -3      The circuit breaker is opened.\n  3       Closing the circuit breaker.\n  5       Taking the catalyst capsule.\n  1       Entering the Scimitar.\n  5       Starting the reactor.\n  5       Starting the engine.\n  5       Entering Frobton Bay.\n  5       Entering the ocean.\n  5       Turning on the autopilot.\n  5       Docking at the Aquadome.\n  5       Opening the air supply system.\n  5       Screwing in the electrolyte relay.\n  5       Having the emergency survival unit installed.\n  5       Arresting Bill Greenup.\n  5       Capturing Bill Greenup.\n  5       Having Doc Horvak fix the dart gun.\n  5       Installing the dart gun.\n  5       Taking the bazooka.\n  5       Installing the bazooka.\n  1       Leaving the Aquadome.\n  5       Finding the Snark.\n  5       Aiming the bazooka at the Sea Cat.\n  5       Firing the bazooka at the Sea Cat.\n&gt; 100     Total</pre>"
+            }
+        },
+        {
+            "title": "For Your Amusement",
+            "child": {
+                "type": "items",
+                "title": "For Your Amusement",
+                "content": "<p>(after you've finished the game)</p><p>Have you ever:</p><p>read the diagram on the workbench?</p><p>told Tip to leave the sub and then closed the hatch?</p><p>picked up something with an extensor claw?</p><p>crashed the Scimitar into the Aquadome?</p><p>taken the electrolyte relay but not screwed it in?</p><p>said HELLO to anyone on the sonarphone?</p><p>asked anyone besides Doc Horvak to fix the gash in your arm?</p><p>tried to shoot the Sea Cat with a tranquilizer dart?</p><p>tried to arrest an object instead of a person?</p><p>tried to clean or wipe anything?</p><p>tried to find someone who's in the same place as you?</p><p>tried to climb the sea wall?</p><p>tried to enter something that you're holding?</p><p>asked anyone about yourself?</p><p>asked anyone to find you?</p><p>kicked anyone?</p><p>rubbed anyone?</p><p>tried to look inside or under anyone?</p><p>looked up?</p><p>kissed anyone or anything?</p><p>slapped anyone or anything, including yourself or a handcuffed person?</p><p>thrown something at a person and then at an object?</p><p>tried to break a window in the Aquadome?</p><p>tried to turn off a person?</p><p>tried to wake up anyone?</p><p>tried to shoot yourself?</p><p>followed an inanimate object?</p><p>played something?</p><p>typed HELLO SAILOR?</p><p>typed RESTART or RESTORE at the very beginning instead of your name?</p><p>cursed at the program?</p>"
+            }
+        }
+    ]
+}

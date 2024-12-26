@@ -1,0 +1,950 @@
+{
+    "type": "menu",
+    "title": "Deadline",
+    "children": [
+        {
+            "title": "About",
+            "child": {
+                "type": "page",
+                "title": "About PRIZM Invisiclues",
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+            }
+        },
+        {
+            "title": "Credits ",
+            "child": {
+                "type": "page",
+                "title": "Credits",
+                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>from material supplied by:</p><p>  Paul David Doherty</p><p>  Volker Blasius</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Deadline</b> and all other game names are registered trade marks of Activision.</p>"
+            }
+        },
+        {
+            "title": "Sample Question",
+            "child": {
+                "type": "menu",
+                "title": "Sample Question",
+                "children": [
+                    {
+                        "title": "Why did trusty Sgt. Duffy wear red suspenders? ",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why did trusty Sgt. Duffy wear red suspenders?",
+                            "hints": [
+                                "He doesn't use them to gag suspects.",
+                                "Have you studied his wardrobe?",
+                                "To hold his pants up."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Basics",
+            "child": {
+                "type": "page",
+                "title": "The Basics",
+                "content": "<p>Some advice: Like all good detectives throughout history, you will have to do a lot of legwork. You should check out the house and all of the grounds, examine everything, analyze everything, check for fingerprints, etc.; you must be diligent. If you suspect Ebullion in the sugar, have it analyzed for Ebullion. In general, it is a good idea to ask each of the characters about all of the others. Sometimes by comparing stories you can learn something. Keep an organized record of the results of your investigation. </p><p>Read very carefully the Inspector's Casebook that came with the game. </p><p>Also be sure to read and refer to the Coroner's examination, the letter from Coates, and the police interviews with those who knew the deceased well. </p><p>If you find out anything that may contradict what someone has said or that might be of interest to them, ask them about it, show it to them, or confront them with it. </p><p>If anyone acts suspiciously, follow them. Watch what they do. </p><p>Much of what you need to learn will come out only if you keep after the suspects in a \"Columbo-like\" way (in other words, putting pressure on them until they react). </p><p>Communicating with DEADLINE: Some people find it frustrating when their words or sentence structures are not understood. The Infocom series of games is considered to have the best language-handling ability of any programs available for microcomputers. DEADLINE is among the best of this elite group. </p><p>However, probably due to its real-life setting, some players expect more understanding. A careful reading of the Instructor's [sic] Casebook, especially \"Dealing with Suspects\" and \"Commonly Encountered Terms,\" should be very helpful. Once you get the hang of it, the limitations will be less frustrating.</p>"
+            }
+        },
+        {
+            "title": "General Questions",
+            "child": {
+                "type": "menu",
+                "title": "General Questions",
+                "children": [
+                    {
+                        "title": "Was it suicide?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Was it suicide?",
+                            "hints": [
+                                "Pro: He was depressed, and taking medication for it.",
+                                "Con: There was no suicide note.",
+                                "Pro: He had spoken of suicide.",
+                                "Con: He had made plans for the next day.",
+                                "Pro: There were problems with his company, son, and wife.",
+                                "Con: It wouldn't be much of a game if it were only a suicide."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there anything significant in the library?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there anything significant in the library?",
+                            "hints": [
+                                "Examine everything...",
+                                "...including the balcony, carpet, tray, bowl, cup, saucer, bookshelves, calendar, notepad, and wastebasket."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do with the bowl?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do with the bowl?",
+                            "hints": [
+                                "Did you analyze it for Ebullion?",
+                                "It seems that no one spiked the sugar."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the notepad important?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the notepad important?",
+                            "hints": [
+                                "Develop Hidden Question 3."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do with the calendar?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do with the calendar?",
+                            "hints": [
+                                "\"A desk calendar is here, open to July 7.\"",
+                                "Don't desk calendars customarily have more than one page?",
+                                "You can type TURN TO JULY 15 (or any other date).",
+                                "Did you find anything interesting?",
+                                "Do you think any of the other characters might be interested (particularly those affected by a change in the will)?",
+                                "If you show George the calendar entry concerning the new will (July 8) in the afternoon, he reacts very strangely. Develop Hidden Question 5."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What happened to the chair Mr. Robner was sitting on?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What happened to the chair Mr. Robner was sitting on?",
+                            "hints": [
+                                "Artistic license? There is no good reason for it to be missing. Perhaps the author didn't consider it important."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the wastebasket important?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the wastebasket important?",
+                            "hints": [
+                                "Nothing much of interest here...",
+                                "More interesting is what is <b>not</b> here."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the telephone call?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the telephone call?",
+                            "hints": [
+                                "Did you try answering the phone when it rings at around 9 a.m.?",
+                                "Did Mrs. Robner do anything suspicious afterwards?",
+                                "Did you try listening to her call on an extension phone?",
+                                "Develop Hidden Question 1."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Are the paintings important?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Are the paintings important?",
+                            "hints": [
+                                "It appears that the Robners were collectors of fine art.",
+                                "Some of the paintings appear to be quite valuable.",
+                                "Particularly the Seurat.",
+                                "Are there any paintings missing?",
+                                "Do the paintings conceal anything?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the mail?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the mail?",
+                            "hints": [
+                                "The mail arrives around 10 a.m.",
+                                "You have only about an hour before Mrs. Rourke will come across it and deliver it to Mrs. Robner.",
+                                "Develop Hidden Question 2."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is Mr. McNabb useful for anything?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is Mr. McNabb useful for anything?",
+                            "hints": [
+                                "He apparently is a good gardener.",
+                                "Have you talked to him? (He's not much of a conversationalist on topics unrelated to gardening, but if you ask him about the weather, his roses, or the lawn...)",
+                                "Have you ever noticed a change in him?",
+                                "Shortly after 11 a.m. he becomes quite annoyed. Why? Ask him.",
+                                "Ask him to show you the holes he is ranting about."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I leave the grounds?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I leave the grounds?",
+                            "hints": [
+                                "You don't. The geography certainly can't go on forever."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the book useful for anything?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the book useful for anything?",
+                            "hints": [
+                                "Did you try to read it?",
+                                "Did you try to read the ending?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Are all of the drugs in the house significant?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Are all of the drugs in the house significant?",
+                            "hints": [
+                                "There certainly are a lot of them.",
+                                "Have you read all the labels?",
+                                "You should ask the other characters about them, particularly those who are taking them."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Once Baxter has left, how do I find him?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Once Baxter has left, how do I find him?",
+                            "hints": [
+                                "It's too late to do anything with Baxter. You had six hours to deal with him."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I question Mr. Coates?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I question Mr. Coates?",
+                            "hints": [
+                                "Have you tried calling him on the phone?",
+                                "You won't get anywhere with this; Coates just doesn't have anything interesting to say."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is Steven's arrival important?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is Steven's arrival important?",
+                            "hints": [
+                                "Did you follow him?",
+                                "Did you eavesdrop on his conversation about the paintings?",
+                                "How did you do these things when he never arrived?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where did Mr. Robner keep important documents?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where did Mr. Robner keep important documents?",
+                            "hints": [
+                                "If he kept any at home, they're well-hidden.",
+                                "Might there be a hidden safe? (You could ask the residents.)",
+                                "You won't be able to find his documents yourself. One of the characters will reveal the location if you cause him/her to panic.",
+                                "Investigate the desk calendar and proceed from there."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the fireplace important?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the fireplace important?",
+                            "hints": [
+                                "No."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the fragment?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the fragment?",
+                            "hints": [
+                                "Develop Hidden Question 24."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is Mrs. Rourke useful for anything?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is Mrs. Rourke useful for anything?",
+                            "hints": [
+                                "She seems to be a good housekeeper.",
+                                "She is a bit of a gossip, though.",
+                                "She could get into trouble sticking her nose into her employer's affairs."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I open the kitchen window?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I open the kitchen window?",
+                            "hints": [
+                                "It won't open."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Who can show me the cellar entrance?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Who can show me the cellar entrance?",
+                            "hints": [
+                                "Shouldn't any one of the residents be able to do this?",
+                                "How long could you live in a house without knowing the layout?",
+                                "What led you to believe there was a cellar?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there a new will?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there a new will?",
+                            "hints": [
+                                "You might ask the characters about it.",
+                                "Mr. Coates says that Mr. Robner told him he was altering the old one.",
+                                "Mr. Robner's calendar indicates that he wrote one.",
+                                "It's hidden away safely. Read Hidden Question 6."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the newspaper important?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the newspaper important?",
+                            "hints": [
+                                "The newspaper arrives around 11 a.m.",
+                                "Presumably you have read it.",
+                                "\"The Daily Herald is a local paper in two sections.\"",
+                                "Did you read the second section? (Alternatively, read the paper slowly or carefully.)",
+                                "Once again, you might want to show this to others for their reactions.",
+                                "Have you seen a mention of Omnidyne before?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the ladder for?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the ladder for?",
+                            "hints": [
+                                "You might ask Mr. McNabb.",
+                                "In general, ladders are useful for getting to and from high places.",
+                                "Do you think it would reach the balcony?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there any significance to George's long vigil at the lake in the afternoon?",
+                        "child": {
+                            "type": "hints",
+                            "title": "...in the afternoon?",
+                            "hints": [
+                                "Did you notice any suspicious behavior before this?",
+                                "Try looking into the lake where he is standing."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get back from the attic?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get back from the attic?",
+                            "hints": [
+                                "Who took the ladder?",
+                                "Did you hide behind the trunk to watch who took it?",
+                                "This could be important. Is there something you said or did to cause this to happen?",
+                                "How did you get into the attic?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the quickest way to summon Mr. Robner's brother?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the quickest way to summon Mr. Robner's brother?",
+                            "hints": [
+                                "His brother Clement?",
+                                "Have you tried the phone?",
+                                "Where might the phone number be?",
+                                "Did you ask Duffy to find him?",
+                                "What brother?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is Clement's grief sincere?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is Clement's grief sincere?",
+                            "hints": [
+                                "What indication do you have that it isn't?",
+                                "Isn't a single smirk a rather small thread with which to build a case?",
+                                "Who the #@%* is Clement?"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Develop Only If...",
+            "child": {
+                "type": "menu",
+                "title": "Develop Only If...",
+                "children": [
+                    {
+                        "title": "Someone acted strangely at the will reading or soon after",
+                        "child": {
+                            "type": "hints",
+                            "title": "Someone acted strangely at the will reading or soon after",
+                            "hints": [
+                                "If this person left in a hurry, go on.",
+                                "Develop Hidden Question 5."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "You have analyzed the footprint",
+                        "child": {
+                            "type": "hints",
+                            "title": "You have analyzed the footprint",
+                            "hints": [
+                                "Develop Hidden Question 25."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "You have found a couple of holes",
+                        "child": {
+                            "type": "hints",
+                            "title": "You have found a couple of holes",
+                            "hints": [
+                                "Continue only if you have found a pair of holes in the rose garden.",
+                                "What might fit in them?",
+                                "Try the ladder (remember that it rained Wednesday night).",
+                                "There was a way into and/or out of the library, despite the locked door. You should search the area carefully.",
+                                "Search around the holes again. (It may take you a few tries to find what you are looking for.)"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "You have found a destroyed document",
+                        "child": {
+                            "type": "hints",
+                            "title": "You have found a destroyed document",
+                            "hints": [
+                                "How do you think it got there?",
+                                "Did you notice anyone acting suspiciously earlier?",
+                                "The document didn't just appear in the water. George got it from somewhere and threw it there.",
+                                "He began acting strangely when he realized there was a new will which Mr. Coates didn't know about.",
+                                "Follow him when he first starts acting strangely. Develop Hidden Question 5."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Someone (other than Mr. Robner) has died",
+                        "child": {
+                            "type": "hints",
+                            "title": "Someone (other than Mr. Robner) has died",
+                            "hints": [
+                                "If it is Ms. Dunbar, go on. Otherwise, don't develop any further.",
+                                "Develop Hidden Question 27 and then continue with the next hint for this question.",
+                                "Did anything peculiar happen before this apparent suicide?",
+                                "Did anyone other than George, Mr. Coates, Duffy, or you leave the house?",
+                                "Did you follow (or watch from the guest room window)?",
+                                "Mr. Baxter and Ms. Dunbar met in the tool shed. What happened there?",
+                                "Did you watch through the tool shed window? Try looking through several times during the course of the discussion.",
+                                "Might this suicide be a murder?",
+                                "Did you notice anything odd about the scene of the \"suicide\"?",
+                                "Where is the pen Dunbar used to write the suicide note?",
+                                "Develop Hidden Questions 7 and 8."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "You have entered the attic",
+                        "child": {
+                            "type": "hints",
+                            "title": "You have entered the attic",
+                            "hints": [
+                                "Develop Hidden Question 26."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "You have found the hidden closet",
+                        "child": {
+                            "type": "hints",
+                            "title": "You have found the hidden closet",
+                            "hints": [
+                                "Develop Hidden Question 6."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "After you have discovered the missing paintings",
+                        "child": {
+                            "type": "hints",
+                            "title": "After you have discovered the missing paintings",
+                            "hints": [
+                                "Don't go on if you haven't been in the cellar.",
+                                "You <b>must</b> be cheating."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "You have found a diary",
+                        "child": {
+                            "type": "hints",
+                            "title": "You have found a diary",
+                            "hints": [
+                                "If it is Mrs. Robner's diary, go on. Otherwise, don't develop any further.",
+                                "Don't unlock it until you are positive it is Mrs. Robner's.",
+                                "Did you find the key under Mrs. Robner's mattress?",
+                                "You are only making it more difficult for yourself by cheating in this manner."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "You have solid proof of the method of Mr. Robner's death",
+                        "child": {
+                            "type": "hints",
+                            "title": "You have solid proof of the method of Mr. Robner's death",
+                            "hints": [
+                                "If you don't have the lab report from analyzing the fragment, don't go on.",
+                                "Develop Hidden Questions 10 through 18."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Hidden Questions",
+            "child": {
+                "type": "menu",
+                "title": "Hidden Questions",
+                "children": [
+                    {
+                        "title": "1. When should I listen to Leslie's phone call? 2. What is in the envelope?",
+                        "child": {
+                            "type": "hints",
+                            "title": "1. When should I listen to Leslie's phone call?",
+                            "hints": [
+                                "If you listen in on the extension, you will hear the same conversation every time. There is no way to hear more of the conversation."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "2. What is in the envelope? 3. What do I do with the notepad?",
+                        "child": {
+                            "type": "hints",
+                            "title": "2. What is in the envelope?",
+                            "hints": [
+                                "You won't find out without opening it, illegal and immoral though that may be.",
+                                "It appears that Mrs. Robner had a motive for killing her husband.",
+                                "Have you shown the letter to anyone? It mentions others by name."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "3. What do I do with the notepad? 4. What do the indentations on the notepad say?",
+                        "child": {
+                            "type": "hints",
+                            "title": "3. What do I do with the notepad?",
+                            "hints": [
+                                "This is something you should examine carefully.",
+                                "Is there a way you might make sense of the indentations?",
+                                "What would Sherlock Holmes do? (You've probably done it yourself as a child.)",
+                                "Cary Grant did it in Alfred Hitchcock's <b>North by Northwest</b>.",
+                                "Try rubbing the notepad with the pencil. (Alternatively, you can hold it up to the light.)",
+                                "Develop Hidden Question 4."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "4. What do the indentations on the notepad say? 5. What is George up to?",
+                        "child": {
+                            "type": "hints",
+                            "title": "4. What do the indentations on the notepad say?",
+                            "hints": [
+                                "It is clearly a note from Marshall Robner to Mr. Baxter.",
+                                "It seems to be a rather forceful note.",
+                                "It appears that Marshall is insisting that Baxter do something concerning a merger. There is also some apparent mention of documents and something about \"Focus.\"",
+                                "\"   plica   \" could be part of replicate or implicate...",
+                                "The last line looks like \"Reconsider before it is too late!\"",
+                                "Have you asked the other characters about the merger and Focus?",
+                                "You might want to show certain people the note also.",
+                                "Isn't it interesting that Baxter claims he never received the note, yet it isn't in the wastebasket?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "5. What is George up to? 6. How do I open the safe?",
+                        "child": {
+                            "type": "hints",
+                            "title": "5. What is George up to?",
+                            "hints": [
+                                "Did you follow him?",
+                                "Did you try to hide so you could watch?",
+                                "Try hiding in the upstairs closet.",
+                                "Now that you know he disappeared in the library, you might hide there next time to see what he does.",
+                                "Hide on the balcony.",
+                                "Now that you have seen someone enter the hidden closet, you can discover the way to get in -- examine the bookshelves. (Alternatively, you could have found the way in without seeing George enter if you did a careful examination at some time after George has entered and left the button uncovered by the books.)"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "6. How do I open the safe? 7. Who murdered Ms. Dunbar?",
+                        "child": {
+                            "type": "hints",
+                            "title": "6. How do I open the safe?",
+                            "hints": [
+                                "Have you asked anyone for the combination?",
+                                "No one will admit to knowing it.",
+                                "Do you believe no one knows?",
+                                "What was George doing in the hidden closet?",
+                                "You must time your entry to the hidden closet so that you catch George with the safe open.",
+                                "Enter the closet about 10 minutes after George does.",
+                                "By the way, don't forget to look in the safe."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "7. Who murdered Ms. Dunbar? 8. How did the murderer get to Ms. Dunbar?",
+                        "child": {
+                            "type": "hints",
+                            "title": "7. Who murdered Ms. Dunbar?",
+                            "hints": [
+                                "Who had a motive?",
+                                "Who has the pen that wrote the \"suicide\" note?",
+                                "Ask the suspects for a pen.",
+                                "When you get one, try writing with it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "8. How did the murderer get to Ms. Dunbar? 9. Is this the proper ending of the game?",
+                        "child": {
+                            "type": "hints",
+                            "title": "8. How did the murderer get to Ms. Dunbar?",
+                            "hints": [
+                                "You might try hiding in the hall closet to see where he comes from.",
+                                "If you surprise him in the master bedroom or on the master bedroom balcony, you will be killed.",
+                                "Baxter used the ladder to reach the master bedroom balcony.",
+                                "Develop Hidden Question 9."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "9. Is this the proper ending of the game?",
+                        "child": {
+                            "type": "hints",
+                            "title": "9. Is this the proper ending of the game?",
+                            "hints": [
+                                "Do you feel satisfied?",
+                                "Don't you think you can solve the case without Dunbar being murdered?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "10. Was it suicide?",
+                        "child": {
+                            "type": "hints",
+                            "title": "10. Was it suicide?",
+                            "hints": [
+                                "You must be kidding!",
+                                "<em>This space intentionally left blank.</em>"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "11. What do I need to get a conviction?",
+                        "child": {
+                            "type": "hints",
+                            "title": "11. What do I need to get a conviction?",
+                            "hints": [
+                                "You need a good case. There must be a clear motive, means of administering the drug and removing the evidence, no alibi, and no inconsistencies."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "12. How can I prove that Mr. Baxter was involved?",
+                        "child": {
+                            "type": "hints",
+                            "title": "12. How can I prove that Mr. Baxter was involved?",
+                            "hints": [
+                                "You'll have to come up with a motive. Develop Hidden Question 19.",
+                                "He has a good alibi for the night of the crime. You'll have to destroy it. Develop Hidden Question 20.",
+                                "You must also prove he had the means to carry out the crime. Develop Hidden Question 21."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "13. How can I prove George is guilty?",
+                        "child": {
+                            "type": "hints",
+                            "title": "13. How can I prove George is guilty?",
+                            "hints": [
+                                "You'll need a solid motive.",
+                                "\"Love of money is the root of all evil.\"",
+                                "A threatened change in the will would be a good reason...",
+                                "Have you shown him the desk-calendar entry concerning the new will?",
+                                "You'll also have to prove that he had the means to carry out the crime. Develop Hidden Question 22."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "14. How do I prove that Mrs. Robner is guilty?",
+                        "child": {
+                            "type": "hints",
+                            "title": "14. How do I prove that Mrs. Robner is guilty?",
+                            "hints": [
+                                "She certainly had a motive -- Steven.",
+                                "She also had a convenient balcony to reenter the house without Mrs. Rourke hearing her.",
+                                "Was there any mud on her balcony or in her room?",
+                                "How would she have gotten the LoBlo into Mr. Robner's tea?",
+                                "She couldn't do it alone."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "15. How do I convict Ms. Dunbar?",
+                        "child": {
+                            "type": "hints",
+                            "title": "15. How do I convict Ms. Dunbar?",
+                            "hints": [
+                                "What would her motive be?",
+                                "She certainly had the opportunity to put her LoBlo in the tea.",
+                                "How did he reenter the house without Mrs. Rourke hearing her?",
+                                "She could not have done it alone. You'll have to find a reason she might help someone else."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "16. What was McNabb's motive?",
+                        "child": {
+                            "type": "hints",
+                            "title": "16. What was McNabb's motive?",
+                            "hints": [
+                                "Is it possible that Mr. Robner stepped on a rosebush?",
+                                "Be serious. McNabb is certainly not a suspect."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "17. How did Steven get the LoBlo capsules?",
+                        "child": {
+                            "type": "hints",
+                            "title": "17. How did Steven get the LoBlo capsules?",
+                            "hints": [
+                                "This is a red herring.",
+                                "<em>This space intentionally left blank.</em>",
+                                "<em>This space intentionally left blank.</em>"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "18. What caused the bruise on Mr. Robner's left temple?",
+                        "child": {
+                            "type": "hints",
+                            "title": "18. What caused the bruise on Mr. Robner's left temple?",
+                            "hints": [
+                                "It is interesting that it was the left temple, since the body was lying on the right side on the floor.",
+                                "It is possible that Mr. Robner hit his head on the desk as he fell.",
+                                "It is also possible that the body was moved for some reason.",
+                                "There is no evidence that will allow a definite answer to this. It will remain a mystery forever."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "19. How do I prove a motive for Mr. Baxter?",
+                        "child": {
+                            "type": "hints",
+                            "title": "19. How do I prove a motive for Mr. Baxter?",
+                            "hints": [
+                                "There is an item of interest in the library.",
+                                "Check out the notepad.",
+                                "It appears that Baxter was involved in something called Focus. You will need to find the documents referred to in the note."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "20. How can Baxter's alibi be destroyed?",
+                        "child": {
+                            "type": "hints",
+                            "title": "20. How can Baxter's alibi be destroyed?",
+                            "hints": [
+                                "In his police interview, he said he was at the concert alone.",
+                                "Before continuing, show Ms. Dunbar the lab report and follow up on the subsequent developments.",
+                                "Develop Hidden Questions 28 and 29."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "21. How did Baxter carry out the murder?",
+                        "child": {
+                            "type": "hints",
+                            "title": "21. How did Baxter carry out the murder?",
+                            "hints": [
+                                "How could he have gotten the LoBlo into Mr. Robner's tea?",
+                                "He had to have an accomplice.",
+                                "Ms. Dunbar delivered the tea and is obviously romantically involved with Baxter."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "22. How did George carry out the murder?",
+                        "child": {
+                            "type": "hints",
+                            "title": "22. How did George carry out the murder?",
+                            "hints": [
+                                "How did he get the LoBlo into the tea?",
+                                "How did he reenter the house without Mrs. Rourke hearing him (or is she lying)?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "23. Why is this question here?",
+                        "child": {
+                            "type": "hints",
+                            "title": "23. Why is this question here?",
+                            "hints": [
+                                "If you thought there were no more questions,",
+                                "you might be able to deduce",
+                                "something you should not yet know.",
+                                "This way,",
+                                "before you have developed every hint,",
+                                "the fact that this question remained undeveloped",
+                                "implied that one of the remaining hints was very important.",
+                                "But obviously it wasn't."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "24. What do I do with the fragment?",
+                        "child": {
+                            "type": "hints",
+                            "title": "24. What do I do with the fragment?",
+                            "hints": [
+                                "Did you clean it off and examine it?",
+                                "Do you recall anything similar?",
+                                "Didn't you examine the teacup in the library or those in the kitchen?",
+                                "If you count the teacups and saucers in the kitchen, you'll notice a teacup is missing.",
+                                "Could the teacup in the library be a substitute?",
+                                "The fragment ought to be analyzed.",
+                                "What might the chemical that \"is not a common medication\" be?",
+                                "One of the bottles of medicine was from another country.",
+                                "Have the fragment analyzed for the medication you suspect.",
+                                "Say ANALYZE THE FRAGMENT FOR LOBLO."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "25. What does the shoe size and depth indicate?",
+                        "child": {
+                            "type": "hints",
+                            "title": "25. What does the shoe size and depth indicate?",
+                            "hints": [
+                                "See the answer to Hidden Question 26."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "26. Who put the stolen Rembrandt in the attic?",
+                        "child": {
+                            "type": "hints",
+                            "title": "26. Who put the stolen Rembrandt in the attic?",
+                            "hints": [
+                                "See the answer to Hidden Question 25."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "27. Why is there both a living and a dead Ms. Dunbar?",
+                        "child": {
+                            "type": "hints",
+                            "title": "27. Why is there both a living and a dead Ms. Dunbar?",
+                            "hints": [
+                                "Do you remember Dunbar referring to her identical twin sister?",
+                                "Wasn't Mrs. Robner an expert in makeup and impersonations during her early theatrical career?",
+                                "Wasn't Clement a plastic surgeon?",
+                                "This was a very funny bug in the early releases (revisions) of the game."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "28. Is the ticket stub meaningful?",
+                        "child": {
+                            "type": "hints",
+                            "title": "28. Is the ticket stub meaningful?",
+                            "hints": [
+                                "If you show Baxter the ticket stub, he admits that he was at the concert with Ms. Dunbar, but says that she became ill at intermission and took a cab home.",
+                                "Dunbar originally said she was \"out with a friend and we didn't get back until 10:30.\"",
+                                "If you confront Dunbar with the ticket stub (and she wasn't present when you showed it to Mr. Baxter), she says \"... we go to concerts, only occasionally, you understand. We went that night, the night that Marshall died. And then he took me home and that's it.\"",
+                                "So, Baxter was at the Robner home Wednesday night but lied about it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "29. Where is the ticket stub?",
+                        "child": {
+                            "type": "hints",
+                            "title": "29. Where is the ticket stub?",
+                            "hints": [
+                                "Ms. Dunbar has it.",
+                                "Searching won't turn it up.",
+                                "Follow her after showing her the lab report. When she sees you, you will make her so nervous that she will drop the stub."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Possible Endings",
+            "child": {
+                "type": "items",
+                "title": "Possible Endings",
+                "content": "<p>Do not look at these until you have finished the game.</p><p>Of course, killing yourself ends the game. Sometimes, if you try to kill another character or attack them in certain other ways, the game will end (often somewhat humorously).</p><p>Arresting someone before you have proof that it was a murder results in a refusal by the district attorney to seek an indictment. If it is Baxter whom you arrest, there are two variations on this -- depending on whether you have seen the papers on the Focus scandal. In all these scenarios, you are chastised by your superior for not being more careful.</p><p>If you arrest George after seeing the new will or after seeing him in the process of destroying it, the jury acquits him. They evidently feel that destroying the will is insufficient evidence for a guilty verdict.</p><p>If you arrest Mrs. Robner after opening her mail or listening in on her call to Steven, the grand jury declines to indict \"citing, among other things, a lack of evidence linking her with the execution of the crime.\"</p><p>If Baxter is arrested after you have seen the lab report confirming that Mr. Robner was murdered, the jury acquits him. They cite the lack of a motive or the means to administer the drug. He is also acquitted if arrested after you have proof of murder and the documents implicating him in the Focus scandal. The jury feels the lack of means of administering the drug without a struggle is a serious flaw.</p><p>If you arrest George and Baxter, the district attorney throws out your case, noting that the only link between the two was hatred. If you arrest them after seeing the new will (or seeing George trying to destroy it), seeing the notepad note, and seeing the papers on the Focus scandal, the D.A. spends much more time interrogating them. Although he realizes they had motives, he decides not to indict them since \"no coherent and consistent theory could be proposed which involved the two of them conspiring to murder Mr. Robner.\"</p><p>Arresting Mr. Baxter after Ms. Dunbar's death can lead to a number of different endings. If you saw the suicide note, pen, or saw Mr. Baxter leaving the scene of the shooting but have not yet established a motive for Baxter to kill Robner, Baxter is found guilty only of the death of Ms. Dunbar. If you have established a motive (seen the Focus papers and read the note), Baxter is found guilty of both murders. If you have no evidence that Baxter murdered Dunbar, there are two possible endings, depending on whether you have proved a motive for Baxter to have killed Robner. In each of these endings, the jury acquits Baxter, believing that Dunbar murdered Mr. Robner and then committed suicide.</p><p>If you surprise Mr. Baxter on his way to kill Ms. Dunbar, the game ends in your death.</p><p>If you arrest Ms. Dunbar after witnessing her meeting with Baxter after you have confronted her with the lab report, she is later found dead of an apparent suicide while out on bail during her trial.</p><p>There are several possible endings if you arrest both Ms. Dunbar and Mr. Baxter. If you have no evidence of murder, the D.A. refuses to seek an indictment. If you haven't proved a motive with the Focus scandal papers, the grand jury refuses to indict them. If you have the Focus papers but haven't seen the note, Baxter and Dunbar are tried -- and several jurors believe them to be guilty -- but they are not convicted since there is nothing relating the old Focus scandal to the murder. If you have proof of murder, the note, and the Focus papers, you must still disprove Baxter's alibi for the night of the murder (most of the jurors will vote to convict, but a couple of them will feel there is reasonable doubt). Only if you have gotten conflicting stories from Baxter and Dunbar about the night of the murder by confronting them with the ticket stub while the other is not in the room to hear the story, can you convict the two of them.</p>"
+            }
+        },
+        {
+            "title": "For Your Amusement",
+            "child": {
+                "type": "items",
+                "title": "For Your Amusement",
+                "content": "<p>(after you've finished the game) </p><p>Have you ever tried:</p><p>having the ladder analyzed after noon? (Can you guess why this happens?)</p><p>smelling, tasting, or trying to eat the various drugs?</p><p>swimming in the lake, taking a shower, or flushing the toilet?</p><p>looking in the toilet or in the bathroom mirror?</p><p>smelling the sugar?</p><p>saying FIND DUFFY?</p><p>taking or counting the silverware?</p><p>eating the grapes, fruit, or berries?</p><p>drinking George's Scotch or Bourbon twice?</p><p>eating George's red herring?</p><p>saying FOLLOW MR. ROBNER?</p><p>\"squeezing\" or \"turning on\" any of the characters?</p><p>waiting until a time earlier in the day?</p><p>following or arresting or accusing or confronting an inanimate object?</p><p>jumping from the balcony?</p><p>kissing anyone?</p><p>killing anyone? (You might have to try several times.)</p><p>arresting Duffy?</p><p>typing SCORE?</p>"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1435 @@
+{
+    "type": "menu",
+    "title": "Enchanter",
+    "children": [
+        {
+            "title": "About",
+            "child": {
+                "type": "page",
+                "title": "About PRIZM Invisiclues",
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+            }
+        },
+        {
+            "title": "Credits ",
+            "child": {
+                "type": "page",
+                "title": "Credits",
+                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>from material supplied by:</p><p>  Paul David Doherty</p><p>  Dave Rees</p><p>  Mike Threepoint</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Enchanter</b> and all other game names are registered trade marks of Activision.</p>"
+            }
+        },
+        {
+            "title": "Sample Question",
+            "child": {
+                "type": "menu",
+                "title": "Sample Question",
+                "children": [
+                    {
+                        "title": "Why did the dragon wear red sneakers? ",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why did the dragon wear red sneakers?",
+                            "hints": [
+                                "Search the laundry room.",
+                                "NITFOL the dragon and ask him.",
+                                "Because his blue ones were in the wash."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Starting Out",
+            "child": {
+                "type": "menu",
+                "title": "Starting Out",
+                "children": [
+                    {
+                        "title": "Why was I chosen for this task?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why was I chosen for this task?",
+                            "hints": [
+                                "Otherwise it wouldn't be much of a game.",
+                                "Apparently, Belboz feels that Krill could easily spot and destroy a powerful Enchanter."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How many times must I go west before I arrive at my destination?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How many times must I go west before I arrive at my destination?",
+                            "hints": [
+                                "It isn't called the Long Road for nothing.",
+                                "Have you read the signs along the road?",
+                                "There's nothing out there. The entire game lies to the east."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there anything important in the shack?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there anything important in the shack?",
+                            "hints": [
+                                "There is a jug lying in the corner.",
+                                "Have you tried examining the oven?",
+                                "There is a fresh loaf of bread inside the oven."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What can I do about the crone?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What can I do about the crone?",
+                            "hints": [
+                                "She is rather helpful in presenting you with a spell scroll.",
+                                "You can summon her from anywhere in the game if you have the proper spell.",
+                                "There's nothing else she can do for you."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the Lonely Mountain?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the Lonely Mountain?",
+                            "hints": [
+                                "It is arguably the most beautiful spot in the region.",
+                                "It clearly shows the castle to the east."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I signal the monsters approaching by sea?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I signal the monsters approaching by sea?",
+                            "hints": [
+                                "Have you tried waving at them?",
+                                "You might fire a signal flare.",
+                                "What monsters? What signal flare? What a concept?"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Eating, Drinking and Sleeping",
+            "child": {
+                "type": "menu",
+                "title": "Eating, Drinking and Sleeping",
+                "children": [
+                    {
+                        "title": "What do I do when I get thirsty?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do when I get thirsty?",
+                            "hints": [
+                                "Have you tried drinking anything?",
+                                "The water from the swamp or ocean isn't good for drinking.",
+                                "The water at the Shady Brook tastes great.",
+                                "The jug can be used to carry a good deal of water."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I do when I get hungry?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do when I get hungry?",
+                            "hints": [
+                                "Eat.",
+                                "There is bread somewhere in the shack.",
+                                "It's in the oven."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I do when I get tired?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do when I get tired?",
+                            "hints": [
+                                "Guess!",
+                                "You could simply SLEEP. Be careful, though. Evil things may be lurking outside the castle.",
+                                "It would be safest to find a bed to sleep on.",
+                                "There is a bed in the castle.",
+                                "In the bedroom, of course."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where did some of my possessions go while I slept?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where did some of my possessions go while I slept?",
+                            "hints": [
+                                "Perhaps the tooth fairy removed them.",
+                                "Remember that there is great evil in the castle. Something or someone may have come in the night and removed them.",
+                                "You can use the BLORB spell to protect something valuable (the spell book is the most important thing to protect). You should use it before going off to sleep."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where are the magic pajamas?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where are the magic pajamas?",
+                            "hints": [
+                                "Have you tried looking under the bed?",
+                                "Have you met the Prince of Kaldorn?",
+                                "You don't need pajamas and there is no Prince of Kaldorn."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the dream with the damsel?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the dream with the damsel?",
+                            "hints": [
+                                "The woman is playing with the bedpost. Have you examined it?",
+                                "Examining the post reveals a button. Have you pushed it?",
+                                "In case you wondered, you can't find the button unless you have experienced the dream."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the dream with the cartoon figure?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the dream with the cartoon figure?",
+                            "hints": [
+                                "The figure is the adventurer. His opening of a door is significant. See the section on the adventurer."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the dream in which something seems to be lost?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the dream in which something seems to be lost?",
+                            "hints": [
+                                "It indicates that you no longer have something that you need.",
+                                "The thing is a spell scroll that you have used in the wrong location.",
+                                "The spell is the KULCAD spell. You can use it successfully in a number of places, but only once correctly.",
+                                "The climbing aspect of the dream is also significant. Have you been anyplace that implies climbing endlessly?",
+                                "It is the Winding Stair."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the dream with the dancing penguins?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the dream with the dancing penguins?",
+                            "hints": [
+                                "Have you seen any other penguins in the game?",
+                                "Did the guidebook to Antarctica help in any way?",
+                                "Have you asked the walrus?",
+                                "Are you still developing answers?",
+                                "Why?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the dream with the glowing face?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the dream with the glowing face?",
+                            "hints": [
+                                "Is there any place in the castle which is filled with faces of many types?",
+                                "The place is the portrait gallery. The room in the dream was darkened and one face was glowing.",
+                                "If you go into the gallery without a light, you can see that one of the portraits is lit from behind.",
+                                "Looking behind the lighted portrait reveals a secret niche, which contains a spell scroll."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is a leading cause of insomnia?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is a leading cause of insomnia?",
+                            "hints": [
+                                "INTERLOGIC games."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is a leading cure for insomnia?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is a leading cure for insomnia?",
+                            "hints": [
+                                "InvisiClues."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is as leading cause of Interlogic games?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is as leading cause of Interlogic games?",
+                            "hints": [
+                                "Insomnia."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Inside The Castle",
+            "child": {
+                "type": "menu",
+                "title": "Inside The Castle",
+                "children": [
+                    {
+                        "title": "How do I get into the castle?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get into the castle?",
+                            "hints": [
+                                "Have you tried opening the gates?",
+                                "Do you have a spell that might be helpful?",
+                                "Try casting the REZROV spell on the gates.",
+                                "The crone in the hovel will give you the REZROV scroll.",
+                                "The hovel is in the village. Try entering it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I use for light in the castle?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I use for light in the castle?",
+                            "hints": [
+                                "There is a lantern in the shack.",
+                                "All right. So it doesn't work. How about a spell?",
+                                "Casting the FROTZ spell on any object you are carrying will cause it to give off light for the rest of the game. Poetic justice might suggest the battered lantern from the shack, but it's pretty heavy to carry around."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What's going on in the Dungeon?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What's going on in the Dungeon?",
+                            "hints": [
+                                "There is a prison cell next to the dungeon. There is also a path leading down into a series of Translucent Rooms.",
+                                "Have you examined or read the walls or graffiti?",
+                                "After examining the graffiti, try moving the irregular block."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What can I do with the silver spoon?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What can I do with the silver spoon?",
+                            "hints": [
+                                "Have you tried digging a hole with it?",
+                                "Have you tried feeding someone with it?",
+                                "Have you tried gagging someone with it?",
+                                "If you answered \"no\" to the previous questions, so much the better. Besides being \"valuable,\" there is nothing to do with it."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Hall of Mirrors",
+            "child": {
+                "type": "menu",
+                "title": "The Hall of Mirrors",
+                "children": [
+                    {
+                        "title": "Are the mirrors useful for anything?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Are the mirrors useful for anything?",
+                            "hints": [
+                                "They make a mess if you break them.",
+                                "They are windows, from your viewpoint.",
+                                "Have you noticed anyone wandering through the underground world as depicted in the mirror?",
+                                "Occasionally, a bedraggled and weary adventurer will wander through the area in the mirror.",
+                                "You might be able to summon him with the right spell.",
+                                "The ZIFMIA spell is the one."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Who is the adventurer?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Who is the adventurer?",
+                            "hints": [
+                                "Some ZORK player, most likely.",
+                                "It doesn't much matter. You can bet on the fact that he is interested in finding treasures, though."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Library",
+            "child": {
+                "type": "menu",
+                "title": "The Library",
+                "children": [
+                    {
+                        "title": "Read any good books lately?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Read any good books lately?",
+                            "hints": [
+                                "The book of legends contains interesting knowledge. You should read the two legible legends.",
+                                "The Legend of the Unseen Terror is rather frightening.",
+                                "It is also significant."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What can be done with the rat tracks?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What can be done with the rat tracks?",
+                            "hints": [
+                                "Have you tried following them?",
+                                "They lead into a hole in the wall. Any idea of what's in the hole?",
+                                "Try reaching in. (Don't be scared!)"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Egg",
+            "child": {
+                "type": "menu",
+                "title": "The Egg",
+                "children": [
+                    {
+                        "title": "What is the egg good for?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the egg good for?",
+                            "hints": [
+                                "Breakfast?",
+                                "It certainly appears valuable, but the more interesting thing is that it has handles, cranks, and the like connected to some machinery inside.",
+                                "Have you tried turning, pushing, or otherwise manipulating the handles, cranks, knobs, and buttons?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can the egg be opened?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can the egg be opened?",
+                            "hints": [
+                                "Sure. Try all of the devices on the outside. After playing with them, the egg will open.",
+                                "There is an easier way to open the egg, which doesn't require any manipulation at all.",
+                                "Try the REZROV spell on it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What can I make with the egg?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What can I make with the egg?",
+                            "hints": [
+                                "An omelette, but you will need more than one.",
+                                "Try finding a chicken.",
+                                "What do you think this is, \"The Joy of Cooking\"?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I fix what's inside the egg?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I fix what's inside the egg?",
+                            "hints": [
+                                "The mechanism is working just fine, but the shredded scroll needs some help.",
+                                "Some magic spell might be of use.",
+                                "Use the KREBF spell.",
+                                "The scroll is located in the forest area."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Temple",
+            "child": {
+                "type": "menu",
+                "title": "The Temple",
+                "children": [
+                    {
+                        "title": "How can I avoid being taken prisoner in the Temple and adjoining areas?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I avoid being taken prisoner in the Temple and adjoining areas?",
+                            "hints": [
+                                "Going into the Temple or Junction will cause you to be taken prisoner unless you are \"protected from evil.\"",
+                                "If you enter the Temple or Junction directly, there is no way to avoid being captured.",
+                                "In the Banquet Hall or Library, you will get a warning when the guards approach."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I stop the guards from taking me away?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I stop the guards from taking me away?",
+                            "hints": [
+                                "The guards are not very friendly.",
+                                "You can make them friendly with the appropriate magic.",
+                                "You can also kill or \"newtralize\" them with the proper magic."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Do the guards become bolder as the game goes on?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Do the guards become bolder as the game goes on?",
+                            "hints": [
+                                "They certainly do. The more suspicious Krill becomes about your presence, the bolder they become."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Once I'm taken prisoner, is there any escape?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Once I'm taken prisoner, is there any escape?",
+                            "hints": [
+                                "Have you tried befriending the guards?",
+                                "No, there is no way to avoid the sacrifice."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I survive the sacrifice?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I survive the sacrifice?",
+                            "hints": [
+                                "That would require a bit of magic.",
+                                "There is a magic spell that can protect you from the sacrifice.",
+                                "It is the OZMOO spell. A clue to finding it can be found in a dream."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I get the dagger from the being that sacrifices me?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I get the dagger from the being that sacrifices me?",
+                            "hints": [
+                                "If you can survive the sacrifice, you can have the dagger.",
+                                "Really."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is Krill the being that sacrifices me?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is Krill the being that sacrifices me?",
+                            "hints": [
+                                "What do you think?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "When the statue approaches, should I pray or run?",
+                        "child": {
+                            "type": "hints",
+                            "title": "When the statue approaches, should I pray or run?",
+                            "hints": [
+                                "Have you tried both possibilities?",
+                                "Did you think to use the spray paint?",
+                                "When the statue approaches, magic has occurred beyond the wisdom of the implementers."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Will the BOZBAR spell be of use to me?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Will the BOZBAR spell be of use to me?",
+                            "hints": [
+                                "Only if you can find it. And a horse.",
+                                "Look behind the cupboard in the basement of the mansion, just to the right of the 85-foot yacht and immediately in front of the microwave tower.",
+                                "You can use it to eradicate lice infestation in ospreys.",
+                                "Note: This spell does not work reliably on Thursdays."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Jewelled Box",
+            "child": {
+                "type": "menu",
+                "title": "The Jewelled Box",
+                "children": [
+                    {
+                        "title": "What is a Gordian Knot?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is a Gordian Knot?",
+                            "hints": [
+                                "Read a mythology text. The rope tied around the jewelled box is a good example of one."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I unravel the rope?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I unravel the rope?",
+                            "hints": [
+                                "You can't do it by hand. It would take forever."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I cut the rope?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I cut the rope?",
+                            "hints": [
+                                "Perhaps, but then only with a magical blade.",
+                                "Have you seen any blade that might be magical?",
+                                "Have you ever been killed by one? If not, don't read the next items until you have.",
+                                "The one used to sacrifice you in the Temple might be useful, if only you could get it without getting it. Get it?",
+                                "See the questions relating to the sacrifice."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can the adventurer cut the rope?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can the adventurer cut the rope?",
+                            "hints": [
+                                "His sword is useless against the magic in the rope. Perhaps there is a blade with more magic.",
+                                "If you could dispel the magic in the rope, he could probably cut the rope with his sword."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I use magic to open the box?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I use magic to open the box?",
+                            "hints": [
+                                "You can't use REZROV because the magic of the rope is stronger.",
+                                "You might use KULCAD (if you have it) to dispel its magic. Then you could open it easily.",
+                                "Or maybe that's not such a good idea..."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Sea",
+            "child": {
+                "type": "menu",
+                "title": "The Sea",
+                "children": [
+                    {
+                        "title": "How can I swim away from the castle?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I swim away from the castle?",
+                            "hints": [
+                                "The backstroke would be easiest.",
+                                "You can't swim in the ocean."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the turtle significant?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the turtle significant?",
+                            "hints": [
+                                "He is significant among turtles, certainly.",
+                                "Have you tried talking to him?",
+                                "You can use the NITFOL spell to speak to the turtle.",
+                                "Once you have cast NITFOL on him, you can ask him to do things for you. Consult your manual for details.",
+                                "Among the more interesting things he will do for you is follow you around. Try: TURTLE, FOLLOW ME."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I make turtle soup?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I make turtle soup?",
+                            "hints": [
+                                "Find a good cookbook.",
+                                "\"The Joy of Cooking\" is recommended.",
+                                "You don't make soup in this game. You were probably thinking of Starcross(tm)."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Engine Room",
+            "child": {
+                "type": "menu",
+                "title": "The Engine Room",
+                "children": [
+                    {
+                        "title": "Is there any way to shut off the machinery from the Engine Room?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any way to shut off the machinery from the Engine Room?",
+                            "hints": [
+                                "The Control Room happens to be across the way. Unless you can get there you don't have a chance."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there any way to shut off the machinery from the Control Room?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any way to shut off the machinery from the Control Room?",
+                            "hints": [
+                                "No."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I reliably get to the Control Room without becoming a pancake?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I reliably get to the Control Room without becoming a pancake?",
+                            "hints": [
+                                "Yes, but you're not normally fast enough.",
+                                "Do you have any magic that might make you move faster?",
+                                "The EXEX spell can make you fast enough.",
+                                "The EXEX scroll is in the Dungeon area."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I get back from the Control Room safely?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I get back from the Control Room safely?",
+                            "hints": [
+                                "Apparently not. Even if you have made yourself move quickly, you get hit by spears and the like.",
+                                "Perhaps someone or something else in the game could survive those spears.",
+                                "Turtles have pretty tough shells.",
+                                "If you could get the turtle into the Control Room, he would probably survive the return trip. If you haven't seen the turtle, don't continue to the next clues.",
+                                "If you haven't spoken with the turtle, don't continue to the next clues.",
+                                "You can lead the turtle to the Engine Room, and then get him to go into the Control Room for you.",
+                                "First, you must EXEX the turtle. Then, ask him to go to the southeast and bring you the scroll. You might, for example, type \"TURTLE, GO SE. TAKE SCROLL. GO NW.\""
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I talk to the turtle when it's too noisy?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I talk to the turtle when it's too noisy?",
+                            "hints": [
+                                "You can't talk to him, but you could try getting his attention.",
+                                "You can either yell or wave at him."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Forest",
+            "child": {
+                "type": "menu",
+                "title": "The Forest",
+                "children": [
+                    {
+                        "title": "Where is the forest?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where is the forest?",
+                            "hints": [
+                                "It is north of the castle.",
+                                "It is beyond the rusty gate."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get into the forest?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get into the forest?",
+                            "hints": [
+                                "Open the rusty gate.",
+                                "Since the gate is so rusty, you must use special means to open it.",
+                                "You have to REZROV the rusty gate to open it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I avoid the herd of dragons in the forest?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I avoid the herd of dragons in the forest?",
+                            "hints": [
+                                "You might try to VAXUM them.",
+                                "You might try using the MELBOR spell on yourself.",
+                                "You might GUNCHO them.",
+                                "What forest dragons?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there anything important in the forest?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there anything important in the forest?",
+                            "hints": [
+                                "Have you noticed the scroll sitting there in plain sight?",
+                                "The forest borders on the swamp, which is an interesting place.",
+                                "That's all, folks (except for the dragons)."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the frogs?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the frogs?",
+                            "hints": [
+                                "The frogs know everything about the swamp.",
+                                "You should listen to them.",
+                                "You have to NITFOL the frogs before you can understand them.",
+                                "The frogs will tell you where to find a scroll.",
+                                "There is a scroll under a lily pad."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I turn one of the frogs into the Prince of Kaldorn?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I turn one of the frogs into the Prince of Kaldorn?",
+                            "hints": [
+                                "Kiss them.",
+                                "KREBF them.",
+                                "KULCAD them.",
+                                "OK, so they're real frogs...",
+                                "Frogs can dream, can't they?"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Magical Spells and Objects",
+            "child": {
+                "type": "menu",
+                "title": "Magical Spells and Objects",
+                "children": [
+                    {
+                        "title": "What is Thaumaturgy?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is Thaumaturgy?",
+                            "hints": [
+                                "The study of magic."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How, exactly, does one cast a spell?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How, exactly, does one cast a spell?",
+                            "hints": [
+                                "There are two ways, long and short. Assuming there is a spell named BOZBAR, you can type either \"BOZBAR something\" or \"CAST BOZBAR AT/ON something.\" You can cast a few spells without any particular object in mind, in which case you can type either \"BOZBAR\" or \"CAST BOZBAR.\""
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How long do spells last?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How long do spells last?",
+                            "hints": [
+                                "That depends on the spell. Some last forever. Others last only a short period of time."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there a limit to how many times I can cast a spell?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there a limit to how many times I can cast a spell?",
+                            "hints": [
+                                "You can cast most spells whenever needed.",
+                                "You can use some only once. This is most often true with spells of great power."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Do I always need to copy spells into my book?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Do I always need to copy spells into my book?",
+                            "hints": [
+                                "No, you can cast a spell exactly once from the scroll you find it on.",
+                                "If you do this, the scroll disappears.",
+                                "It is always a good idea to copy them into your book, when possible.",
+                                "You can then use them many times."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why can't I copy some spells into my spell book?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why can't I copy some spells into my spell book?",
+                            "hints": [
+                                "They are clearly different in some way from the others.",
+                                "They are the most powerful spells. You can use them only once, after which they disappear."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What on earth is the FILFRE spell good for?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What on earth is the FILFRE spell good for?",
+                            "hints": [
+                                "Effect."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How many spells can I keep memorized?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How many spells can I keep memorized?",
+                            "hints": [
+                                "Initially three, plus the GNUSTO spell, which is yours forever.",
+                                "Each day it becomes possible to keep one additional spell memorized."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why do I have trouble with spells when I get tired?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why do I have trouble with spells when I get tired?",
+                            "hints": [
+                                "When you get tired, you tend to forget spells that you have memorized.",
+                                "In addition, it becomes harder to memorize new spells."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What happens when I've exceeded the number of spells I can memorize?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What happens when I've exceeded the number of spells I can memorize?",
+                            "hints": [
+                                "You will probably forget one."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why does Belboz take powerful spells away from me?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why does Belboz take powerful spells away from me?",
+                            "hints": [
+                                "He doesn't trust you with them.",
+                                "This is to prevent you from solving problems by getting yourself killed. You can't get those spells back once Belboz has taken them from you."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I use the KULCAD spell?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I use the KULCAD spell?",
+                            "hints": [
+                                "If you haven't seen the KULCAD scroll, don't read further.",
+                                "Many objects in the game are magical or have had magical spells cast upon them. The KULCAD spell will dissipate that magic.",
+                                "Are there any objects in the game that seem to be unreal?",
+                                "Are there objects that seem impossible or act illogically? Don't read further unless you are completely stumped.",
+                                "Among other illusions are the banquet setting, the guarded door, and the infinite Winding Stair. Other magical objects include the map, pencil, and rope. There are others too, and each can be changed with the KULCAD spell, some with disastrous results. Have fun finding them!",
+                                "Of course, you can use the spell only once, so you'll have to figure out which of the objects you can't deal with in another way. Some may be best to ignore."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Adventurer",
+            "child": {
+                "type": "menu",
+                "title": "The Adventurer",
+                "children": [
+                    {
+                        "title": "How can I meet the adventurer?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I meet the adventurer?",
+                            "hints": [
+                                "If you haven't even seen any adventurer, don't continue.",
+                                "If you haven't gotten the ZIFMIA spell, don't continue.",
+                                "When the adventurer appears in the \"mirror,\" you can cast the ZIFMIA spell to summon him to you."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why doesn't the adventurer seem to like me?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why doesn't the adventurer seem to like me?",
+                            "hints": [
+                                "Maybe it's your breath?",
+                                "Have you found the mouthwash?",
+                                "More likely, he sees you as an unpredictable wizard, like the ones he's read about. He's probably more frightened than unfriendly.",
+                                "He will be much more inclined to do as you request if you make him your friend.",
+                                "There is a spell that makes people/things friendly. If you haven't seen it, don't continue.",
+                                "Casting the VAXUM spell on the adventurer will make him friendly."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What can the adventurer do for me?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What can the adventurer do for me?",
+                            "hints": [
+                                "If you haven't summoned him, don't continue.",
+                                "If you haven't made him your friend, don't continue.",
+                                "When he is your friend, he will do simple things for you, like giving you items he has or opening doors.",
+                                "Have you ever dreamed about the cartoonish figure who opens a door and wanders up a flight of stairs? Why do you suppose it was such a frightening dream?",
+                                "Have you ever noticed that he doesn't find anything interesting about the Guarded Door room?",
+                                "The monstrous door is a powerful illusion, and as with other forms of magic, it is most effective on magic users.",
+                                "You can KULCAD the door and dispel the illusion.",
+                                "However, you then lose the ability to use KULCAD elsewhere.",
+                                "If you either point at the door with the adventurer present, or ask him to open it for you, the illusion will be broken."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get the adventurer where I need him?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get the adventurer where I need him?",
+                            "hints": [
+                                "If you aren't sure where you need him, don't continue.",
+                                "What is the distinguishing property of adventurers?",
+                                "Greed.",
+                                "If you are holding a treasure and you have charmed the adventurer (using VAXUM), he will follow you. Also, you might try leaving a treasure at the place you need him. He will see it and enter."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Maps",
+            "child": {
+                "type": "menu",
+                "title": "Maps",
+                "children": [
+                    {
+                        "title": "Are any of the maps useful?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Are any of the maps useful?",
+                            "hints": [
+                                "The ones on the walls are useful for a student of history.",
+                                "The one on the ground is very useful for a student of thaumaturgy.",
+                                "You are a student of thaumaturgy.",
+                                "It is useful to you. Q.E.D."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I remove the globe?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I remove the globe?",
+                            "hints": [
+                                "Have you tried the SWANZO spell?",
+                                "There's no SWANZO spell in this game. You can't remove the globe."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the map on the ground good for?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the map on the ground good for?",
+                            "hints": [
+                                "Does the configuration of points and lines remind you of anyplace in the game?",
+                                "The map is a representation of the Translucent Rooms and their connections."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What can I do with the pencil?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What can I do with the pencil?",
+                            "hints": [
+                                "Have you tried writing with it?",
+                                "Have you tried writing with it on the map?",
+                                "Have you tried connecting points on the map or erasing lines between points?",
+                                "Connecting and disconnecting the points on the map CHANGES the Translucent Room maze to agree with the map."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I sharpen the pencil?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I sharpen the pencil?",
+                            "hints": [
+                                "Did you try?",
+                                "No, this is a magic pencil. You can't sharpen it. For that matter, you can't get any more eraser, either."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Translucent Rooms",
+            "child": {
+                "type": "menu",
+                "title": "The Translucent Rooms",
+                "children": [
+                    {
+                        "title": "What is the evil presence I feel in the Translucent Rooms?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the evil presence I feel in the Translucent Rooms?",
+                            "hints": [
+                                "If you haven't felt it, don't read any of the following questions and their answers.",
+                                "Read any good legends lately?",
+                                "The Legend of the Unseen Terror is strange, but true. The Terror lives in the unconnected room in the Translucent Room maze. If you can feel its presence, you have given it a chance to escape!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Once the evil presence is released, can I stop it?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Once the evil presence is released, can I stop it?",
+                            "hints": [
+                                "If you can trap it within the Translucent Room area, you will be safe.",
+                                "Try erasing lines on the map to disconnect passages. The presence moves once per turn, much as you do."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why stir up the evil presence anyway?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why stir up the evil presence anyway?",
+                            "hints": [
+                                "Re-read the Legend of the Unseen Terror in the legend book.",
+                                "The Terror was lured by a spell of great power. It might be helpful in defeating Krill."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How, exactly, do I get the powerful scroll?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How, exactly, do I get the powerful scroll?",
+                            "hints": [
+                                "Please don't read these answers unless you have read the preceding ones. The problem will otherwise be ruined.",
+                                "You can use the pencil to make new passages in the Translucent Rooms.",
+                                "Similarly, you can use the eraser to disconnect passages. You can type anything like MAKE A LINE BETWEEN POINT X AND POINT Z and DISCONNECT THE LINE BETWEEN P AND J.",
+                                "There are a number of solutions to the problem, which can be stated this way: How can I connect passages in such a way as to re-trap the Terror within the maze while allowing access to its lair?",
+                                "The following sequence will work: Start at room M. CONNECT P AND F.",
+                                "CONNECT M AND P. ERASE M AND V. ERASE P AND F. Then, you can simply go into room P and collect the scroll which is lying there."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Winding Stair",
+            "child": {
+                "type": "menu",
+                "title": "The Winding Stair",
+                "children": [
+                    {
+                        "title": "How long does the Winding Stair continue? ",
+                        "child": {
+                            "type": "hints",
+                            "title": "How long does the Winding Stair continue?",
+                            "hints": [
+                                "How far have you gone?",
+                                "The stair appears to continue infinitely in both directions.",
+                                "Doesn't that seem a bit peculiar?",
+                                "The stair cannot be real. It must be magical.",
+                                "Thus, you can dispel the illusion with the KULCAD spell. Be careful!"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Krill",
+            "child": {
+                "type": "menu",
+                "title": "Krill",
+                "children": [
+                    {
+                        "title": "Who is Krill?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Who is Krill?",
+                            "hints": [
+                                "Ask the game."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is he doing?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is he doing?",
+                            "hints": [
+                                "He is in the process of subjugating the land by means of a potent spell that he is composing.",
+                                "If you don't stop him, eternal night will fall over the land.",
+                                "And that will be that."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why do things in the castle seem to deteriorate with time?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why do things in the castle seem to deteriorate with time?",
+                            "hints": [
+                                "Perhaps entropy is increasing dramatically in the area.",
+                                "You may have had a dream that tells you why.",
+                                "Krill is doing it, by means of some terrible spell, which he is brewing during the course of the game. The effects of the spell are the dissolution of rooms in the castle and the lengthening of night."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I find Krill?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I find Krill?",
+                            "hints": [
+                                "Did you try summoning him?",
+                                "His fortress is protected by a magic spell.",
+                                "Unless you have the KULCAD spell, don't continue.",
+                                "There is a dream involving climbing which is a hint.",
+                                "The endless stair is an illusion. If you KULCAD it, you can enter his hideaway. But watch out!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I survive the bottomless pit?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I survive the bottomless pit?",
+                            "hints": [
+                                "Presumably, you have used KULCAD on the Winding Stair. If not, proceed no further.",
+                                "The bannister turns into a useful scroll. (What a coincidence!)",
+                                "The scroll contains the IZYUK spell, which allows you to fly.",
+                                "Don't waste time using GNUSTO first, especially since you don't have your spell book. Cast it directly from the scroll.",
+                                "Krill's hideaway is to the east. Be careful!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I defeat Krill?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I defeat Krill?",
+                            "hints": [
+                                "If you haven't found the KREBF spell, don't continue.",
+                                "You can undo some of the damage he is causing by casting KREBF in the various rooms that have been damaged by him.",
+                                "This is only a temporary measure, however, and somewhat of a waste of time.",
+                                "If you haven't entered the Warlock's Tower, don't continue.",
+                                "You must fend off the two monsters that he sets after you and then deliver the coup de grace.",
+                                "If you haven't gotten the GUNCHO scroll, read no further.",
+                                "You must use the GUNCHO spell on him when you get the chance.",
+                                "Remember that you had best memorize all the spells you'll need before entering Krill's presence."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I defeat the dragon?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I defeat the dragon?",
+                            "hints": [
+                                "Did you try throwing the water at him?",
+                                "Did you try befriending him?",
+                                "Do you have any spell that might be more appropriate?",
+                                "Use the GONDAR spell. See the section on the Library."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I defeat the shape?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I defeat the shape?",
+                            "hints": [
+                                "It's pretty mean.",
+                                "It could certainly be friendlier.",
+                                "Use the VAXUM spell on it. Alternately, the CLEESH spell will also work."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I defeat the mongoose?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I defeat the mongoose?",
+                            "hints": [
+                                "If you haven't found the FILFRE spell, don't continue.",
+                                "Have you read the book \"Mongoose on the Loose?\"",
+                                "How about using the YUMZO spell?",
+                                "There is no mongoose in this game.",
+                                "By the way, do you know the plural of mongoose?",
+                                "Just checking."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Odds and Ends",
+            "child": {
+                "type": "menu",
+                "title": "Odds and Ends",
+                "children": [
+                    {
+                        "title": "What is happening when my mind is \"probed\"?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is happening when my mind is \"probed\"?",
+                            "hints": [
+                                "Krill is the one doing the probing.",
+                                "Whenever you try to write or cast a spell of great power, both Krill and Belboz, being powerful wizards, take notice."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is Enchanter really Zork IV?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is Enchanter really Zork IV?",
+                            "hints": [
+                                "Is the sky green?",
+                                "Does a bear build laser weapons in the woods?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Will there be a sequel to Enchanter?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Will there be a sequel to Enchanter?",
+                            "hints": [
+                                "Certainly.",
+                                "<b>Zork V</b>."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "When You're Done",
+            "child": {
+                "type": "menu",
+                "title": "When You're Done",
+                "children": [
+                    {
+                        "title": "Do the spells' names have any meaning?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Do the spells' names have any meaning?",
+                            "hints": [
+                                "Some do, some don't.",
+                                "GONDAR is an anagram of DRAGON. NITFOL is a backwards, and somewhat modified, rendering of Hugh Lofting's name (he is the author of the Dr. Doolittle stories).",
+                                "EXEX is an obscure reference to a very slow mainframe computer. FILFRE is a modification of the expression \"Feel Free,\" which is commonly uttered by game writers.",
+                                "The others are either obliquely related to the original mainframe version of ZORK, or totally arbitrary. Any relation between the names of spells and persons, living or dead, is a pity for the persons involved."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Do spells work on unintended objects?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Do spells work on unintended objects?",
+                            "hints": [
+                                "Oh yes. Try a bunch of spells on random objects."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Have You Tried...?",
+            "child": {
+                "type": "items",
+                "title": "Have You Tried...?",
+                "content": "<p>(When you think you've seen everything)</p><p>casting the KULCAD spell on everything remotely magical?</p><p>casting the GUNCHO spell on everything that moves?</p><p>talking to or befriending the guards in the cell? the dragon?</p><p>listening to the guards' conversation while in the cell?</p><p>sleeping outside the grounds of the castle?</p><p>using BLORB on yourself? the adventurer?</p><p>giving something to the adventurer after he says \"Hello, Sailor\"?</p><p>using ZIFMIA to summon the implementers? Krill? Belboz? Entharion? the Terror?</p><p>using CLEESH on Krill? the adventurer? yourself? the guards?</p><p>reading all of the signs along the Long Road?</p><p>leading the adventurer or turtle onto the Winding Stair?</p><p>writing on spell scrolls with the pencil?</p>"
+            }
+        },
+        {
+            "title": "Scoring Points",
+            "child": {
+                "type": "items",
+                "title": "Scoring Points",
+                "content": "<p>(As a last resort)</p><pre>  Points  Action\n    20    opening the iron gate\n    20    making light\n    25    finding the GONDAR scroll (in the Library)\n    10    opening the egg\n     5    repairing the scroll destroyed by the egg\n    25    finding the OZMOO scroll (in the gallery)\n    35    surviving the sacrifice\n    25    opening the jewelled box\n    20    finding the VAXUM scroll (in the bedroom)\n    10    summoning the adventurer\n    35    getting behind the guarded door\n    50    getting the GUNCHO scroll and re-trapping the Terror\n    25    getting the KULCAD scroll using the turtle\n    10    eating food (the first time)\n    15    drinking water (the first time)\n    20    dispelling the stair illusion\n    50    defeating Krill\n    400   Total</pre>"
+            }
+        },
+        {
+            "title": "The Spells and Their Locations",
+            "child": {
+                "type": "items",
+                "title": "The Spells and Their Locations",
+                "content": "<p>(Use only as a last resort)</p><pre>  Spell     Location\n  GNUSTO    Spell Book\n  BLORB     Spell Book\n  NITFOL    Spell Book\n  FROTZ     Spell Book\n  REZROV    Hovel (given by the crone)\n  KREBF     Forest\n  CLEESH    Swamp (under a lily pad)\n  GONDAR    Library (in the rat hole)\n  OZMOO     Gallery (behind the lighted portrait)\n  VAXUM     Bedroom (in the bedpost)\n  EXEX      Dungeon cell (behind a loosened block)\n  MELBOR    Closet (in the jewelled box)\n  ZIFMIA    Jewel Room (in the egg)\n  FILFRE    Map Room\n  KULCAD    Control Room\n  IZYUK     Winding Stair/Bottomless Pit\n  GUNCHO    Translucent Room \"P\"</pre>"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1246 @@
+{
+    "type": "menu",
+    "title": "Infidel",
+    "children": [
+        {
+            "title": "About",
+            "child": {
+                "type": "page",
+                "title": "About PRIZM Invisiclues",
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+            }
+        },
+        {
+            "title": "Credits ",
+            "child": {
+                "type": "page",
+                "title": "Credits",
+                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>from material supplied by:</p><p>  Paul David Doherty</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Infidel</b> and all other game names are registered trade marks of Activision.</p>"
+            }
+        },
+        {
+            "title": "Sample Question",
+            "child": {
+                "type": "menu",
+                "title": "Sample Question",
+                "children": [
+                    {
+                        "title": "Can I trust Hassan, the used camel dealer? ",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I trust Hassan, the used camel dealer?",
+                            "hints": [
+                                "Try to EXAMINE the camel that he recommends.",
+                                "Ask one of the other customers about Hassan.",
+                                "I'd trust him about as far as I could throw a pyramid."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Camping Out",
+            "child": {
+                "type": "menu",
+                "title": "Camping Out",
+                "children": [
+                    {
+                        "title": "How do I open the trunk?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I open the trunk?",
+                            "hints": [
+                                "You must remove the lock first.",
+                                "Try finding a key.",
+                                "Unfortunately, your ex-workers took the key with them.",
+                                "Fortunately, the lock isn't terribly sturdy.",
+                                "Try breaking the lock.",
+                                "The pick axe, shovel, or blackened rock are heavy enough to do the job."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where can I find food?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where can I find food?",
+                            "hints": [
+                                "You could try sending out for pizza.",
+                                "You could try eating the crocodiles (even as they return the favor).",
+                                "You'll find some food in the trunk."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where can I find water?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where can I find water?",
+                            "hints": [
+                                "The Nile River.",
+                                "You can fill the canteen.",
+                                "The canteen is in the knapsack."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get the airplane to land?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get the airplane to land?",
+                            "hints": [
+                                "Fire the signal flares.",
+                                "Didn't you leave them in the Supply Tent?",
+                                "Unfortunately, the workers took them when they abandoned you.",
+                                "There are no flares anywhere in the game.",
+                                "Really."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What good is the sleeping bag?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What good is the sleeping bag?",
+                            "hints": [
+                                "The sleeping bag is useful when you get tired.",
+                                "It gets cold in the desert at night.",
+                                "The lining of the sleeping bag is edible.",
+                                "What sleeping bag?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What's the black box in the wooden crate?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What's the black box in the wooden crate?",
+                            "hints": [
+                                "Have you pushed the button?",
+                                "It's a delicate piece of electronics.",
+                                "It can tell you exact latitude and longitude.",
+                                "If it's making funny noises when you push the button, that means you've broken it.",
+                                "Unfortunately, you have no way to fix it.",
+                                "Don't break it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I use the cigarette pack?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I use the cigarette pack?",
+                            "hints": [
+                                "You can try signalling the airplane with it.",
+                                "You can try filling it with sand.",
+                                "You can try burning it.",
+                                "You can try giving it to the mummy.",
+                                "You can assume it has no use."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where will I find the pyramid?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where will I find the pyramid?",
+                            "hints": [
+                                "Have you tried looking under the cot?",
+                                "The navigation box you sent for might help.",
+                                "The navigation box is in the packing crate that parachutes down.",
+                                "The map from the game package also might help.",
+                                "When the box shows the same coordinates as the <b>X</b> on the map, dig with the shovel.",
+                                "The proper coordinates are 24 degrees, 11 minutes, 3 seconds N and 32 degrees, 12 minutes, 43 seconds E.",
+                                "If you still can't find it, go to the Fire Pit and then go SE, E, and E once more. You are now on the spot.",
+                                "You'll have to dig five times."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Okay. I've found the pyramid. How do I get in?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Okay. I've found the pyramid. How do I get in?",
+                            "hints": [
+                                "Have you tried examining the opening?",
+                                "Have you tried putting something in the opening?",
+                                "Have you translated the hieroglyphs? If you have, you will notice that they contain only half of a message.",
+                                "Have you found the stone cube?",
+                                "Have you opened the map?",
+                                "Have you translated the hieroglyphs on the stone cube?",
+                                "Have you tried to COMPARE THE STONE CUBE TO THE OPENING?",
+                                "Have you PUT THE STONE CUBE IN THE OPENING?"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Chamber of Ra",
+            "child": {
+                "type": "menu",
+                "title": "The Chamber of Ra",
+                "children": [
+                    {
+                        "title": "What's in the jar?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What's in the jar?",
+                            "hints": [
+                                "You can use the liquid inside the jar with another object in the Chamber of Ra.",
+                                "It's oil for the torch.",
+                                "POUR THE OIL ON THE TORCH."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What's the significance of the altar?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What's the significance of the altar?",
+                            "hints": [
+                                "The Egyptians originally placed it in the pyramid as a place to pray.",
+                                "You can climb on and off it.",
+                                "It is a very sturdy thing to tie a rope to."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there any way to get down the steep staircase?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any way to get down the steep staircase?",
+                            "hints": [
+                                "Yes.",
+                                "You can even do it without killing yourself in the process.",
+                                "Use the rope.",
+                                "TIE THE ROPE TO THE ALTAR. THROW THE ROPE DOWN THE STEEP STAIRCASE. CLIMB DOWN THE ROPE."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Around the Circular Room",
+            "child": {
+                "type": "menu",
+                "title": "Around the Circular Room",
+                "children": [
+                    {
+                        "title": "How do I keep the statue from breaking?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I keep the statue from breaking?",
+                            "hints": [
+                                "If you don't bother the statue, it won't break.",
+                                "Unfortunately, if you don't break the statue, you won't be able to solve the problems in this area."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get past the stone doors?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get past the stone doors?",
+                            "hints": [
+                                "Did you notice what happens to the opposite stone door when you enter a hallway?",
+                                "You can get a stone door to remain open by leaving enough weight in the opposite hallway.",
+                                "The broken statue and the head together will provide enough weight to counterbalance the doors.",
+                                "To move the statue, push it in a direction (e.g. PUSH STATUE SW)."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What can I do with the panels in the goddesses' rooms?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What can I do with the panels in the goddesses' rooms?",
+                            "hints": [
+                                "You can try examining them.",
+                                "The only thing you can do with the panels is read the hieroglyphs on them."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get to the Netherworld?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get to the Netherworld?",
+                            "hints": [
+                                "You might get there by dying.",
+                                "There is no place called the Netherworld in Infidel. Remember the introduction to this book -- do not use the presence or absence of a question as an indication of what is important, and don't assume that long answers are associated with important questions."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get to the Netherlands?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get to the Netherlands?",
+                            "hints": [
+                                "Call a travel agent."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I use the opal cluster as a light source?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I use the opal cluster as a light source?",
+                            "hints": [
+                                "It is \"glistening with the light of a thousand fires.\"",
+                                "Try carrying it somewhere without the torch.",
+                                "Unfortunately, the glistening is all reflected light.",
+                                "You can't use the opal cluster as a light source."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Barge and Temple Area",
+            "child": {
+                "type": "menu",
+                "title": "The Barge and Temple Area",
+                "children": [
+                    {
+                        "title": "How do I get the barge back to the Nile?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get the barge back to the Nile?",
+                            "hints": [
+                                "The plank is a good lever.",
+                                "The jar is a good fulcrum.",
+                                "Did you put the rope through the pulley?",
+                                "Forget it. The barge won't fit through the doorway."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I take the beam?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I take the beam?",
+                            "hints": [
+                                "It certainly is big.",
+                                "\"It seems to be securely wedged in the masthole.\"",
+                                "It seems to be wedged below deck, too.",
+                                "Have you looked in the slot below deck?",
+                                "Once you take the shim, you can lift the beam.",
+                                "Of course, you'll need both hands free.",
+                                "Dropping the torch in a wooden barge is a bad idea.",
+                                "There's a place to put the torch without dropping it on the deck.",
+                                "PUT THE TORCH IN THE KNOTHOLE.",
+                                "Now, if you're not carrying anything else, you can lift the beam.",
+                                "Then you can go up on deck and take it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get the large painting from the temple?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get the large painting from the temple?",
+                            "hints": [
+                                "You can't. It adds atmosphere to the room."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Whose skeleton do I come across in the Inner Chamber?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Whose skeleton do I come across in the Inner Chamber?",
+                            "hints": [
+                                "Miss Ellingsworth?",
+                                "An early Infocom game tester?",
+                                "An overzealous Zorker?",
+                                "Trusty Sergeant Duffy?",
+                                "One of the original pyramid builders who tried to hide?",
+                                "None of the above?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What can I do with the jeweled ring?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What can I do with the jeweled ring?",
+                            "hints": [
+                                "You are overwhelmed by its beauty.",
+                                "It probably fits you perfectly.",
+                                "Examine it.",
+                                "If you did try it on, I hope you did a SAVE first.",
+                                "It seems to have been left as a trap for careless treasure hunters."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where is the bronze chalice?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where is the bronze chalice?",
+                            "hints": [
+                                "Have you offered a libation to Ra?",
+                                "Have you followed the mummy?",
+                                "Have you found the tire pump?",
+                                "Have you begun to suspect that there is no bronze chalice?"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Cube Region",
+            "child": {
+                "type": "menu",
+                "title": "The Cube Region",
+                "children": [
+                    {
+                        "title": "I've matched the wall colors on five sides of the cube, but the sixth is giving me a headache. What should I do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "...sixth is giving me a headache. What should I do?",
+                            "hints": [
+                                "Get a paintbrush and a can of paint.",
+                                "Paint the sixth side of the cube so all of its minicubes are the same color.",
+                                "Take a hammer, put your cube on the sidewalk, and get even!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "There seems to be a room missing. What should I do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "There seems to be a room missing. What should I do?",
+                            "hints": [
+                                "Start by reading the hieroglyphs in the center cube room.",
+                                "Examine the panel on the wall in the south edge of the area.",
+                                "Read the scroll you found in the Fore Cabin of the barge.",
+                                "Take the first, third, and fifth bricks out of the panel."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What's the significance of the panel?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What's the significance of the panel?",
+                            "hints": [
+                                "There's a clue in the barge area.",
+                                "Read the scroll from the Fore Cabin.",
+                                "TAKE THE FIRST BRICK, THE THIRD BRICK, AND THE FIFTH BRICK. Lo and behold, a new passageway shall appear!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do when the mummy appears?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do when the mummy appears?",
+                            "hints": [
+                                "Above all, try to keep your cool. Mummies hate sweaty people and will attack them without thought.",
+                                "Say HELLO MUMMY.",
+                                "BURN THE TANNIS LEAVES.",
+                                "Have your eyes checked. No mummy appears in this game.",
+                                "(Nor do any tannis leaves.)"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What significance is the sixteen-step staircase?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What significance is the sixteen-step staircase?",
+                            "hints": [
+                                "It conforms to the strict Egyptian pyramid building codes.",
+                                "It connects Top of Staircase and Bottom of Stairs."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I do at the bottom of the stairs?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do at the bottom of the stairs?",
+                            "hints": [
+                                "Read the hieroglyphs.",
+                                "Try going through the plaster.",
+                                "Try removing the plaster with the axe."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What's going on in the western end of the Narrow Passageway?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What's going on in the western end of the Narrow Passageway?",
+                            "hints": [
+                                "Read the hieroglyphs.",
+                                "Try going through the plaster.",
+                                "Try removing the plaster with the axe.",
+                                "Oops! Hope you did a SAVE first!",
+                                "Examine the niches.",
+                                "Put the beam in the niches.",
+                                "Stand on the beam.",
+                                "Now try removing the plaster with the axe."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I keep the floor from disappearing?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I keep the floor from disappearing?",
+                            "hints": [
+                                "You can't.",
+                                "But you may be able to find a way to avoid disappearing with the floor.",
+                                "Find some way of standing on something above the floor.",
+                                "Put the beam in the niches.",
+                                "Stand on the beam."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can the rats help me?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can the rats help me?",
+                            "hints": [
+                                "If you meet the rats, the only help they can provide is to be quick about their work."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Antechamber Area",
+            "child": {
+                "type": "menu",
+                "title": "The Antechamber Area",
+                "children": [
+                    {
+                        "title": "How do I get through the inset doorway in the south Antechamber?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get through the inset doorway in the south Antechamber?",
+                            "hints": [
+                                "Open the door.",
+                                "Oops...Hope you did a SAVE first.",
+                                "Read the hieroglyphs.",
+                                "Go back to the middle Antechamber and TAKE THE BEAM.",
+                                "WEDGE THE BEAM BETWEEN THE ROCKS.",
+                                "Now open the door.",
+                                "Take care: once you take the beam out from between the rocks, the inset doorway will be lost forever."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What's the significance of the stone slab in the Annex?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What's the significance of the stone slab in the Annex?",
+                            "hints": [
+                                "It's not a bad Egyptian imitation of a pool table.",
+                                "You do want to put something in the holes, though.",
+                                "Try the clusters.",
+                                "Remember the arrangement of the goddesses' rooms around the Circular Room?",
+                                "You'll notice that there's no center hole for the golden cluster.",
+                                "Once the clusters are in the correct holes, you can LIFT THE SLAB.",
+                                "PUT THE DIAMOND CLUSTER IN THE FIRST HOLE. PUT THE RUBY CLUSTER IN THE SECOND HOLE. PUT THE EMERALD CLUSTER IN THE THIRD HOLE. PUT THE OPAL CLUSTER IN THE FOURTH HOLE."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the spatula used for?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the spatula used for?",
+                            "hints": [
+                                "Although the book is not a cook book, the spatula is related to the book.",
+                                "Have you tried to OPEN THE BOOK?",
+                                "The spatula may succeed where your less-than-delicate touch has failed.",
+                                "Have you tried to OPEN THE BOOK WITH THE SPATULA?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get through the doorway in the north Antechamber?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get through the doorway in the north Antechamber?",
+                            "hints": [
+                                "Read the hieroglyphs.",
+                                "You'll need something sturdy to keep the roof from caving in.",
+                                "WEDGE THE BEAM UNDER THE LINTEL.",
+                                "Now, BREAK THE SEALS WITH THE AXE.",
+                                "Now, OPEN THE DOOR.",
+                                "Take care: once you remove the beam from the doorway, it will become impossible to get back through the doorway."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I take the scarab?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I take the scarab?",
+                            "hints": [
+                                "Yes.",
+                                "Although you may think you've seen a similar situation in the movies, there is no way to replace the scarab with something of equal weight.",
+                                "Weight <b>is</b> important here, however.",
+                                "Remember the hieroglyphs from the Inner Chamber?",
+                                "You'll have to find a way to balance the two side discs so that the middle disc is even with the table.",
+                                "Use the chalices.",
+                                "Since the silver chalice is lighter than the gold one, fill it with water."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I open the sarcophagus?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I open the sarcophagus?",
+                            "hints": [
+                                "Yes.",
+                                "Have you read the writing in the ancient book?",
+                                "Have you read the hieroglyphs in the goddesses' rooms?",
+                                "The proper objects need to be in the recesses on the sarcophagus.",
+                                "Put the ancient book in the large recess.",
+                                "Put the scarab in the smaller recess.",
+                                "Now the statues are free to be turned.",
+                                "You can find the proper order in the symbols in the goddesses' rooms.",
+                                "TURN NEITH. TURN SELKIS. TURN ISIS. TURN NEPHTHYS.",
+                                "OPEN THE SARCOPHAGUS."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I do when Craige shows up?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do when Craige shows up?",
+                            "hints": [
+                                "Ask him for a cheeseburger with onions."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Hieroglyphic Dictionary",
+            "child": {
+                "type": "menu",
+                "title": "Hieroglyphic Dictionary",
+                "children": [
+                    {
+                        "title": "Introduction ",
+                        "child": {
+                            "type": "page",
+                            "title": "Introduction",
+                            "content": "<p>This dictionary is included for those players who feel that the translations of one or two symbols would be helpful. It is one interpretation of what the hieroglyphs mean; others may be equally valid. (Then again, they may not.)</p>"
+                        }
+                    },
+                    {
+                        "title": ".",
+                        "child": {
+                            "type": "page",
+                            "title": ".",
+                            "content": "<p>On/over</p>"
+                        }
+                    },
+                    {
+                        "title": ". ",
+                        "child": {
+                            "type": "page",
+                            "title": ".",
+                            "content": "<p>Under/beneath</p>"
+                        }
+                    },
+                    {
+                        "title": ".- ",
+                        "child": {
+                            "type": "page",
+                            "title": ".-",
+                            "content": "<p>West</p>"
+                        }
+                    },
+                    {
+                        "title": "-. ",
+                        "child": {
+                            "type": "page",
+                            "title": "-.",
+                            "content": "<p>East</p>"
+                        }
+                    },
+                    {
+                        "title": "/ ",
+                        "child": {
+                            "type": "page",
+                            "title": "/",
+                            "content": "<p>North-east</p>"
+                        }
+                    },
+                    {
+                        "title": "\\ ",
+                        "child": {
+                            "type": "page",
+                            "title": "\\",
+                            "content": "<p>North-west</p>"
+                        }
+                    },
+                    {
+                        "title": "/",
+                        "child": {
+                            "type": "page",
+                            "title": "/",
+                            "content": "<p>South-west</p>"
+                        }
+                    },
+                    {
+                        "title": "\\ .",
+                        "child": {
+                            "type": "page",
+                            "title": "\\",
+                            "content": "<p>South-east</p>"
+                        }
+                    },
+                    {
+                        "title": "! ",
+                        "child": {
+                            "type": "page",
+                            "title": "!",
+                            "content": "<p>South</p>"
+                        }
+                    },
+                    {
+                        "title": "/ ",
+                        "child": {
+                            "type": "page",
+                            "title": "/",
+                            "content": "<p>To</p>"
+                        }
+                    },
+                    {
+                        "title": "\\/ ",
+                        "child": {
+                            "type": "page",
+                            "title": "\\/",
+                            "content": "<p>Until</p>"
+                        }
+                    },
+                    {
+                        "title": "//\\\\ ",
+                        "child": {
+                            "type": "page",
+                            "title": "//\\\\",
+                            "content": "<p>Treasures</p>"
+                        }
+                    },
+                    {
+                        "title": "/!\\ ",
+                        "child": {
+                            "type": "page",
+                            "title": "/!\\",
+                            "content": "<p>Mast</p>"
+                        }
+                    },
+                    {
+                        "title": "!!! ",
+                        "child": {
+                            "type": "page",
+                            "title": "!!!",
+                            "content": "<p>Plaster</p>"
+                        }
+                    },
+                    {
+                        "title": "!---! ",
+                        "child": {
+                            "type": "page",
+                            "title": "!---!",
+                            "content": "<p>Large area</p>"
+                        }
+                    },
+                    {
+                        "title": "!--! ",
+                        "child": {
+                            "type": "page",
+                            "title": "!--!",
+                            "content": "<p>Small area</p>"
+                        }
+                    },
+                    {
+                        "title": "! !",
+                        "child": {
+                            "type": "page",
+                            "title": "! !",
+                            "content": "<p>Room</p>"
+                        }
+                    },
+                    {
+                        "title": "!=!",
+                        "child": {
+                            "type": "page",
+                            "title": "!=!",
+                            "content": "<p>Lintel</p>"
+                        }
+                    },
+                    {
+                        "title": "! ! -",
+                        "child": {
+                            "type": "page",
+                            "title": "! !",
+                            "content": "<p>Doorway/door</p>"
+                        }
+                    },
+                    {
+                        "title": "!-!",
+                        "child": {
+                            "type": "page",
+                            "title": "!-!",
+                            "content": "<p>Entrance</p>"
+                        }
+                    },
+                    {
+                        "title": "(=  =) ",
+                        "child": {
+                            "type": "page",
+                            "title": "(=  =)",
+                            "content": "<p>Niches</p>"
+                        }
+                    },
+                    {
+                        "title": "(.) ",
+                        "child": {
+                            "type": "page",
+                            "title": "(.)",
+                            "content": "<p>Between</p>"
+                        }
+                    },
+                    {
+                        "title": "(+) ",
+                        "child": {
+                            "type": "page",
+                            "title": "(+)",
+                            "content": "<p>Clothing</p>"
+                        }
+                    },
+                    {
+                        "title": "+/+ ",
+                        "child": {
+                            "type": "page",
+                            "title": "+/+",
+                            "content": "<p>Injury</p>"
+                        }
+                    },
+                    {
+                        "title": "(*) ",
+                        "child": {
+                            "type": "page",
+                            "title": "(*)",
+                            "content": "<p>Appear</p>"
+                        }
+                    },
+                    {
+                        "title": "( ",
+                        "child": {
+                            "type": "page",
+                            "title": "(",
+                            "content": "<p>Open</p>"
+                        }
+                    },
+                    {
+                        "title": ")) ",
+                        "child": {
+                            "type": "page",
+                            "title": "))",
+                            "content": "<p>Turn</p>"
+                        }
+                    },
+                    {
+                        "title": ")( ",
+                        "child": {
+                            "type": "page",
+                            "title": ")(",
+                            "content": "<p>Mummy</p>"
+                        }
+                    },
+                    {
+                        "title": "(()) ",
+                        "child": {
+                            "type": "page",
+                            "title": "(())",
+                            "content": "<p>All</p>"
+                        }
+                    },
+                    {
+                        "title": "-) ",
+                        "child": {
+                            "type": "page",
+                            "title": "-)",
+                            "content": "<p>Will</p>"
+                        }
+                    },
+                    {
+                        "title": "-> ",
+                        "child": {
+                            "type": "page",
+                            "title": "->",
+                            "content": "<p>Through</p>"
+                        }
+                    },
+                    {
+                        "title": "<-* ",
+                        "child": {
+                            "type": "page",
+                            "title": "<-*",
+                            "content": "<p>Place/put</p>"
+                        }
+                    },
+                    {
+                        "title": "*-> ",
+                        "child": {
+                            "type": "page",
+                            "title": "*->",
+                            "content": "<p>Remove</p>"
+                        }
+                    },
+                    {
+                        "title": "... ",
+                        "child": {
+                            "type": "page",
+                            "title": "...",
+                            "content": "<p>Then</p>"
+                        }
+                    },
+                    {
+                        "title": "<... ",
+                        "child": {
+                            "type": "page",
+                            "title": "<...",
+                            "content": "<p>Return</p>"
+                        }
+                    },
+                    {
+                        "title": "...> ",
+                        "child": {
+                            "type": "page",
+                            "title": "...>",
+                            "content": "<p>Go/travel</p>"
+                        }
+                    },
+                    {
+                        "title": ">... ",
+                        "child": {
+                            "type": "page",
+                            "title": ">...",
+                            "content": "<p>From</p>"
+                        }
+                    },
+                    {
+                        "title": "--->> ",
+                        "child": {
+                            "type": "page",
+                            "title": "--->>",
+                            "content": "<p>Pathway</p>"
+                        }
+                    },
+                    {
+                        "title": "--- ",
+                        "child": {
+                            "type": "page",
+                            "title": "---",
+                            "content": "<p>Papyrus</p>"
+                        }
+                    },
+                    {
+                        "title": "- ",
+                        "child": {
+                            "type": "page",
+                            "title": "-",
+                            "content": "<p>Lies/rests</p>"
+                        }
+                    },
+                    {
+                        "title": "= ",
+                        "child": {
+                            "type": "page",
+                            "title": "=",
+                            "content": "<p>Winds</p>"
+                        }
+                    },
+                    {
+                        "title": "-!- ",
+                        "child": {
+                            "type": "page",
+                            "title": "-!-",
+                            "content": "<p>Balance</p>"
+                        }
+                    },
+                    {
+                        "title": "=!= ",
+                        "child": {
+                            "type": "page",
+                            "title": "=!=",
+                            "content": "<p>Offering</p>"
+                        }
+                    },
+                    {
+                        "title": "= ",
+                        "child": {
+                            "type": "page",
+                            "title": "=",
+                            "content": "<p>Book</p>"
+                        }
+                    },
+                    {
+                        "title": "; ",
+                        "child": {
+                            "type": "page",
+                            "title": ";",
+                            "content": "<p>With</p>"
+                        }
+                    },
+                    {
+                        "title": ": ",
+                        "child": {
+                            "type": "page",
+                            "title": ":",
+                            "content": "<p>A</p>"
+                        }
+                    },
+                    {
+                        "title": ":: ",
+                        "child": {
+                            "type": "page",
+                            "title": "::",
+                            "content": "<p>And</p>"
+                        }
+                    },
+                    {
+                        "title": "# ",
+                        "child": {
+                            "type": "page",
+                            "title": "#",
+                            "content": "<p>The</p>"
+                        }
+                    },
+                    {
+                        "title": "#. ",
+                        "child": {
+                            "type": "page",
+                            "title": "#.",
+                            "content": "<p>This</p>"
+                        }
+                    },
+                    {
+                        "title": "* ",
+                        "child": {
+                            "type": "page",
+                            "title": "*",
+                            "content": "<p>Ra</p>"
+                        }
+                    },
+                    {
+                        "title": "*",
+                        "child": {
+                            "type": "page",
+                            "title": "*",
+                            "content": "<p>dawn</p>"
+                        }
+                    },
+                    {
+                        "title": "* ",
+                        "child": {
+                            "type": "page",
+                            "title": "*",
+                            "content": "<p>Night</p>"
+                        }
+                    },
+                    {
+                        "title": "** ",
+                        "child": {
+                            "type": "page",
+                            "title": "**",
+                            "content": "<p>New</p>"
+                        }
+                    },
+                    {
+                        "title": "!* ",
+                        "child": {
+                            "type": "page",
+                            "title": "!*",
+                            "content": "<p>Gold</p>"
+                        }
+                    },
+                    {
+                        "title": "*! ",
+                        "child": {
+                            "type": "page",
+                            "title": "*!",
+                            "content": "<p>Silver</p>"
+                        }
+                    },
+                    {
+                        "title": ">*> ",
+                        "child": {
+                            "type": "page",
+                            "title": ">*>",
+                            "content": "<p>Scarab</p>"
+                        }
+                    },
+                    {
+                        "title": "<.> ",
+                        "child": {
+                            "type": "page",
+                            "title": "<.>",
+                            "content": "<p>One</p>"
+                        }
+                    },
+                    {
+                        "title": "<:> ",
+                        "child": {
+                            "type": "page",
+                            "title": "<:>",
+                            "content": "<p>Two</p>"
+                        }
+                    },
+                    {
+                        "title": "<:.> ",
+                        "child": {
+                            "type": "page",
+                            "title": "<:.>",
+                            "content": "<p>Three</p>"
+                        }
+                    },
+                    {
+                        "title": "<::> ",
+                        "child": {
+                            "type": "page",
+                            "title": "<::>",
+                            "content": "<p>Four</p>"
+                        }
+                    },
+                    {
+                        "title": "<::.> ",
+                        "child": {
+                            "type": "page",
+                            "title": "<::.>",
+                            "content": "<p>Five</p>"
+                        }
+                    },
+                    {
+                        "title": "<:::> ",
+                        "child": {
+                            "type": "page",
+                            "title": "<:::>",
+                            "content": "<p>Six</p>"
+                        }
+                    },
+                    {
+                        "title": "<:::.> ",
+                        "child": {
+                            "type": "page",
+                            "title": "<:::.>",
+                            "content": "<p>Seven</p>"
+                        }
+                    },
+                    {
+                        "title": "<::::> ",
+                        "child": {
+                            "type": "page",
+                            "title": "<::::>",
+                            "content": "<p>Eight</p>"
+                        }
+                    },
+                    {
+                        "title": "<::::.> ",
+                        "child": {
+                            "type": "page",
+                            "title": "<::::.>",
+                            "content": "<p>Nine</p>"
+                        }
+                    },
+                    {
+                        "title": "<+> ",
+                        "child": {
+                            "type": "page",
+                            "title": "<+>",
+                            "content": "<p>Rutabaga</p>"
+                        }
+                    },
+                    {
+                        "title": "(@) ",
+                        "child": {
+                            "type": "page",
+                            "title": "(@)",
+                            "content": "<p>First</p>"
+                        }
+                    },
+                    {
+                        "title": "(@@) ",
+                        "child": {
+                            "type": "page",
+                            "title": "(@@)",
+                            "content": "<p>Second</p>"
+                        }
+                    },
+                    {
+                        "title": "(@@@) ",
+                        "child": {
+                            "type": "page",
+                            "title": "(@@@)",
+                            "content": "<p>Third</p>"
+                        }
+                    },
+                    {
+                        "title": "(@@@@) ",
+                        "child": {
+                            "type": "page",
+                            "title": "(@@@@)",
+                            "content": "<p>Fourth</p>"
+                        }
+                    },
+                    {
+                        "title": "!@! ",
+                        "child": {
+                            "type": "page",
+                            "title": "!@!",
+                            "content": "<p>Queen/she/her</p>"
+                        }
+                    },
+                    {
+                        "title": "@= ",
+                        "child": {
+                            "type": "page",
+                            "title": "@=",
+                            "content": "<p>Tennis racket</p>"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "How Points Are Scored",
+            "child": {
+                "type": "items",
+                "title": "How Points Are Scored",
+                "content": "<p>(use as a last resort)</p><pre>  Object                   Location          Value\n  diamond cluster          Room of Nephthys    5\n  emerald cluster          Room of Isis        5\n  opal cluster             Room of Neith       5\n  ruby cluster             Room of Selkis      5\n  beam                     barge              15\n  golden chalice           Golden Alcove      15\n  silver chalice           Silver Alcove      15\n  ancient book             in slab in Annex   10\n  scarab                   Treasury           10\nOther points are awarded for:\n  breaking the lock on the trunk (5)\n  finding the pyramid while digging (25)\n  putting the stone cube in the opening (20)\n  entering the Circular Room (30)\n  entering the Room of Isis (25)\n  entering the Room of Neith (25)\n  entering the Room of Nephthys (25)\n  entering the Room of Selkis (25)\n  taking the right bricks out of the panel in the Cube (25)\n  breaking the plaster at Bottom of Stairs (10)\n  breaking the plaster at the west end of the Narrow Passageway (25)\n  opening the sealed door in the north Antechamber (40)\n  opening the sarcophagus (35).</pre>"
+            }
+        },
+        {
+            "title": "For Your Amusement",
+            "child": {
+                "type": "items",
+                "title": "For Your Amusement",
+                "content": "<p>Have you tried...</p><p>reading the matchbook?</p><p>reading the inside of the matchbook?</p><p>reading the coupon?</p><p>filling out the coupon?</p><p>sending the coupon?</p><p>swimming?</p><p>wandering endlessly through the desert?</p><p>folding the cot?</p><p>sleeping on the cot outside your tent?</p><p>waving at the plane?</p><p>walking the plank?</p><p>dropping objects into the bottomless pit?</p><p>trying to do any of the following to yourself: EAT, DRINK, KILL, FIND, TAKE, EXAMINE, RUB, PLAY, GET ON, CLEAN, CLOSE, LEAVE, DROP, FOLLOW, SEARCH, SMELL, MAKE, SEARCH, WEAR?</p><p>drinking repeatedly from the Nile?</p><p>sitting on the crate?</p><p>attacking the crate with the pick axe?</p><p>praying?</p><p>filling the canteen with sand, emptying it, filling it with water, and taking a drink?</p>"
+            }
+        }
+    ]
+}

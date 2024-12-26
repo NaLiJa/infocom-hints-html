@@ -1,0 +1,936 @@
+{
+    "type": "menu",
+    "title": "Suspended",
+    "children": [
+        {
+            "title": "About",
+            "child": {
+                "type": "page",
+                "title": "About PRIZM Invisiclues",
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+            }
+        },
+        {
+            "title": "Credits ",
+            "child": {
+                "type": "page",
+                "title": "Credits",
+                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>from material supplied by:</p><p>  Paul David Doherty</p><p>  Graeme Cree</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Suspended</b> and all other game names are registered trade marks of Activision.</p>"
+            }
+        },
+        {
+            "title": "Sample Question",
+            "child": {
+                "type": "menu",
+                "title": "Sample Question",
+                "children": [
+                    {
+                        "title": "Will I ever get the floors around my CLC really clean and shiny? ",
+                        "child": {
+                            "type": "hints",
+                            "title": "Will I ever get the floors around my CLC really clean and shiny?",
+                            "hints": [
+                                "Yes! And it's as easy as A-B-C!",
+                                "Waldo must be wearing the waxing and buffing extension.",
+                                "He will have to use Neato brand floor wax."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "All About the Complex",
+            "child": {
+                "type": "menu",
+                "title": "All About the Complex",
+                "children": [
+                    {
+                        "title": "What's in the cylinder in the Central Chamber?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What's in the cylinder in the Central Chamber?",
+                            "hints": [
+                                "Try having a robot open it.",
+                                "Now you know."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What can I do with the Library Core?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What can I do with the Library Core?",
+                            "hints": [
+                                "You can always take books out if you've got your access card.",
+                                "Try having Whiz ask about Floyd.",
+                                "Actually, there's nothing you can do with it. It's there to feed information to the four peripherals accessible to Whiz."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get any of the robots to go north from the Hallway Junction?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get any of the robots to go north from the Hallway Junction?",
+                            "hints": [
+                                "Just tell them to go north once they're there.",
+                                "There's a step in the way. They can't climb the step.",
+                                "Find something so they can glide up and down the step.",
+                                "Have one of the robots carry the wedge from the middle supply room to the Hallway Junction. Then have the robot place the wedge against the step."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get the robots to the Biological Area?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get the robots to the Biological Area?",
+                            "hints": [
+                                "First, send them to the Hallway End and look around.",
+                                "What the robot is seeing is actually a car.",
+                                "Have the robot get in the car (or whatever the robot calls it). The rest is automatic."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why do robots keep dying when I send them into the FC Area?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why do robots keep dying when I send them into the FC Area?",
+                            "hints": [
+                                "Have Sensa report in the Short Corridor. She'll give you some data.",
+                                "Have Poet and Waldo enter the Cavernous Room. What they have to say may be of some help.",
+                                "Acid is being sprayed up through the floor, is floating through the air, and is settling on their thin metal skins."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get Poet to take the Transit System?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get Poet to take the Transit System?",
+                            "hints": [
+                                "Like all robots, he needs a token.",
+                                "Have him buy a pass from the conductor.",
+                                "Be serious!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I stop the robots from dying in the FC area?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I stop the robots from dying in the FC area?",
+                            "hints": [
+                                "Stop sending them in there.",
+                                "Repair Fred so he, with his acid shielding, can go in that area.",
+                                "But Fred cannot ever be repaired.",
+                                "Stop the acid mist."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I stop the acid mist?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I stop the acid mist?",
+                            "hints": [
+                                "Well, you could always try umbrellas...",
+                                "Unfortunately, there are no umbrellas in the game.",
+                                "Use the game board to determine what's immediately under the Cavernous Room.",
+                                "Try turning the wheel in the Maintenance Area below the FCs.",
+                                "Can't reach the wheel? Try standing on the wedge.",
+                                "Still can't reach the wheel? Try getting the people to help."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get the cutters from the top shelf?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get the cutters from the top shelf?",
+                            "hints": [
+                                "Try having a robot stand on something.",
+                                "Place the wedge under the shelf.",
+                                "Stand on the wedge.",
+                                "You've got them now."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Robots",
+            "child": {
+                "type": "menu",
+                "title": "The Robots",
+                "children": [
+                    {
+                        "title": "All About Iris",
+                        "child": {
+                            "type": "menu",
+                            "title": "All About Iris",
+                            "children": [
+                                {
+                                    "title": "What good is Iris when she can't see?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "What good is Iris when she can't see?",
+                                        "hints": [
+                                            "Iris is broken and needs to be fixed.",
+                                            "Have Waldo open the panel.",
+                                            "Replace the faulty chip."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "What part of Iris is malfunctioning?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "What part of Iris is malfunctioning?",
+                                        "hints": [
+                                            "Have you had all the robots examine each chip in the panel?",
+                                            "Have you had Sensa or Poet examine the chips one by one?",
+                                            "The bad chip is the \"rough device\" as Waldo calls it."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "What good is Iris once she can see?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "What good is Iris once she can see?",
+                                        "hints": [
+                                            "Have you sent her to the three monitoring locations?",
+                                            "She can tell you the state of affairs on the surface of the planet by looking at the monitors.",
+                                            "She can enter the reset access codes once the FCs are back in balance."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "How can I open up Iris?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "How can I open up Iris?",
+                                        "hints": [
+                                            "Have you tried having each robot open her?",
+                                            "Have you asked Whiz to query the CLC about Waldo?",
+                                            "Waldo can open Iris once the grasping extension has been attached."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "How do I get Iris to the Robot Repair Area?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "How do I get Iris to the Robot Repair Area?",
+                                        "hints": [
+                                            "Have you tried dragging her there?",
+                                            "Have you tried sending her there?",
+                                            "Have you tried having her follow another robot there?",
+                                            "What makes you think you have to do this at all?",
+                                            "You can't. Iris cannot leave the Monitor Area."
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Wonderful Waldo",
+                        "child": {
+                            "type": "menu",
+                            "title": "Wonderful Waldo",
+                            "children": [
+                                {
+                                    "title": "How can I get Waldo to fix Iris?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "How can I get Waldo to fix Iris?",
+                                        "hints": [
+                                            "Have you found the extension he needs for delicate work?",
+                                            "Have you looked in the Middle Supply Room for an extension?",
+                                            "Have you told Waldo to attach or wear the extension?"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "How can I get Waldo to tell me what's on the monitors?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "How can I get Waldo to tell me what's on the monitors?",
+                                        "hints": [
+                                            "Have you asked him to look at the monitors?",
+                                            "Have you had him wear his glasses?",
+                                            "What makes you think Waldo can see at all?",
+                                            "This is a job for Iris!"
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What's up with Whiz",
+                        "child": {
+                            "type": "menu",
+                            "title": "What's up with Whiz",
+                            "children": [
+                                {
+                                    "title": "How do I get Whiz to answer my questions?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "How do I get Whiz to answer my questions?",
+                                        "hints": [
+                                            "Have you typed in HELP?",
+                                            "Have you directed Whiz to any of the peripherals?",
+                                            "Have you typed WHIZ, PLUG IN?",
+                                            "Have you typed WHIZ, ASK ABOUT (or QUERY ABOUT) something?"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "Why does Whiz call everything by a number?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "Why does Whiz call everything by a number?",
+                                        "hints": [
+                                            "Whiz isn't very smart by himself. The numbers are supplied by the Central Library Core.",
+                                            "The numbers always give a hint as to what the object really is.",
+                                            "The number and letter sequence usually represents the real name for that object."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "How do I get Whiz to plug himself into Sensa?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "How do I get Whiz to plug himself into Sensa?",
+                                        "hints": [
+                                            "Shame on you."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "What good is Whiz?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "What good is Whiz?",
+                                        "hints": [
+                                            "Whiz can supply you with hints once he's plugged into the Advisory Pedestal.",
+                                            "Whiz can supply background material from the other pedestals when it's available.",
+                                            "Once you know all about what Whiz has to tell you, you might be able to figure out another way to use him."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "Does Whiz have a personality problem interacting with the other robots?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "Does Whiz have a personality problem interacting with the other robots?",
+                                        "hints": [
+                                            "No.",
+                                            "For the most part, he has no personality."
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Sensitive Sensa",
+                        "child": {
+                            "type": "menu",
+                            "title": "Sensitive Sensa",
+                            "children": [
+                                {
+                                    "title": "What was Sensa designed to do?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "What was Sensa designed to do?",
+                                        "hints": [
+                                            "Sensa can detect all kinds of vibrations.",
+                                            "Sensa issues the tremor warnings.",
+                                            "Sensa can detect all kinds of radiation emissions.",
+                                            "Sensa can also detect electrical flow."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "How do I get Sensa to work?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "How do I get Sensa to work?",
+                                        "hints": [
+                                            "Have Sensa examine an object. She will tell you anything she may detect about it.",
+                                            "Have you tried having her report?"
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Enigmatic Poet",
+                        "child": {
+                            "type": "menu",
+                            "title": "Enigmatic Poet",
+                            "children": [
+                                {
+                                    "title": "Poet talks gibberish, no?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "Poet talks gibberish, no?",
+                                        "hints": [
+                                            "Yes, he does.",
+                                            "No, he doesn't.",
+                                            "Poet is unable to process information normally, and so he does the best he can.",
+                                            "Try having Poet and several other robots describe the same thing.",
+                                            "You'll catch on."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "How do I fix Poet?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "How do I fix Poet?",
+                                        "hints": [
+                                            "Drag Poet to the Multiplexing Staging Center.",
+                                            "Place Poet in the Centrifugal Disassembler.",
+                                            "What makes you think there's anything wrong with him?"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "What is Poet's function?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "What is Poet's function?",
+                                        "hints": [
+                                            "Poet's a specialized robot, capable of diagnosing problems.",
+                                            "Have you asked Poet to report?",
+                                            "Have him touch some objects."
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Auda, a Patient Listener",
+                        "child": {
+                            "type": "menu",
+                            "title": "Auda, a Patient Listener",
+                            "children": [
+                                {
+                                    "title": "How do I get Auda to talk?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "How do I get Auda to talk?",
+                                        "hints": [
+                                            "First, find the vox chip.",
+                                            "Plug the vox chip into Auda's mouth hole.",
+                                            "You can't get Auda to talk. She's all ears."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "How do I get Auda out of the upper section of the Complex?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "How do I get Auda out of the upper section of the Complex?",
+                                        "hints": [
+                                            "Tell Auda to go to any room you like.",
+                                            "Have Auda climb the step.",
+                                            "You need something to go by the step so she can roll over it."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "How do I get Auda to listen to what's going on?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "How do I get Auda to listen to what's going on?",
+                                        "hints": [
+                                            "Have you tried AUDA, LISTEN?",
+                                            "Have you tried AUDA, LISTEN?",
+                                            "Try typing in AUDA, LISTEN and then wait for awhile. When Auda interrupts to tell you something is going on, have her follow the talking creatures."
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Fred, the Intrepid",
+                        "child": {
+                            "type": "menu",
+                            "title": "Fred, the Intrepid",
+                            "children": [
+                                {
+                                    "title": "Where do I find Fred?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "Where do I find Fred?",
+                                        "hints": [
+                                            "Have you looked in the cabinet in Gamma Repair?",
+                                            "He's in the cabinet in Gamma Repair. You must somehow move him.",
+                                            "Have two robots move Fred.",
+                                            "You do this by typing BOTH (robot) AND (robot), MOVE FRED."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "How do I get the FCs to talk to Fred?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "How do I get the FCs to talk to Fred?",
+                                        "hints": [
+                                            "Fred is dead.",
+                                            "Forget him.",
+                                            "Fred can never be repaired."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "How can I repair Fred?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "How can I repair Fred?",
+                                        "hints": [
+                                            "You send out for a repairperson.",
+                                            "You send him out for repairs.",
+                                            "Forget it. You can't fix him at all."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "Does Fred perform any useful function?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "Does Fred perform any useful function?",
+                                        "hints": [
+                                            "He was once a great dancer.",
+                                            "There's something in him that is indeed useful.",
+                                            "Try to take the red wire in him. Since he no longer works, he won't miss it.",
+                                            "You'll need to have a robot use the cutting tool."
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "FC Interrupt: Intruder Alert!",
+            "child": {
+                "type": "menu",
+                "title": "FC Interrupt: Intruder Alert!",
+                "children": [
+                    {
+                        "title": "The FCs warn that intruders have entered the Complex. How do I communicate with them?",
+                        "child": {
+                            "type": "hints",
+                            "title": "...with them?",
+                            "hints": [
+                                "There's no way to talk to them. You can only listen to what they say.",
+                                "Have Auda listen.",
+                                "Have Auda follow the talking mechanisms while she's listening."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I keep dying, and when I do, three people are standing there. What's going on?",
+                        "child": {
+                            "type": "hints",
+                            "title": "...What's going on?",
+                            "hints": [
+                                "The people are replacing you with a clone.",
+                                "They think that you're insane and are creating all the problems yourself.",
+                                "They don't have any choice in what they do. They assume you are at fault unless you somehow communicate the true nature of the problem to them."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I stop the people from killing me?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I stop the people from killing me?",
+                            "hints": [
+                                "Have you tried killing them?",
+                                "Have you tried preventing them from getting to the Biological Area?",
+                                "Have you tried showing them what's wrong with the complex?",
+                                "Well, there are two ways, though the first gets you only another 75 cycles:"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What's in the bag the people are carrying?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What's in the bag the people are carrying?",
+                            "hints": [
+                                "Have a robot take the bag while the people are asleep.",
+                                "Have the robot open the bag and find out for you.",
+                                "You can't open the bag. It belongs to the people.",
+                                "There are some cloning tools inside the bag which humans can use, but robots cannot use."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Monitors and Controls",
+            "child": {
+                "type": "menu",
+                "title": "Monitors and Controls",
+                "children": [
+                    {
+                        "title": "The Weather",
+                        "child": {
+                            "type": "menu",
+                            "title": "The Weather",
+                            "children": [
+                                {
+                                    "title": "Why does the weather keep getting worse?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "Why does the weather keep getting worse?",
+                                        "hints": [
+                                            "Everyone on the surface was either washing their cars, heading for the beach, or planning a picnic.",
+                                            "The FCs are doing the best they can, but they're malfunctioning.",
+                                            "The FCs are constantly adjusting the pressure in one of the towers, and doing a lousy job."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "How do I fix the Weather Towers on the surface of Contra?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "How do I fix the Weather Towers on the surface of Contra?",
+                                        "hints": [
+                                            "First, fix Iris so she can see the monitors (helpful, but not truly necessary).",
+                                            "Send a robot to the Weather Control Area.",
+                                            "Try turning the dials to different settings.",
+                                            "Set the middle dial to 99 or 100, then pray for the best."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "I keep turning dials in the Weather Control Area, but nothing happens. Why?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "I keep turning dials in the Weather Control Area, but nothing happens. Why?",
+                                        "hints": [
+                                            "Something is happening. Be patient.",
+                                            "Weather does not change instantly.",
+                                            "It takes about five FC cycles before Iris will be able to report on a change in the surface environment."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "Why won't the weather towers stay in balance once they've been stabilized?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "Why won't the weather towers stay in balance once they've been stabilized?",
+                                        "hints": [
+                                            "The FCs keep resetting them.",
+                                            "You can never actually fix the situation -- the best you can do is buy some time while you go about repairing the real problem: the FCs."
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The Transit System",
+                        "child": {
+                            "type": "menu",
+                            "title": "The Transit System",
+                            "children": [
+                                {
+                                    "title": "Why do so many casualties occur when I shut off the floaters?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "Why do so many casualties occur when I shut off the floaters?",
+                                        "hints": [
+                                            "Try looking at it this way: You're in an airplane.",
+                                            "Someone comes by and removes its wings.",
+                                            "At 38,000 feet.",
+                                            "Ouch."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "How do I stop people from getting on the floaters?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "How do I stop people from getting on the floaters?",
+                                        "hints": [
+                                            "If the floaters weren't in operation, no one would use them.",
+                                            "People are using the taxis and the glidewalks to get to the floaters.",
+                                            "Stop the taxis and the glidewalks."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "Why do the glidewalks keep picking up speed?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "Why do the glidewalks keep picking up speed?",
+                                        "hints": [
+                                            "The FCs are doing it, just like they're messing about with the weather towers."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "What's wrong with the robotaxis?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "What's wrong with the robotaxis?",
+                                        "hints": [
+                                            "They're revolting against their human bosses.",
+                                            "Well, maybe not.",
+                                            "They're striking for better pavement.",
+                                            "Their union's not very strong though.",
+                                            "The FCs are misinterpreting information and are unable to control them correctly.",
+                                            "That sounds more reasonable.",
+                                            "Better turn them off."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "How do I keep casualties down to a minimum from the Transit System?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "How do I keep casualties down to a minimum from the Transit System?",
+                                        "hints": [
+                                            "Try shutting everything off.",
+                                            "Throw the Switches which control the Transit System.",
+                                            "In the following order:"
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Hydroponics",
+                        "child": {
+                            "type": "menu",
+                            "title": "Hydroponics",
+                            "children": [
+                                {
+                                    "title": "Why bother with food at a time like this?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "Why bother with food at a time like this?",
+                                        "hints": [
+                                            "Everyone has to eat, even in an emergency.",
+                                            "A well-balanced breakfast is the start of any good day.",
+                                            "Even with what's going on, people will starve without food."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "How do I balance the Hydroponics Controls?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "How do I balance the Hydroponics Controls?",
+                                        "hints": [
+                                            "They don't need to be balanced until a secondary tremor occurs.",
+                                            "Push the levers forward or pull the levers back until Iris tells you the nutrients, lighting, and water are balanced."
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "Where do I get a cheeseburger?",
+                                    "child": {
+                                        "type": "hints",
+                                        "title": "Where do I get a cheeseburger?",
+                                        "hints": [
+                                            "Did you try sending out for one?",
+                                            "<em>This space intentionally left blank.</em>"
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Repairing the FCs",
+            "child": {
+                "type": "menu",
+                "title": "Repairing the FCs",
+                "children": [
+                    {
+                        "title": "Just what's wrong with the FCs?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Just what's wrong with the FCs?",
+                            "hints": [
+                                "A tremor has disrupted their channels of communication.",
+                                "They can't make a mutual decision about what to do.",
+                                "There are two cables which have been severed due to the tremors.",
+                                "One cable in the Primary Channel, and one in the Secondary Channel."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I fix the FCs?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I fix the FCs?",
+                            "hints": [
+                                "There are two bad cables.",
+                                "Replace the bad cables with their replacements.",
+                                "Replace the orange cable with the orange wire.",
+                                "Replace the red cable with the red wire.",
+                                "That's easy for you to say, but which cable is the orange one, and which one is the red one? Well, have you figured out how to read the sign in the Primary Channel? If not, see the hint about reading the sign."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Once I've fixed the FCs, how do I reset them?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Once I've fixed the FCs, how do I reset them?",
+                            "hints": [
+                                "Remember the machine in the Main Supply Room?",
+                                "There are eight circles, each of which represents one half of the reset code.",
+                                "The reset code can be found on the sign in the Primary or Secondary Channel."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I read the sign in the Primary or Secondary Channel?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I read the sign in the Primary or Secondary Channel?",
+                            "hints": [
+                                "You'll need a robot with visual capabilities.",
+                                "Iris is the only one who can read them.",
+                                "Since you can't get Iris to the signs, think about getting the signs to Iris.",
+                                "You can't move the signs, so how about a picture of them?",
+                                "You'll find a TV camera in the Biological Laboratory.",
+                                "Plug the TV into the hole in the Primary or Secondary Channel. Iris will take over from there.",
+                                "Point the camera at the sign."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I read the sign in the Bending Passage?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I read the sign in the Bending Passage?",
+                            "hints": [
+                                "Have Waldo bring it to Iris.",
+                                "Have Iris bring it to Sensa.",
+                                "Have Sensa give it to Poet.",
+                                "What sign in the Bending Passage?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Of what use is the khaki cable?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Of what use is the khaki cable?",
+                            "hints": [
+                                "You can't solve the game without it.",
+                                "You can't solve the game with it.",
+                                "You'll find one in your game package.",
+                                "What khaki cable?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there any use for the blue cable?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any use for the blue cable?",
+                            "hints": [
+                                "It can be used to replace the malfunctioning blue cable.",
+                                "But there is no malfunctioning blue cable.",
+                                "So, no."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I figure out what to replace to get the FCs working properly?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I figure out what to replace to get the FCs working properly?",
+                            "hints": [
+                                "Figure out which cable is malfunctioning in the Primary Channel.",
+                                "Have Poet touch all the cables.",
+                                "Replace it with a wire of the same color.",
+                                "Now do the same thing in the Secondary Channel."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "General Questions",
+            "child": {
+                "type": "menu",
+                "title": "General Questions",
+                "children": [
+                    {
+                        "title": "What's with the cutter? What good is it?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What's with the cutter? What good is it?",
+                            "hints": [
+                                "The cutter is needed to get a wire which is permanently attached to something else.",
+                                "The cutter is used to cut the red wire in Fred."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the machine in the Main Supply Room?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the machine in the Main Supply Room?",
+                            "hints": [
+                                "Within the machine rests an orange wire. This might come in handy.",
+                                "It has a panel on which the reset codes are written."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the panel on the machine in the Main Supply Room?",
+                        "child": {
+                            "type": "hints",
+                            "title": "...Main Supply Room?",
+                            "hints": [
+                                "Each circle corresponds to something in the FC area...",
+                                "Have you tried POINT CAMERA AT SIGN in the Primary Channel?",
+                                "You must press two of these buttons on the panel to reset the FCs once you've effected repairs."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "For Your Amusement",
+            "child": {
+                "type": "items",
+                "title": "For Your Amusement",
+                "content": "<p>(after you've finished the game)</p><p>Have you tried...</p><p>having Poet describe everyone?</p><p>having Whiz ask about Gregory Franklin?</p><p>having all the robots read the plaque in the Sterilization Chamber?</p><p>having Poet look while he's in the same room as Fred?</p><p>turning all the Hydroponics Levers down to zero?</p><p>attacking the people with the wire cutter?</p><p>having Auda go to the Activities Area and wait for the people to get there after they fix the acid leak?</p><p>having Auda hang around with the people while they wait for the car?</p><p>asking the robots to kiss one another?</p>"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1673 @@
+{
+    "type": "menu",
+    "title": "Wishbringer: the Magick Stone of Dreams",
+    "children": [
+        {
+            "title": "About",
+            "child": {
+                "type": "page",
+                "title": "About PRIZM Invisiclues",
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+            }
+        },
+        {
+            "title": "Credits ",
+            "child": {
+                "type": "page",
+                "title": "Credits",
+                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>from material supplied by:</p><p>  Graeme Cree &amp; Paul David Doherty</p><p>  Volker Blasius</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Wishbringer</b> and all other game names are registered trade marks of Activision.</p>"
+            }
+        },
+        {
+            "title": "Sample Question",
+            "child": {
+                "type": "menu",
+                "title": "Sample Question",
+                "children": [
+                    {
+                        "title": "What is the plural of \"platypus\"? ",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the plural of \"platypus\"?",
+                            "hints": [
+                                "Platypuses.",
+                                "Platypi.",
+                                "Both platypuses and platypi are correct."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Festeron",
+            "child": {
+                "type": "menu",
+                "title": "Festeron",
+                "children": [
+                    {
+                        "title": "Somebody inside the Post Office is calling me. What should I do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Somebody inside the Post Office is calling me. What should I do?",
+                            "hints": [
+                                "The Post Office door may give you a clue. EXAMINE it.",
+                                "Since the door is open, why not GO INSIDE and see who's calling?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where is the Magick Stone?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where is the Magick Stone?",
+                            "hints": [
+                                "That's for us to know, and for you to find out."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Who is Mr. Crisp?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Who is Mr. Crisp?",
+                            "hints": [
+                                "He's your mean old boss.",
+                                "And he isn't very happy about your idle daydreaming.",
+                                "So you'd better do what he says."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "When should I open the envelope that came in my Wishbringer package?",
+                        "child": {
+                            "type": "hints",
+                            "title": "When should I open the envelope that came in my Wishbringer package?",
+                            "hints": [
+                                "The story will tell you.  Patience!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get into the cemetery?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get into the cemetery?",
+                            "hints": [
+                                "WALK INTO THE CEMETERY.",
+                                "You're not going to let the computer scare you away, are you?",
+                                "Go on, chicken! WALK INTO THE CEMETERY and answer YES to the question."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Who is the gravedigger?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Who is the gravedigger?",
+                            "hints": [
+                                "LOOK AT THE GRAVEDIGGER and find out."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get the flowers out of the hearse?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get the flowers out of the hearse?",
+                            "hints": [
+                                "Did you find the vase?",
+                                "It may be hidden amongst the flowers in the hearse.",
+                                "There aren't any flowers in the hearse.",
+                                "There's no hearse or vase, either.",
+                                "Remember the warning in the introduction: Don't let the presence or absence of questions, or the length of the answers, influence the way you play."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do with the umbrella?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do with the umbrella?",
+                            "hints": [
+                                "It might come in handy if it rains.",
+                                "You can't WISH FOR RAIN unless you have an umbrella.",
+                                "So maybe you should hold onto it for later."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get through the locked gate in the Twilight Glen?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get through the locked gate in the Twilight Glen?",
+                            "hints": [
+                                "The gravedigger has the only key to the gate.",
+                                "But the gravedigger is nowhere to be seen.",
+                                "You can't unlock the gate. To leave the cemetery, you must go out through the open gate at Creepy Corner."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why won't the poodle let me near the cottage?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why won't the poodle let me near the cottage?",
+                            "hints": [
+                                "It wouldn't be much of a watchdog if it did, would it?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why won't the poodle let me go north, into the village?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why won't the poodle let me go north, into the village?",
+                            "hints": [
+                                "It doesn't like people walking past the cottage.",
+                                "It doesn't like mail clerks.",
+                                "It doesn't like you."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get past the poodle?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get past the poodle?",
+                            "hints": [
+                                "I wouldn't PICK UP THE POODLE THEN KICK IT if I were you.",
+                                "Since violence doesn't work, maybe bribery will.",
+                                "You'll have to find something to bribe it with.",
+                                "Have you been to every location you can visit without getting past the poodle?",
+                                "Have you looked all around the cemetery?",
+                                "Have you investigated the open grave in the Spooky Copse?",
+                                "The gravedigger won't let you into the grave while he's watching.",
+                                "Wait until the gravedigger goes away. Then GO INTO THE OPEN GRAVE. PICK UP THE OLD BONE. Bring it to the poodle and FEED THE BONE TO THE POODLE. Now you can GO NORTH into the village."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I left the envelope behind, and the poodle won't let me go back for it! What can I do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "...What can I do?",
+                            "hints": [
+                                "You're not a very good mail clerk, are you?",
+                                "There's no way to walk past the poodle once it has finished eating the bone.",
+                                "So you'll have to start all over again.",
+                                "RESTART. Next time, hold on to that envelope!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Who is Miss Voss?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Who is Miss Voss?",
+                            "hints": [
+                                "She's in charge of the Festeron Town Library, curator of the Festeron Historical Museum, and author of the best-selling \"Local History Series\" of booklets, including <em>The Legend of Wishbringer</em>.",
+                                "Aren't you glad you asked?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why won't Miss Voss give me back my library card?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why won't Miss Voss give me back my library card?",
+                            "hints": [
+                                "She doesn't like mail clerks.",
+                                "She doesn't like you.",
+                                "What library card?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do with the violet note?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do with the violet note?",
+                            "hints": [
+                                "Miss Voss asked you to give it to your boss, Mr. Crisp.",
+                                "But delivering the mysterious envelope is more important right now.",
+                                "So give the note to Mr. Crisp after you deliver the envelope."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Who is \"Corky\"?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Who is \"Corky\"?",
+                            "hints": [
+                                "It might be the name of Miss Voss's poodle.",
+                                "But why would Miss Voss write a note to her dog?",
+                                "Since Miss Voss asked you to give the note to Mr. Crisp, and the note is addressed to \"Corky,\" it's probably Mr. Crisp's nickname."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get inside the Library?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get inside the Library?",
+                            "hints": [
+                                "Miss Voss probably has the key.",
+                                "Unfortunately, Miss Voss isn't around any more.",
+                                "You don't have time to fool around in the Library right now. The Magick Shoppe closes at five o'clock!",
+                                "Be patient; maybe you can get inside after you deliver the envelope."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Who is Sgt. MacGuffin?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Who is Sgt. MacGuffin?",
+                            "hints": [
+                                "He's in charge of Festeron's Police Department."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get the chocolate?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get the chocolate?",
+                            "hints": [
+                                "Simply TAKE THE CHOCOLATE OFF THE DESK.",
+                                "Of course, Sgt. MacGuffin might have other ideas.",
+                                "Have you tried examining Sgt. MacGuffin?",
+                                "Wait until Sgt. MacGuffin falls asleep before taking the chocolate."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do in the Park?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do in the Park?",
+                            "hints": [
+                                "The statue in the middle of the fountain is interesting.",
+                                "But not as interesting as the other objects in the fountain.",
+                                "LOOK INSIDE THE FOUNTAIN.",
+                                "The rest is up to you."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I catch the goldfish?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I catch the goldfish?",
+                            "hints": [
+                                "Unfortunately, you won't find a net or pole anywhere.",
+                                "What makes you think you have to catch the goldfish?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The movie theater is closed! How do I get inside?",
+                        "child": {
+                            "type": "hints",
+                            "title": "The movie theater is closed! How do I get inside?",
+                            "hints": [
+                                "The schedule might give you a hint.",
+                                "The theater opens at seven o'clock. Come back later."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why can't I take things out of the big mailbox?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why can't I take things out of the big mailbox?",
+                            "hints": [
+                                "Public mailboxes are built to discourage prying fingers like yours."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I play the video game?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I play the video game?",
+                            "hints": [
+                                "By scoring as many points as you can.",
+                                "Naturally, you'll have to put a token in the video machine before you can play.",
+                                "Isn't it getting awfully close to five o'clock?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I do with the seahorse?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do with the seahorse?",
+                            "hints": [
+                                "If you don't do something quickly, it will probably die.",
+                                "A seahorse can't live long out of water.",
+                                "PICK UP THE SEAHORSE THEN THROW IT INTO THE BAY."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What happened to the church mouse?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What happened to the church mouse?",
+                            "hints": [
+                                "It ran away when it saw you. Surprised?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get the candle?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get the candle?",
+                            "hints": [
+                                "Try to TAKE THE CANDLE.",
+                                "Try to STEAL THE CANDLE.",
+                                "Taking things that don't belong to you is stealing, especially in a church.",
+                                "At the moment, you can't steal the candle."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do with the pile of leaves?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do with the pile of leaves?",
+                            "hints": [
+                                "Did you notice the message in the sand near the leaves?",
+                                "Are you going to do what the message says?",
+                                "You might be sorry if you don't."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Who wrote the message in the sand?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Who wrote the message in the sand?",
+                            "hints": [
+                                "The person who wrote the message was obviously very concerned that somebody like you might come along and disturb the pile of leaves. Aside from this acute observation, the author of the message is not important."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get to Misty Island?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get to Misty Island?",
+                            "hints": [
+                                "If you had a bathing suit you could put it on and swim over.",
+                                "No bathing suit, eh? Oh, well. You'll just have to wait for the Misty Island ferry.",
+                                "Charter a private seaplane, preferably one equipped with a wet bar and jacuzzi.",
+                                "If all else fails, give up.",
+                                "But watch for new opportunities after you deliver the envelope."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I do with the horseshoe?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do with the horseshoe?",
+                            "hints": [
+                                "Keep it. It might bring you good luck.",
+                                "Especially if you use it to WISH FOR LUCK after you find the Magick Stone."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get into the lighthouse?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get into the lighthouse?",
+                            "hints": [
+                                "It's a phoney lighthouse. You can't go into it.",
+                                "Ever.",
+                                "So stop trying."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I feed to the pelican?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I feed to the pelican?",
+                            "hints": [
+                                "A flapping, juicy fish would be nice if you can find one.",
+                                "The only fish you'll find is in the fountain.",
+                                "Unfortunately, you can't get the fish in the fountain.",
+                                "What makes you think the pelican is hungry?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What's the easiest way into the impenetrable forest?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What's the easiest way into the impenetrable forest?",
+                            "hints": [
+                                "Look up the word \"impenetrable\" in a dictionary."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What can I do with the gnarled, rotten tree?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What can I do with the gnarled, rotten tree?",
+                            "hints": [
+                                "You can always CLIMB THE GNARLED TREE.",
+                                "Maybe you should have examined the tree first."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What can I do with the dead branch?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What can I do with the dead branch?",
+                            "hints": [
+                                "It probably won't help you deliver the envelope any faster.",
+                                "But it's a good idea to remember where it is. You might find a use for it later."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Mr. Crisp just fired me! What did I do wrong?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Mr. Crisp just fired me! What did I do wrong?",
+                            "hints": [
+                                "You failed to deliver the envelope on time, or didn't read it to the old woman. Next time, make sure you're in the Magick Shoppe before five o'clock, and do what the old woman asks you to do!"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Ye Olde Magick Shoppe",
+            "child": {
+                "type": "menu",
+                "title": "Ye Olde Magick Shoppe",
+                "children": [
+                    {
+                        "title": "Why is \"Magick\" spelled with a \"k\"?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why is \"Magick\" spelled with a \"k\"?",
+                            "hints": [
+                                "Because.",
+                                "Oh, all right. \"Magick\" is an archaic spelling popularized by Aleister Crowley (a 20th century occultist) and occasionally seen in pulp fantasies and tales of horror. It's supposed to imply an especially old and potent variety of supernatural force."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get into the Magick Shoppe?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get into the Magick Shoppe?",
+                            "hints": [
+                                "Just OPEN THE DOOR THEN GO INSIDE."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "A gust of wind blew the door shut! How do I open it again?",
+                        "child": {
+                            "type": "hints",
+                            "title": "A gust of wind blew the door shut! How do I open it again?",
+                            "hints": [
+                                "You can't open it by yourself.",
+                                "Relax. Maybe somebody will come along and open it for you."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I take the naughty birthday cards?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I take the naughty birthday cards?",
+                            "hints": [
+                                "By removing them from the glass case.",
+                                "Unfortunately, you can't reach into the glass case.",
+                                "So you can't take the naughty birthday cards.",
+                                "You rascal."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why can't I approach the curtain?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why can't I approach the curtain?",
+                            "hints": [
+                                "Maybe it doesn't like mail clerks.",
+                                "It's enchanted in such a way as to discourage nosey visitors."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Who is the old woman?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Who is the old woman?",
+                            "hints": [
+                                "She's the proprietor of the Magick Shoppe.",
+                                "The mysterious envelope is addressed to her.",
+                                "So maybe you ought to give her the mysterious envelope."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why did the Shoppe become strangely quiet all of a sudden?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why did the Shoppe become strangely quiet all of a sudden?",
+                            "hints": [
+                                "A noise stopped.",
+                                "A nearby mechanism stopped working.",
+                                "EXAMINE THE GRANDFATHER CLOCK.",
+                                "The clock stopped when the old woman appeared. Creepy, isn't it?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I found a bug! The clock on my status line stopped. Should I call Infocom?",
+                        "child": {
+                            "type": "hints",
+                            "title": "I found a bug! The clock on my status line stopped. Should I call Infocom?",
+                            "hints": [
+                                "It's not a bug. See the previous question for details.",
+                                "If it was a bug, you could blame it on one of the Infopeople who tested the game. In alphabetical order, they are: \"Hollywood\" Dave Anderson (Manager), Joanne Avtges, Gary Brennan, Amy Briggs, Mark \"Max\" Buxton, Liz Cyr-Jones, Suzanne Frank, Jeff O'Neill, plus dozens of beta- and gamma-testers too numerous to list."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Who is \"The Evil One\"?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Who is \"The Evil One\"?",
+                            "hints": [
+                                "She's the person who mailed the mysterious envelope.",
+                                "She kidnapped the old woman's pet cat and is demanding a Magick Stone for ransom.",
+                                "If she doesn't get the Stone before the moon sets, she'll probably do something awful to the cat.",
+                                "Doesn't sound like a very nice person, does she?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do with the metal can?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do with the metal can?",
+                            "hints": [
+                                "Like all objects in the story, you should EXAMINE it.",
+                                "The rest is up to you."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why does the metal can rattle?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why does the metal can rattle?",
+                            "hints": [
+                                "Maybe there are some yummy mixed nuts inside.",
+                                "Then again, maybe not.",
+                                "There's something built into the can that makes it rattle. It's designed to lure innocent victims to their doom by making them believe there may be nuts inside."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why can't I move when the old woman touches my forehead?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why can't I move when the old woman touches my forehead?",
+                            "hints": [
+                                "She's casting a subtle hypnotic spell on you.",
+                                "So shut up and pay attention."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Who is \"Chaos\"?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Who is \"Chaos\"?",
+                            "hints": [
+                                "It's the name of the old woman's pet cat.",
+                                "It's also the name of Dan Horn's pet skunk.",
+                                "Who is Dan Horn?",
+                                "He's the owner of a pet skunk named Chaos.",
+                                "He works at Infocom.",
+                                "He paid $10.00 to see his name in print.",
+                                "(This space for sale.)"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Witchville",
+            "child": {
+                "type": "menu",
+                "title": "Witchville",
+                "children": [
+                    {
+                        "title": "What happened to Festeron? Everything's changed!",
+                        "child": {
+                            "type": "hints",
+                            "title": "What happened to Festeron? Everything's changed!",
+                            "hints": [
+                                "Exactly.",
+                                "The village seems to have come under an evil, supernatural influence.",
+                                "The influence's initials are T.E.O.",
+                                "The \"T\" stands for \"The\", and the \"O\" stands for \"One\".",
+                                "Sorry. You have to figure out the \"E\" yourself."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where is Wishbringer, the Magick Stone?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where is Wishbringer, the Magick Stone?",
+                            "hints": [
+                                "It may be a lot closer than you think.",
+                                "It seems odd that the old woman didn't simply give it to you, doesn't it?",
+                                "Maybe the old woman gave it to you without telling you.",
+                                "Have you noticed a persistent rattling sound?",
+                                "Have you investigated the metal can since you left the Magick Shoppe?",
+                                "Have you looked inside the metal can?",
+                                "OPEN THE METAL CAN. SQUEEZE IT."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where is the Evil One?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where is the Evil One?",
+                            "hints": [
+                                "Don't worry. She'll find you."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Who is Thermofax?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Who is Thermofax?",
+                            "hints": [
+                                "He's a fire-breathing dragon mentioned in <em>The Legend of Wishbringer</em> and the opening title screen."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Thermofax won't leave me alone! What should I do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Thermofax won't leave me alone! What should I do?",
+                            "hints": [
+                                "Throw the Magick Stone into his open maw.",
+                                "If that doesn't work, throw yourself into his open maw.",
+                                "Except for brief mentions in <em>The Legend of Wishbringer</em> and the opening title screen, Thermofax does not appear in the story."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get down the steep trail? It's too foggy to see!",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get down the steep trail? It's too foggy to see!",
+                            "hints": [
+                                "Use the map you drew on your way up the trail.",
+                                "You did take the story's advice when it told you to draw a map, didn't you?",
+                                "If you forgot to draw a map, you can still feel your way down the steep trail. But it won't be easy. And you might die trying.",
+                                "There's another, safer way to get down the trail without a map.",
+                                "You'll need the Magick Stone.",
+                                "One of the Seven Wishes can clear the fog away.",
+                                "If you're holding Wishbringer and an open umbrella, you can WISH FOR RAIN. The resulting downpour will clear the fog and transport you to the bottom of the cliff."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What's the significance of the vulture?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What's the significance of the vulture?",
+                            "hints": [
+                                "It's watching you.",
+                                "Doesn't that make you uneasy?",
+                                "It ought to. The vulture is the Evil One's spy."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get past the toll gate?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get past the toll gate?",
+                            "hints": [
+                                "Why not just pay the troll?",
+                                "The troll won't take your gold coin? Gee. Tough luck.",
+                                "Maybe there's something else you can give the troll.",
+                                "What about the metal can?",
+                                "Troll still bothering you? This just isn't your lucky day.",
+                                "There are three ways to get past the troll.",
+                                "Two of the ways involve using the Magick Stone.",
+                                "The other way doesn't.",
+                                "The troll may or may not bother to examine your gold coin.",
+                                "If you're lucky, he won't examine it.",
+                                "If you're holding Wishbringer and the horseshoe, and you WISH FOR LUCK before giving the coin to the troll, the troll won't bother to examine the coin.",
+                                "Another way past the troll is to WISH FOR DARKNESS. It will scare him away just as thoroughly as the snake.",
+                                "You can't WISH FOR DARKNESS until you've found the grue's milk.",
+                                "You won't find the milk until after you get past the troll.",
+                                "Using the Darkness Wish to get past the troll is only useful if you have to go past him twice.",
+                                "If you've already released the snake, you'll have to use Magick.",
+                                "The non-Magick way it [sic] to give the closed metal can to the troll, or to open it in front of him. The snake will scare him away."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the giant stump?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the giant stump?",
+                            "hints": [
+                                "It affords an excellent view of the surrounding area.",
+                                "Have you examined it lately?",
+                                "OPEN THE STUMP. Surprise!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is a grue?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is a grue?",
+                            "hints": [
+                                "The grue is a sinister, lurking presence in the dark places of the earth. Its favorite diet is Adventurers, but its insatiable appetite is tempered only by its fear of light. No grue has ever been seen by the light of day, and few have survived its fearsome jaws to tell the tale."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I milk a grue?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I milk a grue?",
+                            "hints": [
+                                "Very carefully.",
+                                "Fortunately, you don't have to milk a grue to finish the story."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where do I find the grue's milk?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where do I find the grue's milk?",
+                            "hints": [
+                                "Grue's milk must be kept in a cool, well-lighted place to stay spoiled.",
+                                "Grue refrigerators are cool and well-lighted.",
+                                "There's a grue refrigerator in the Grue's Nest."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get the grue's milk without being devoured?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get the grue's milk without being devoured?",
+                            "hints": [
+                                "Avoid waking up the beast with light or noise.",
+                                "The light source you're carrying is waking up the beast.",
+                                "Cover up the beast so it can't see.",
+                                "Blankets make an excellent cover.",
+                                "Get the blanket in the Jail Cell. COVER THE BEAST WITH THE BLANKET before it wakes up."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get around in the dark?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get around in the dark?",
+                            "hints": [
+                                "You'll need a source of light.",
+                                "Have you found the small stone yet?",
+                                "Have you examined it?",
+                                "There's another, more conventional source of light.",
+                                "It's in the church.",
+                                "Go into the church and STEAL THE CANDLE."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why can't I blow out the candle?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why can't I blow out the candle?",
+                            "hints": [
+                                "It's magic.",
+                                "It's Magick."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the Boot Patrol?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the Boot Patrol?",
+                            "hints": [
+                                "Stay in one place for a while. You'll find out."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The Boot Patrol threw me in jail! How do I get out?",
+                        "child": {
+                            "type": "hints",
+                            "title": "The Boot Patrol threw me in jail! How do I get out?",
+                            "hints": [
+                                "Maybe you're not the first person who's tried to escape.",
+                                "Have you investigated everything in the Jail Cell?",
+                                "Have you looked under everything?",
+                                "LOOK UNDER THE BUNK.",
+                                "If this is the first time you've been thrown in jail, just MOVE THE BUNK THEN GO INTO THE HOLE.",
+                                "If not, you'll find that the hole has been cemented over. Now you'll need Magick to get out of the Jail Cell.",
+                                "One of the Seven Wishes might work.",
+                                "EAT THE CHOCOLATE THEN WISH FOR FREEDOM.",
+                                "If you don't have the chocolate or Wishbringer handy, relax. The Boot Patrol will be along in just a few moves, and all your troubles will be over."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get rid of the big mailbox?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get rid of the big mailbox?",
+                            "hints": [
+                                "Give it what it wants.",
+                                "Give it mail.",
+                                "Give it stamped mail.",
+                                "There's another mailbox with some stamped mail in it.",
+                                "Find a shimmering trail.",
+                                "The shimmering trail is at the Rocky Path.",
+                                "OPEN THE SMALL MAILBOX. TAKE THE LEAFLET OUT OF THE BOX. Go to the big mailbox and FEED THE LEAFLET TO THE BIG MAILBOX.",
+                                "Congratulations. You have a new companion."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why is the small mailbox following me around?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why is the small mailbox following me around?",
+                            "hints": [
+                                "It likes mail clerks.",
+                                "It likes you."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get through the Cemetery?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get through the Cemetery?",
+                            "hints": [
+                                "Did somebody warn you about going in there after dark?",
+                                "You can't get through the Cemetery. It's a trap."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is an eldritch vapor?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is an eldritch vapor?",
+                            "hints": [
+                                "Any relation to Eldridge Cleaver?",
+                                "They're mischievious but generally harmless ghosts that hang around cemeteries at night, annoying passersby with supernatural tricks."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The eldritch vapors stole everything I was carrying! What should I do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "The eldritch vapors stole everything I was carrying! What should I do?",
+                            "hints": [
+                                "Have you looked around the village?",
+                                "Everywhere?",
+                                "The vapors will scatter your possessions randomly around the village, always outdoors. Pesty little critters, aren't they?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What's inside the pit?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What's inside the pit?",
+                            "hints": [
+                                "Maybe you should LOOK INSIDE THE PIT.",
+                                "If you found a platypus, congratulations.",
+                                "If not, you must have disturbed the pile of leaves that used to cover the pit. Shame on you!",
+                                "You can't possibly finish the story if you disturbed that pile of leaves.",
+                                "RESTART. Next time, heed the message in the sand!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is a platypus?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is a platypus?",
+                            "hints": [
+                                "Look it up in an encyclopedia."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I do with the platypus?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do with the platypus?",
+                            "hints": [
+                                "Maybe you don't have to do anything with it.",
+                                "Unless you want to finish the story.",
+                                "It'd be really nice if you rescued the platypus.",
+                                "Not as easy as it sounds, eh?",
+                                "There are two ways to rescue the platypus.",
+                                "One of them involves the use of Magick.",
+                                "Platypuses are great swimmers.",
+                                "If you filled the pit with water, the platypus might be smart enough to swim out.",
+                                "One of the Seven Wishes might help you fill the pit with water.",
+                                "While standing at Edge of Lake, OPEN THE UMBRELLA THEN WISH FOR RAIN.",
+                                "If you don't have the umbrella or Wishbringer, or if you've already used the Rain Wish, you'll have to find another way to rescue the platypus.",
+                                "How deep is the pit?",
+                                "There's something you can get that might help you reach into the pit.",
+                                "Did you notice the dead branch at Cliff Bottom?",
+                                "PUT THE BRANCH IN THE PIT. The platypus will hold on to the end of the branch. PULL THE BRANCH OUT OF THE PIT."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why are there so many platypuses in the story and packaging?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why are there so many platypuses in the story and packaging?",
+                            "hints": [
+                                "That's what our marketing department wanted to know.",
+                                "But we wouldn't explain it to them.",
+                                "And we won't explain it to you, either.",
+                                "Marketing department's note: Actually, Brian Moriarty is a bit strange, and we decided it was best to humor him."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do with the silver whistle?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do with the silver whistle?",
+                            "hints": [
+                                "What silver whistle?",
+                                "Oh, that silver whistle! Well, you can always EXAMINE THE WHISTLE.",
+                                "If you're really adventurous, you could even (dare we suggest it?) try to BLOW THE WHISTLE.",
+                                "If nothing happens the first time you blow the whistle, EXAMINE THE WHISTLE. Then take the whistle to the place where you found it, and EXAMINE THE WHISTLE again.",
+                                "The whistle only twinkles when you're at Edge of Lake.",
+                                "BLOW THE WHISTLE only when it's twinkling...unless you just like to hear the music."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get to Misty Island?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get to Misty Island?",
+                            "hints": [
+                                "Read the above hint. You may discover something unexpected."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I say to King Anatinus?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I say to King Anatinus?",
+                            "hints": [
+                                "You don't need to say anything. Just do what he says.",
+                                "If he offers you a gift, take it.",
+                                "TAKE THE HAT.",
+                                "If he asks you to do anything, do it.",
+                                "BLOW THE WHISTLE.",
+                                "Don't annoy the King. You might be sorry."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do with the wizard's hat?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do with the wizard's hat?",
+                            "hints": [
+                                "Do what the King told you to do.",
+                                "Take the hat to the pelican.",
+                                "GIVE THE HAT TO THE PELICAN."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the pelican?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the pelican?",
+                            "hints": [
+                                "Read the preceding hint."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get into the movie theater?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get into the movie theater?",
+                            "hints": [
+                                "There are two ways into the movie theater.",
+                                "The first way into the theater involves the use of Magick.",
+                                "Go into the theater lobby and WISH FOR DARKNESS. You can sneak inside while the gravedigger is stumbling around in the dark.",
+                                "Or GIVE THE GOLD COIN TO MISS VOSS. GO INSIDE. GIVE THE TICKET TO THE GRAVEDIGGER. GO INTO THE THEATER."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The movie is all fuzzy and indistinct! What's wrong?",
+                        "child": {
+                            "type": "hints",
+                            "title": "The movie is all fuzzy and indistinct! What's wrong?",
+                            "hints": [
+                                "Did you read the marquee outside the theater?",
+                                "Did you examine the empty carton in the lobby?",
+                                "This is a 3D movie. You need a pair of 3D glasses to see it.",
+                                "Did you look inside the carton in the lobby?",
+                                "Oh, well. Looks like they're all gone. But maybe somebody dropped a pair somewhere.",
+                                "Have you searched everywhere in the theater?",
+                                "LOOK UNDER THE SEATS."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where can I get a token for the video arcade?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where can I get a token for the video arcade?",
+                            "hints": [
+                                "Ask one of the humanoids. They seem to have plenty of tokens.",
+                                "Oh, well. Maybe somebody dropped one somewhere.",
+                                "Have you been to the Park lately?",
+                                "LOOK IN THE FOUNTAIN."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I found the token! How do I get it?",
+                        "child": {
+                            "type": "hints",
+                            "title": "I found the token! How do I get it?",
+                            "hints": [
+                                "Simply TAKE THE TOKEN OUT OF THE FOUNTAIN.",
+                                "But the piranha might have other ideas.",
+                                "Remember the poodle?",
+                                "Maybe you can distract the piranha the same way you distracted the poodle.",
+                                "It's not likely that the piranha would be interested in a bone.",
+                                "But it might be interested in something else.",
+                                "If you were a fish, what would you be interested in?",
+                                "Have you found the grue's milk yet?",
+                                "Have you visited the Grue's Nest yet?",
+                                "There's more than one item in the grue refrigerator.",
+                                "TAKE THE WORM OUT OF THE REFRIGERATOR. Then go to the Park and FEED THE WORM TO THE PIRANHA. The piranha will leave you alone long enough to TAKE THE TOKEN OUT OF THE FOUNTAIN."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I play the video game?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I play the video game?",
+                            "hints": [
+                                "It would help if you turned on the machine.",
+                                "PUT THE TOKEN IN THE SLOT.",
+                                "Have you tried to EXAMINE THE SCREEN?",
+                                "The screen looks just like the map in your <b>Wishbringer</b> package.",
+                                "Did you EXAMINE THE STAR?",
+                                "Did you EXAMINE THE JOYSTICK?",
+                                "To experiment, try to PUSH THE JOYSTICK TO THE WEST. Then EXAMINE THE STAR.",
+                                "Maneuver the star to an interesting square on the grid. When you're satisfied, PUSH THE BIG RED BUTTON.",
+                                "You're not afraid of a bunch of stunted humanoids, are you? Go on! PUSH THE BUTTON!",
+                                "Most of the squares in the video game aren't very interesting.",
+                                "But one of them is VERY interesting.",
+                                "Move the star to square C-5, which is over the Post Office on the map. Then PUSH THE BUTTON. You'll end up outside the Tower, without having to get past the hellhound."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The hellhound won't let me past! What can I do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "The hellhound won't let me past! What can I do?",
+                            "hints": [
+                                "Maybe you can bribe the hellhound the same way you bribed the poodle.",
+                                "Then again, maybe not.",
+                                "There are three ways to get past the hellhound.",
+                                "One of them involves Magick.",
+                                "One of the Seven Wishes might help you.",
+                                "WISH FOR DARKNESS while standing outside the cottage. The hellhound will cower in fear long enough for you to get past.",
+                                "Another way involves the video game in the arcade.",
+                                "Refer to the previous hint for instructions on how to play the video game.",
+                                "The last way to get past the hellhound only works if you've already been inside the Tower.",
+                                "Have you read all of the mail in the story?",
+                                "Have you read the violet note?",
+                                "You can't open the violet note yourself.",
+                                "Wait until Mr. Crisp opens the violet note. After he leaves, read the note.",
+                                "Then go to the hellhound and say ALEXIS, HEEL. The hellhound will become considerably less ferocious."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Tower",
+            "child": {
+                "type": "menu",
+                "title": "The Tower",
+                "children": [
+                    {
+                        "title": "How do I get into the tower?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get into the tower?",
+                            "hints": [
+                                "Didn't King Anatinus say something about getting into the Tower?",
+                                "You need a Word of Power.",
+                                "The pelican knows what it is.",
+                                "The pelican won't give you the Word unless you give it something in return.",
+                                "GIVE THE WIZARD'S HAT TO THE PELICAN. A Word will be revealed to you. Go to the tower and say the word (just type it in). The drawbridge will lower automatically."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How did the Princess get captured again?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How did the Princess get captured again?",
+                            "hints": [
+                                "She isn't a very smart platypus, is she?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Help! Mr. Crisp is getting ready to torture me!",
+                        "child": {
+                            "type": "hints",
+                            "title": "Help! Mr. Crisp is getting ready to torture me!",
+                            "hints": [
+                                "He's sleazy enough to take a bribe.",
+                                "Didn't somebody ask you to give him something a long time ago?",
+                                "GIVE THE VIOLET NOTE TO MR. CRISP."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Mr. Crisp is gone, but I'm still in chains! What should I do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Mr. Crisp is gone, but I'm still in chains! What should I do?",
+                            "hints": [
+                                "There are two ways to get out of the chains.",
+                                "One of them involves Magick.",
+                                "WISH FOR FREEDOM will work.",
+                                "But you wouldn't need Magick if you had the key to the chains.",
+                                "Mr. Crisp dropped the key in his lab coat, remember?",
+                                "He dropped the lab coat on the floor.",
+                                "PICK UP THE WHITE LAB COAT. TAKE THE KEY OUT OF THE COAT. UNLOCK THE CHAINS WITH THE KEY."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where did Mr. Crisp go?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where did Mr. Crisp go?",
+                            "hints": [
+                                "He went to visit his sweetheart, Miss Voss.",
+                                "But who cares, as long as he isn't here to torture you?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I free the Princess from the torture machine?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I free the Princess from the torture machine?",
+                            "hints": [
+                                "Just do what she says.",
+                                "PULL DOWN THE LEVER."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get out of the torture chamber?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get out of the torture chamber?",
+                            "hints": [
+                                "The same way Mr. Crisp did.",
+                                "OPEN THE HATCH. CLIMB UP THE LADDER."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the paintings in the Round Chamber?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the paintings in the Round Chamber?",
+                            "hints": [
+                                "The story they illustrate may sound vaguely familiar.",
+                                "Especially if you read <em>The Legend of Wishbringer</em>.",
+                                "The paintings also conceal an important secret.",
+                                "LOOK BEHIND A PAINTING."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The drawbridge is closed! How do I get out of the Tower?",
+                        "child": {
+                            "type": "hints",
+                            "title": "The drawbridge is closed! How do I get out of the Tower?",
+                            "hints": [
+                                "Read the previous hint for clues."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The suit of armor is chasing me! What should I do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "The suit of armor is chasing me! What should I do?",
+                            "hints": [
+                                "Hit it with the dead branch.",
+                                "Throw the stone at it.",
+                                "Light the grue's milk on fire with the candle, then give the milk to the suit of armor to drink. It'll still chase you, but at least it will be laughing.",
+                                "There is no suit of armor in this story."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why is the room above the Round Chamber all blurry?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why is the room above the Round Chamber all blurry?",
+                            "hints": [
+                                "Blurry, huh? Gee. Maybe you need glasses.",
+                                "PUT ON THE 3D GLASSES after you walk into the blurry room."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do with the telescope in the Laboratory?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do with the telescope in the Laboratory?",
+                            "hints": [
+                                "You could ignore it. It's probably just a prop.",
+                                "The telescope is just a prop.",
+                                "So ignore it!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the bubbling chemicals?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the bubbling chemicals?",
+                            "hints": [
+                                "They're not significant at all. Leave them alone."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the purpose of the control panel?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the purpose of the control panel?",
+                            "hints": [
+                                "It has two switches, so it probably controls two things.",
+                                "Have you examined both of the switches?",
+                                "The first switch controls the power in the Palace Theater. (If you watched the entire movie, you'd already know this.)",
+                                "The second switch controls the \"security\" for something. Hmm. Wonder what the Evil One wants to keep secure...",
+                                "TURN OFF THE SECOND SWITCH."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Library",
+            "child": {
+                "type": "menu",
+                "title": "The Library",
+                "children": [
+                    {
+                        "title": "How do I get into the Library?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get into the Library?",
+                            "hints": [
+                                "Wait until Miss Voss opens it tomorrow morning.",
+                                "Unfortunately, you haven't got time to wait. Looks like you'll have to unlock the front door somehow.",
+                                "Miss Voss locked it earlier. Maybe she put the key somewhere.",
+                                "Have you visited Miss Voss's cottage yet?",
+                                "It's easy to get into the cottage once you tame the hellhound. (But that's another hint.)",
+                                "The key to the Library is on Miss Voss's bookcase."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I see in the Library? It's Dark.",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I see in the Library? It's Dark.",
+                            "hints": [
+                                "The candle is a source of light.",
+                                "Too bad the candle fizzles out when the Library door closes.",
+                                "Wishbringer is also a source of light.",
+                                "If you haven't found the Stone yet, you're in trouble. But there is another way to see in the Library.",
+                                "Have you examined the wizard's hat?",
+                                "Have you looked inside the wizard's hat?",
+                                "Have you dropped anything inside the wizard's hat?",
+                                "Things you drop into the wizard's hat disappear. But they might turn up someplace else.",
+                                "Things you drop into the hat appear in the Museum's display case.",
+                                "DROP THE CANDLE INTO THE WIZARD'S HAT before it gets blown out. You can later retrieve the candle for use as a source of light."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where's the key to unlock the circulation desk?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where's the key to unlock the circulation desk?",
+                            "hints": [
+                                "The steel key might work. After all, it unlocked the library door.",
+                                "Then again, why should a door key work in a desk?",
+                                "There is no desk key. You can't open the circulation desk."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get the spider out of the library books?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get the spider out of the library books?",
+                            "hints": [
+                                "You'll have to pick up the books first.",
+                                "You'll need a library card to take the books.",
+                                "Shucks! You forgot your library card.",
+                                "There isn't any spider in the library books.",
+                                "Or anywhere else, either."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I open the glass display case in the Museum?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I open the glass display case in the Museum?",
+                            "hints": [
+                                "Did you try the rusty key?",
+                                "Did you try the steel key?",
+                                "Did you try the key in the circulation desk?",
+                                "Did you read the above hint about unlocking the circulation desk?",
+                                "You can't unlock the display case.",
+                                "Force may be necessary.",
+                                "You'll need a heavy object to break the case.",
+                                "Try BREAK THE DISPLAY CASE WITH THE HORSESHOE. You can also use the broom, the umbrella, the conch shell, the bottle or the dead branch.",
+                                "Naturally, you remembered to EXAMINE THE DISPLAY CASE before breaking it.",
+                                "You must deactivate the security system before breaking the case.",
+                                "The switch for the security system is in the Laboratory."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get out of the library with the sculpture?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get out of the library with the sculpture?",
+                            "hints": [
+                                "Try unlocking the door.",
+                                "Lock's on the outside? Oh, well. Why not WISH FOR FLIGHT?",
+                                "Nope, you're indoors. But you can still WISH FOR FREEDOM.",
+                                "Not confined, eh? There must be another way out, then.",
+                                "Have you tried to EXAMINE THE SCULPTURE yet?",
+                                "Go on to the next hint."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do with the sculpture?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do with the sculpture?",
+                            "hints": [
+                                "Such a fine work of art should probably be examined.",
+                                "Hmm. Seems to be a piece missing.",
+                                "Have you tried to WISH FOR ADVICE?",
+                                "Have you tried to WISH FOR FORESIGHT?",
+                                "Something might fit into the forehead of the statue.",
+                                "PUT THE STONE INTO THE FOREHEAD."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Who's the old woman in the Library?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Who's the old woman in the Library?",
+                            "hints": [
+                                "She looks familiar, but somewhat fuzzy.",
+                                "What can you do to make fuzzy things clearer?",
+                                "PUT ON THE 3D GLASSES.",
+                                "Yipes!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I escape from the sinister being?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I escape from the sinister being?",
+                            "hints": [
+                                "Just walk right past her. She won't mind.",
+                                "Much.",
+                                "You could try bribing her with something.",
+                                "Maybe she'll accept that nice, glowing stone you're holding.",
+                                "But if you want to finish the story, you won't give it to her.",
+                                "Stop fooling around! Kill her before she turns you into something awful!",
+                                "Too tough, eh? Maybe you should continue what you were doing before she interrupted.",
+                                "PUT THE STONE INTO THE FOREHEAD.",
+                                "Don't listen to her! PUT THE STONE INTO THE FOREHEAD!"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Seven Wishes",
+            "child": {
+                "type": "menu",
+                "title": "The Seven Wishes",
+                "children": [
+                    {
+                        "title": "What Advice can I get from the shell?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What Advice can I get from the shell?",
+                            "hints": [
+                                "There are seven bits of Advice. In order of appearance, they are:",
+                                "\"If ye hath not kept a Map, only patience or Magick can help thee.\"",
+                                "\"Magick may help thee cross the Bridge.\"",
+                                "\"Release a Prisoner, and be Rewarded.\"",
+                                "\"Learn the Word of Power, else never gain the Tower.\"",
+                                "\"One path Magick, one path Science; both lead to thy Goal.\"",
+                                "\"Many wonders await thee in the Halls of Knowledge.\"",
+                                "\"Fit the Pieces together, and the Puzzle is complete.\""
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where is WISH FOR RAIN useful?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where is WISH FOR RAIN useful?",
+                            "hints": [
+                                "If you're lost in the fog, wishing for Rain will wash you safely down to the Cliff Bottom.",
+                                "If you're at Edge of Lake, wishing for Rain will fill the narrow pit with water and free any creatures that may be trapped there.",
+                                "Wishing for Rain anywhere else is harmless, but the downpour might irritate nearby characters."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "When should I WISH FOR FLIGHT?",
+                        "child": {
+                            "type": "hints",
+                            "title": "When should I WISH FOR FLIGHT?",
+                            "hints": [
+                                "Whenever you want to go back to the Magick Shoppe. Just make sure you're outdoors (or in the Laboratory), and off you go!",
+                                "It's not a good idea to go back to the Magick Shoppe until you've found Chaos, the old woman's black cat.",
+                                "Make sure the black cat you've found is the right one.",
+                                "If you locate the real Chaos, you won't need to WISH FOR FLIGHT.",
+                                "So you'll never need to WISH FOR FLIGHT. It's a trap."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why would I want to WISH FOR DARKNESS?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why would I want to WISH FOR DARKNESS?",
+                            "hints": [
+                                "Some characters might not like the sudden Darkness.",
+                                "One of them is the troll at the toll gate.",
+                                "If you WISH FOR DARKNESS with the troll present, he'll run away across the bridge.",
+                                "The gravedigger is afraid of the dark, too.",
+                                "If you WISH FOR DARKNESS in the Theater Lobby, you may be able to sneak past the terrified gravedigger into the theater. (Not a very good movie usher, is he?)",
+                                "There's one other creature who doesn't like Darkness.",
+                                "It's the hellhound.",
+                                "If you WISH FOR DARKNESS at Outside Cottage, the hellhound will cower in fear long enough for you to sneak past."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What happens when I WISH FOR FORESIGHT?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What happens when I WISH FOR FORESIGHT?",
+                            "hints": [
+                                "You get a tantalizing, heavily symbolic glimpse of the future, all mixed up with snippets of the past and present.",
+                                "Don't worry about what it means.",
+                                "It's a dream sequence."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why didn't the WISH FOR MAGICK work?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why didn't the WISH FOR MAGICK work?",
+                            "hints": [
+                                "You weren't holding Wishbringer.",
+                                "You weren't holding the Magick Wand.",
+                                "You didn't wave the Magick Wand over the Magick Rutabaga.",
+                                "Magick Wand? Magick Rutabaga? WISH FOR MAGICK?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why should I WISH FOR LUCK?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why should I WISH FOR LUCK?",
+                            "hints": [
+                                "Luck gives you all sorts of little benefits that make it easier to finish the story.",
+                                "There are five ways the WISH FOR LUCK can help you.",
+                                "If you're Lucky, the troll won't notice that your gold coin is a \"counterfeit.\"",
+                                "If you scare the troll away by wishing for Darkness, he'll drop your gold coin on the bridge...but only if you're Lucky.",
+                                "Normally, the eldritch vapors in the cemetary will carry you away and scatter all your possessions once they've taken a good look at you. But if you're Lucky, they'll steal your possessions, one at a time, before they carry you away.",
+                                "The hellhound will eat you up if you hang around for more than three moves. But if you're Lucky, it'll just keep roaring at you.",
+                                "Your chances of being eaten by a grue in the dark are much lower if you're Lucky."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I just neutralized my Luck Wish! What should I do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "I just neutralized my Luck Wish! What should I do?",
+                            "hints": [
+                                "Next time, avoid opening the umbrella indoors or walking under the ladder. These are very Unlucky things to do."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where should I WISH FO FREEDOM?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where should I WISH FO FREEDOM?",
+                            "hints": [
+                                "It only works in two situations.",
+                                "If you're thrown in jail more than once, the only way out is to WISH FOR FREEDOM. You'll usually end up on Lookout Hill (unless the Boot Patrol is there, in which case the Stone will thoughtfully deposit you outside the Police Station).",
+                                "You can also free yourself from the chains in the Torture Chamber with a WISH FOR FREEDOM.",
+                                "Just make sure Mr. Crisp isn't there when you try it."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "How Points Are Scored",
+            "child": {
+                "type": "items",
+                "title": "How Points Are Scored",
+                "content": "<pre>  Action                               Points\n  Enter the Post Office                   1\n  Take the mysterious envelope            5\n  Take the old bone                       1\n  Feed the bone to the poodle             3\n  Take the note from Miss Voss            3\n  Take the gold coin                      1\n  Arrive at Cliff Edge                    1\n  Give envelope to old woman              5\n  Read letter to old woman                1\n  Take metal can from old woman           3\n  Frighten troll with snake               3\n  Take the small stone                    5\n  Remove dead branch from pit             5\n  Take the silver whistle                 3\n  Take the wizard's hat                   1\n  Give wizard's hat to pelican            5\n  Buy ticket                              3\n  Take the 3D glasses                     3\n  Take the blanket                        3\n  Cover beast with blanket                3\n  Take the earthworm                      3\n  Take token from fountain                3\n  Put token in arcade machine             1\n  Transport to Hilltop                    5\n  Open the drawbridge                     3\n  Take the rusty key                      3\n  Unlock your chains                      1\n  Read the violet note                    3\n  Turn the crank                          1\n  Turn off second power switch            3\n  ALEXIS, HEEL                            5\n  Take the steel key                      3\n  Unlock the library door                 3\n  Put small stone in sculpture            5</pre>"
+            }
+        },
+        {
+            "title": "How Points Are Lost",
+            "child": {
+                "type": "items",
+                "title": "How Points Are Lost",
+                "content": "<pre>  Action                              Points\n  Fail to take the violet note          -10\n  Disturb the pile of leaves            -10\n  Give small stone to vulture           -10\n  Give small stone to pelican           -10\n  Torture the Princess                  -10\n  Torture the black cat                 -10\n  Feed grue's milk to Chaos             -10</pre>"
+            }
+        },
+        {
+            "title": "For Your Amusement",
+            "child": {
+                "type": "items",
+                "title": "For Your Amusement",
+                "content": "<p>Have you tried:</p><p>reading the theater marquee before delivering the envelope?</p><p>listening to the conch shell before delivering the envelope?</p><p>examining the video game in Festeron? In Witchville?</p><p>opening the metal can inside the Magick Shoppe?</p><p>examining the wanted posters in Festeron? In Witchville?</p><p>staying in the Jail Cell after being captured by the Boot Patrol?</p><p>getting captured three times by the Boot Patrol, after saving the seahorse? Without saving the seahorse?</p><p>ignoring King Anatinus? Dropping the whistle or the hat?</p><p>letting the small mailbox meet the big mailbox?</p><p>looking around the Museum after the mailboxes have met? If the mailboxes never met?</p><p>leaving things in either mailbox, letting the boxes meet, and looking inside the fossil afterward?</p><p>putting things inside the wizard's hat? And finishing the story?</p><p>dropping the lighted candle into the bay, lake or river?</p><p>wishing for freedom while Mr. Crisp is watching?</p><p>pushing the lever on the torture machine UP while the Princess was clamped inside?</p><p>putting interesting objects (like the black cat) into the torture machine, and pushing the lever up?</p><p>torturing the Princess and the black cat at the same time?</p><p>pouring out the grue's milk near the black cat? Near Chaos?</p><p>putting on the 3D glasses just before you put the stone into the sculpture? And then NOT putting it in?</p><p>giving the stone to the old woman in the Museum?</p>"
+            }
+        }
+    ]
+}

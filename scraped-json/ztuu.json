@@ -1,0 +1,484 @@
+{
+    "type": "menu",
+    "title": "Zork, the Undiscovered Underground",
+    "children": [
+        {
+            "title": "About",
+            "child": {
+                "type": "page",
+                "title": "About PRIZM Invisiclues",
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+            }
+        },
+        {
+            "title": "Credits ",
+            "child": {
+                "type": "page",
+                "title": "Credits",
+                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>from material supplied by:</p><p>  Activision</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Zork</b> and all other game names are registered trade marks of Activision.</p>"
+            }
+        },
+        {
+            "title": "Entrance to the Undiscovered Underground",
+            "child": {
+                "type": "menu",
+                "title": "Entrance to the Undiscovered Underground",
+                "children": [
+                    {
+                        "title": "How do I shirk my responsibilities?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I shirk my responsibilities?",
+                            "hints": [
+                                "Have you tried walking west?",
+                                "How about East?",
+                                "North, South, Down, Up?",
+                                "In other words, you can't. Type Enter or NE to go underground."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The boulders just collapsed my exit route. What do I do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "The boulders just collapsed my exit route. What do I do?",
+                            "hints": [
+                                "You can try eating them.",
+                                "There's not much you can do with them at this point. You will need to get them removed to file your report though."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Convention Center",
+            "child": {
+                "type": "menu",
+                "title": "Convention Center",
+                "children": [
+                    {
+                        "title": "What's a Grue?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What's a Grue?",
+                            "hints": [
+                                "The Grue is a sinister, lurking presence in dark places. Its favorite diet is adventurers, but its insatiable appetite is tampered by its fear of light. No Grue has ever been seen by the light of day, and few have survived its fearsome jaws to tell the tale."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I enter the Grues Convention with my lantern?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I enter the Grues Convention with my lantern?",
+                            "hints": [
+                                "Read the above description of Grues.",
+                                "They dont seem to like light, do they?",
+                                "Have you tried dropping your lantern?",
+                                "Of course, without your lamp, the Grues eat you.",
+                                "You cannot enter the convention with the lantern (on or off)."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I survive in the Grue Convention?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I survive in the Grue Convention?",
+                            "hints": [
+                                "Without a light, you will have to rely on subterfuge.",
+                                "You will need to be in costume."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where do I find a token for the Zork Underground Subway?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where do I find a token for the Zork Underground Subway?",
+                            "hints": [
+                                "In the bucket.",
+                                "At the bottom of the well.",
+                                "You know, just before the Dragon Stairs.",
+                                "What Subway!!! This is not Zork Grand Inquisitor! This is one of those questions which was put in here for the sole purpose of teaching a lesson - do not use the presence or absence of a question on a certain topic as an indication of what is important, and don't assume that long answers indicated important questions."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I'm hungry and I want a souvenir of my jaunt. How do I purchase items at the Souvenir Stand?",
+                        "child": {
+                            "type": "hints",
+                            "title": "...at the Souvenir Stand?",
+                            "hints": [
+                                "Have you tried buying one?",
+                                "Don't have enough money, huh?",
+                                "What about taking one?",
+                                "The salesman doesn't seem to be into charity at the moment.",
+                                "You'll need to get rid of the salesman before you can obtain the candy or anything else at the souvenir stand."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I chase away the salesman?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I chase away the salesman?",
+                            "hints": [
+                                "He looks kind of creepy, don't you think?",
+                                "Why would his face be so unmoving - it isn't natural.",
+                                "Maybe that's not his face!",
+                                "Have you spoken to him yet?",
+                                "He's wearing a mask. You need to remove it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I take the mask off the salesman?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I take the mask off the salesman?",
+                            "hints": [
+                                "He's pretty well out of reach behind the counter.",
+                                "You'll need to get him to come closer.",
+                                "Type \"Salesman, hello\" or \"Talk to salesman\" to get him to lean forward. Then, take his mask. Be sure to read the description carefully."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Am I mistaken, or did the game just describe a Grue?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Am I mistaken, or did the game just describe a Grue?",
+                            "hints": [
+                                "Pretty sacrilegious, huh?",
+                                "Didn't think that was coming, did you?",
+                                "We're pretty proud of ourselves for taking that chance.",
+                                "Well, it wasn't that big a chance as we had Marc Blank and Mike Berlyn write the game."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Was that the first time a Grue was described in a Zork game?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Was that the first time a Grue was described in a Zork game?",
+                            "hints": [
+                                "Of course. Everything in this game is brand, spanking new.",
+                                "Well, except for Grues.",
+                                "And Zork.",
+                                "And the lantern.",
+                                "Now that you mention it, you can Frotz a Grue in Sorcerer anytime you are in the dark to get a brief description of these fearsome creatures."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What can I do with the popcorn?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What can I do with the popcorn?",
+                            "hints": [
+                                "You can string it together for a decoration.",
+                                "How about shipping your computer to mom?",
+                                "Maybe soak up a small reservoir?",
+                                "All you can do with it is eat it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I do with the masks, gloves and body suits in the Changing Room?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do with the masks, gloves and body suits in the Changing Room?",
+                            "hints": [
+                                "You could wear them.",
+                                "Do you see any items that resemble any of the local wild life?",
+                                "Which ones make up the best Grue disguise?",
+                                "Note the look of the Grue Salesman when you take off his mask. Then wear the same items to dress up like a Grue."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I survive the Grue Convention?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I survive the Grue Convention?",
+                            "hints": [
+                                "Your costume only fools the Grues for so long. You can't survive more than a few moves."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "After jumping down the chute, how do I stop the walls from collapsing in the Trash Compactor?",
+                        "child": {
+                            "type": "hints",
+                            "title": "...in the Trash Compactor?",
+                            "hints": [
+                                "Have you braced the walls with the pole?",
+                                "Did you shoot the snake creature in the water?",
+                                "Have you tried a laser blaster on the door?",
+                                "What trash compactor? There is no way to survive jumping down the chute."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why do I want to go in the convention anyway?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why do I want to go in the convention anyway?",
+                            "hints": [
+                                "You need to grab the glasses."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Theater",
+            "child": {
+                "type": "menu",
+                "title": "Theater",
+                "children": [
+                    {
+                        "title": "How do I navigate the maze of seats?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I navigate the maze of seats?",
+                            "hints": [
+                                "Don't you love mazes?",
+                                "This one is huge.",
+                                "Did you try dropping objects in each of the environments and then mapping the areas?",
+                                "Wow, you could walk for days.",
+                                "Better yet, don't bother. There is no way to get through the maze. It only exists to teach you not to go into mazes."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I take a lens off a footlight?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I take a lens off a footlight?",
+                            "hints": [
+                                "They are hot to the touch.",
+                                "You need something to protect your hands.",
+                                "Wear any of the gloves from the changing room."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What's in the trunk?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What's in the trunk?",
+                            "hints": [
+                                "Why don't you open it?"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Hall of Science",
+            "child": {
+                "type": "menu",
+                "title": "Hall of Science",
+                "children": [
+                    {
+                        "title": "How do I raise the cover and push the button?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I raise the cover and push the button?",
+                            "hints": [
+                                "That cover is pretty heavy. You need to keep holding it with one hand.",
+                                "It takes another hand to push the button.",
+                                "You need to drop all of your inventory you are carrying to open the cover and push the button.",
+                                "You do not need to drop items you are wearing."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I see the image under the cover?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I see the image under the cover?",
+                            "hints": [
+                                "The image is fuzzy and out of alignment.",
+                                "Did you notice the colors?",
+                                "You will need special eye wear to correct the image.",
+                                "What about the lenses?",
+                                "Put the red and blue lenses in the glasses.",
+                                "Wear the glasses, raise the cover and push the button."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get through the sealed door?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get through the sealed door?",
+                            "hints": [
+                                "You need to align the symbols on the floor.",
+                                "Did you look at the image under the cover?",
+                                "Place the models on the correct symbols to unlock the door."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where do I find a second quint-Zorkmid coin?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where do I find a second quint-Zorkmid coin?",
+                            "hints": [
+                                "Did you check the trunk for a second coin?",
+                                "Did you look under all the seats?",
+                                "Maybe you should steal one from the Grues?",
+                                "Of course, that would all be too easy.",
+                                "There is only one quint-Zorkmid coin."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I consult the oracle with only 5 Zorkmids?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I consult the oracle with only 5 Zorkmids?",
+                            "hints": [
+                                "You need a way to make your money last.",
+                                "Did you look at the coin?",
+                                "Interesting shape, isn't it?",
+                                "You could try to attach something to the coin so you can retrieve it.",
+                                "TIE THE TINSEL TO THE COIN. You can now insert the coin twice."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I open the Janitor's Closet?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I open the Janitor's Closet?",
+                            "hints": [
+                                "Did you Rezrov the door?",
+                                "Whoops, wrong game again. Maybe something else will work?",
+                                "How about a skeleton key?",
+                                "Actually, the skeleton is the key to this puzzle.",
+                                "Consult the Oracle in the Museum of Illusions for more information."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Cage",
+            "child": {
+                "type": "menu",
+                "title": "The Cage",
+                "children": [
+                    {
+                        "title": "How do I survive the Rat-Ants?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I survive the Rat-Ants?",
+                            "hints": [
+                                "They are pretty hungry.",
+                                "Maybe you could feed them.",
+                                "Hey, they like candy?",
+                                "Is there anything else sweet around that could curve their appetite?",
+                                "The boulders blocking your escape are sweet."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get the Rat-Ants to the Tunnel?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get the Rat-Ants to the Tunnel?",
+                            "hints": [
+                                "They are not very smart.",
+                                "And they like candy.",
+                                "Maybe you could lure them to the tunnel.",
+                                "Leave a trail of candy between the Cage and the Cultural Complex."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I escaped, but so did the Rat-Ants.",
+                        "child": {
+                            "type": "hints",
+                            "title": "I escaped, but so did the Rat-Ants.",
+                            "hints": [
+                                "You need to arm yourself with a deterrent before you make your escape.",
+                                "Did you know that Rat-Ants are insects, not rodents?",
+                                "Make sure you have the Bug Spray before you lead the Rat-Ants to the outside.",
+                                "Oh yeah, make sure you don't waste the spray before then either."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "General Questions",
+            "child": {
+                "type": "menu",
+                "title": "General Questions",
+                "children": [
+                    {
+                        "title": "How do I turn the lantern on?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I turn the lantern on?",
+                            "hints": [
+                                "Did you read the description of the Lantern?",
+                                "Looks to be in bad shape.",
+                                "The switch doesn't seem to work.",
+                                "If you were really frustrated with a device, what would you do?",
+                                "HIT THE LANTERN to turn it back on."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where do I get some tinsel?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where do I get some tinsel?",
+                            "hints": [
+                                "Where do you usually find tinsel?",
+                                "Are there any trees around?",
+                                "Look at the miniature tree in the Mud Forum."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I do with the bug repellent?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do with the bug repellent?",
+                            "hints": [
+                                "You kill bugs of course, but only at the right time."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "How Points are Scored",
+            "child": {
+                "type": "items",
+                "title": "How Points are Scored",
+                "content": "<p>(Use only as a last resort.)</p><pre>  Points  Action\n     5    fixing the lantern\n     8    seeing a Grue\n    10    impersonating a Grue\n     5    opening the massive door\n     5    choosing a lens\n     5    experimenting with the glasses\n    10    revealing the hidden picture\n     8    decorating a coin\n    10    consulting the oracles\n     5    opening the closet\n    19    finding sundry items\n     5    escaping the GUE\n     5    debugging the GUE\n   100    Total</pre>"
+            }
+        },
+        {
+            "title": "For Your Amusement",
+            "child": {
+                "type": "items",
+                "title": "For Your Amusement",
+                "content": "<p>(after you have finished the game)</p><p>Have you tried:</p><p>Attempting to kill the Salesman</p><p>Breaking the Mirror in the Changing Room</p><p>Going down the Trash Chute</p><p>Wearing the adventurer's hat from the Convention Hall</p><p>Licking the Boulders</p><p>Sitting on the seats in the Theater main area</p><p>Looking at the curtains</p><p>Pulling down the curtains</p><p>Taking a bow on stage</p><p>Looking at the stickers on the trunk</p><p>Opening the Mailbox on the model white house</p>"
+            }
+        }
+    ]
+}

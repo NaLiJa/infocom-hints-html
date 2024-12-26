@@ -1,0 +1,1147 @@
+{
+    "type": "menu",
+    "title": "Zork I: The Great Underground Empire",
+    "children": [
+        {
+            "title": "About",
+            "child": {
+                "type": "page",
+                "title": "About PRIZM Invisiclues",
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+            }
+        },
+        {
+            "title": "Credits ",
+            "child": {
+                "type": "page",
+                "title": "Credits",
+                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>from material supplied by:</p><p>  Henrik Dittmann &amp; Paul David Doherty</p><p>  Volker Blasius</p><p>  Mike Threepoint</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Zork</b> and all other game names are registered trade marks of Activision.</p>"
+            }
+        },
+        {
+            "title": "Sample Question",
+            "child": {
+                "type": "menu",
+                "title": "Sample Question",
+                "children": [
+                    {
+                        "title": "How many grues does it take to screw in a light bulb? ",
+                        "child": {
+                            "type": "hints",
+                            "title": "How many grues does it take to screw in a light bulb?",
+                            "hints": [
+                                "Don't go on unless you've asked WHAT IS A GRUE?",
+                                "You could break a bulb, then hide and watch what happens.",
+                                "None. Grues are terrified of light."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Above Ground",
+            "child": {
+                "type": "menu",
+                "title": "Above Ground",
+                "children": [
+                    {
+                        "title": "Where do I find a machete?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where do I find a machete?",
+                            "hints": [
+                                "There is none. The game must have <em>some</em> limitations. You can't expect to walk to the nearest airport and fly to London to see the British Museum..."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I cross the mountains?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I cross the mountains?",
+                            "hints": [
+                                "Play <b>Zork II</b>."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I kill the songbird?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I kill the songbird?",
+                            "hints": [
+                                "What a concept! You need a psychiatrist."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the nest useful for anything?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the nest useful for anything?",
+                            "hints": [
+                                "In China you might make bird's nest soup.",
+                                "This is not China.",
+                                "In other words, no."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I open the egg without damaging it?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I open the egg without damaging it?",
+                            "hints": [
+                                "<b>You</b> don't.",
+                                "Have you tried saying OPEN EGG?",
+                                "It takes a great deal of manual dexterity and the proper tools.",
+                                "Someone else in the game can do it.",
+                                "Only the Thief can open the egg. Give it to him or leave it underground where he will find it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I fix the broken canary?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I fix the broken canary?",
+                            "hints": [
+                                "It is broken beyond repair.",
+                                "No one can fix it. Really!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Are the leaves useful for anything?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Are the leaves useful for anything?",
+                            "hints": [
+                                "They're great for hiding gratings.",
+                                "They can be taken, counted, or burned."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I open the grating?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I open the grating?",
+                            "hints": [
+                                "You must unlock it.",
+                                "You need the skeleton key.",
+                                "It can be unlocked only from below.",
+                                "The grating and key can be found in the Maze."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get off the roof of the house?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get off the roof of the house?",
+                            "hints": [
+                                "How did you get up there?",
+                                "Someone from Infocom would love to hear how you did it.",
+                                "This is one of those questions which was put in here for the sole purpose of teaching a lesson -- do not use the presence or absence of a question on a certain topic as an indication of what is important, and don't assume that long answers indicate important questions."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Once I have the canary in an undamaged state, what do I do with it?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Once I have the canary in an undamaged state, what do I do with it?",
+                            "hints": [
+                                "Something is attracted to its singing.",
+                                "It is also a treasure.",
+                                "Try winding it in the forest."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get the brass bauble?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get the brass bauble?",
+                            "hints": [
+                                "You must open the egg first.",
+                                "See the previous question."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I open the front door?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I open the front door?",
+                            "hints": [
+                                "It cannot be knocked down.",
+                                "It cannot be destroyed.",
+                                "It cannot be opened."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get into the house?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get into the house?",
+                            "hints": [
+                                "Have you checked all sides?",
+                                "There's a window in the back which is partly open. Open it and climb through."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I eat the lunch?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I eat the lunch?",
+                            "hints": [
+                                "Try it. Try the water, too. You can't be afraid to try <em>anything</em> in <b>Zork I</b> (but it may make sense to SAVE your state first)."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get into the dungeons?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get into the dungeons?",
+                            "hints": [
+                                "The entrance is in the house.",
+                                "Trapdoors can be hidden.",
+                                "Move the rug."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is a grue?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is a grue?",
+                            "hints": [
+                                "Ask <b>Zork I</b>."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Cellar Area",
+            "child": {
+                "type": "menu",
+                "title": "The Cellar Area",
+                "children": [
+                    {
+                        "title": "Can the trapdoor be opened from below?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can the trapdoor be opened from below?",
+                            "hints": [
+                                "No. The only way to keep the trapdoor from closing behind you is to find another exit (other than the chimney, which is very limited)."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get up the ramp in the Cellar?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get up the ramp in the Cellar?",
+                            "hints": [
+                                "\"The ramp is too slippery to climb.\"",
+                                "Is there a way to make it less slippery?",
+                                "No. You won't ever get up the ramp."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I negotiate with the Troll?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I negotiate with the Troll?",
+                            "hints": [
+                                "Trolls tend not to be conversational. They require a much more direct approach.",
+                                "You won't get past the Troll while he is conscious.",
+                                "Kill him with the sword."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I do with the axe?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do with the axe?",
+                            "hints": [
+                                "It can be used as a weapon, but isn't really necessary for anything.",
+                                "&gt;&gt;This space intentionally left blank.&lt;&lt;"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Does the paint in the studio mean anything?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Does the paint in the studio mean anything?",
+                            "hints": [
+                                "The artist was sloppy."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Maze",
+            "child": {
+                "type": "menu",
+                "title": "The Maze",
+                "children": [
+                    {
+                        "title": "How do I get through the Maze?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get through the Maze?",
+                            "hints": [
+                                "It is essential that you make a map of the Maze.",
+                                "All ten directions are used: N, S, E, W, NE, NW, SE, SW, UP and DOWN.",
+                                "Some passages lead back to the same room.",
+                                "Rooms can be marked by dropping objects. (However, the Thief can be a pain.) There are 22 rooms west of the Troll Room."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I do with the rusty knife?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do with the rusty knife?",
+                            "hints": [
+                                "If you had your sword when you took it, the pulse of blinding light should have served as a warning.",
+                                "Try throwing the knife or attacking someone with it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I do with the skeleton?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do with the skeleton?",
+                            "hints": [
+                                "Let the dead rest in peace.",
+                                "&gt;&gt;This space intentionally left blank.&lt;&lt;"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I use the broken lantern?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I use the broken lantern?",
+                            "hints": [
+                                "If you think it's useful, there's this bridge you might be interested in."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get past the Cyclops?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get past the Cyclops?",
+                            "hints": [
+                                "Fighting isn't always the answer.",
+                                "There are two solutions. The alternate begins at Hint #6.",
+                                "What happens if you hang around too long, or give something to the Cyclops?",
+                                "He's hungry, isn't he?",
+                                "Feed him the lunch and water.",
+                                "Do you remember your mythology?",
+                                "Take a very close look at the commandment in the black book.",
+                                "The Cyclops is scared silly of the name of his father's nemesis, ODYSSEUS (first letter of each line in commandment -- some computer screens are narrow and make this more difficult to see). The Latin version of the name, ULYSSES, is also accepted.",
+                                "For fun, try saying ODYSSEUS elsewhere."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Round Room Area",
+            "child": {
+                "type": "menu",
+                "title": "The Round Room Area",
+                "children": [
+                    {
+                        "title": "How do I get the platinum bar?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get the platinum bar?",
+                            "hints": [
+                                "For <b>Zork I</b> releases (revisions) 1 through 14, the only solution to this problem begins at Hint #7. For <b>Zork I</b> releases 15 on, there are two solutions -- the preferred solution begins at Hint #2, the alternate at #7.",
+                                "What is causing the loud roar?",
+                                "Is there a way to control the flow of water?",
+                                "Solve the puzzle of the dam.",
+                                "Does opening or closing the dam gates affect anything downstream?",
+                                "Open the dam gates. Wait until the reservoir is empty, then close the gates. Take advantage of the silence in the Loud Room while the reservoir refills.",
+                                "This solution to the Loud Room requires no object or information from elsewhere in the game.",
+                                "The solution has something to do with the room's acoustics.",
+                                "What happens whenever you say something?  &gt;something&lt;  &gt;&gt;something&lt;&lt;",
+                                "Type ECHO."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I kill the rock?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I kill the rock?",
+                            "hints": [
+                                "How silly!",
+                                "The term \"living rock\" is metaphorical, and should not be taken literally."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there anything special about the mirror?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there anything special about the mirror?",
+                            "hints": [
+                                "Breaking it is not a good idea.",
+                                "Looking into it can be fun.",
+                                "Did you ever try touching or rubbing it?",
+                                "There are two Mirror Rooms. Touching the mirror in one transports you to the other."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I enter Hades?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I enter Hades?",
+                            "hints": [
+                                "You must exorcise the evil spirits.",
+                                "For a hint, turn the page in the black book.",
+                                "It requires the bell, book and candles.",
+                                "Ring the bell, light the candles, and read the black book.",
+                                "The order in which you perform the ceremony is very important. Also, you must be holding the candles when you light them. Speed is of the essence, too -- don't waste any more time than is necessary between steps."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I get anywhere from the Dome Room?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I get anywhere from the Dome Room?",
+                            "hints": [
+                                "Yes. It is likely that you have seen the necessary equipment.",
+                                "It is found in the Attic.",
+                                "Tie the rope to the railing."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I go up from the Torch Room?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I go up from the Torch Room?",
+                            "hints": [
+                                "No."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get out of the Temple area?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get out of the Temple area?",
+                            "hints": [
+                                "You'll never reach the rope.",
+                                "You can leave from the altar end by going down, but \"you haven't a prayer of getting the coffin down that hole.\"",
+                                "Or solve the puzzle of the granite walls.",
+                                "The altar has magical powers. What is usually done at altars?",
+                                "Try praying."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Dam Area",
+            "child": {
+                "type": "menu",
+                "title": "The Dam Area",
+                "children": [
+                    {
+                        "title": "How do I blow up the dam?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I blow up the dam?",
+                            "hints": [
+                                "What a concept!",
+                                "&gt;&gt;This space intentionally left blank.&lt;&lt;"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How is the control panel operated?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How is the control panel operated?",
+                            "hints": [
+                                "You can turn the bolt.",
+                                "You need the wrench.",
+                                "You must activate the panel. (Green bubble lights up.)"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the green bubble for?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the green bubble for?",
+                            "hints": [
+                                "It indicates that the control panel is activated. Use the buttons in the Maintenance Room."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I do with the object which looks like a tube of toothpaste?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do with the object which looks like a tube of toothpaste?",
+                            "hints": [
+                                "Read the tube.",
+                                "Brushing your teeth with it is not sensible.",
+                                "It doesn't oil the bolt well.",
+                                "Gooey gunk like this is good for patching leaks in water pipes or boats."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the screwdriver for?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the screwdriver for?",
+                            "hints": [
+                                "You'll know when the time comes."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do the buttons in the Maintenance Room do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do the buttons in the Maintenance Room do?",
+                            "hints": [
+                                "Try them all. You should be able to find out.",
+                                "The blue button causes a water pipe to burst.",
+                                "The red button turns the lights on and off.",
+                                "The yellow button activates the control panel at the dam. (The green bubble is now glowing.) The brown bubble [sic] deactivates the control panel."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I stop the leak?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I stop the leak?",
+                            "hints": [
+                                "Yes, but not with your finger.",
+                                "Isn't there some sort of glop you could apply?",
+                                "Use the gunk in the tube."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the pile of plastic good for?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the pile of plastic good for?",
+                            "hints": [
+                                "What is the valve for?",
+                                "Did you try blowing into it?",
+                                "You need the air pump, which is north of the Reservoir.",
+                                "Solve the dam problem, or figure out the mirror."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Old Man River",
+            "child": {
+                "type": "menu",
+                "title": "Old Man River",
+                "children": [
+                    {
+                        "title": "Can the river be crossed?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can the river be crossed?",
+                            "hints": [
+                                "Not without a boat."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What will placate the River God?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What will placate the River God?",
+                            "hints": [
+                                "What have you tried to throw into the river?",
+                                "There is no River God. Anything thrown in is lost forever."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get back from across the river?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get back from across the river?",
+                            "hints": [
+                                "If you launch the boat from Sandy Beach, you can cross the river to the west to White Cliffs South.",
+                                "It is also possible to cross the rainbow."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I control the boat?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I control the boat?",
+                            "hints": [
+                                "Read the label.",
+                                "You can say BOARD (or GET IN), DISEMBARK (or GET OUT), LAUNCH, and LAND (or a direction towards a landing area). You can also let the current carry you."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I carry a pointy object onto the boat?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I carry a pointy object onto the boat?",
+                            "hints": [
+                                "Pointy objects can puncture a plastic boat. You should not carry them on. Put them in the boat before boarding or put them into a container, such as the brown sack, first."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I go over the falls?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I go over the falls?",
+                            "hints": [
+                                "Just stay in the boat and wait.",
+                                "Well, what did you expect?",
+                                "\"I see no intelligence here.\"",
+                                "By the way, have you ever taken a close look at the word ARAGAIN?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the rainbow?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the rainbow?",
+                            "hints": [
+                                "You can cross it and get the pot of gold.",
+                                "You do not click your heels together three times while saying \"There's no place like home.\"",
+                                "The description of one of the treasures, and the result of manipulating it properly were meant to be subtle items.",
+                                "Raise or wave the sceptre while standing at the end of the rainbow."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get through the crack in the Damp Cave?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get through the crack in the Damp Cave?",
+                            "hints": [
+                                "\"It's too narrow for most insects.\"",
+                                "You don't."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I turn myself into an insect?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I turn myself into an insect?",
+                            "hints": [
+                                "Build a cocoon?",
+                                "Not bloody likely."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Coal Mine Area",
+            "child": {
+                "type": "menu",
+                "title": "The Coal Mine Area",
+                "children": [
+                    {
+                        "title": "What do I do about the bat?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do about the bat?",
+                            "hints": [
+                                "It's a vampire bat.",
+                                "Have you never watched an old horror movie?",
+                                "Use the garlic."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get beyond the Smelly Room?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get beyond the Smelly Room?",
+                            "hints": [
+                                "If your lantern battery is dead, forget it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I find my way through the coal mine?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I find my way through the coal mine?",
+                            "hints": [
+                                "I would think you were an expert maze-mapper by now."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the basket on the chain useful?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the basket on the chain useful?",
+                            "hints": [
+                                "Anything that complex in <b>Zork I</b> is useful."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get through the narrow passage from the Timber Room?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get through the narrow passage from the Timber Room?",
+                            "hints": [
+                                "\"You cannot fit through this passage with that load.\"",
+                                "Did you try dropping everything?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What source of light can I bring into the Drafty Room?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What source of light can I bring into the Drafty Room?",
+                            "hints": [
+                                "Matches.",
+                                "(Well, no one said they would work in a draft.) You can't carry a light source in. There is another way.",
+                                "Why might the room be drafty?",
+                                "Did you ever wonder where the shaft with the basket led?",
+                                "Objects, including light sources, can be placed in the basket. The basket can be lowered and raised."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the timber for?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the timber for?",
+                            "hints": [
+                                "It makes the room more interesting and the adventurer more confused."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I use the machine?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I use the machine?",
+                            "hints": [
+                                "The switch description should remind you of something.",
+                                "Try putting something inside and turning the machine on with the screwdriver. Have a dictionary handy.",
+                                "You can make a diamond from coal."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is meant by the \"Granite Wall\" in the Slide Room?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is meant by the \"Granite Wall\" in the Slide Room?",
+                            "hints": [
+                                "Evidently the ancient Zorkers did not have strong truth-in-advertising laws. Take nothing for granite."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the coal good for anything?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the coal good for anything?",
+                            "hints": [
+                                "It is a source of carbon.",
+                                "One of the most valuable gems is made of carbon.",
+                                "Diamonds are pure carbon in crystalline form. They are created under tremendous heat and pressure."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the gas of any use?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the gas of any use?",
+                            "hints": [
+                                "It's great for blowing up dim-witted adventurers who wander into a coal mine with an open flame."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Land Beyond the Chasm",
+            "child": {
+                "type": "menu",
+                "title": "The Land Beyond the Chasm",
+                "children": [
+                    {
+                        "title": "How do I cross the chasm?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I cross the chasm?",
+                            "hints": [
+                                "There's no bridge."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I build a bridge?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I build a bridge?",
+                            "hints": [
+                                "An interesting idea...",
+                                "The timber might be useful.",
+                                "But then again, maybe not.",
+                                "A valiant attempt, but this is getting you nowhere."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why doesn't the magic word \"plugh\" work in the land beyond the chasm?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why doesn't the magic word \"plugh\" work in the land beyond the chasm?",
+                            "hints": [
+                                "\"A hollow voice says Fool.\"",
+                                "Should nonsense words work anywhere in <b>Zork I</b>?",
+                                "Remember the warning in the introduction. Do not let the presence or absence of questions, or the lengths of the answers, influence your game."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "After the meteor strike activates the long-dormant volcano and destroys the bridge, how do I get back across the chasm?",
+                        "child": {
+                            "type": "hints",
+                            "title": "...the bridge, how do I get back across the chasm?",
+                            "hints": [
+                                "Whew! (That might actually be an interesting addition to the game.)"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "General Questions",
+            "child": {
+                "type": "menu",
+                "title": "General Questions",
+                "children": [
+                    {
+                        "title": "Why does the sword glow?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why does the sword glow?",
+                            "hints": [
+                                "Elvish swords are magical, and glow with a blue light when dangers (particularly dangerous beings) are near."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I do about the Thief?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do about the Thief?",
+                            "hints": [
+                                "Discretion is the better part of valor.",
+                                "You can almost always avoid a confrontation by walking away. Although you may be robbed, at least you won't be killed."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How many points are there in the game?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How many points are there in the game?",
+                            "hints": [
+                                "350. Any time you say QUIT, RESTART, or SCORE, this is pointed out."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get out of the dungeons?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get out of the dungeons?",
+                            "hints": [
+                                "There are six exits.",
+                                "The chimney will allow you to carry one object at a time in addition to your lamp.",
+                                "Once you find an exit other than the chimney, the trapdoor will not close behind you.",
+                                "Probably the easiest exit (conceptually) is by way of the grating. You will probably come across the other three exits while solving some of the harder problems, but it is not necessary to find more than one to complete the game."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of all the engravings?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of all the engravings?",
+                            "hints": [
+                                "The knowledgeable critic, I. Q. Roundhead, wrote a ten-volume study of the engravings of the ancient Zorkers. To make a long story short, he concluded that the Zorkers were very strange people."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I kill the Thief?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I kill the Thief?",
+                            "hints": [
+                                "The Thief is a cunning and dangerous opponent, skilled in the martial arts. Novice Zorkers would do well to avoid him.",
+                                "It is possible to distract him for one move by giving him something of value.",
+                                "The nasty knife is a marginally more effective weapon to use against him.",
+                                "As you gain in points, you become a better match."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I recharge my lamp?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I recharge my lamp?",
+                            "hints": [
+                                "What makes you think you can?",
+                                "It is always best to conserve resources. You can prolong its life by turning it off whenever you can and using alternate light sources."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What happens when you die in Zork I?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What happens when you die in Zork I?",
+                            "hints": [
+                                "You may appear in the forest with your belongings scattered (valuables below ground, nonvaluables above).",
+                                "You may wander as a spirit until you find a way to resurrect yourself.",
+                                "<b>Zork I</b> is as fair as baseball. Three strikes and you're out.",
+                                "You become a spirit if you have visited a certain location before death.",
+                                "The location is the altar in the South Temple.",
+                                "Try praying at the altar."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Who is \"the Other Occupant?\"",
+                        "child": {
+                            "type": "hints",
+                            "title": "Who is \"the Other Occupant?\"",
+                            "hints": [
+                                "\"He of the large bag.\"",
+                                "The Thief, of course."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I go over the falls without killing myself?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I go over the falls without killing myself?",
+                            "hints": [
+                                "Why not ask, \"How do I cut off my head without killing myself?\""
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where is HELLO SAILOR useful?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where is HELLO SAILOR useful?",
+                            "hints": [
+                                "Are you sure you want to know?",
+                                "Absolutely certain?",
+                                "To quote the black book, \"Oh ye who go about saying unto each: 'Hello Sailor': Dost thou know the magnitude of thy sin before the gods? ...",
+                                "Surely thou shalt repent of thy cunning.\"",
+                                "Nowhere. (You were warned.)"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why do things move and disappear in the dungeon?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why do things move and disappear in the dungeon?",
+                            "hints": [
+                                "The Thief is constantly moving about.",
+                                "There is a high probability that he will take valuable objects (except the gold coffin) which you have seen. There is a much lower probability that he will take a nonvaluable object (again, only if you have seen it), and he may later decide to drop it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where are the treasures the Thief took from me?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where are the treasures the Thief took from me?",
+                            "hints": [
+                                "As he wanders about stealing things, he puts them in his bag. Whenever he stops in his Treasure Room, he drops off the valuables he has collected.",
+                                "You can get the contents of the bag by defeating him in a fight.",
+                                "The Treasure Room is guarded by the Cyclops."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I do with the stiletto?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do with the stiletto?",
+                            "hints": [
+                                "Congratulations! Getting the stiletto is rare. If you keep it away from the Thief, he won't attack you.",
+                                "It is a weapon, nothing more."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Who is the lean and hungry gentleman?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Who is the lean and hungry gentleman?",
+                            "hints": [
+                                "The Thief."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where can I use the shovel?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where can I use the shovel?",
+                            "hints": [
+                                "It will dig only into very soft soil.",
+                                "Try it in the sand.",
+                                "The sand in the Sandy Cove [sic] is most promising."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there any significance to all the granite walls?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any significance to all the granite walls?",
+                            "hints": [
+                                "There are only two true granite walls.",
+                                "While next to a real granite wall, you can transport yourself to the location of the other by saying the name of the room.",
+                                "The two granite walls are in the Temple and the Treasure Room."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Which object is best for casting images?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Which object is best for casting images?",
+                            "hints": [
+                                "What are you talking about?",
+                                "&gt;&gt;This space intentionally left blank.&lt;&lt;"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get into the Strange Passage?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get into the Strange Passage?",
+                            "hints": [
+                                "This is not necessary to complete the game.",
+                                "See the alternative Cyclops answer."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get into the Stone Barrow?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get into the Stone Barrow?",
+                            "hints": [
+                                "You'll know when the time comes.",
+                                "When you have all 350 points, you'll be able to enter the Barrow."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "How Points are Scored",
+            "child": {
+                "type": "menu",
+                "title": "How Points are Scored",
+                "children": [
+                    {
+                        "title": "Progress Points",
+                        "child": {
+                            "type": "items",
+                            "title": "Progress Points",
+                            "content": "<p>(Use only as a last resort.)</p><p>You get:</p><p>10 points for getting into the house</p><p>25 for getting into the Cellar</p><p>5 for getting past the Troll</p><p>13 for getting to the Drafty Room</p><p>25 for getting to the Treasure Room.</p><p>These points plus all the treasure points make 350. When you have all 350 points, the twentieth treasure will appear in the case -- a map which leads (indirectly) to 400 more points (<b>Zork II</b>).</p>"
+                        }
+                    },
+                    {
+                        "title": "Treasures: Their Values and Locations",
+                        "child": {
+                            "type": "items",
+                            "title": "Treasures: Their Values and Locations",
+                            "content": "<p>Use only as a last resort.</p><pre>  Treasure            Value   Value   Where found \n                     (touch)  (case)\n  jewel-encrusted egg   5       5     in nest in tree\n  clockwork canary      6       4     in the egg\n  beautiful painting    4       6     Gallery\n  platinum bar         10       5     Loud Room\n  ivory torch          14       6     Torch Room\n  gold coffin          10      15     Egypt Room\n  Egyptian sceptre      4       6     in the coffin\n  trunk of jewels      15       5     Reservoir\n  crystal trident       4      11     Atlantis Room\n  jade figurine         5       5     Bat Room\n  sapphire bracelet     5       5     Gas Room\n  huge diamond         10      10     you create it\n  bag of coins         10       5     in the Maze\n  crystal skull        10      10     Land of Living Dead\n  jeweled scarab        5       5     buried in Sandy Cave\n  large emerald         5      10     in the buoy\n  silver chalice       10       5     Treasure Room\n  pot of gold          10      10     End of Rainbow\n  brass bauble          1       1     the songbird has it</pre>"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "For Your Amusement",
+            "child": {
+                "type": "items",
+                "title": "For Your Amusement",
+                "content": "<p>(after you've finished the game)</p><p>Have you ever:</p><p>opened the grating from beneath while the leaves were still on it?</p><p>tried swearing at <b>Zork I</b>?</p><p>waved the sceptre while standing on the rainbow?</p><p>tried anything nasty with the bodies in Hades?</p><p>burned the black book?</p><p>damaged the painting?</p><p>lit the candles with the torch?</p><p>read the matchbook?</p><p>tried to take yourself (or the Thief, Troll, or Cyclops)?</p><p>tried cutting things with the knife or sword?</p><p>poured water on something burning?</p><p>said WAIT or SCORE while dead (as a spirit)?</p>"
+            }
+        },
+        {
+            "title": "Words You May Not Have Tried",
+            "child": {
+                "type": "items",
+                "title": "Words You May Not Have Tried",
+                "content": "<p>HELLO (to Troll, Thief, Cyclops)</p><p>ZORK</p><p>OIL (lubricate)</p><p>XYZZY</p><p>WALK AROUND (in forest, outside house, or inside house)</p><p>PLUGH</p><p>FIND (especially with house, hands, teeth, me)</p><p>CHOMP</p><p>COUNT (candles, leaves, matches)</p><p>WIN</p><p>MUMBLE (or SIGH)</p><p>LISTEN (especially to the Troll, Thief, or Cyclops)</p><p>REPENT</p><p>WHAT IS (grue, zorkmid, ...)</p><p>YELL (or SCREAM)</p><p>SMELL</p>"
+            }
+        }
+    ]
+}

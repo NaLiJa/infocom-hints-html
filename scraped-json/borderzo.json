@@ -1,0 +1,504 @@
+{
+    "type": "menu",
+    "title": "Border Zone",
+    "children": [
+        {
+            "title": "About",
+            "child": {
+                "type": "page",
+                "title": "About PRIZM Invisiclues",
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+            }
+        },
+        {
+            "title": "Credits ",
+            "child": {
+                "type": "page",
+                "title": "Credits",
+                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>from material supplied by:</p><p>  Torbjorn Andersson</p><p>  Volker Blasius</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Border Zone</b> and all other game names are registered trade marks of Activision.</p>"
+            }
+        },
+        {
+            "title": "The Train",
+            "child": {
+                "type": "menu",
+                "title": "The Train",
+                "children": [
+                    {
+                        "title": "How do I answer the man?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I answer the man?",
+                            "hints": [
+                                "It is possible to answer either way, although you must be careful.",
+                                "If he thinks you are lying, it will raise his level of suspicion, regardless of what you said.",
+                                "Also, the admission that you have seen the American agent is enough to generate a little suspicion."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why doesn't he believe my answer?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why doesn't he believe my answer?",
+                            "hints": [
+                                "Is there any reason the man might KNOW that you've seen the American agent?",
+                                "Might the agent have left something behind, besides the document and the carnation?",
+                                "Wasn't he holding his left arm? Mightn't it have been wounded?",
+                                "LOOK AT THE FLOOR to see the blood that he's left here. It's a dead giveaway, no pun intended. It would be best to clean up after him.",
+                                "In the lavatory, across the hall and to the south, there is a towel. Get it, wet it, then use it to clean up the blood.",
+                                "Also, answering in a way that contradicts the evidence (i.e. the bloodiness of the floor), adds suspicion."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why am I searched so thoroughly?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why am I searched so thoroughly?",
+                            "hints": [
+                                "For one reason, there's an important document missing.",
+                                "For another, they know the American agent had it.",
+                                "You are American, therefore somewhat suspicious.",
+                                "If you're wearing that crushed carnation, you might look peculiar to them.",
+                                "Depending on how you handled your 'interview' with the trench coated man, you might have appeared suspicious.",
+                                "Also, if you have been seen outside of your compartment holding any unusual items - a carnation, a briefcase, etc..."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why am I followed at the station?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why am I followed at the station?",
+                            "hints": [
+                                "Clearly, you are under suspicion.",
+                                "There are a number of things you may have done to make the situation worse. See the previous two questions. Also, if the guards found anything peculiar in their search of your possessions, that would increase their suspicions."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I deliver the document?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I deliver the document?",
+                            "hints": [
+                                "You'll have to make sure the guards don't find it.",
+                                "Have you tried hiding it...?",
+                                "...in your compartment?",
+                                "...in the lavatory?",
+                                "...in your camera?",
+                                "Oh, you have? Then, you should be aware that you CANNOT deliver the document.",
+                                "However, you can deliver its contents.",
+                                "Your camera can be used for more than tourist shots.",
+                                "PHOTOGRAPH the document.",
+                                "You must be clever to avoid the guards destroying your film during the search.",
+                                "Try rewinding the roll that's in there, and loading the camera with the exposed roll. That will divert suspicion."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Who is my contact?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Who is my contact?",
+                            "hints": [
+                                "It depends on what the American agent said at the very beginning.",
+                                "Check your Frobnian phrase book (in your Border Zone package) for the translation of the phrase that your contact was supposed to repeat. Be careful; the exact words must be used.",
+                                "When your contact appears, you must SAY \"It is my fault\" in Frobnian. Check your phrase book for the translation.",
+                                "Then, GIVE THE COLOR ROLL TO THE CONTACT. Alternatively, you can DROP THE COLOR FILM; this latter method is less obvious, in case you are followed. Depending on how much suspicion you have raised, you may be able to do either, both, or none of these two things."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Have you ever tried...?",
+                        "child": {
+                            "type": "items",
+                            "title": "Have you ever tried...?",
+                            "content": "<p>[Please don't read further until you have successfully completed this chapter.]</p><p>dropping things in the passageway?</p><p>entering other compartments (they're all different!)</p><p>photographing things at the train platform?</p><p>photographing the bad spy? yourself? the camera?</p><p>pulling the stop cord on the train?</p><p>jumping out the window in your compartment?</p><p>giving the document (or shreds) to the bad spy?</p><p>reading the graffiti in the bathroom?</p><p>putting things in the sink?</p><p>flushing things down the toilet?</p><p>trying to hide the document every place you can think of?</p><p>taking a gun from one of the guards?</p>"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Border",
+            "child": {
+                "type": "menu",
+                "title": "The Border",
+                "children": [
+                    {
+                        "title": "How do I stop myself from bleeding?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I stop myself from bleeding?",
+                            "hints": [
+                                "Have you tried using a tourniquet?",
+                                "Is there any cloth or fabric you can use?",
+                                "RIP your CLOTHES.",
+                                "Then, TIE THE PIECE OF CLOTHING AROUND LEFT ARM."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get warm?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get warm?",
+                            "hints": [
+                                "Have you found any shelter?",
+                                "Go east and north from your starting point.",
+                                "You'll have to get into the hut.",
+                                "There's a very nice parka inside.",
+                                "See the question \"How do I get into the hut?\""
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I keep away from the dogs?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I keep away from the dogs?",
+                            "hints": [
+                                "Can you find food to distract them?",
+                                "Didn't think so.",
+                                "Can you hide your tracks?",
+                                "Guess not.",
+                                "Can you confuse their senses?",
+                                "How about a place where you don't leave tracks...",
+                                "...and don't worry much about odors.",
+                                "Have you been at the swamp?",
+                                "Make sure that you ENTER THE SWAMP; then move somewhere else along the edge, so they'll lose the trail.",
+                                "Oh, I hope you weren't wearing any of your nice shoes."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What about the automobile I hear?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What about the automobile I hear?",
+                            "hints": [
+                                "Have you observed it from up close?",
+                                "If you get in it's way, you'll be caught.",
+                                "There's a good spot where you can observe the car.",
+                                "Like the north side of the hut.",
+                                "Basically, three enemy guards are in the car.",
+                                "They come to warn the man in the hut that you are an escaped lunatic.",
+                                "Who else would be walking around, wounded and cold, in the middle of nowhere?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get into the hut?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get into the hut?",
+                            "hints": [
+                                "Have you tried the front and back doors?",
+                                "Well, it works better if nobody's inside.",
+                                "You can get in when the occupant is talking to the men from the car. [See the hint about the car if this is meaningless...]",
+                                "Also, the occupant will leave at some point to get more wood from the shed.",
+                                "Also, there's another way, but that's for you to figure out..."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get out of the hut?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get out of the hut?",
+                            "hints": [
+                                "If the owner hasn't returned and there's no scout prowling around, it's no problem.",
+                                "The scout will be gone when the car leaves (you'll hear it).",
+                                "But now, the owner's returned as well. The squeaky door alerts him to your presence.",
+                                "Take the oil can, then OIL THE HINGES.",
+                                "Now you can leave - just don't come back!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I use the explosive?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I use the explosive?",
+                            "hints": [
+                                "Better might be \"Where...?\"",
+                                "To use the explosive, REMOVE the CAP, PUSH the BUTTON once for every minute you want the fuse to run, and REPLACE the CAP.",
+                                "Oh... you won't want to be there when it goes off.",
+                                "Try placing it in different places to see what happens; remember it's magnetic so you can PUT it ON metallic objects.",
+                                "You don't really need this until you've gotten as far as the border fences.",
+                                "See \"How can I cross the border?\" for details."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I avoid the searchlights?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I avoid the searchlights?",
+                            "hints": [
+                                "If you are not WATCHing them, you should.",
+                                "The status line will show you the current positions of the lights.",
+                                "You should plan to head NORTH when the three lights are all aimed away from you.",
+                                "Make sure you understand where YOU are in relation to the three lights; the right times to cross differ depending on your position.",
+                                "To cross successfully, you must be in good physical condition.",
+                                "That means warm and not bleeding.",
+                                "You should also be wearing proper shoes.",
+                                "For example, the WORK SHOES in the hut."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I cross the first fence?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I cross the first fence?",
+                            "hints": [
+                                "It's electrified, so you'd best not touch it.",
+                                "Also, you'll need something to break the chain links.",
+                                "You could use something insulating on your hands.",
+                                "Perhaps RUBBER GLOVES, from the woodshed.",
+                                "You'll also need the BOLT CUTTERS, also found in the woodshed.",
+                                "You'll have to LOOK AT THE TOOLS to find the gloves and the bolt cutters.",
+                                "Try CUTting the LINKS WITH THE BOLT CUTTERS.",
+                                "Oh, yeah. If you want to get through the fence, you'll have to BEND (or PULL) it back, otherwise you'll get zapped going through."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I survive the tear gas?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I survive the tear gas?",
+                            "hints": [
+                                "Did you don your gas mask?",
+                                "And why not?",
+                                "Oh, you don't have one.",
+                                "Perhaps you're playing the wrong game?",
+                                "Or cheating?",
+                                "Either way, it doesn't reflect well on you."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I avoid the border guards?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I avoid the border guards?",
+                            "hints": [
+                                "Both are moving, so you should WATCH them.",
+                                "When they are facing away from you, you have some freedom of action.",
+                                "Unless you're in front of the middle tower, you are ALWAYS in view of one of the guards.",
+                                "The quieter you are, the better.",
+                                "The farther away they are, the better.",
+                                "The less you hang around there, the better."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get past the second fence?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get past the second fence?",
+                            "hints": [
+                                "There's no way.",
+                                "You can't.",
+                                "Really.",
+                                "No.",
+                                "!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I cross the border?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I cross the border?",
+                            "hints": [
+                                "If you haven't gotten to the guard tower yet, don't read any further.",
+                                "How tall is the fence?",
+                                "How tall is the tower?",
+                                "It might be possible to \"ride\" the tower across the border.",
+                                "An explosive device would be useful in this regard.",
+                                "But where to put it?",
+                                "The posts are fairly weak, but choose well.",
+                                "The northern posts will work. ATTACH THE PEN TO THE NE (NW) POST",
+                                "Oh, first you should set the timer and arm the device.",
+                                "Then, you should get INTO the tower."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get into the tower?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get into the tower?",
+                            "hints": [
+                                "Did you try knocking on the door?",
+                                "Well, that doesn't mean that you should be just standing there with a stupid look on your face...",
+                                "Check out the brace; you can GET ON it.",
+                                "Then try KNOCKing on the DOOR.",
+                                "No, we're not pulling your leg."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The guards are coming after me!",
+                        "child": {
+                            "type": "hints",
+                            "title": "The guards are coming after me!",
+                            "hints": [
+                                "Well, what did you expect?",
+                                "You can't leave; you can't fight; or can you?",
+                                "You'll have to somehow blow up the tower and yet stay in relative safety (no mean trick).",
+                                "This hinges on where you've placed the explosive, how you've set the timer, and where you are when it goes off.",
+                                "See the question regarding \"How can I cross the border?\""
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Have you ever tried...?",
+                        "child": {
+                            "type": "items",
+                            "title": "Have you ever tried...?",
+                            "content": "<p>[Please don't read further until you have successfully completed this chapter.]</p><p>having the bomb explode in the car? Or in or adjacent to the hut? Or the shed?</p><p>going farther into the swamp?</p><p>knocking on the tower door for a second time?</p><p>using the binoculars? On something you're carrying?</p><p>climbing the hut?</p>"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Assassination",
+            "child": {
+                "type": "menu",
+                "title": "The Assassination",
+                "children": [
+                    {
+                        "title": "Where is the sniper hiding?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where is the sniper hiding?",
+                            "hints": [
+                                "Have you seen your contact, the antique dealer?",
+                                "The antique shop is just west of the southwest corner of the square (i.e. south and west of your starting position).",
+                                "Be careful; the police are sometimes inside, checking around. They know who you are, so you'd better not get seen.",
+                                "You'll have to find out yourself on which floor of the apartment building the sniper is hiding, but at least your contact had the password.",
+                                "Perhaps he is, in some way, visible from the street; the town square might be a good vantage point.",
+                                "From the town square, try LOOKing AT THE WINDOWS or BUILDINGS. There are three open windows in the apartment building; the sniper is in one of them.",
+                                "In the apartment building's lobby, there is a directory of residents; maybe there is some information there.",
+                                "There is only one vacant apartment with the window open. Guess who's in it?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get TO the sniper?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get TO the sniper?",
+                            "hints": [
+                                "You can try using the elevator in the apartment lobby.",
+                                "Or, have you been into the alley?",
+                                "Down at the end is a fire-escape ladder.",
+                                "If you TAKE THE TRASH CAN, then PUT THE TRASH CAN UNDER THE LADDER, then STAND ON THE CAN, you can easily reach the ladder. Then, go up to the proper floor.",
+                                "Knock on the door, and have the password handy. If you don't give the password quickly, the sniper will ignore you for the remainder of the scenario."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get the password?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get the password?",
+                            "hints": [
+                                "You'll have to meet with your contact, the antique dealer. See the previous question."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Should I kill the sniper?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Should I kill the sniper?",
+                            "hints": [
+                                "An interesting dilemma. If you kill the sniper, your cover is broken, due to suspicion regarding the gun used (yours) and the incident on the train, in which you lost the coded document. On the other hand, you stop the assassination. All in all, a mixed bag. You can do better."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why does the sniper kill me?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why does the sniper kill me?",
+                            "hints": [
+                                "A variety of reasons. First, anything you do that might cause him to think you're intent on defeating him will get you killed. Also, arriving at his door while you're being pursued is a definite killer."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I avoid Topaz?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I avoid Topaz?",
+                            "hints": [
+                                "Once he's seen you, he will doggedly pursue you for the remainder of your alloted time (i.e. until the assassination happens.)",
+                                "He can be avoided by staying away from the cafe. The more you pass by there or spend time there, the more likely that he'll see you.",
+                                "Maybe you don't want to avoid him..."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can Topaz help me?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can Topaz help me?",
+                            "hints": [
+                                "Firstly, his interest and yours are similar - preventing the assassination. In your case, however, you daren't risk exposing yourself to Topaz, firstly, for fear of being seen by other Soviet agents and, secondly, for fear of being killed by Topaz, who has an axe to grind with you.",
+                                "Can you arrange for Topaz to kill the sniper?",
+                                "Think about it...",
+                                "Topaz will follow you anywhere, even to the sniper's room.",
+                                "If you can lead him there, you're home free. Almost."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Topaz always catches me. Why?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Topaz always catches me. Why?",
+                            "hints": [
+                                "He's about the same speed as you, so you're usually fine. Unless you're in the alley, trying to get to the fire-escape ladder. That takes more time than you've got.",
+                                "Can you put a stumbling block in his way?",
+                                "You can TOPPLE THE VENDOR'S CART and make an unholy mess; that will hold Topaz for a little while. After that, it's up to you."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I can't get the best ending. Why?",
+                        "child": {
+                            "type": "hints",
+                            "title": "I can't get the best ending. Why?",
+                            "hints": [
+                                "Presumably, you have found the sniper and know the password.",
+                                "Also, you know that Topaz can be made to kill the sniper for you.",
+                                "Meaning that Topaz must follow you up to the sniper's room. See the previous clue for help in this regard.",
+                                "Once you're in the sniper's room, Topaz will never find you in time unless you've helped him along.",
+                                "DROP something before giving the password; it's presence will alert Topaz to yours. Oh, and make it small or the sniper will find it instead.",
+                                "And HIDE or STAND BEHIND THE DOOR so that you won't get in Topaz's line of fire and get killed with the sniper.",
+                                "Then, HIT TOPAZ, and he'll never know what happened."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Have you ever tried...?",
+                        "child": {
+                            "type": "items",
+                            "title": "Have you ever tried...?",
+                            "content": "<p>[Please don't read further until you have successfully completed this chapter.]</p><p>buying food from the vendor?</p><p>taking food after toppling the cart?</p><p>throwing things at Topaz as he chases you?</p><p>killing the sniper yourself? with Topaz's gun?</p><p>figuring out how many Infocom people live in the Gribnitz apartments?</p>"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

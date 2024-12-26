@@ -1,0 +1,1292 @@
+{
+    "type": "menu",
+    "title": "Starcross",
+    "children": [
+        {
+            "title": "About",
+            "child": {
+                "type": "page",
+                "title": "About PRIZM Invisiclues",
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+            }
+        },
+        {
+            "title": "Credits ",
+            "child": {
+                "type": "page",
+                "title": "Credits",
+                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>from material supplied by:</p><p>  Paul David Doherty</p><p>  Graeme Cree</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Starcross</b> and all other game names are registered trade marks of Activision.</p>"
+            }
+        },
+        {
+            "title": "Sample Question",
+            "child": {
+                "type": "menu",
+                "title": "Sample Question",
+                "children": [
+                    {
+                        "title": "Are my Rat-ants losing their flavor? ",
+                        "child": {
+                            "type": "hints",
+                            "title": "Are my Rat-ants losing their flavor?",
+                            "hints": [
+                                "Probably -- that's a normal part of the cooking process.",
+                                "You must get the pantry key from Smitty the Cook.",
+                                "Try sprinkling them with Neato brand tenderizing salt."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "On the Starcross",
+            "child": {
+                "type": "menu",
+                "title": "On the Starcross",
+                "children": [
+                    {
+                        "title": "How do I turn off the alarm bell?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I turn off the alarm bell?",
+                            "hints": [
+                                "You'll have to go out to the Bridge (walk starboard from the Living Quarters).",
+                                "Have you read the description of the mass detector?",
+                                "Try pushing the red button. Or, tell the computer to turn it off."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I read the output of the mass detector?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I read the output of the mass detector?",
+                            "hints": [
+                                "This is the space chart that was supplied with your game.",
+                                "The range is the distance from your ship (center of chart). Theta is the angle (in the plane of the chart) from your current course (the radiating lines are 15 degrees apart). Phi is the angle above or below the plane of the chart. (Remember that the chart is a two-dimensional representation of three dimensions.) Each phi value can be found under the object's designation code."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the ship's registration?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the ship's registration?",
+                            "hints": [
+                                "Have you read it?",
+                                "It has no other significance."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I reply to the message from Ceres?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I reply to the message from Ceres?",
+                            "hints": [
+                                "Have you tried COMPUTER, REPLY TO PREVIOUS MESSAGE?",
+                                "What message from Ceres?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I use the ship's controls?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I use the ship's controls?",
+                            "hints": [
+                                "Have you examined them?",
+                                "Have you tried touching them, turning them on, etc.?",
+                                "\"The computer must be used to set courses, as navigation is fully automated.\" (You can also get status reports from the computer at any time.)"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I know which unidentified mass I should go to?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I know which unidentified mass I should go to?",
+                            "hints": [
+                                "The mass detector did indicate the correct mass.",
+                                "Have you looked at the screen on the mass detector?",
+                                "Each time you start the game, one of the eight unidentified masses is randomly chosen as the goal, so it won't be the same every time you play."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I set a course for a particular object (for instance, UM08)?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I set a course for a particular object (for instance, UM08)?",
+                            "hints": [
+                                "Only the computer can set course.",
+                                "See your game manual for directions on talking to machines (and Aliens, etc.).",
+                                "Have you tried COMPUTER, SET COURSE FOR UM08?",
+                                "You must give the computer the range, theta, and phi values from your space chart.",
+                                "For UM08: COMPUTER, R IS 150, THETA IS 210, PHI IS 017 or "
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there a way to get the computer to shut up?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there a way to get the computer to shut up?",
+                            "hints": [
+                                "Yes.",
+                                "Try turning it off."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I do with the tape library?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do with the tape library?",
+                            "hints": [
+                                "You can take it.",
+                                "You can turn it on.",
+                                "You can play tapes.",
+                                "This is how space travelers alleviate boredom."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I leave the ship?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I leave the ship?",
+                            "hints": [
+                                "Have you tried opening the door?",
+                                "Before you open the outer door, you should prepare for a space walk.",
+                                "Put on the space suit and attach the safety line to the hook in the Airlock and to your suit.",
+                                "You can now go out for a space walk."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get back to the Starcross?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get back to the Starcross?",
+                            "hints": [
+                                "If you went for a space walk without a safety line, you would be very lucky to make it back alive."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the safety line for?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the safety line for?",
+                            "hints": [
+                                "It is dangerous to leave the ship unless you have a safety line connecting you to the ship."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I land the Starcross on the unidentified mass?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I land the Starcross on the unidentified mass?",
+                            "hints": [
+                                "Have you tried telling the computer to land?",
+                                "It is spinning too rapidly to land on.",
+                                "Wait for the Artifact to spin under you and inspect it before you attempt to land."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How fast is the Artifact spinning?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How fast is the Artifact spinning?",
+                            "hints": [
+                                "Assuming that the \"gravity\" being simulated at the outer level is 1G, it would have to rotate once every 30 seconds or so. This would mean that the rotational speed is about 360 kilometers per hour on the outer surface."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I maneuver the Starcross to the fore end of the unidentified mass?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I maneuver the Starcross to the fore end of the unidentified mass?",
+                            "hints": [
+                                "Unfortunately, you cannot.",
+                                "<em>This space intentionally left blank.</em>"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Red Airlock",
+            "child": {
+                "type": "menu",
+                "title": "The Red Airlock",
+                "children": [
+                    {
+                        "title": "What do I do with all the strange protrusions around the airlock?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do with all the strange protrusions around the airlock?",
+                            "hints": [
+                                "You could tie your safety line to the hook.",
+                                "But it is not really necessary as long as you don't jump.",
+                                "The other protusions are unfathomable."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get into the Artifact?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get into the Artifact?",
+                            "hints": [
+                                "You won't be able to walk away from the Red Dock area, since without metal for your magnetic boots to cling to, you would be flung into space. You can open the Red Airlock door.",
+                                "Have you examined the sculpture on the door?",
+                                "This is a symbol recognizable by any space-faring species.",
+                                "Try drawing it as described on a piece of paper.",
+                                "This is a symbolic representation of your solar system. The bumps are an indication of the size and orientation of the sun and planets.",
+                                "You are being tested, Earthling. What do you think the makers of the Artifact want to know?",
+                                "Your home planet, Earth, is the fourth bump. (The sun is described as the first, Mercury would be second, Venus third, Earth fourth.) Try pushing the fourth bump.",
+                                "See the tiny column hint below.",
+                                "Congratulations, you have passed the test. Take your reward (the black crystal rod) and enter."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the sculpture significant?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the sculpture significant?",
+                            "hints": [
+                                "Yes.",
+                                "See the previous question (\"How do I get into the Artifact?\").",
+                                "If you push the wrong bump and the sculpture flattens out, you'll never get into the Artifact."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the tiny column made up of only one hexagon?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the tiny column made up of only one hexagon?",
+                            "hints": [
+                                "It represents an object between the orbits of Mars and Jupiter.",
+                                "The size of the bumps is an indication of mass. This column obviously represents an object of much smaller mass than a planet.",
+                                "The tiny column represents your current location -- the Artifact. Try pushing it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Once inside the Artifact, can I take off the space suit?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Once inside the Artifact, can I take off the space suit?",
+                            "hints": [
+                                "Try it."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Weasel Ship",
+            "child": {
+                "type": "menu",
+                "title": "The Weasel Ship",
+                "children": [
+                    {
+                        "title": "What do I do with the visor fragment?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do with the visor fragment?",
+                            "hints": [
+                                "Have you tried to look through it?",
+                                "You probably should take it; you never know what might come in handy."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I open the engine room door?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I open the engine room door?",
+                            "hints": [
+                                "Have you tried the ray gun?",
+                                "Sorry, this is a dead end."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How are the controls operated?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How are the controls operated?",
+                            "hints": [
+                                "\"The controls look in no way operational.\"",
+                                "<em>This space intentionally left blank.</em>"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the skeleton?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the skeleton?",
+                            "hints": [
+                                "The Aliens seem to have left offerings, as if they regard this as a holy temple. You had better be careful.",
+                                "However, you can't be squeamish and rule out any possible actions.",
+                                "Have you tried touching or moving or taking the skeleton?",
+                                "Shooting it with the ray gun or touching it a second time will lead to unfortunate consequences for you."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I hide the violet rod?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I hide the violet rod?",
+                            "hints": [
+                                "Have you tried the metal basket?",
+                                "Even if you managed to hide it, the Aliens will suspect foul play and check the altar. You'll have to find another way to get it past them.",
+                                "You won't be able to solve this problem until you gain access to the Laboratory and learn it secrets. Once you have, read the next hint.",
+                                "The disks are a perfect escape route for a burglary. Leave one on the floor and use the other to transport yourself (and the violet rod) out of the Alien ship.",
+                                "This is the last time you will be able to use the disks, however."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Computer Room",
+            "child": {
+                "type": "menu",
+                "title": "The Computer Room",
+                "children": [
+                    {
+                        "title": "How do I fix the computer?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I fix the computer?",
+                            "hints": [
+                                "Have you opened the access panel?",
+                                "You'll have to find the missing card.",
+                                "It is not a good idea to add or remove circuit boards while the system is powered up."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can the computer be repaired after the electrical fire?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can the computer be repaired after the electrical fire?",
+                            "hints": [
+                                "You'll have to have it serviced by the manufacturer.",
+                                "In other words, it can't be fixed. Don't put cards into the racks while the power is on."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where is the missing card?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where is the missing card?",
+                            "hints": [
+                                "If you thoroughly explore the Artifact, you should find it.",
+                                "Advanced technology may make it different from circuit boards you are accustomed to.",
+                                "The metal and ceramic square in the Repair Room will work."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What does the enunciator panel signify?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What does the enunciator panel signify?",
+                            "hints": [
+                                "Try drawing the diagrams as described.",
+                                "The three banks of lights on the left each have four colored lights. Do the colors remind you of anything?",
+                                "The colors are associated with the four main corridors.",
+                                "\"The first bank of lights is labeled with a symbol of the emission of rays...\" What do the red and yellow halls have in common?",
+                                "The \"emission of rays\" is a symbol for light. The red hallway lights are fading. The yellow hallway is either dark or under emergency lighting. (If it's dark, you could tell that it is yellow by process of elimination -- as you approached the Artifact you saw blue, <b>yellow</b>, green, and red docking ports.)",
+                                "The other two banks of lights on the left indicate problems with the yellow docking port and the yellow airlock.",
+                                "The symbol for the sixth light on the right represents solid, liquid, gas (the light is associated with the last of these).",
+                                "The sixth light indicates a progressively worsening problem with the ship's atmosphere."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "All the Aliens",
+            "child": {
+                "type": "menu",
+                "title": "All the Aliens",
+                "children": [
+                    {
+                        "title": "How do I kill all the Weasels?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I kill all the Weasels?",
+                            "hints": [
+                                "The only weapon effective against them is the ray gun.",
+                                "But you will not be able to kill them all, and the others will not appreciate your actions.",
+                                "The only way to kill them all is to allow the ship's condition to deteriorate to the point where everyone dies. This, unfortunately, will include you."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get past the palisades?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get past the palisades?",
+                            "hints": [
+                                "They cannot be climbed.",
+                                "The ray gun is not powerful enough to break through, but will do enough damage to annoy the Aliens.",
+                                "There is nothing at your disposal that is more powerful than the ray gun. You cannot get past the palisades."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I pass the hostile Weasels?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I pass the hostile Weasels?",
+                            "hints": [
+                                "You shouldn't have annoyed them. They won't let you pass."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get the brown crystal rod from the Alien Chief?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get the brown crystal rod from the Alien Chief?",
+                            "hints": [
+                                "You will not be able to overpower him in a fight.",
+                                "The ray gun leaves nothing useful.",
+                                "Have you ever come upon him while wearing or carrying your space suit?",
+                                "He is very interested in the space suit. Try giving it to him.",
+                                "His gestures are his way of offering a gift in return.",
+                                "Point (or gesture) at his brown rod."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What does the Alien Chief's gesturing mean?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What does the Alien Chief's gesturing mean?",
+                            "hints": [
+                                "It is common in many cultures for new acquaintances to exchange gifts."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What can the Weasel slave do for me?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What can the Weasel slave do for me?",
+                            "hints": [
+                                "If you must ask, I'm afraid I can't help you.",
+                                "What Weasel slave?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the unicorn meat?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the unicorn meat?",
+                            "hints": [
+                                "Could it be edible?",
+                                "Raw meat is not very sanitary (or appetizing). Wouldn't it be better to cook it? (The ray gun is great for this sort of thing.)",
+                                "Medium rare requires 30 seconds at the second setting. You can vary the time if you prefer it rarer or more well-done. (Add 10 seconds to defrost if this is from the freezer compartment.)",
+                                "By the way, where did you come across unicorn meat?",
+                                "Keep in mind the warning in the introduction: Do not use the presence or absence of a question on a certain topic as an indication of what is important, and don't assume that long answers indicate important questions."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I find my way through the Warren?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I find my way through the Warren?",
+                            "hints": [
+                                "You will never find the way unaided.",
+                                "Have you considered a native guide?",
+                                "Try following the Alien Chief once you have the brown rod in your possession."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do with the ladder?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do with the ladder?",
+                            "hints": [
+                                "Try climbing down."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is a grue?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is a grue?",
+                            "hints": [
+                                "Try typing WHAT IS A GRUE?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I reach the body in the debris?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I reach the body in the debris?",
+                            "hints": [
+                                "Yes, but you can't rely solely on your magnetic boots (no pun intended).",
+                                "Try using your safety line. Tie it to the hook and to your suit."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get the grues' rod?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get the grues' rod?",
+                            "hints": [
+                                "You might try to capture a grue.",
+                                "Don't go on until you have been to the Laboratory.",
+                                "Don't go on until you have figured out what the disks are.",
+                                "A great way to catch a grue would be to leave a disk in a dark room and wait (somewhere else) for one to step on it.",
+                                "Unfortunately, there are no longer any dark rooms on the ship.",
+                                "Also, the grues don't have a rod."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I do about the Spider?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do about the Spider?",
+                            "hints": [
+                                "He certainly <em>seems</em> friendly.",
+                                "What is his problem?",
+                                "He is extremely bored.",
+                                "Can you help him?",
+                                "Haven't you heard enough about the history of Brazil in the 2030's?",
+                                "Why not give him your tape player?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I escape the web?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I escape the web?",
+                            "hints": [
+                                "If you had smeared lubricant on your space suit, you wouldn't have gotten stuck."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where do I find the lubricant?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where do I find the lubricant?",
+                            "hints": [
+                                "How did you get stuck in the web?",
+                                "There is no lubricant.",
+                                "InvisiClues veterans will recognize this as a \"lesson\" question. If every question in this book were pertinent to the game, the questions themselves would give far too much away. Questions such as this should convince you to ignore those that are not of immediate use."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I answer Gurthark's questions?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I answer Gurthark's questions?",
+                            "hints": [
+                                "There is unfortunately no way for you to answer most of them."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get Gurthark to follow me?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get Gurthark to follow me?",
+                            "hints": [
+                                "Have you tried GURTHARK, FOLLOW ME?",
+                                "He won't."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get the red rod from the Rat-ants?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get the red rod from the Rat-ants?",
+                            "hints": [
+                                "They don't seem to be open to negotiation. More direct methods will be necessary.",
+                                "The ray gun is too effective on the nest, and not effective enough against individual groups of Rat-ants (there are just too many).",
+                                "Have you examined the Rat-ants and the nest?",
+                                "The nest is described as \"jerry-built\" and \"precariously stuck together.\"",
+                                "Although kicking it is not effective, you can destroy it by throwing something fairly heavy at it. While the Rat-ants are rebuilding, you have a chance to take the rod."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How did the Rat-ants get to the Artifact?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How did the Rat-ants get to the Artifact?",
+                            "hints": [
+                                "Their crude intelligence is an indication that they did not arrive here on their own.",
+                                "Presumably they were among the original inhabitants of the zoo."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Laboratory",
+            "child": {
+                "type": "menu",
+                "title": "The Laboratory",
+                "children": [
+                    {
+                        "title": "What is the silvery globe in the Laboratory?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the silvery globe in the Laboratory?",
+                            "hints": [
+                                "This is a technology so far beyond current human experience that it is impossible to explain. Ask again when you fully understand the details of the Matter Intransitivity Principle of the Dornbrookian Unified Field Theory."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I do with the silvery globe?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do with the silvery globe?",
+                            "hints": [
+                                "It's a force field.",
+                                "You can't push it or climb on it.",
+                                "Have you tried changing the dial setting?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I take the blue rod?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I take the blue rod?",
+                            "hints": [
+                                "You can't take it directly, but there are ways to get it.",
+                                "There is no way to block the beam or turn it off.",
+                                "The preferred solution starts at D. An alternate solution starts at I.",
+                                "Have you ever tried putting anything on the sphere and then changing the dial setting?",
+                                "You will have to learn how to use the red and blue disks before going on.",
+                                "You could use the disks to enter the sphere (\"but it would be wrong\"). Put one disk under the sphere and then set the dial to 4. Step on the other disk.",
+                                "Can you think of a way to get the disk to activate while it is in the sphere?",
+                                "Put a disk under the sphere. Put something on the sphere. Set the dial to 4. The object placed on the globe will fall onto the disk inside, causing it to activate. Luckily, the blue rod is within range of the disk.",
+                                "Do you know of anything that might be able to deal with these technologically-advanced forces?",
+                                "You have probably already used something powerful and similarly advanced.",
+                                "You can use the ray gun to eliminate the sphere momentarily and get the blue rod. However, you will find that you don't have a shot to spare for this purpose."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I turn off the projector?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I turn off the projector?",
+                            "hints": [
+                                "You can't turn it off.",
+                                "You can't harm it.",
+                                "Even the ray gun is useless against it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What causes the loud clicking sound?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What causes the loud clicking sound?",
+                            "hints": [
+                                "It is probably due to air rushing in to fill the void."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is done with the red and blue disks?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is done with the red and blue disks?",
+                            "hints": [
+                                "Although they may not appear to be much, they are probably the most sophisticated machines on the Artifact.",
+                                "The manhole-cover size is not a coincidence.",
+                                "Try putting both on the floor and stepping on one.",
+                                "They have a built-in safety feature which allows them to transport things only when both are on floors."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can the lights be dimmed?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can the lights be dimmed?",
+                            "hints": [
+                                "They can't."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Inner Region",
+            "child": {
+                "type": "menu",
+                "title": "The Inner Region",
+                "children": [
+                    {
+                        "title": "Is there any significance to the bands of metal, grass, and forest?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any significance to the bands of metal, grass, and forest?",
+                            "hints": [
+                                "Either the ship was designed like this (who knows what an alien race may regard as pleasant landscaping?), or maybe some major acceleration in the past caused most of the soil to shift to the aft end of the Artifact."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I catch a unicorn?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I catch a unicorn?",
+                            "hints": [
+                                "\"Only one of royal blood...\" (just joking). You can't do anything to the unicorns other than incinerate them."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the unicorn hunt?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the unicorn hunt?",
+                            "hints": [
+                                "The Weasel Aliens have to eat something other than vegetables to get a balanced diet.",
+                                "You can disrupt the hunt, but there is nothing important going on."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the machine to the left in the Repair Room for?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the machine to the left in the Repair Room for?",
+                            "hints": [
+                                "You could experiment by putting the appropriate object in the yellow slot.",
+                                "The \"symbol depicting the emission of rays\" indicates that this machine has something to do with the lights.",
+                                "Put the yellow crystal rod in the slot. The emergency lighting in the yellow hallway will now come on."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the purpose of the machine on the right in the Repair Room?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the purpose of the machine on the right in the Repair Room?",
+                            "hints": [
+                                "Try drawing the symbols as described.",
+                                "It has some similarities to the computer enunciator panel.",
+                                "The solid block, fluid level, and parallel wavy lines symbolize solid, liquid, and gas, respectively.",
+                                "The diagrams of dots are associated with the gas symbol. For further details, see the question about the dots."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do the groups of dots mean?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do the groups of dots mean?",
+                            "hints": [
+                                "These are symbols that any species capable of space flight should be able to decipher.",
+                                "They are not mathematical symbols. Try writing them as described on a piece of paper.",
+                                "Try experimenting. Put the proper item into the first, second, or third red slot and see what happens. (It will take a while to notice the effect.)",
+                                "The proper item to put in the slots is the red crystal rod.",
+                                "Have you ever studied chemistry?",
+                                "The six dots with four evenly-spaced dots around them symbolize methane (carbon of atomic number six surrounded by four hydrogens of atomic number one). The seven dots with three equally-spaced dots around them symbolize ammonia (nitrogen of atomic number seven with three hydrogens). The two groups of eight dots closely associated represent the oxygen molecule (two oxygen atoms of atomic number eight). These gases make up three possible planetary atmospheres.",
+                                "In case you don't know, you want oxygen (that's the second red slot)."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get up to the Drive Bubble?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get up to the Drive Bubble?",
+                            "hints": [
+                                "Presumably you have already climbed to the top of the tree.",
+                                "Jump."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How is the Drive Bubble hatch opened?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How is the Drive Bubble hatch opened?",
+                            "hints": [
+                                "\"Beside the hatch is a silver slot.\"",
+                                "Try using the appropriate \"key\" (crystal rod).",
+                                "Put the silver rod in the silver slot."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get back down from the Drive Bubble hatch?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get back down from the Drive Bubble hatch?",
+                            "hints": [
+                                "Jumping is not a good idea. (It is a death worth trying, though.)",
+                                "Try DOWN."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why do things fall in curves?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why do things fall in curves?",
+                            "hints": [
+                                "Look up the \"Coriolis Force\" in a physics textbook."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get up to the bubble at the fore end?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get up to the bubble at the fore end?",
+                            "hints": [
+                                "You cannot scale the wall at the fore end.",
+                                "A more appropriate question is, \"How do I get <b>over</b> to the bubble at the fore end?\"",
+                                "There is no \"gravity\" along the axis of rotation of the cylinder.",
+                                "Try jumping from the center of the aft end (on Drive Bubble).",
+                                "\"Every action has an equal and opposite reaction.\"",
+                                "Throwing objects won't be enough to overcome 5 km of air resistance. You will need to use the ray gun.",
+                                "You must shoot it at the Drive Bubble to ensure that you are not pushed in the wrong direction or forced off-axis.",
+                                "You will need all three ray gun shots to reach your destination."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Bubbles",
+            "child": {
+                "type": "menu",
+                "title": "The Bubbles",
+                "children": [
+                    {
+                        "title": "How can I activate the Drive Bubble controls, and what can I do with them?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I activate the Drive Bubble controls, and what can I do with them?",
+                            "hints": [
+                                "Put the white rod in the white slot.",
+                                "\"You can't do anything with them.\"",
+                                "You must activate the drive if you wish to set a new course. All further control is from the Control Bubble."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there any reason to use the black rod?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any reason to use the black rod?",
+                            "hints": [
+                                "No.",
+                                "<em>This space intentionally left blank.</em>"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I open the Control Bubble hatch?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I open the Control Bubble hatch?",
+                            "hints": [
+                                "\"A small slot surrounded by gold crystal is next to the hatch.\"",
+                                "Put the gold rod in the gold slot."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why is the clear crystal slot rejecting my clear crystal rod?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why is the clear crystal slot rejecting my clear crystal rod?",
+                            "hints": [
+                                "The control room functions are very dependent on the main computer.",
+                                "Unless the computer is in a working state and turned on, you cannot activate the controls."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is done with the five slots?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is done with the five slots?",
+                            "hints": [
+                                "As usual, put the appropriate colored rods in the slots."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is going on with the spots, squares, and screen?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is going on with the spots, squares, and screen?",
+                            "hints": [
+                                "These are the main controls. You should be able to figure them out by fiddling with them and seeing what happens.",
+                                "Pushing the small pink square causes the view screen to zoom in to closer and closer regions around the Artifact. Pushing the large pink square causes the view screen to zoom out to longer and longer range.",
+                                "You are interested in the inner solar system.",
+                                "Pushing the brown spot selects the destination. Pushing the violet spot selects the course you will take. Pushing the green spot selects the speed. You will not be able to set the speed if you haven't activated the drive controls (in the Drive Bubble). Pushing the blue spot executes the course correction burn you have selected.",
+                                "You may choose a number of different destinations and courses, but only two combinations are correct: the courses ending in an ellipse or a circle around Earth. (Try the others for fun.)"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why do the spots flash?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why do the spots flash?",
+                            "hints": [
+                                "If you press a spot out of sequence, it will flash."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get back down from the Control Bubble?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get back down from the Control Bubble?",
+                            "hints": [
+                                "You can get down in the usual messy way by jumping from the control hatch.",
+                                "Just make sure you have everything you need to gain control of the ship and set a new course."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "General Questions",
+            "child": {
+                "type": "menu",
+                "title": "General Questions",
+                "children": [
+                    {
+                        "title": "Why is the Artifact suddenly shutting down?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why is the Artifact suddenly shutting down?",
+                            "hints": [
+                                "Because the air is becoming unbreathable. (Try removing your space suit after entering the Artifact.)"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What does a flashing light in the airlock mean?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What does a flashing light in the airlock mean?",
+                            "hints": [
+                                "This is a safety feature. You are not allowed to have both doors open at the same time."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How in the world do I revive the plants to replenish the air?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How in the world do I revive the plants to replenish the air?",
+                            "hints": [
+                                "Don't you mean \"How in the Artifact...?\"",
+                                "You will not be able to water them or fertilize them or ever revive them at all."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the maintenance mouse?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the maintenance mouse?",
+                            "hints": [
+                                "The maintenance mouse is exactly as described. It is a cleaning robot."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where are the mouse holes?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where are the mouse holes?",
+                            "hints": [
+                                "The mouse can always find a hole when needed.",
+                                "Drop an item and wait for the mouse to arrive. Follow the mouse when it picks up the item."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get through the mouse hole?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get through the mouse hole?",
+                            "hints": [
+                                "<b>You</b> can't.",
+                                "There <em>is</em> another way.",
+                                "Once you've found the Laboratory, go on to the next hint.",
+                                "Once you have figured out what the disks are for, go on to the next hint.",
+                                "The maintenance mouse picks up things it finds on the floor and eventually takes them beyond its \"mouse holes\"....",
+                                "Leave one disk for it, then step on the other after the mouse has taken the first through a hole. (Allow time for the mouse to drop it again.)"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I recharge the ray gun?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I recharge the ray gun?",
+                            "hints": [
+                                "What makes you think you can?",
+                                "<em>This space intentionally left blank.</em>"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I read the charge indicator on the ray gun?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I read the charge indicator on the ray gun?",
+                            "hints": [
+                                "It is, unfortunately, unreadable."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How are the settings on the ray gun changed?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How are the settings on the ray gun changed?",
+                            "hints": [
+                                "The strange knobs and antennae look promising.",
+                                "But they can't be moved or adjusted in any way."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I fix the gun so it won't misfire?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I fix the gun so it won't misfire?",
+                            "hints": [
+                                "Yes.",
+                                "Take a close look at the descriptions of the misfire and the normal blast.",
+                                "The misfire has \"silvery rays,\" the second shot has \"orange rays.\"",
+                                "Did you ever try shaking the gun or looking into the barrel before the first shot?",
+                                "Remove the silver rod. The gun will work much better."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the \"glass cleaner\"?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the \"glass cleaner\"?",
+                            "hints": [
+                                "What do most glass cleaners use as an active ingredient?",
+                                "Ammonia.",
+                                "Have you done anything which might have caused the release of ammonia?",
+                                "Do you now have a better idea of what the machine on the right in the repair room is?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I leave through the Yellow Airlock?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I leave through the Yellow Airlock?",
+                            "hints": [
+                                "\"The door appears to be jammed. There may be debris outside blocking it. Perhaps if you pushed again.\"",
+                                "Push again.",
+                                "Be careful, there could be debris from an accident outside. You must wear the space suit."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Once I am drifting in space, how do I get back to the Artifact?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Once I am drifting in space, how do I get back to the Artifact?",
+                            "hints": [
+                                "\"Every action has an equal and opposite reaction.\"",
+                                "Throwing an item will not be enough to overcome your velocity away from the Artifact.",
+                                "You might try using the ray gun (if you were fortunate enough to take it with you).",
+                                "As you are no doubt now aware, you can return, but you cannot return and live."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the metal basket for?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the metal basket for?",
+                            "hints": [
+                                "It is perfect for storing all those clumsy crystal rods."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I stop the air from becoming unbreathable?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I stop the air from becoming unbreathable?",
+                            "hints": [
+                                "You must make \"the necessary repairs in time.\"",
+                                "Learn the use of the ship's equipment.",
+                                "The necessary machinery is in the Repair Room."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get to the Green Dock?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get to the Green Dock?",
+                            "hints": [
+                                "If you have been mapping carefully, you should realize that its entrance is somewhere in the Warren."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where is the charcoal?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where is the charcoal?",
+                            "hints": [
+                                "\"Charcoal\" and \"coal gas\" are rather strange hints.",
+                                "Have you done anything that might cause the release of methane (which is an odorless gas associated with charcoal and coal gas)?",
+                                "Do you have a better idea of what the machine on the right in the Repair Room is?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I do anything with the damaged mice?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I do anything with the damaged mice?",
+                            "hints": [
+                                "No."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there any significance to the trash bin?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any significance to the trash bin?",
+                            "hints": [
+                                "Have you examined it?",
+                                "Have you searched through it?",
+                                "Try searching again."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the hole in the garage?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the hole in the garage?",
+                            "hints": [
+                                "You might try climbing down...(Do a SAVE first!)"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I turn on the lights in the darkened area?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I turn on the lights in the darkened area?",
+                            "hints": [
+                                "You will not find a simple switch in the area.",
+                                "You will need to learn to use the equipment on the Artifact.",
+                                "Have you been to the Computer Room and the Repair Room?",
+                                "The necessary machine is in the Repair Room."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there anything special about the projector in the Observatory?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there anything special about the projector in the Observatory?",
+                            "hints": [
+                                "\"...the colors of the dots are not what you'd expect, though, and range throughout the spectrum.\"",
+                                "This is not a spectral shift due to speed, since you are not traveling at anywhere near the speed of light and the colors range throughout the spectrum.",
+                                "Something is causing refraction of the light.",
+                                "Is there something in the projector?",
+                                "Look through the visor fragment or the black crystal rod to filter the light so that you are not blinded.",
+                                "Remove the clear crystal rod from the projector."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where do I find the orange crystal rod?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where do I find the orange crystal rod?",
+                            "hints": [
+                                "Did you notice that raw unicorn meat is orange in color?",
+                                "Generally meat changes color when cooked.",
+                                "If the orange rod were hidden in a slab of meat, cooking the meat might make it apparent.",
+                                "Since there is no place where you could use an orange rod, and no slab of unicorn meat, I'm sure that no one has gotten this far."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "How All Points Are Earned",
+            "child": {
+                "type": "items",
+                "title": "How All Points Are Earned",
+                "content": "<p>(Use only as a last resort!)</p><pre>  Item of value       value   where it is found:\n  black crystal rod    25     reward for solving the Red Dock puzzle\n  red crystal rod      25     in the Rat-ant nest\n  brown crystal rod    25     hanging from the Alien Chief's neck\n  yellow crystal rod   25     the Spider has it\n  blue crystal rod     25     in the silvery sphere\n  green crystal rod    25     in the trash bin\n  violet crystal rod   25     in the space suit of the dead Weasel Alien\n  pink crystal rod     25     in the scorched Alien reptile's hand\n  gold crystal rod     25     computer output upon successful start-up\n  white crystal rod    25     floating in the Drive Bubble\n  clear crystal rod    25     in the projector in the Observatory\n  silver crystal rod   25     in the ray gun barrel\nOther Points\nYou receive 25 points for:\n  successfully reaching the Red Dock\n  entering the Drive Bubble\n  changing the ship's course\n  initiating the proper course to Earth</pre>"
+            }
+        },
+        {
+            "title": "For Your Amusement",
+            "child": {
+                "type": "items",
+                "title": "For Your Amusement",
+                "content": "<p>(after you have finished the game)</p><p>Have you ever...</p><p>touched the Starcross controls after the course was set?</p><p>taken the space suit off in space?</p><p>untied your safety line while floating in space?</p><p>set R, theta, or phi once you arrived at the Artifact (or while on the way)?</p><p>said HELLO to the Starcross computer, or asked it to kill you, or given something to it?</p><p>watched the docking of the Starcross with the Artifact while floating in space?</p><p>tried dropping anything or jumping while on the outer surface of the Artifact?</p><p>shot the mechanical mouse, or watched it try to enter the Warren or climb the tree?</p><p>tried climbing down the hole in the Garage?</p><p>stepped on a disk while carrying the other, or put one disk on top of the other?</p><p>looked out the view port of the Weasel's ship (at the Green Dock)?</p><p>tried wearing the Alien space suit?</p><p>tried talking to the Weasels or their Chief?</p><p>tried pointing at or shooting the Alien Chief's wife or child?</p><p>tried giving the tattered space suit to the Chief's wife?</p><p>dropped anything in the Warren?</p><p>given anything to the Rat-ants?</p><p>tried shooting yourself, something you were carrying, or the ray gun itself with the ray gun?</p><p>put other rods into the ray gun before firing?</p><p>tried flying from the tree?</p><p>tried jumping while in one of the bubbles?</p><p>been in the inner cylinder when the lights brightened for \"day\" or dimmed for \"night\"?</p>"
+            }
+        }
+    ]
+}

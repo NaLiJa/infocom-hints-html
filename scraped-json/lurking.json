@@ -1,0 +1,883 @@
+{
+    "type": "menu",
+    "title": "The Lurking Horror",
+    "children": [
+        {
+            "title": "About",
+            "child": {
+                "type": "page",
+                "title": "About PRIZM Invisiclues",
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+            }
+        },
+        {
+            "title": "Credits ",
+            "child": {
+                "type": "page",
+                "title": "Credits",
+                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>from material supplied by:</p><p>  Paul David Doherty</p><p>  Dave Newkirk</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>The Lurking Horror</b> and all other game names are registered trade marks of Activision.</p>"
+            }
+        },
+        {
+            "title": "Sample Question",
+            "child": {
+                "type": "menu",
+                "title": "Sample Question",
+                "children": [
+                    {
+                        "title": "At home, Jim NEVER has more than one helping of my purple goo! But last night at the Johnsons' party, he had three helpings of theirs!",
+                        "child": {
+                            "type": "hints",
+                            "title": "...What's wrong with my purple goo?",
+                            "hints": [
+                                "Have you tried to TASTE MY PURPLE GOO and then to TASTE THE JOHNSONS' PURPLE GOO?",
+                                "Now that you've determined that your purple goo tastes like old sweat socks, maybe you should EXAMINE MY PURPLE GOO COOKER.",
+                                "If you remove the old sweat socks from your cooker, your purple goo will taste much better."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Computer Center",
+            "child": {
+                "type": "menu",
+                "title": "Computer Center",
+                "children": [
+                    {
+                        "title": "What am I supposed to do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What am I supposed to do?",
+                            "hints": [
+                                "You're supposed to complete your assignment.",
+                                "This is a high-tech university! Your partially completed paper should be accessible from your local pc."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I use the pc?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I use the pc?",
+                            "hints": [
+                                "First, you need to turn it on.",
+                                "Use the student ID number found in your game materials.",
+                                "Use the password found in \"Getting Around At G.U.E.\"",
+                                "Use the HELP key on the pc if you're still stuck.",
+                                "See page 4 of your instruction manual for an example of how to log in."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I'm logged in, now what?",
+                        "child": {
+                            "type": "hints",
+                            "title": "I'm logged in, now what?",
+                            "hints": [
+                                "Use the mouse to select the appropriate options.",
+                                "Try clicking the correct menu box for the editor and then for your paper."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "That paper doesn't look familiar!",
+                        "child": {
+                            "type": "hints",
+                            "title": "That paper doesn't look familiar!",
+                            "hints": [
+                                "Indeed, it isn't. You might wonder what happened to it.",
+                                "It certainly seems ruined at the beginning. Maybe later pages are okay, though.",
+                                "Keep reading more of the paper as it appears."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Now where am I? It doesn't look like G.U.E. Tech to me!",
+                        "child": {
+                            "type": "hints",
+                            "title": "Now where am I? It doesn't look like G.U.E. Tech to me!",
+                            "hints": [
+                                "Probably just a bad dream. Wait it out.",
+                                "You can speed things up by going along with the crowd.",
+                                "Go down."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I can't seem to get away from this place. I want to go home!",
+                        "child": {
+                            "type": "hints",
+                            "title": "I can't seem to get away from this place. I want to go home!",
+                            "hints": [
+                                "There are many unusual things here.",
+                                "Wouldn't you like a souvenir of this trip?",
+                                "The stone is the only portable thing around.",
+                                "GET THE STONE.",
+                                "Now just be patient."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I'm home, but where's my paper?",
+                        "child": {
+                            "type": "hints",
+                            "title": "I'm home, but where's my paper?",
+                            "hints": [
+                                "The hacker seems willing to check out your problem.",
+                                "Wait for him to finish looking at the situation.",
+                                "Perhaps the Alchemy Department can help you.",
+                                "Maybe it's still in one of their computers.",
+                                "Go find the Alchemy Department!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The hacker isn't very friendly, is he?",
+                        "child": {
+                            "type": "hints",
+                            "title": "The hacker isn't very friendly, is he?",
+                            "hints": [
+                                "Why should he be friendly?",
+                                "All you've done so far is give him trouble.",
+                                "Give him something other than trouble, for a change.",
+                                "What does he seem interested in, other than hacking.",
+                                "He's mentioned food occasionally, hasn't he?",
+                                "Maybe he's hungry.",
+                                "Give him some Chinese food.",
+                                "He wasn't grateful? What state did you give it to him in? Think, now, it was in the fridge!",
+                                "Think of Goldilocks and the Three Bears. How do you like YOUR food?",
+                                "You can heat food in a microwave.",
+                                "You can tell how hot food is by touching it.",
+                                "To be careful, calibrate the microwave oven using the Funny Bones.",
+                                "Three or four minutes on HI should cook the food just right.",
+                                "...but it will cool off after a while, so don't dawdle!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What can the hacker help me with?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What can the hacker help me with?",
+                            "hints": [
+                                "He's a proficient hacker.",
+                                "He could probably write a program to write your term paper.",
+                                "Hackers are often good at getting into things they aren't supposed to.",
+                                "If you're going to be poking around, you might want some keys.",
+                                "He'll only help you if you're nice to him. (He won't bite the hand that feeds him.)",
+                                "Look carefully at the hacker's description.",
+                                "Look at his keyring.",
+                                "Ask him about his keyring; he seems awfully proud of it.",
+                                "Ask him for the master key, it ought to do the trick!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I'm on the roof of the Computer Center, but there's nothing of interest here, is there?",
+                        "child": {
+                            "type": "hints",
+                            "title": "...interest here, is there?",
+                            "hints": [
+                                "That's right. It's just a boring place.",
+                                "You can enjoy the weather, until you freeze to death. But that's all."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Temporary Building",
+            "child": {
+                "type": "menu",
+                "title": "Temporary Building",
+                "children": [
+                    {
+                        "title": "I've never seen so much junk!",
+                        "child": {
+                            "type": "hints",
+                            "title": "I've never seen so much junk!",
+                            "hints": [
+                                "You could try moving it.",
+                                "There sure is a lot of it, and it's heavy, too.",
+                                "Some kind of help would be nice."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where did you see that forklift?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where did you see that forklift?",
+                            "hints": [
+                                "Turn on the forklift, and drive it east to the storage room.",
+                                "Use the forklift to move the junk.",
+                                "There sure is a lot of it. Just keep shovelling."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I open the manhole cover?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I open the manhole cover?",
+                            "hints": [
+                                "It sure is heavy.",
+                                "Ever had a jar lid that wouldn't open?",
+                                "There must be a tool that would help.",
+                                "Maybe the forklift...",
+                                "Nope. Not the forklift.",
+                                "Something much more portable.",
+                                "PRY THE MANHOLE COVER WITH THE CROWBAR."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I can't open the trapdoor.",
+                        "child": {
+                            "type": "hints",
+                            "title": "I can't open the trapdoor.",
+                            "hints": [
+                                "It's stuck on the other side.",
+                                "So great, where's the other side?",
+                                "Map carefully.",
+                                "It's obviously higher and to the south of the tunnel."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Aerospace",
+            "child": {
+                "type": "menu",
+                "title": "Aerospace",
+                "children": [
+                    {
+                        "title": "How do I unlock the padlock?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I unlock the padlock?",
+                            "hints": [
+                                "You need a key.",
+                                "Not just any key, a really good key.",
+                                "The hacker might be able to help.",
+                                "Get the appropriate key from the hacker."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I don't like rats! They don't like me!",
+                        "child": {
+                            "type": "hints",
+                            "title": "I don't like rats! They don't like me!",
+                            "hints": [
+                                "For temporary relief, leave by the way you came, then gather your wits.",
+                                "For a permanent solution, kill or scare them off.",
+                                "There are hundreds of rats, killing one at a time is certain death.",
+                                "Explore the tunnel carefully, maybe there's something that can help.",
+                                "There's a steam valve in one of the Steam Tunnel rooms.",
+                                "Scalded rats would probably be either scared or dead.",
+                                "Wait for the rats to come into the room with the steam valve, then open it and cook some rats."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The steam valve is rusty!",
+                        "child": {
+                            "type": "hints",
+                            "title": "The steam valve is rusty!",
+                            "hints": [
+                                "You need more strength to open the rusty valve.",
+                                "Leverage is an elementary principle of physics...",
+                                "Loosen the valve by hitting it with something heavy.",
+                                "Now that it's loose, you can open it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why won't the urchins let me by?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why won't the urchins let me by?",
+                            "hints": [
+                                "It's as though they're controlled through the wires attached to them.",
+                                "Maybe if they weren't attached, they'd be nicer to you.",
+                                "There must be some way of cutting the wires.",
+                                "Let's see, the axe and the knife have a cutting edge.",
+                                "Too bad the ground is so goopy. Something that cuts like a scissors, or a wire cutter.",
+                                "A wire cutter or a bolt cutter will work nicely if you can find one."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Infinite Corridor and Great Dome",
+            "child": {
+                "type": "menu",
+                "title": "Infinite Corridor and Great Dome",
+                "children": [
+                    {
+                        "title": "How do I get to the east end of the Infinite Corridor?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get to the east end of the Infinite Corridor?",
+                            "hints": [
+                                "Try waiting out the maintenance man. Eventually he'll move east.",
+                                "Unfortunately, once he reaches the far end of the Infinite Corridor, he still won't let you past.",
+                                "It's that waxing machine that's the problem, just shut it off somehow.",
+                                "It seems to be electrical, trace the power cord.",
+                                "No, you can't pull the power cord out... Maybe you can cut it!",
+                                "How about a cutting tool?",
+                                "There's an axe in the emergency cabinet.",
+                                "CHOP THE CORD WITH THE AXE."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get the axe?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get the axe?",
+                            "hints": [
+                                "READ THE SIGN.",
+                                "Break the glass.",
+                                "But not with your bare hands. Wear gloves, or use the crowbar."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I've stopped the waxer. Now what?",
+                        "child": {
+                            "type": "hints",
+                            "title": "I've stopped the waxer. Now what?",
+                            "hints": [
+                                "Just stop the maintenance man.",
+                                "This is a slippery problem to solve.",
+                                "If you run away, he'll kill you when you reenter the Infinite Corridor.",
+                                "You need to confront him in the Infinite Corridor.",
+                                "Notice the container of Frobozz Magic Floor Wax. Looks pretty slippery.",
+                                "Drop the wax in the Infinite Corridor. The maintenance man will slip on it and you'll be able to get away. (You can also pour it down on him from the Great Dome area.)"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I climb the rope at the Great Dome?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I climb the rope at the Great Dome?",
+                            "hints": [
+                                "You need something to protect your hands when you climb the rope.",
+                                "WEAR THE GLOVES THEN CLIMB THE ROPE."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get out of the dome?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get out of the dome?",
+                            "hints": [
+                                "Still at the top rung?",
+                                "Try lowering the ladder."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I'm on the Great Dome, but there's nothing of interest here, is there?",
+                        "child": {
+                            "type": "hints",
+                            "title": "...here, is there?",
+                            "hints": [
+                                "Did you notice the plug?",
+                                "Lift the plug then take the note."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Brown Building / Nutrition / Chemistry / Alchemy",
+            "child": {
+                "type": "menu",
+                "title": "Brown Building / Nutrition / Chemistry / Alchemy",
+                "children": [
+                    {
+                        "title": "How do I unlock the door on top of the Brown Building?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I unlock the door on top of the Brown Building?",
+                            "hints": [
+                                "There sure are a lot of locked doors around here.",
+                                "Sure would be nice if there was a key that opened them all.",
+                                "Who would have a key like that?",
+                                "Obviously someone who liked getting into everything.",
+                                "Ask the hacker about keys."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I can't get out of the weather station!",
+                        "child": {
+                            "type": "hints",
+                            "title": "I can't get out of the weather station!",
+                            "hints": [
+                                "Just get rid of the flying creature.",
+                                "Why does it seem to have come after you? Can't just be a coincidence, can it?",
+                                "It must be after something you have.",
+                                "Giving the hand to the creature will get rid of it, but you'll lose the hand. Not so good, after being so clever as to find it.",
+                                "Got anything else associated with monsters?",
+                                "Where did you get the stone?",
+                                "THROW THE STONE AT THE CREATURE to drive it away. (You may have to do this once Inside Dome and once on the Skyscraper Roof.)"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get into the Dept. of Alchemy?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get into the Dept. of Alchemy?",
+                            "hints": [
+                                "The light is on inside, maybe someone's in there.",
+                                "KNOCK ON THE DOOR."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I've gotten to the Alchemy Department. Now what?",
+                        "child": {
+                            "type": "hints",
+                            "title": "I've gotten to the Alchemy Department. Now what?",
+                            "hints": [
+                                "Maybe the professor can help you.",
+                                "Maybe he doesn't want to help you.",
+                                "Maybe he has something to hide."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get into the laboratory?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get into the laboratory?",
+                            "hints": [
+                                "The professor doesn't find you very interesting, does he?",
+                                "Have you got anything that might pique his interest?",
+                                "Failing that, how about exciting his hatred?",
+                                "Have you anything that threatens him?",
+                                "No, not physically! What's he been doing, you wonder?",
+                                "Look at the lab signup sheet.",
+                                "If you haven't seen anything else that is related to the sheet, don't go on.",
+                                "Show the professor the suicide note.",
+                                "Then try to enter the lab."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where can I find a note?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where can I find a note?",
+                            "hints": [
+                                "Where you might once have seen a cow.",
+                                "...or a Volkswagen Beetle.",
+                                "It's up high.",
+                                "But not the highest.",
+                                "Outside, on the Great Dome.",
+                                "...and under the bronze plug."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get out of the laboratory?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get out of the laboratory?",
+                            "hints": [
+                                "Consider carefully how the professor put you into the pentagram.",
+                                "Did he use any equipment?",
+                                "Have you anything similar?",
+                                "If not, you are doomed. Enjoy your last few minutes of life.",
+                                "If so, try cutting the pentagram the way he cut it to put you inside.",
+                                "...but wait until he's in his pentagram.",
+                                "Then leave the pentagram.",
+                                "Still stuck in the lab? When you found the knife, did you explore the tunnels nearby carefully?",
+                                "Ever wonder where that trapdoor in the Cinderblock Tunnel went?",
+                                "Could it possibly have gone in here somewhere?",
+                                "No, you can't see it. Maybe it's hidden.",
+                                "Maybe it's under something.",
+                                "Look at the lab bench. Notice anything interesting about it?",
+                                "It has wheels. MOVE THE BENCH.",
+                                "OPEN THE TRAPDOOR. Now go down into the cinderblock tunnel to avoid what the professor has summoned. Hurry, the timing is critical!",
+                                "Don't forget your flashlight."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What use is the vat?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What use is the vat?",
+                            "hints": [
+                                "READ THE LABEL.",
+                                "Great joke. What does it really do?",
+                                "Got anything dead?",
+                                "Try putting it in the vat and see what happens."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get the computer in the lab to boot up?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get the computer in the lab to boot up?",
+                            "hints": [
+                                "Just put the disk in.",
+                                "Find the disk first, of course.",
+                                "There is no disk, at least not where it can be found."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I decode the professor's diary file?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I decode the professor's diary file?",
+                            "hints": [
+                                "Use the cryptography program.",
+                                "It's accessible from the file server.",
+                                "The file server is in the computer room.",
+                                "Dreaming again, I see. There is no diary file."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Beyond the Steam Tunnels",
+            "child": {
+                "type": "menu",
+                "title": "Beyond the Steam Tunnels",
+                "children": [
+                    {
+                        "title": "Not a maze! All these Wet Tunnels!",
+                        "child": {
+                            "type": "hints",
+                            "title": "Not a maze! All these Wet Tunnels!",
+                            "hints": [
+                                "You can use standard maze mapping techniques here, if you're patient.",
+                                "Isn't there a better way?",
+                                "Maybe you need a guide!",
+                                "Let your fingers do the walking through the muddy mazes.",
+                                "Well, actually not your fingers, but the hand's fingers.",
+                                "The ring from the professor might look good on your hand, but it looks even better elsewhere.",
+                                "PUT THE BRASS HYRAX ON THE HAND. Now the hand will point the way through the maze."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What's behind the curtain?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What's behind the curtain?",
+                            "hints": [
+                                "Can you think of anything that might make slime less slimy?",
+                                "Ever remove bubble gum from something it was stuck all over?",
+                                "Freezing it will make it brittle enough to break.",
+                                "Snow isn't cold enough. Besides, you can't take any snow.",
+                                "There's a very cold liquid (liquid nitrogen) in the metal flask.",
+                                "What good is the flask if I can't get it here? (If this question comes to mind, see the following question.)",
+                                "POUR THE COLD LIQUID ON THE SLIME. Problem solved."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I can't get anything large into the Tomb.",
+                        "child": {
+                            "type": "hints",
+                            "title": "I can't get anything large into the Tomb.",
+                            "hints": [
+                                "There's more than one way to skin a cat.",
+                                "Hmm, maybe there's another entrance to the steam tunnels.",
+                                "Carefully look at all the steam tunnel rooms. Anything they have in common with any other rooms?",
+                                "This might be above your head.",
+                                "Notice any non-steam tunnel rooms that have pipes or cables in them?",
+                                "The Comp Center Basement is one.",
+                                "The east end of the steam tunnels is right below the Basement.",
+                                "So what? There's no way down from here... or is there?",
+                                "Something nearby must be able to get below floor level.",
+                                "The elevator shaft must extend further down!",
+                                "When the elevator isn't in the basement, try opening the doors.",
+                                "Compare the elevator pit and the steam tunnel's eastern end.",
+                                "Get through that brick wall and your problems are over."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I remove a brick wall?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I remove a brick wall?",
+                            "hints": [
+                                "Try destroying it with something heavy.",
+                                "Well at least you can pry some bricks out to expose a reinforcing rod.",
+                                "Destroying this wall is going to take more than your mere human strength.",
+                                "No, not demonic strength. Machine strength.",
+                                "Examine the underside of the elevator. There's a hook on it.",
+                                "Use the chain to connect the rod to the elevator to pull out the rod and destroy the wall.",
+                                "Of course you'll have to secure the chain so it doesn't slip off the rod.",
+                                "Use the padlock to lock the chain onto the rod. Then connect the other end of the chain to the hook on the elevator. Finally, move the elevator using the buttons to destroy the wall. (Make sure all the doors are closed or the elevator won't move.)"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I save the hacker?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I save the hacker?",
+                            "hints": [
+                                "You can't. He's too stubborn to listen.",
+                                "At least, he's going to attack that mass no matter what.",
+                                "Maybe you can do something about the mass, though.",
+                                "Too bad the hacker won't live to see it ... or will he?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I restore the integrity of G.U.E. Tech's computer system?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I restore the integrity of G.U.E. Tech's computer system?",
+                            "hints": [
+                                "Get rid of the mass.",
+                                "How's it connected to the system?",
+                                "OPEN THE BOX and then take a look at what you find.",
+                                "Maybe you should cut the tentacle to disconnect it from the network.",
+                                "On the other hand, you'll still be destroyed, and then it can just reconnect itself.",
+                                "Get rid of the mass."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I keep from being engulfed?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I keep from being engulfed?",
+                            "hints": [
+                                "You'll have to destroy the mass before the hacker gets you.",
+                                "Hurry.",
+                                "Time is of the essence.",
+                                "Get rid of the mass."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get rid of the mass?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get rid of the mass?",
+                            "hints": [
+                                "You should have brought the reanimated hand along with you into the lair.",
+                                "Well, it's not bobbing for apples.",
+                                "REACH INTO THE POOL.",
+                                "There's a power line there. Maybe you can electrocute the mass.",
+                                "Chop the power line with the axe to expose the live wires.",
+                                "You can't approach the mass close enough to electrocute it without it snatching you, so you'll have to electrocute it indirectly.",
+                                "Notice the cables and tentacles entering the box.",
+                                "OPEN THE BOX.",
+                                "You can disconnect the coaxial cable from the socket.",
+                                "PUT THE POWER LINE INTO THE SOCKET. This will fry the mass (assuming you haven't saved it by cutting its cablelike appendage)."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I keep from being fried?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I keep from being fried?",
+                            "hints": [
+                                "The water is electrified, so you will be too.",
+                                "Insulation might be useful.",
+                                "The boots are rubber.",
+                                "So are the gloves.",
+                                "Wear them both when handling the power line."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get rid of the dark being?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get rid of the dark being?",
+                            "hints": [
+                                "The stone was useful before, and it would be useful now.",
+                                "Wait until the stone is hot. Then throw the stone at the being."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get out of the lair?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get out of the lair?",
+                            "hints": [
+                                "You can't get out until after you've defeated the monsters.",
+                                "After you've won, it's time to pick up your stone and go home."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What happened to my term paper?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What happened to my term paper?",
+                            "hints": [
+                                "The mass that was hooked into the network had it.",
+                                "You destroyed your paper when you destroyed the mass.",
+                                "It's only a term paper. What's more important, life or passing a course?",
+                                "On second thought, don't answer that last question."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "General Questions",
+            "child": {
+                "type": "menu",
+                "title": "General Questions",
+                "children": [
+                    {
+                        "title": "How can I survive outside?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I survive outside?",
+                            "hints": [
+                                "Wear your parka.",
+                                "What parka?",
+                                "You might get one from the urchin.",
+                                "No luck, huh?",
+                                "You can't survive outside. It's just too cold.",
+                                "Really. All you can do is come back in before you freeze."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where do I find a light source?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where do I find a light source?",
+                            "hints": [
+                                "Search the elevator.",
+                                "There's a flashlight in the access panel."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get into my dorm room?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get into my dorm room?",
+                            "hints": [
+                                "Go west.",
+                                "Keep warm (stay bundled up).",
+                                "Go even further west.",
+                                "The dorms are inaccessible.",
+                                "There are no dorms!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I prevent myself from falling asleep?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I prevent myself from falling asleep?",
+                            "hints": [
+                                "What do people usually drink to stay awake?",
+                                "No, there's no coffee.",
+                                "Check out the Kitchen.",
+                                "What else has caffeine?",
+                                "DRINK THE COKE whenever you start feeling tired."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What's the urchin stolen and how do I get it?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What's the urchin stolen and how do I get it?",
+                            "hints": [
+                                "He's light-fingered and will rip off anything small that you leave lying around.",
+                                "You need to induce the urchin to drop what he has.",
+                                "The urchin isn't really very afraid of YOU.",
+                                "He's obviously afraid of something, though.",
+                                "Don't go any further until you explore all the aboveground locations.",
+                                "Got anything portable that's scary? (Other than your last grade report.)",
+                                "If you've got a dead rat, that might do the trick.",
+                                "No, huh? That mummified hand is pretty yucky, then.",
+                                "A severed hand would be even yuckier if it was alive."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Things You Can Ask...",
+            "child": {
+                "type": "menu",
+                "title": "Things You Can Ask...",
+                "children": [
+                    {
+                        "title": "...the hacker about.",
+                        "child": {
+                            "type": "items",
+                            "title": "...the hacker about.",
+                            "content": "<p>Himself</p><p>Keyring</p><p>Chinese food</p><p>Master key</p><p>Missing students</p><p>PC</p><p>Lovecraft</p><p>Stone</p><p>Urchins</p>"
+                        }
+                    },
+                    {
+                        "title": "...the urchin about.",
+                        "child": {
+                            "type": "items",
+                            "title": "...the urchin about.",
+                            "content": "<p>Himself</p><p>Missing students</p><p>Missing urchins</p>"
+                        }
+                    },
+                    {
+                        "title": "...the professor about.",
+                        "child": {
+                            "type": "items",
+                            "title": "...the professor about.",
+                            "content": "<p>Term paper</p><p>Sign-up sheet</p><p>Missing students</p><p>Paper</p><p>Vat</p><p>Lovecraft</p><p>Brass hyrax</p>"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "How the Points Are Scored",
+            "child": {
+                "type": "items",
+                "title": "How the Points Are Scored",
+                "content": "<p>5 points are scored for each of the following 20 actions, resulting in a total of 100.</p><p>Getting the stone.</p><p>Getting the master key from the hacker.</p><p>Entering Ancient Storage.</p><p>Entering the brick tunnel.</p><p>Entering the steam tunnels.</p><p>Killing the rats.</p><p>Climbing the rope.</p><p>Getting the note.</p><p>Defeating the maintenance man.</p><p>Defeating the Professor.</p><p>Finding the hand.</p><p>Defeating the flier.</p><p>Reanimating the hand.</p><p>Getting the boltcutter.</p><p>Defeating the missing urchins.</p><p>Entering the concrete box.</p><p>Destroying the brick wall.</p><p>Destroying the slime curtain.</p><p>Destroying the mass.</p><p>Destroying the dark creature at the end.</p>"
+            }
+        },
+        {
+            "title": "For Your Amusement",
+            "child": {
+                "type": "items",
+                "title": "For Your Amusement",
+                "content": "<p>Expose this section only after you have completed the game. If you look at this section before finishing the game, you may learn the answers to puzzles you have not yet solved.</p><p>Have you tried...</p><p>taking the pc out of the terminal room?</p><p>pushing the help key or asking the hacker for help at various times?</p><p>turning off the pc while the hacker is fixing the bug?</p><p>showing the hacker Chinese food? the stone? the hand? the rat?</p><p>giving the hacker the bottle of Coke?</p><p>reading the graffiti in the elevator? several times?</p><p>putting things in the metal flask and then getting them?</p><p>trying to escape the rats by climbing on the coaxial cables?</p><p>eating the dead rat?</p><p>attacking the urchin?</p><p>reading the inscription over the west entrance to G.U.E. Tech?</p><p>throwing the axe or the stone at the maintenance man?</p><p>waiting around while the maintenance man slips on the wax?</p><p>examining, smelling, and listening to the various creatures?</p><p>opening and looking in at the iron plate near the altar?</p><p>pouring Coke on the pentagram?</p><p>putting the dead rat in the vat?</p><p>pouring the tarry liquid?</p><p>microwaving the reanimated hand?</p><p>watching the elevator open the wall from the Concrete Box?</p>"
+            }
+        }
+    ]
+}

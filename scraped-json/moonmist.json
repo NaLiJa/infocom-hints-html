@@ -1,0 +1,839 @@
+{
+    "type": "menu",
+    "title": "Moonmist",
+    "children": [
+        {
+            "title": "About",
+            "child": {
+                "type": "page",
+                "title": "About PRIZM Invisiclues",
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+            }
+        },
+        {
+            "title": "Credits ",
+            "child": {
+                "type": "page",
+                "title": "Credits",
+                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>from material supplied by:</p><p>  Paul David Doherty</p><p>  Graeme Cree</p><p>  Mark Howell</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Moonmist</b> and all other game names are registered trade marks of Activision.</p>"
+            }
+        },
+        {
+            "title": "Sample Question",
+            "child": {
+                "type": "menu",
+                "title": "Sample Question",
+                "children": [
+                    {
+                        "title": "Why is Professor Hergenburger standing on a chair and screaming? ",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why is Professor Hergenburger standing on a chair and screaming?",
+                            "hints": [
+                                "Did you ask anyone about the professor's cats?",
+                                "Professor Hergenburger is afraid of mice.",
+                                "There's a mouse nearby, which is frightening the professor. Get a cat to take care of the mouse."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Beginning",
+            "child": {
+                "type": "menu",
+                "title": "The Beginning",
+                "children": [
+                    {
+                        "title": "How do I get through the gate?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get through the gate?",
+                            "hints": [
+                                "No one knows you are there. You need to get their attention.",
+                                "If you HONK THE HORN or PUSH THE EYE, the butler will speak with you.",
+                                "Or you can just WAIT 10 MINUTES."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I meet the guests?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I meet the guests?",
+                            "hints": [
+                                "If you WAIT or try to go somewhere, Tamara will guide you to meet them.",
+                                "It's good manners to answer their questions.",
+                                "Then you can ask the guests questions, for example ASK ABOUT THE GHOST or MADAM, DESCRIBE THE GHOST."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I find the ghost?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I find the ghost?",
+                            "hints": [
+                                "Ask the guests about the ghost.",
+                                "The ghost usually appears late at night.",
+                                "The ghost won't appear until after midnight (if at all), so meet the guests and go to dinner first."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Tamara wants to chat. What should I say?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Tamara wants to chat. What should I say?",
+                            "hints": [
+                                "You can ask her about different things.",
+                                "You can ASK TAMARA ABOUT: JACK, HERSELF, THE GHOST, BOLITHO, DINNER, DEIRDRE, THE WHITE LADY, and so on. Or TAMARA, DESCRIBE THE GHOST."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is Bolitho trying to tell me in my bedroom?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is Bolitho trying to tell me in my bedroom?",
+                            "hints": [
+                                "He is trying to tell you about the ghost. You can ASK BOLITHO TO DESCRIBE THE GHOST.",
+                                "He may give you a device to protect you from hostile \"ghosts.\"",
+                                "He may also give you a hint for finding the secret passage if you haven't already found it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How should I get ready for dinner?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How should I get ready for dinner?",
+                            "hints": [
+                                "You've been driving all day. You're grimy and rumpled.",
+                                "You can wash up in your bathroom.",
+                                "You can look in your luggage and find something fresh to wear.",
+                                "P.S. You'll get dirty again if you go in the secret passage!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I heard a dinner bell. What should I do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "I heard a dinner bell. What should I do?",
+                            "hints": [
+                                "Remember what Tamara said about dinner?",
+                                "She said that dinner is at eight o'clock, or whenever you hear the gong.",
+                                "It's time to GO TO DINNER."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do at dinner?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do at dinner?",
+                            "hints": [
+                                "If you didn't do so earlier, ask the guests about the ghost.",
+                                "At the end of dinner, you'll hear a tape recording.",
+                                "Do as Lionel says: LOOK UNDER THE PUNCHBOWL.",
+                                "The first clue is a hint about what the treasure is.",
+                                "After Lionel mentions the treasure, ask Jack about it.",
+                                "Lionel mentions a second clue; he also says who has it.",
+                                "ASK JACK (or VIVIEN, depending on the variation) FOR THE SECOND CLUE THEN READ THE SECOND CLUE.",
+                                "The second clue is a hint about how to find the treasure."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Getting Around",
+            "child": {
+                "type": "menu",
+                "title": "Getting Around",
+                "children": [
+                    {
+                        "title": "Are there any secret passages?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Are there any secret passages?",
+                            "hints": [
+                                "In a castle like this, there probably are.",
+                                "Bolitho may give you a hint.",
+                                "Bolitho says you can adjust the wall mirror in your bedroom.",
+                                "But in fact you can't adjust it. EXAMINE THE WALL MIRROR.",
+                                "The mirror is actually a secret door! PUSH THE SWITCH."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "It's too dark to see! Where can I find a light?",
+                        "child": {
+                            "type": "hints",
+                            "title": "It's too dark to see! Where can I find a light?",
+                            "hints": [
+                                "One is used by the servants to go to the basement wine cellar.",
+                                "There's a portable brass lantern in the kitchen."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I got caught in someone else's bedroom and now I can't leave!",
+                        "child": {
+                            "type": "hints",
+                            "title": "I got caught in someone else's bedroom and now I can't leave!",
+                            "hints": [
+                                "It isn't polite to snoop around other people's bedrooms.",
+                                "The other guest is probably mad at you for doing so.",
+                                "You should APOLOGIZE to the guest."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Someone is ignoring me. What does this mean?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Someone is ignoring me. What does this mean?",
+                            "hints": [
+                                "Were you rude to this person earlier?",
+                                "Maybe you ignored a question, or hit or insulted him or her?",
+                                "You should APOLOGIZE to the guest."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why can't I go somewhere directly by using the GO TO command?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why can't I go somewhere directly by using the GO TO command?",
+                            "hints": [
+                                "If you haven't met all the guests, Tamara won't let you wander off.",
+                                "Otherwise, it's a puzzle to go to that place. You have to use compass directions (like NORTH or IN) to go there."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I used the GO TO command, but I got only part way there!",
+                        "child": {
+                            "type": "hints",
+                            "title": "I used the GO TO command, but I got only part way there!",
+                            "hints": [
+                                "Maybe you bumped into someone on your way.",
+                                "Or you might have gotten lost in the dark."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "After Dinner",
+            "child": {
+                "type": "menu",
+                "title": "After Dinner",
+                "children": [
+                    {
+                        "title": "Why is Jack troubled by Bolitho's note?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why is Jack troubled by Bolitho's note?",
+                            "hints": [
+                                "Have you read it?",
+                                "ASK JACK FOR THE BUTLER'S NOTE THEN READ IT.",
+                                "After dinner, you should find the maid's note, then read it.",
+                                "The maid's note is on the desk in the sitting room."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I begin my search for the ghost?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I begin my search for the ghost?",
+                            "hints": [
+                                "Bolitho saw the ghost. Did he tell you about it?",
+                                "If not, and it's after dinner, you're too late. Bolitho's gone.",
+                                "Say YES when Bolitho asks you if you are the well-known American detective. Or ASK THE BUTLER ABOUT THE GHOST."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I identify the ghost?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I identify the ghost?",
+                            "hints": [
+                                "There are two ways. The first way is to find the ghost costume and some evidence of who wore it. The second way is to catch the ghost on its haunt and unmask it.",
+                                "Asking others to describe the ghost will give you clues about its identity, and may give you an idea where to start your search."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I follow up on Bolitho's clue?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I follow up on Bolitho's clue?",
+                            "hints": [
+                                "Can you find what the ghost was searching for?",
+                                "You should go where Bolitho said the ghost was searching then SEARCH THE ROOM. If you show what you found to other people, you might start to suspect someone.",
+                                "Search the bedroom of the suspected guest for evidence that he or she is the person who lost the item that the ghost was looking for. Then read one of the next four answers (for example, read the RED answer if you're playing the red variation).",
+                                "RED: The jewel came from the necklace that used to be Deirdre's. Jack has the necklace in his bedroom because the police gave it back to him.",
+                                "YELLOW: The jewel came from Tamara's earring in the jewelry case in her bedroom.",
+                                "BLUE: The contact lens is Vivien's. She is missing one from her plastic box in the wooden box in her bedroom.",
+                                "GREEN: The contact lens is Wendish's. He is missing one from his plastic box in the medical kit in his bedroom."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I think I know who the ghost is. How do I prove it?",
+                        "child": {
+                            "type": "hints",
+                            "title": "I think I know who the ghost is. How do I prove it?",
+                            "hints": [
+                                "Whoever the ghost is probably has a costume hidden. Or sometimes you can catch the ghost while it's haunting. If you still can't find the ghost costume, then read one of the next four answers (for example, read the BLUE answer if you're playing the blue variation).",
+                                "RED: If you think Jack is the ghost, ASK BOLITHO TO DESCRIBE THE GHOST and think again. If you think Deirdre is the ghost, then the costume wouldn't be in the castle; you'll have to catch her when she haunts the castle.",
+                                "YELLOW: The costume is not in the villain's bedroom. Look in the secret passages for it and see the next question.",
+                                "BLUE: The costume is hidden in Vivien's wooden box (under other items).",
+                                "GREEN: The costume is hidden in Wendish's medical kit (under other items)."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I found a ghost costume in the secret passage!",
+                        "child": {
+                            "type": "hints",
+                            "title": "I found a ghost costume in the secret passage!",
+                            "hints": [
+                                "The person haunting must have dropped it there.",
+                                "Probably on purpose -- to frame Iris for the haunting. See the next question."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I know who wore the costume that I found?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I know who wore the costume that I found?",
+                            "hints": [
+                                "Whoever wore it might have left some evidence in it.",
+                                "EXAMINE THE WIG.",
+                                "Whoever wore the costume left some hairs behind!",
+                                "You can EXAMINE the other guests to see whose hair color is the same."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What evidence do I need to arrest the villain?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What evidence do I need to arrest the villain?",
+                            "hints": [
+                                "You need to find incriminating evidence, something that shows why the villain would commit a crime.",
+                                "The maid found something incriminating. See the next question."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the maid's note?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the maid's note?",
+                            "hints": [
+                                "Apparently the maid found something very upsetting.",
+                                "Whatever she found might incriminate the villain.",
+                                "The last paragraph of her note is a clue.",
+                                "For more hints, look in the section for the variation you're playing."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The villain is about to shoot me! How do I escape?",
+                        "child": {
+                            "type": "hints",
+                            "title": "The villain is about to shoot me! How do I escape?",
+                            "hints": [
+                                "You can escape into the secret passage, but only if the secret door is already open.",
+                                "Or you can spray the villain with the aerosol device, or hit the villain with the wine bottle."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I find the treasure?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I find the treasure?",
+                            "hints": [
+                                "The first clue (under the punchbowl) is a hint about WHAT you are looking for.",
+                                "To find WHERE the treasure is, you have to get the second clue from Vivien (in the red variation) or Jack (in the yellow, blue, and green variations).",
+                                "The second clue will lead to more clues."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "After Midnight",
+            "child": {
+                "type": "menu",
+                "title": "After Midnight",
+                "children": [
+                    {
+                        "title": "How can I find the ghost?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I find the ghost?",
+                            "hints": [
+                                "If you are in the yellow variation, read the next hint. Otherwise, skip it.",
+                                "You can't. You'll have to find the ghost costume instead.",
+                                "The ghost haunts after midnight, when other people have gone to bed.",
+                                "And it haunts only in the secret passages where people usually don't go. Read the next two hints only if you are in the red variation.",
+                                "The ghost enters the castle on its way to the secret passages.",
+                                "The ghost enters through the priest hole and goes backstairs."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The ghost never showed up! Why?",
+                        "child": {
+                            "type": "hints",
+                            "title": "The ghost never showed up! Why?",
+                            "hints": [
+                                "If you are playing the yellow variation, read the next hint. Otherwise skip over it.",
+                                "The ghost never haunts in the yellow variation.",
+                                "You may have missed the ghost. Try waiting at your entrance or the entrance of the presumed ghost.",
+                                "You may have spooked the ghost. If you disturbed the costume or blowgun, or left the ghost's secret entrance open, the ghost won't haunt.",
+                                "If you already arrested the person who was the ghost, now you need to find the ghost costume."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Egads!! The ghost is trying to kill me!",
+                        "child": {
+                            "type": "hints",
+                            "title": "Egads!! The ghost is trying to kill me!",
+                            "hints": [
+                                "Follow your instincts: fight or flee.",
+                                "Maybe Bolitho gave you something to stop threats.",
+                                "Bolitho tried to give you an aerosol device. If you don't have it, you can flee to the kitchen and get it. Or you can use the wine bottle as a weapon.",
+                                "If you have the aerosol device, SPRAY THE GHOST WITH THE DEVICE.",
+                                "Now you can REMOVE THE GHOST COSTUME and identify the ghost."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Egads!! I found the ghost, but it runs away!",
+                        "child": {
+                            "type": "hints",
+                            "title": "Egads!! I found the ghost, but it runs away!",
+                            "hints": [
+                                "The ghost isn't threatening you, so don't scare her away.",
+                                "Be nice to the ghost.",
+                                "Talking to the ghost is one way to get her to open up."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The ghost just \"slimed\" me!!! How do I catch it?",
+                        "child": {
+                            "type": "hints",
+                            "title": "The ghost just \"slimed\" me!!! How do I catch it?",
+                            "hints": [
+                                "First use your negative ionizer backpack to trap the ghost.",
+                                "Now lower the ghost into your portable laser confinement system.",
+                                "Stop playing <b>Ghostbusters</b> from Activision and play <b>Moonmist</b>! The ghost in <b>Moonmist</b> doesn't \"slime\" people."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "General Questions",
+            "child": {
+                "type": "menu",
+                "title": "General Questions",
+                "children": [
+                    {
+                        "title": "How can I tell if a person is left- or right-handed?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I tell if a person is left- or right-handed?",
+                            "hints": [
+                                "People tend to use their dominant hand without thinking.",
+                                "Throw something at a person. They'll catch it with their dominant hand."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How did the ghost float over Tamara's bed?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How did the ghost float over Tamara's bed?",
+                            "hints": [
+                                "There is a physical reason for it.",
+                                "One room is directly over Tamara's.",
+                                "Examine and move objects in the \"lumber\" room.",
+                                "If you move the chest and lift the handle you can look into Tamara's bedroom. And someone in her bed would see your face!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I protect Tamara from the vampire?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I protect Tamara from the vampire?",
+                            "hints": [
+                                "Did you find the coffin hidden in the secret tomb?",
+                                "You'll need a wooden cross from the chapel and garlic from the kitchen.",
+                                "Find a sharp stick in the lumber room and drive it through the vampire's heart when it returns to sleep in the coffin at dawn.",
+                                "What vampire? There's no vampire in <b>Moonmist</b>."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Who was the White Lady?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Who was the White Lady?",
+                            "hints": [
+                                "Ask someone about her.",
+                                "The history book in the library will tell you more about her."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Iris is broken. How do I fix her?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Iris is broken. How do I fix her?",
+                            "hints": [
+                                "Have Waldo replace the faulty chip.",
+                                "If that doesn't work, then send her to robot repair.",
+                                "Wait a minute! Why are you looking up <b>Suspended</b> questions in the <b>Moonmist</b> hint booklet?"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Red Variation",
+            "child": {
+                "type": "menu",
+                "title": "Red Variation",
+                "children": [
+                    {
+                        "title": "What is the significance of the maid's note?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the maid's note?",
+                            "hints": [
+                                "First read the hints for this same question in the section called \"After Dinner.\"",
+                                "Look in the keyholes of bedroom doors.",
+                                "Jack's keyhole is the most important. You'll see a microphone in the door.",
+                                "Move the wyvern to uncover the secret tape recorder. PLAY THE TAPE."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I'm stuck on the second clue. Help!",
+                        "child": {
+                            "type": "hints",
+                            "title": "I'm stuck on the second clue. Help!",
+                            "hints": [
+                                "The \"very first lass\" in the Bible was Eve.",
+                                "There's a stained \"glass\" window in the chapel.",
+                                "On the \"forbidden fruit\" (apple) is the third clue."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What does the third clue mean?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What does the third clue mean?",
+                            "hints": [
+                                "You need to go to the place mentioned in the clue.",
+                                "\"Bower\" is another word for garden.",
+                                "GO TO THE BOWER (the garden in the hedge maze).",
+                                "The clue is in the dirt in the garden."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Help me figure out the fourth clue.",
+                        "child": {
+                            "type": "hints",
+                            "title": "Help me figure out the fourth clue.",
+                            "hints": [
+                                "What would you need if you went into the rain?",
+                                "The clues are \"rain\" and \"cain.\"",
+                                "There's an umbrella stand in the foyer.",
+                                "\"Cain\" is a pun for the cane in the umbrella stand."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I have what the fourth clue led me to, but it isn't a treasure.",
+                        "child": {
+                            "type": "hints",
+                            "title": "I have what the fourth clue led me to, but it isn't a treasure.",
+                            "hints": [
+                                "Examine the item you found there.",
+                                "The treasure is disguised.",
+                                "REMOVE THE PAINT to find the real treasure."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Yellow Variation",
+            "child": {
+                "type": "menu",
+                "title": "Yellow Variation",
+                "children": [
+                    {
+                        "title": "What is the significance of the maid's note?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the maid's note?",
+                            "hints": [
+                                "First read the hints for this same question in the section called \"After Dinner.\"",
+                                "Search people's bedrooms, particularly under furniture.",
+                                "Remove the journal from under Tamara's bed, then look there again.",
+                                "Under Tamara's bed is a receipt from a pet store."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Help! What is the meaning of the second clue?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Help! What is the meaning of the second clue?",
+                            "hints": [
+                                "What word rhymes with \"tell\" and is something you can hear?",
+                                "A bell. Find a bell and examine it. (The quote is from \"The Bells\" by Edgar Allan Poe.)",
+                                "The bell on the fighting deck has the third clue in it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Help me figure out the third clue.",
+                        "child": {
+                            "type": "hints",
+                            "title": "Help me figure out the third clue.",
+                            "hints": [
+                                "Somewhere in the castle is a \"tomb.\" (The quote is from \"Annabel Lee\" by Edgar Allan Poe.)",
+                                "Go to the dungeon, then ENTER THE IRON MAIDEN to get to the secret tomb.",
+                                "OPEN THE COFFIN to find the fourth clue."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What does the fourth clue mean?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What does the fourth clue mean?",
+                            "hints": [
+                                "Do you know the story \"A Cask of Amontillado\" by Edgar Allan Poe?",
+                                "It tells the tale of a man who is buried alive behind a brick wall, deep in the catacombs of a wine cellar.",
+                                "Go to the basement, where the wine is kept, and MOVE THE BRICKS.",
+                                "Enter the hole that you opened up,"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I found an item that doesn't look like treasure. Where's the real treasure?",
+                        "child": {
+                            "type": "hints",
+                            "title": "I found an item that doesn't look like treasure. Where's the real treasure?",
+                            "hints": [
+                                "EXAMINE THE SKELETON.",
+                                "Take the black pearl necklace."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Blue Variation",
+            "child": {
+                "type": "menu",
+                "title": "Blue Variation",
+                "children": [
+                    {
+                        "title": "What is the significance of the maid's note?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the maid's note?",
+                            "hints": [
+                                "First read the hints for this same question in the section called \"After Dinner.\"",
+                                "You are looking for someone's diary.",
+                                "In Vivien's wooden box is her diary. (It's under her plastic box.) Reading her diary may not be polite, but it's important!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What does the second clue mean?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What does the second clue mean?",
+                            "hints": [
+                                "Try to fill in the blanks of the second clue with words that make the poem rhyme. Then find objects that match the words.",
+                                "For the first blank: What rhymes with \"wrong\" and is often mentioned with wine (\"grape\") and women (\"wench\")?",
+                                "The word for the first blank is \"song.\" Where might you find a song in the castle?",
+                                "Read the music on the piano.",
+                                "For the second blank: What rhymes with \"laden\"? (Remember that the poem is about three fellows arguing about \"wine, women, and song.\")",
+                                "The word for the second blank is \"maiden.\" Where in the castle is a maiden?",
+                                "It's not the iron maiden in the dungeon.",
+                                "Find the maiden mentioned in the tourist brochure and examine it.",
+                                "For the last blank: What rhymes with \"fine\"? (Remember what the three fellows are arguing about!)",
+                                "The word for the last blank is \"wine.\" Where in the castle will you find wine?",
+                                "Examine the wine bottle in the basement.",
+                                "Put together the parts of words marked with a star.",
+                                "They spell \"SUIT ARMOUR.\" Look in the tourist brochure to find it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I'm stuck on the third clue. Help!",
+                        "child": {
+                            "type": "hints",
+                            "title": "I'm stuck on the third clue. Help!",
+                            "hints": [
+                                "Put the parts of words from the second clue into the blanks in a different order.",
+                                "The order is ARM, SUIT and OUR.",
+                                "What \"alarm\" has \"suite\" (sweet) tones that \"clamour\"?",
+                                "The bell on the fighting deck is an alarm that clamours.",
+                                "LOOK INSIDE THE BELL to find the treasure."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Help! What is the meaning of the fourth clue?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Help! What is the meaning of the fourth clue?",
+                            "hints": [
+                                "Try to climb up one of the fireplaces in the castle.",
+                                "However, you can't go back down the same way. Try to find a different flue to go down.",
+                                "However, if you go down you'll land in a fire and...",
+                                "You've been burned. There is no fourth clue in the blue variation."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I found an item that doesn't look like treasure!",
+                        "child": {
+                            "type": "hints",
+                            "title": "I found an item that doesn't look like treasure!",
+                            "hints": [
+                                "Why are you reading this clue?",
+                                "The skull is obviously the treasure."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Green Variation",
+            "child": {
+                "type": "menu",
+                "title": "Green Variation",
+                "children": [
+                    {
+                        "title": "What is the significance of the maid's note?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the maid's note?",
+                            "hints": [
+                                "First read the hints for this same question in the section called \"After Dinner.\"",
+                                "You are looking for something written. The library would be a good place to start.",
+                                "In the bookcase is Wendish's lab notebook. It reveals Wendish's fiendish ideas."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Help me figure out the second clue.",
+                        "child": {
+                            "type": "hints",
+                            "title": "Help me figure out the second clue.",
+                            "hints": [
+                                "You are doing two things: finding the next clue (by finding an \"eye\" that doesn't see) and beginning to spell a word which starts with the letter \"I.\"",
+                                "The blind \"eye\" you are looking for is in the game room.",
+                                "The third clue is behind the rhino's glass eye."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Help! What is the meaning of the third clue?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Help! What is the meaning of the third clue?",
+                            "hints": [
+                                "The second letter is \"N\" (in \"never,\" but not in \"ever\").",
+                                "The next clue is at the dead \"end\" in the secret (hidden) passages. You can find it on the complete map.",
+                                "You can see the clue (but not reach it) if you SEARCH THE WALL in the gallery and then look through the peephole."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I'm stuck on the fourth clue. Help!",
+                        "child": {
+                            "type": "hints",
+                            "title": "I'm stuck on the fourth clue. Help!",
+                            "hints": [
+                                "The third letter is \"K\" (a silent letter in \"knight\").",
+                                "Putting the three letters together spells \"ink.\" Find some ink.",
+                                "There is an inkwell in the office."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I found an item that doesn't look like treasure!",
+                        "child": {
+                            "type": "hints",
+                            "title": "I found an item that doesn't look like treasure!",
+                            "hints": [
+                                "The treasure isn't the inkwell.",
+                                "It's the \"ink\" inside the inkwell -- the Moonmist drug."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Secret Passage Entrances",
+            "child": {
+                "type": "items",
+                "title": "Secret Passage Entrances",
+                "content": "<p>Don't read this list unless you are really stuck or really curious. Some exits (not listed) open only from the inside.</p><pre>  Secret Entrance          How to Open It\n  Your Bedroom             EXAMINE WALL MIRROR. PUSH SWITCH\n  Vivien's Bedroom         MOVE FIGURINE\n  Wendish's Bedroom        MOVE SCONCE\n  Ian's Bedroom            MOVE ANDIRONS\n  Library                  SEARCH BOOKCASE. GET HISTORY BOOK\n  Tamara's Bedroom         MOVE POST\n  Jack's Bedroom           MOVE TELESCOPE\n  Sitting Room (one-way)   SIT ON WINDOW SEAT. MOVE WYVERN\n  Drawing Room             LOOK BEHIND TAPESTRY. OPEN SECRET DOOR</pre>"
+            }
+        },
+        {
+            "title": "Have You Tried To...",
+            "child": {
+                "type": "items",
+                "title": "Have You Tried To...",
+                "content": "<p>read the magazine in the lumber room? (especially in the blue variation)</p><p>kiss Iris if you are playing as a man, or kiss Jack or Ian if you are playing as a woman?</p><p>drink Moonmist? (in the green variation only)</p><p>take Dr. Wendish's mustache? (in the green variation)</p><p>show the villain the incriminating evidence in his or her own bedroom, before or after you have taken the blowgun? (in the green and blue variations only)</p><p>play the secret tape in Jack's door with Tamara following you? (in the red variation)</p><p>ring the bell on the fighting deck after dinner and then wait?</p><p>pray?</p><p>shoot billiards in the game room?</p><p>play the piano?</p><p>ask the other guests to play the piano?</p><p>turn on the computer in the office?</p><p>ASK VIVIEN ABOUT TAMARA (in the blue variation) or ASK TAMARA ABOUT IRIS (in the yellow variation)?</p>"
+            }
+        },
+        {
+            "title": "Thanks!",
+            "child": {
+                "type": "page",
+                "title": "Thanks!",
+                "content": "<p>The authors thank the <b>Moonmist</b> testers at Infocom: Tomas Bok, Gary Brennan, Amy Briggs, Max Buxton, Liz Cyr-Jones, Suzanne Frank, and Matt Hillman. Numerous \"outside\" testers also gave us their valuable input. </p><p>Thanks to Carl Genatossio and Elizabeth Langosy for their excellent work on the package design and the package contents, including the tourist brochure.</p>"
+            }
+        }
+    ]
+}

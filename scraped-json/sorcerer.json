@@ -1,0 +1,1821 @@
+{
+    "type": "menu",
+    "title": "Sorcerer",
+    "children": [
+        {
+            "title": "About",
+            "child": {
+                "type": "page",
+                "title": "About PRIZM Invisiclues",
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+            }
+        },
+        {
+            "title": "Credits ",
+            "child": {
+                "type": "page",
+                "title": "Credits",
+                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>from material supplied by:</p><p>  Paul David Doherty</p><p>  Dave Rees</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Sorcerer</b> and all other game names are registered trade marks of Activision.</p>"
+            }
+        },
+        {
+            "title": "Sample Question",
+            "child": {
+                "type": "menu",
+                "title": "Sample Question",
+                "children": [
+                    {
+                        "title": "How can I tell if there's a grue in my refrigerator? ",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I tell if there's a grue in my refrigerator?",
+                            "hints": [
+                                "Are there footprints in the cheesecake?",
+                                "\"As you open the door, the refrigerator light goes on.\"",
+                                "If there were a grue inside, it would dash out as soon as you opened the door."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Guild Hall",
+            "child": {
+                "type": "menu",
+                "title": "The Guild Hall",
+                "children": [
+                    {
+                        "title": "Is there anything useful or necessary I should do in the dream, before I wake up?",
+                        "child": {
+                            "type": "hints",
+                            "title": "...before I wake up?",
+                            "hints": [
+                                "No."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can the dream be prolonged?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can the dream be prolonged?",
+                            "hints": [
+                                "No. It can never last more than seven turns."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I turn on the lights when I wake up in the dark?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I turn on the lights when I wake up in the dark?",
+                            "hints": [
+                                "Remember, you are a magic user.",
+                                "You are holding your spell book.",
+                                "You can read it, even in the dark.",
+                                "The SPELLS command tells you which spells you have currently memorized.",
+                                "CAST THE FROTZ SPELL on something...",
+                                "...such as yourself or your spell book."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I open the heavy wooden door in the Hallway?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I open the heavy wooden door in the Hallway?",
+                            "hints": [
+                                "Try typing OPEN THE HEAVY WOODEN DOOR."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I make the invisible tenets appear?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I make the invisible tenets appear?",
+                            "hints": [
+                                "The ZIKKLE spell might be useful.",
+                                "Except that there is no ZIKKLE spell.",
+                                "Nor are there invisible tenets.",
+                                "Remember the warning in the introduction: Do not let the presence or absence of questions, or the lengths of their answers, influence your play of the game."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I talk to the parrot?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I talk to the parrot?",
+                            "hints": [
+                                "Try it.",
+                                "As with all other characters, the proper format is PARROT, GIVE ME THE SCREWDRIVER (for example).",
+                                "No, I guess you can't talk to the parrot."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What can I do with the morgia plant?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What can I do with the morgia plant?",
+                            "hints": [
+                                "You could cast the MEEF spell on it.",
+                                "There's nothing useful you can do with it, though."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What can I do with the wall hanging?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What can I do with the wall hanging?",
+                            "hints": [
+                                "You can't take it.",
+                                "You might try looking behind it, however."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I open the desk in Belboz's Quarters?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I open the desk in Belboz's Quarters?",
+                            "hints": [
+                                "Yes.",
+                                "How about typing OPEN THE DESK?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What can I do with the infotater?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What can I do with the infotater?",
+                            "hints": [
+                                "You'll have to read it by referring to the one from your game package.",
+                                "You need the data on the infotater to solve one of the problems in the game."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What can I do with the journal?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What can I do with the journal?",
+                            "hints": [
+                                "It makes interesting reading.",
+                                "But you need to open it first.",
+                                "There's a key hidden somewhere.",
+                                "Listen to the parrot for a while.",
+                                "Apparently, Belboz was in his quarters while he was looking for a hiding place for the key.",
+                                "It's behind the wall hanging."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What can I do with the amulet?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What can I do with the amulet?",
+                            "hints": [
+                                "Read the amulet's box.",
+                                "The amulet can tell you how close you are to Belboz.",
+                                "EXAMINE THE AMULET when you want to gauge your proximity to Belboz."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where are the beds in everyone else's quarters?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where are the beds in everyone else's quarters?",
+                            "hints": [
+                                "Many Enchanters prefer conjuring up their beds only during sleeping periods. This reduces clutter in one's chamber."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How does the GASPAR spell work?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How does the GASPAR spell work?",
+                            "hints": [
+                                "You should cast it on yourself.",
+                                "Preferably after GNUSTOing it first.",
+                                "That way, you will be resurrected if you are \"killed.\"",
+                                "You are (almost always) resurrected to the location where you cast the spell on yourself."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where are the boiled chives?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where are the boiled chives?",
+                            "hints": [
+                                "According to the cook, boiled chives are Frobar's favorite dish.",
+                                "And he usually eats them late at night.",
+                                "If you could conjure up Frobar's bed, there might be some boiled chives sitting on it.",
+                                "What a silly question this is!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where is Frobar?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where is Frobar?",
+                            "hints": [
+                                "Ask <b>Sorcerer</b>."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where is Helistar?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where is Helistar?",
+                            "hints": [
+                                "Ask <b>Sorcerer</b>."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where is Belboz?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where is Belboz?",
+                            "hints": [
+                                "Aye, now there's the rub."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where are the servants?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where are the servants?",
+                            "hints": [
+                                "Out doing their daily chores, no doubt."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where are the apprentices?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where are the apprentices?",
+                            "hints": [
+                                "They've accompanied Frobar into town."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I leave the Guild Hall?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I leave the Guild Hall?",
+                            "hints": [
+                                "According to Guild policy, the Guild Hall should never be left unattended.",
+                                "And you are the only one in the Hall at the moment.",
+                                "So the warning nymph will not let you leave.",
+                                "But this is an emergency.",
+                                "However, there's no other exit.",
+                                "Well...there's no other physical exit.",
+                                "There is a spell that will allow you to leave.",
+                                "Refer to the question about the AIMFIZ spell."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where can I find food and water?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where can I find food and water?",
+                            "hints": [
+                                "You've probably slept through breakfast, and dinner is a long way off.",
+                                "There aren't any provisions around the Guild Hall.",
+                                "Magic might come in handy here.",
+                                "Go to the Store Room.",
+                                "Read the ochre vial.",
+                                "Open it and drink the berzio potion.",
+                                "The effects of this potion will last for several days; this should be long enough for you to finish the game."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the ochre vial useful?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the ochre vial useful?",
+                            "hints": [
+                                "Read it.",
+                                "See the previous question."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why has the calendar been FROTZed?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why has the calendar been FROTZed?",
+                            "hints": [
+                                "Why does anyone FROTZ something?",
+                                "Perhaps one of the other Enchanters was using it for a light source yesterday."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the depleted matchbook useful?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the depleted matchbook useful?",
+                            "hints": [
+                                "Yes. Read it.",
+                                "The vilstu potion sounds as if it might come in handy.",
+                                "So, send in the matchbook!",
+                                "PUT THE MATCHBOOK IN THE RECEPTACLE in the Lobby.",
+                                "But you have to do it before the mailman arrives, or the vilstu potion won't arrive until the next day."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the encyclopedia useful?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the encyclopedia useful?",
+                            "hints": [
+                                "Indirectly. It contains many, many interesting entries.",
+                                "Some entries contain clues about events in the game.",
+                                "Try typing READ ABOUT something or LOOK UP something."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get into the Guild Hall attic?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get into the Guild Hall attic?",
+                            "hints": [
+                                "There is no Guild Hall attic."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I open the window in the Attic?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I open the window in the Attic?",
+                            "hints": [
+                                "The REZROV spell will open the window.",
+                                "But then the giant roof owl will swoop in and eat you.",
+                                "And you can't cast the IGNATZ spell on the owl until you've counted the rutabagas on the ledge outside the window.",
+                                "There is no attic, window, owl, or pile of rutabagas.",
+                                "Remember the warning in the introduction: Do not let the presence or absence of questions, or the lengths of their answers, influence your play of the game."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get into the Guild Hall cellar?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get into the Guild Hall cellar?",
+                            "hints": [
+                                "Try going DOWN from the Lobby."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I open the trunk in the Cellar?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I open the trunk in the Cellar?",
+                            "hints": [
+                                "The REZROV spell isn't powerful enough.",
+                                "You need to push the buttons in the proper order.",
+                                "The infotater and journal contain the necessary information.",
+                                "Read the journal to find out the current code.",
+                                "Then turn to that animal on your infotater.",
+                                "Then press the colored buttons in sequence corresponding to the colors listed for that animal.",
+                                "For example, if the current code were DRYAD, you would press the black button, then the gray button, then the white button, then the red button, and finally the red button again."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the AIMFIZ spell for? How does it work?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the AIMFIZ spell for? How does it work?",
+                            "hints": [
+                                "If you CAST AIMFIZ ON FLOYD (for example), you should be transported to Floyd's location.",
+                                "Is anyone missing or perhaps in trouble?",
+                                "Try casting it on Belboz.",
+                                "Since Belboz is quite distant (as you can tell by examining the amulet while still in the Guild Hall), and possibly protected by magical spells, AIMFIZ does't transport you to his exact location. However, it does take you to his vicinity (look at the amulet after AIMFIZing)."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there any significance to the doorbell ringing?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any significance to the doorbell ringing?",
+                            "hints": [
+                                "Yes. Something else happens at the same time.",
+                                "Where is the front door of the Guild Hall?",
+                                "Wait in the Lobby around the time that the doorbell rings.",
+                                "It's a member of the Messengers Guild making his daily delivery (and pick-up...?).",
+                                "You have to put the matchbook in the receptacle before he comes, or you'll never get the vilstu potion."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Forest-River-Castle Area",
+            "child": {
+                "type": "menu",
+                "title": "The Forest-River-Castle Area",
+                "children": [
+                    {
+                        "title": "Why does this area seem so familiar?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why does this area seem so familiar?",
+                            "hints": [
+                                "You \"visited\" this area in your dream.",
+                                "It must have been a flash of clairvoyance."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I avoid the hellhound?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I avoid the hellhound?",
+                            "hints": [
+                                "Go northeast.",
+                                "Once the hellhound slinks away, it is safe to enter the woods.",
+                                "However, there's nothing of interest in the woods."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I avoid the boa?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I avoid the boa?",
+                            "hints": [
+                                "Don't climb the tree."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get past the Mine Field?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get past the Mine Field?",
+                            "hints": [
+                                "There doesn't appear to be a way.",
+                                "Even flying over it doesn't work.",
+                                "Of course, appearances can be deceiving.",
+                                "But not in this case."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I avoid the locusts?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I avoid the locusts?",
+                            "hints": [
+                                "Don't dawdle in the Meadow too long."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I survive in the Snake Pit?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I survive in the Snake Pit?",
+                            "hints": [
+                                "Don't hang around the pit for more than one or two turns.",
+                                "There's nothing useful there anyway."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I cross the moat?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I cross the moat?",
+                            "hints": [
+                                "The Drawbridge is safe to walk on, at first.",
+                                "After the first few times, there's a danger that it may collapse.",
+                                "It collapses because of your weight.",
+                                "You can always pass over the drawbridge safely if you're flying."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I enter the moat?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I enter the moat?",
+                            "hints": [
+                                "Just type DOWN from the Drawbridge.",
+                                "Or say ENTER THE MOAT.",
+                                "There is no way to enter the moat and live.",
+                                "<em>This space intentionally left blank.</em>"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I survive in the Turret?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I survive in the Turret?",
+                            "hints": [
+                                "Pretty easily. Just don't jump.",
+                                "Nice view from the Turret, eh?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I enter the West Wing of the ruined castle?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I enter the West Wing of the ruined castle?",
+                            "hints": [
+                                "Play <b>Planetfall</b>(tm) instead of <b>Sorcerer</b>."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the indigo vial?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the indigo vial?",
+                            "hints": [
+                                "Read the vial.",
+                                "Drink the potion.",
+                                "That's about it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the skeleton in the Torture Chamber?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the skeleton in the Torture Chamber?",
+                            "hints": [
+                                "What skeleton?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I survive at the River Bank?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I survive at the River Bank?",
+                            "hints": [
+                                "You're safe for a couple of turns.",
+                                "After that, there's always a danger of collapse.",
+                                "Except if you're flying.",
+                                "Or if the river has been PULVERed."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I cross the river?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I cross the river?",
+                            "hints": [
+                                "Trying to fly across it is deadly.",
+                                "There's no way to cross the river.",
+                                "However, there is something interesting you can do there.",
+                                "CAST THE PULVER SPELL ON THE RIVER."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I inflate the raft?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I inflate the raft?",
+                            "hints": [
+                                "With the hand-held air pump.",
+                                "It's located on the north shore of the reservoir.",
+                                "The north shore of the reservoir is in Zork(R) I, as are the inflatable raft and the hand-held air pump."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Help! I keep getting smashed by a wall of water!",
+                        "child": {
+                            "type": "hints",
+                            "title": "Help! I keep getting smashed by a wall of water!",
+                            "hints": [
+                                "Don't go on unless you've been to the River Bed.",
+                                "PULVERing the river has only a temporary effect.",
+                                "It isn't safe to stick around any of the dried-up river bed locations for very long."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I cross the stagnant pool?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I cross the stagnant pool?",
+                            "hints": [
+                                "You can't.",
+                                "Really!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the amber potion for?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the amber potion for?",
+                            "hints": [
+                                "Read the label on the amber vial.",
+                                "Try ingesting the potion.",
+                                "The blort potion allows you to see in dark places, even if you don't have a light source.",
+                                "Unfortunately, grues are afraid of light, not of being seen.",
+                                "So the blort potion is pretty useless in <b>Sorcerer</b>."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Fort Griffspotter",
+            "child": {
+                "type": "menu",
+                "title": "Fort Griffspotter",
+                "children": [
+                    {
+                        "title": "Where is the fort?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where is the fort?",
+                            "hints": [
+                                "Walk southeast from the River Bank."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where should I dig to find the cannonball?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where should I dig to find the cannonball?",
+                            "hints": [
+                                "What cannonball?",
+                                "<em>This space intentionally left blank.</em>"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I climb the flag pole?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I climb the flag pole?",
+                            "hints": [
+                                "You can't."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there any way to lower the flag?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any way to lower the flag?",
+                            "hints": [
+                                "Yes.",
+                                "Try LOWER THE FLAG."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I sleep in the Barracks?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I sleep in the Barracks?",
+                            "hints": [
+                                "Sure, why not!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Are there any useful armaments in the Armory?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Are there any useful armaments in the Armory?",
+                            "hints": [
+                                "No."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get the glowing scroll out of the Watchtower?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get the glowing scroll out of the Watchtower?",
+                            "hints": [
+                                "Hide it inside the floor waxer.",
+                                "Don't talk to the rockworm chief.",
+                                "Cast the YIKKLE spell on it.",
+                                "Stop reading nonsense questions."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there any significance to the cannon?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any significance to the cannon?",
+                            "hints": [
+                                "Yes. REACH INTO THE CANNON.",
+                                "LOOK INSIDE IT.",
+                                "Hmmm. A pile of identical scrolls that bite.",
+                                "Perhaps appearances are deceiving in this case.",
+                                "Look at your infotater again.",
+                                "The pile of scrolls is actually a group of yipples.",
+                                "But there must be a real scroll that they are imitating.",
+                                "Yipples are allergic to certain animal wastes.",
+                                "Such as the bat guano in the Hidden Cave near the river.",
+                                "PUT THE BAT GUANO IN THE CANNON."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I fire the cannon?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I fire the cannon?",
+                            "hints": [
+                                "You'll have to find the buried cannonball, first.",
+                                "But there is no buried cannonball."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I catch the objects that sprout feet?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I catch the objects that sprout feet?",
+                            "hints": [
+                                "Don't go on until you've found the ordinary scroll.",
+                                "You can only catch the scrolls that sprout feet if you have the QUELBO spell.",
+                                "In other words, no."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Crater-Toll Gate Area",
+            "child": {
+                "type": "menu",
+                "title": "The Crater-Toll Gate Area",
+                "children": [
+                    {
+                        "title": "What caused the Crater?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What caused the Crater?",
+                            "hints": [
+                                "It's difficult to say for certain.",
+                                "Perhaps an ancient battle between two powerful wizards?",
+                                "Perhaps a cannonball?",
+                                "Perhaps not."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there any significance to the moss and lichens in the Slimy Room?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any significance to the moss and lichens in the Slimy Room?",
+                            "hints": [
+                                "Lichens are usually an indication of moisture.",
+                                "Some species of moss are phosphorescent.",
+                                "However, these moss and lichens are completely insignificant."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I cross the chasm to the west of the Crater?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I cross the chasm to the west of the Crater?",
+                            "hints": [
+                                "You can JUMP ACROSS THE CHASM. This will work 20% of the time.",
+                                "A safer way is to cross the chasm while flying.",
+                                "Cast the IZYUK spell on yourself, and then go WEST."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I climb the zorkmid tree?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I climb the zorkmid tree?",
+                            "hints": [
+                                "You can't."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I pick the zorkmid coins from the zorkmid tree?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I pick the zorkmid coins from the zorkmid tree?",
+                            "hints": [
+                                "Try it.",
+                                "Type PICK A COIN or PICK ALL THE COINS.",
+                                "You can get only one coin in the Tree Room."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there any significance to the Hall of Carvings?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any significance to the Hall of Carvings?",
+                            "hints": [
+                                "Yes. Especially the carving of the dragon.",
+                                "There's a way to make the dragon come alive.",
+                                "You'll need the MALYON spell. If you don't have it yet, visit the amusement park.",
+                                "Try casting MALYON on the dragon carving.",
+                                "It doesn't seem to be powerful enough.",
+                                "You'll also need the YONK spell. If you don't have it yet, visit Fort Griffspotter.",
+                                "CAST THE YONK SPELL ON THE MALYON SPELL. Then CAST THE MALYON SPELL ON THE DRAGON."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I make the invisible carvings appear?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I make the invisible carvings appear?",
+                            "hints": [
+                                "The ZIKKLE spell works well on the invisible tenets in the Guild Hall...",
+                                "...but you probably had to give up the ZIKKLE spell to the rockworm tribe.",
+                                "Invisible carvings? ZIKKLE spell? Rockworm tribe?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Who built the underground highway?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Who built the underground highway?",
+                            "hints": [
+                                "Probably one of the Construction Guilds.",
+                                "It seems to be a relic of the Great Underground Empire.",
+                                "It was probably built during the reign of King Duncanthrax or one of the Flatheads."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get past the Toll Gate?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get past the Toll Gate?",
+                            "hints": [
+                                "Have you tried typing OPEN THE GATE?",
+                                "Have you tried REZROVing the gate?",
+                                "Have you tried typing GNOME, OPEN THE GATE?",
+                                "Of course, you'll have to wake the gnome before you can talk to him.",
+                                "He won't open the gate until you give him a zorkmid.",
+                                "You can get one from beyond the chasm, near the Crater.",
+                                "If you've already given that zorkmid to the amusement park gnome, you'll have to use the machine in the Casino."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the floor waxer used for?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the floor waxer used for?",
+                            "hints": [
+                                "Use your imagination.",
+                                "Try turning it on.",
+                                "Have you seen any floors that need waxing?",
+                                "Don't go on until you've been to the Dance Hall.",
+                                "Since there's no Dance Hall, you're obviously ignoring directions.",
+                                "The floor waxer is of no use at all.",
+                                "It's just as well. This model tends to produce waxy yellow build-up."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there any significance to the Stone Hut?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any significance to the Stone Hut?",
+                            "hints": [
+                                "Yes. You'll find out more later."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Glass Maze Area",
+            "child": {
+                "type": "menu",
+                "title": "The Glass Maze Area",
+                "children": [
+                    {
+                        "title": "Is there any significance to the statue?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any significance to the statue?",
+                            "hints": [
+                                "Read the inscription.",
+                                "It's a statue of Duncanthrax.",
+                                "In addition to being a King of Quendor, he built the Glass Maze."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I make a map of the maze?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I make a map of the maze?",
+                            "hints": [
+                                "Yes."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How big is the maze?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How big is the maze?",
+                            "hints": [
+                                "It has 27 rooms.",
+                                "They are arranged in a 3 by 3 by 3 array."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I survive in maze rooms that don't have a floor?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I survive in maze rooms that don't have a floor?",
+                            "hints": [
+                                "Yes.",
+                                "By flying.",
+                                "Unfortunately, IZYUK doesn't last long enough to get you through the maze, even if you keep learning it and re-casting it.",
+                                "There is another flying spell.",
+                                "Try the FWEEP spell found in the Hidden Cave near the river.",
+                                "It also has the beneficial side-effect of sonar-like sensing."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there anything beyond the maze?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there anything beyond the maze?",
+                            "hints": [
+                                "Yes.",
+                                "Make a map of the maze.",
+                                "Read the previous question.",
+                                "If you still haven't made it, type FWEEP ME at Outside the Glass Arch, then go E.N.E.S.S.W.D.E.E.N.N.U.U.S.E."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get back from the Hollow?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get back from the Hollow?",
+                            "hints": [
+                                "The only way back is through the glass maze.",
+                                "You'll need the FWEEP spell to get back through it.",
+                                "So you'd better memorize it more than once before you enter the maze from Outside the Glass Arch.",
+                                "In fact, once the maze has re-arranged itself, you'll need a total of three FWEEPs to make the round trip.",
+                                "There's a much easier and quicker way, although some players may find it inelegant. GASPAR yourself at Outside the Glass Arch. Then, get \"killed\" in the Hollow or the maze."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get the parchment scroll back from the Hollow?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get the parchment scroll back from the Hollow?",
+                            "hints": [
+                                "You can't carry it while FWEEPed.",
+                                "And you have to FWEEP yourself to get back.",
+                                "Did you ever wonder what the brick structure is?",
+                                "EXAMINE it.",
+                                "It's the top of a chimney.",
+                                "Chimneys are usually located above fireplaces.",
+                                "If you drop the scroll into the chimney, it will end up in the fireplace in the Stone Hut."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What causes the maze to re-arrange itself?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What causes the maze to re-arrange itself?",
+                            "hints": [
+                                "Picking up the parchment scroll.",
+                                "It is unavoidable."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What rouses the dorn beast?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What rouses the dorn beast?",
+                            "hints": [
+                                "Don't go on until you've been threatened by the dorn beast.",
+                                "Dropping the parchment scroll in the chimney causes the attack.",
+                                "Since this is the only way to get that scroll out of the Hollow, there's no way to avoid rousing the dorn beast."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I kill the dorn beast?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I kill the dorn beast?",
+                            "hints": [
+                                "There's only one way.",
+                                "It involves entering the maze.",
+                                "It involves flying.",
+                                "Enter a maze room without a floor, while flying. The dorn beast will pursue you, and plummet.",
+                                "Flying from the Hollow, go W.W.S.E."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the brick structure of any significance?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the brick structure of any significance?",
+                            "hints": [
+                                "Yes."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Amusement Park",
+            "child": {
+                "type": "menu",
+                "title": "The Amusement Park",
+                "children": [
+                    {
+                        "title": "How can I enter the park?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I enter the park?",
+                            "hints": [
+                                "You must first summon the park gnome by attempting to go west from the Park Entrance.",
+                                "He won't let you enter until you pay the admission price of one zorkmid.",
+                                "You can get a zorkmid coin from the area beyond the chasm near the Crater.",
+                                "If you already gave that coin to the toll gnome, you'll have to do a little thinking.",
+                                "What did the toll gnome do with the coin you gave him?",
+                                "SEARCH THE GNOME after he falls asleep again."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the Haunted House?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the Haunted House?",
+                            "hints": [
+                                "It's just an interesting place to visit."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the Flume?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the Flume?",
+                            "hints": [
+                                "Have you tried riding the Flume?",
+                                "To do so, just type GET IN THE LOG BOAT.",
+                                "Wasn't that a fun ride?",
+                                "There's nothing important about the Flume."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the Roller Coaster?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the Roller Coaster?",
+                            "hints": [
+                                "Have you tried riding the Roller Coaster?",
+                                "To do so, just type GET IN THE CAR.",
+                                "Wasn't that a fun ride?",
+                                "There's nothing important about the Roller Coaster."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the Arcade?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the Arcade?",
+                            "hints": [
+                                "There aren't any video games there, of course.",
+                                "But the hawker and his game booth are important."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do with the hawker?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do with the hawker?",
+                            "hints": [
+                                "Play his game.",
+                                "TAKE THE BALL and then THROW THE BALL AT THE BUNNIES."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I win the hawker's game?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I win the hawker's game?",
+                            "hints": [
+                                "Have you tried throwing the ball at the bunnies?",
+                                "It's a difficult game. You could use some help.",
+                                "There's a magic potion that's useful here.",
+                                "It's located in the fort.",
+                                "LOWER THE FLAG and then EXAMINE IT.",
+                                "DRINK THE FOOBLE POTION before throwing the ball."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the Casino?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the Casino?",
+                            "hints": [
+                                "It seems pretty run down.",
+                                "The odd machine with the lever is still working, though."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How does the odd machine work?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How does the odd machine work?",
+                            "hints": [
+                                "Pull the lever.",
+                                "It is a slot machine.",
+                                "If three identical symbols appear in the windows, you will get a payoff. This happens (on the average) one out of every sixteen tries.",
+                                "If the three matching symbols are pots of gold, you hit the jackpot.",
+                                "Unfortunately, this is fatal. This happens (on the average) one out of every sixty-four tries.",
+                                "Otherwise, the payoff is one zorkmid coin. This happens (on the average) three out of every sixty-four tries. If you paid off the park gnome before paying the toll gnome, this is the only way to get a coin for the toll.",
+                                "For a better way to pay both gnomes, read the first question in this section."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Coal Mine",
+            "child": {
+                "type": "menu",
+                "title": "The Coal Mine",
+                "children": [
+                    {
+                        "title": "How can I keep the ceiling from caving in?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I keep the ceiling from caving in?",
+                            "hints": [
+                                "You can't. It will always cave in when you enter the mine."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I breathe in the coal mine?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I breathe in the coal mine?",
+                            "hints": [
+                                "You can survive only three turns without the aid of magic.",
+                                "You need a potion.",
+                                "It's the vilstu potion, which you must acquire before you leave the Guild Hall.",
+                                "See the matchbook question in the Guild Hall section."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get past the door in the Dial Room?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get past the door in the Dial Room?",
+                            "hints": [
+                                "READ THE SIGN.",
+                                "EXAMINE THE DIAL.",
+                                "You'll have to find out the combination.",
+                                "Unfortunately, Ernie Flathead is probably long gone.",
+                                "Only someone who has already been through it can tell you.",
+                                "Take the vilstu potion, and then wait in the Coal Bin Room."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Who is the person who looks just like my twin?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Who is the person who looks just like my twin?",
+                            "hints": [
+                                "The person looks just like you, only more dishevelled.",
+                                "It is your own older self.",
+                                "There must be some time travel going on here."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Should I give my spell book to my \"twin\"?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Should I give my spell book to my \"twin\"?",
+                            "hints": [
+                                "It makes sense to trust your older self, since your interests are almost certainly mutual. After all, where would your older self be if you went and got yourself \"killed\"?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I make a map of the coal mine?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I make a map of the coal mine?",
+                            "hints": [
+                                "Yes, but you don't have much time until vilstu wears off.",
+                                "Dropping an object in each room of the coal mine will individualize it, and thus making a map of the area will be easier.",
+                                "There are only three rooms called Coal Mine, but sometimes a passage returns to the same room that it left from."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I go down the coal chute at Top of Chute?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I go down the coal chute at Top of Chute?",
+                            "hints": [
+                                "Sure. DOWN or ENTER THE CHUTE will do it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What was that flash of orange light?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What was that flash of orange light?",
+                            "hints": [
+                                "VEZZA might be helpful here.",
+                                "There is a room off the middle of the coal chute.",
+                                "You can get to it if you've found the timber in the coal mine.",
+                                "Tie the rope to the timber, drop the timber at Top of Chute, and then throw the rope down the chute.",
+                                "If you are tired, or holding anything, you will lose your grip on the rope."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the purpose of the GOLMAC spell?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the purpose of the GOLMAC spell?",
+                            "hints": [
+                                "READ it.",
+                                "Temporal travel means traveling in time.",
+                                "This is obviously how your older self was able to meet you earlier, in the Coal Bin Room.",
+                                "CAST GOLMAC ON ME, then go DOWN to the Coal Bin Room."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the purpose of the kerosene lamp?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the purpose of the kerosene lamp?",
+                            "hints": [
+                                "It lights the Slanted Room.",
+                                "Something unusual happens when you GOLMAC in the Slanted Room.",
+                                "After casting GOLMAC on yourself, OPEN THE LAMP.",
+                                "The smelly scroll wasn't there when you arrived, because you yourself removed it the \"last time through\" the cycle."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What happened to the objects I dropped into the coal chute at Top of Chute?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What happened to the objects I dropped into the coal chute at Top of Chute?",
+                            "hints": [
+                                "When you drop objects into the upper coal chute, they land in the Coal Bin Room, where they get buried in the coal (except for a few large objects, such as the timber or the floor waxer)."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do when I meet my younger self?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do when I meet my younger self?",
+                            "hints": [
+                                "What happened the last time this meeting occurred?",
+                                "If you gave your older self the spell book before, then your younger self should now give you the spell book.",
+                                "You'd better give your younger self the combination to the door in the Dial Room.",
+                                "Otherwise your younger self will never be able to get to the Slanted Room and find GOLMAC and become your older self...",
+                                "...or more simply, you will cease to exist!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get my younger self to give me my spell book?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get my younger self to give me my spell book?",
+                            "hints": [
+                                "Remember, <b>you</b> were the younger self 20 or 30 turns ago.",
+                                "Your younger self will do whatever <b>you</b> did when <b>you</b> were the younger self.",
+                                "If you gave your spell book to your older self, then your younger self will give it to you."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Aargh! This coal mine puzzle has me totally befuddled! Help!",
+                        "child": {
+                            "type": "hints",
+                            "title": "Aargh! This coal mine puzzle has me totally befuddled! Help!",
+                            "hints": [
+                                "Don't go on until you're completely stumped by the coal mine.",
+                                "The entire goal of the coal mine puzzle is to obtain the smelly (VARDIK) scroll.",
+                                "Time is of the essence, since vilstu will eventually run out.",
+                                "One sequence that will work (starting from the Sooty Room): FROTZ ME. OPEN THE ORANGE VIAL. E. DRINK THE ORANGE POTION. Z. GIVE BOOK TO OLDER SELF. E. TURN DIAL TO (combination). OPEN DOOR. E. TAKE ROPE. U. SW. TAKE TIMBER. NW. W. TIE ROPE TO TIMBER. THROW ROPE DOWN CHUTE. DROP ALL. D. TAKE SCROLL. GOLMAC ME. OPEN LAMP. TAKE SCROLL. D. YOUNGER SELF, THE COMBINATION IS (combination). D."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Lagoon Area",
+            "child": {
+                "type": "menu",
+                "title": "The Lagoon Area",
+                "children": [
+                    {
+                        "title": "Why did some of my possessions vanish as I entered the lower chute?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why did some of my possessions vanish as I entered the lower chute?",
+                            "hints": [
+                                "You changed time in such a way that it became impossible for you to have those possessions.",
+                                "For example, you never told your younger self the combination, thus you yourself could never have been told it by your older self, thus you couldn't have objects from beyond the dial door."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where are the objects I dropped into the lower chute in the Coal Bin Room?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where are the objects I dropped into the lower chute in the Coal Bin Room?",
+                            "hints": [
+                                "Objects that you drop into the lower chute end up at the bottom of the lagoon."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I get back up the lower coal chute?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I get back up the lower coal chute?",
+                            "hints": [
+                                "No."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I enter the lagoon?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I enter the lagoon?",
+                            "hints": [
+                                "Try going east from the Lagoon Shore.",
+                                "\"If you want to enter the lagoon, say so.\"",
+                                "Try ENTER THE LAGOON."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there anything significant about the lagoon?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there anything significant about the lagoon?",
+                            "hints": [
+                                "Yes.",
+                                "Have you gone DOWN to the floor of the lagoon?",
+                                "Lovely clump of spenseweeds, eh? (It would be a shame if anything happened to them.)",
+                                "MEEF THE SPENSEWEEDS."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I breathe underwater?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I breathe underwater?",
+                            "hints": [
+                                "You can survive only a few turns underwater.",
+                                "Naturally, the vilstu potion will allow you to stay underwater as long as it lasts.",
+                                "But if you've solved the coal mine problem, you've already used up the vilstu potion.",
+                                "Fortunately, you need to be underwater for only a few turns.",
+                                "And, you can always go up for air and dive back down."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I take the wooden crate?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I take the wooden crate?",
+                            "hints": [
+                                "It's pretty heavy.",
+                                "You'll probably have to drop everything else before you try to move it.",
+                                "You probably can't move it if you're tired."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I climb the cliffs?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I climb the cliffs?",
+                            "hints": [
+                                "The cliffs are unclimbable.",
+                                "The cliffs are too tall to fly over.",
+                                "The cliffs are bigger than a breadbox.",
+                                "The cliffs are not made of marzipan.",
+                                "The cliffs are a good subject for a long, useless question."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I enter the ocean?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I enter the ocean?",
+                            "hints": [
+                                "Have you tried going EAST from the shore of the ocean?",
+                                "\"Entering the ocean is certain death.\"",
+                                "Have you tried ENTER THE OCEAN?",
+                                "As advertised, \"Certain death.\""
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I cross the river at its mouth?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I cross the river at its mouth?",
+                            "hints": [
+                                "It has a big mouth.",
+                                "In other words, there's no way."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I enter the cave with the vines?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I enter the cave with the vines?",
+                            "hints": [
+                                "The vines are deadly.",
+                                "Fortunately, they are susceptible to magic.",
+                                "Try the MEEF spell."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Omigosh! A pack of grues! What should I do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Omigosh! A pack of grues! What should I do?",
+                            "hints": [
+                                "Light usually takes care of grues, but these are mutated.",
+                                "Have you found the Frobozz Magic Grue Protection Kit?",
+                                "It's on the Lagoon Floor. See the lagoon question.",
+                                "What you need is inside the crate.",
+                                "The lamp is useless, of course, because of the mutation.",
+                                "Either the grue suit or the repellent will suffice.",
+                                "SPRAY ME WITH REPELLENT or WEAR THE GRUE SUIT. (Warning: the repellent wears off after several turns!)"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I destroy the machinery in the Mammoth Cavern?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I destroy the machinery in the Mammoth Cavern?",
+                            "hints": [
+                                "Have you tried DESTROY THE MACHINERY?",
+                                "You can't destroy the machinery.",
+                                "Instead, you should destroy the machinery operator: Jeearr."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Which door should I open?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Which door should I open?",
+                            "hints": [
+                                "You could try all three...",
+                                "But a true Sorcerer in this situation probably wouldn't be able to SAVE and RESTORE.",
+                                "The VEZZA spell would be helpful here.",
+                                "Open the white wooden door."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get out of the Hall of Eternal Pain?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get out of the Hall of Eternal Pain?",
+                            "hints": [
+                                "You can't.",
+                                "Really."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get out of the Chamber of Living Death?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get out of the Chamber of Living Death?",
+                            "hints": [
+                                "You can't.",
+                                "Really."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I rouse Belboz?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I rouse Belboz?",
+                            "hints": [
+                                "Don't continue until you've seen Belboz.",
+                                "If you just wait for a little while, he will wake up.",
+                                "But, obviously, this isn't the right thing to do.",
+                                "You want to exorcise Belboz."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I exercise Belboz?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I exercise Belboz?",
+                            "hints": [
+                                "Take him for a walk around the block.",
+                                "A regimen of push-ups and squat thrusts would also help."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I exorcise Belboz?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I exorcise Belboz?",
+                            "hints": [
+                                "Don't continue until you've seen Belboz.",
+                                "Don't continue until you've obtained the SWANZO spell.",
+                                "CAST SWANZO ON BELBOZ.",
+                                "Oops. Perhaps you'd better protect yourself first.",
+                                "Don't continue until you've obtained the VARDIK spell.",
+                                "CAST VARDIK ON ME then CAST SWANZO ON BELBOZ. Voila."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I kill Belboz?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I kill Belboz?",
+                            "hints": [
+                                "Kill your friend and mentor???",
+                                "The diamond-studded knife looks promising.",
+                                "Try KILL BELBOZ WITH THE KNIFE.",
+                                "Well, perhaps if you protected your own mind first...",
+                                "Don't continue until you've obtained the VARDIK spell.",
+                                "CAST VARDIK ON ME then KILL BELBOZ WITH THE KNIFE.",
+                                "Still not the optimum ending, right?",
+                                "You want to exorcise Belboz."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "General Questions",
+            "child": {
+                "type": "menu",
+                "title": "General Questions",
+                "children": [
+                    {
+                        "title": "Are potions liquids or powders?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Are potions liquids or powders?",
+                            "hints": [
+                                "Yes."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is a nymph?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is a nymph?",
+                            "hints": [
+                                "Look it up in the encyclopedia in the Library."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is it okay to rifle through the belongings of fellow Enchanters?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is it okay to rifle through the belongings of fellow Enchanters?",
+                            "hints": [
+                                "In general, that would not be proper behavior.",
+                                "But this is an emergency."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where is it safe to sleep?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where is it safe to sleep?",
+                            "hints": [
+                                "The Guild Hall isn't safe until you've rescued Belboz.",
+                                "It's safe to sleep almost everywhere else.",
+                                "Some obvious exceptions: the river bed locations, inside the coal mine, Twisted Forest, Tree Branch, Snake Pit, Mine Field, Meadow, Drawbridge, River Bank, Hollow, Surface of Lagoon, Lagoon Floor, and Belboz's Hideout.",
+                                "You might want to try sleeping in those locations, just to see what happens...but do a SAVE first."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Are the dreams meaningful?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Are the dreams meaningful?",
+                            "hints": [
+                                "No, none of the dreams contains any useful information.",
+                                "In fact, these dreams all appeared in Enchanter(tm), also.",
+                                "Perhaps you suffer from recurring dreams."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the YOMIN spell useful?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the YOMIN spell useful?",
+                            "hints": [
+                                "Not really.",
+                                "It is sort of interesting to use, though."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is guano?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is guano?",
+                            "hints": [
+                                "GUANO -- n. (gwan-o) A substance composed chiefly of excrement and used as fertilizer."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where is the scroll with the ZIKKLE spell?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where is the scroll with the ZIKKLE spell?",
+                            "hints": [
+                                "The leader of the rockworm tribe can tell you.",
+                                "But first you need to learn rockworm speech.",
+                                "You can do that by reading the invisible carvings in the Hall of Carvings.",
+                                "You can make them visible using the ZIKKLE spell."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I dry out wet spell books and wet scrolls?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I dry out wet spell books and wet scrolls?",
+                            "hints": [
+                                "You can't. Once your spell book or a scroll has gotten wet, it's useless."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the VEZZA spell important?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the VEZZA spell important?",
+                            "hints": [
+                                "It provides a few items.",
+                                "But you could finish the game without ever using it.",
+                                "Note that two of the glimpses are previews of the third Enchanter game: the pile of white blocks, and the Guildmasters meeting in Borphee."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why do I sometimes suddenly cease to exist?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why do I sometimes suddenly cease to exist?",
+                            "hints": [
+                                "Don't continue unless you've used the GOLMAC spell.",
+                                "A time travel paradox is involved.",
+                                "One way to \"poof\" out of existence is to enter the lower chute after casting GOLMAC without informing your younger self of the combination. This sets up a paradox.",
+                                "Another way to \"poof\" is to cast GOLMAC on yourself a second time (the scroll re-appears on the ground of the Slanted Room when you GOLMAC). A second dose of this spell sends you too far back in time to meet your younger self, thus creating another paradox.",
+                                "Two other ways to \"poof\" are to leave the Slanted Room before casting GOLMAC, or to carry the shimmering scroll out of the Slanted Room."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How were the spells and potions named?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How were the spells and potions named?",
+                            "hints": [
+                                "GNUSTO, FROTZ, REZROV, and IZYUK are taken from Enchanter.",
+                                "FWEEP is the sound that the deranged bat in Zork I makes. Perhaps it is repeating the last word it ever heard as a human.",
+                                "AIMFIZ is ZIFMIA backwards. ZIFMIA, in Enchanter, causes someone to be transported to YOUR location.",
+                                "GOLMAC is short for gold machine, the time travel device in Zork III. The gold machine was probably imbued with this spell.",
+                                "YOMIN is an anagram of the name of an actor who played a famous mind-prober on a sci-fi TV show.",
+                                "MALYON is a corruption of Pygmalion, a sculptor who (according to ancient Greek legend) brought his creation to life.",
+                                "FOOBLE is a potential reset code in Suspended(tm).",
+                                "YONK is a reference to the author's birthplace.",
+                                "Some others are the names of Infocom employees."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "How All the Points Are Scored",
+            "child": {
+                "type": "items",
+                "title": "How All the Points Are Scored",
+                "content": "<p>(Use only as a last resort)</p><pre>  Points   Action\n     5     waking up from the opening dream\n    15     finding the key to Belboz's journal\n    10     drinking the berzio potion\n    10     picking up the dusty scroll\n    10     taking the vilstu vial from the mailbox\n    25     taking the moldy scroll from the trunk\n    20     casting AIMFIZ on Belboz (or Jeearr)\n    20     reaching the Hidden Cave\n    10     taking the ordinary scroll from the cannon\n    15     taking the coin from the zorkmid tree\n    20     getting the gnome to open the toll gate\n    10     getting the glittering scroll from the hawker\n    20     reaching the Hollow\n    25     taking the parchment scroll from the fireplace\n    20     reaching the Sooty Room\n    20     opening the door in the Dial Room\n    20     reaching the Slanted Room\n    25     taking the smelly scroll from the kerosene lamp\n    20     reaching the Lagoon Shore\n    15     opening the wooden crate\n    20     reaching the Mammoth Cavern\n    20     entering Belboz's Hideout\n    25     exorcising Belboz while VARDIKed.</pre>"
+            }
+        },
+        {
+            "title": "Spells, Potions, and Their Locations",
+            "child": {
+                "type": "items",
+                "title": "Spells, Potions, and Their Locations",
+                "content": "<p>(Use only as a last resort)</p><pre>  Spell              Location\n  GNUSTO             your spell book\n  FROTZ              your spell book\n  REZROV             your spell book\n  IZYUK              your spell book\n  PULVER             your spell book\n  YOMIN              your spell book\n  VEZZA              your spell book\n  GASPAR             Helistar's Quarters\n  MEEF               Library\n  AIMFIZ             Cellar (in the trunk)\n  FWEEP              Hidden Cave\n  YONK               Gun Emplacement (in the cannon)\n  MALYON             Arcade (from the hawker)\n  SWANZO             Hollow\n  GOLMAC             Slanted Room\n  VARDIK             Slanted Room (in the lamp, after casting GOLMAC on yourself)\n   Potions            Locations\n  ochre (berzio)     Store Room\n  orange (vilstu)    Lobby (in the receptacle, if you send for it)\n  indigo (flaxo)     Torture Chamber\n  amber (blort)      Hidden Cave\n  aqua (fooble)      Parade Ground (inside the flag)</pre>"
+            }
+        },
+        {
+            "title": "For Your Amusement",
+            "child": {
+                "type": "items",
+                "title": "For Your Amusement",
+                "content": "<p>(After you've finished the game)</p><p>Have you tried:</p><p>typing WAKE ME during the opening dream?</p><p>casting AIMFIZ on yourself, Duncanthrax, Krill, Barbel, Orkan, the Wizard of Frobozz, the servants, the mailman, the hawker, the author?</p><p>casting AIMFIZ on Helistar or Frobar? (Try these two several times.) sitting on the table in the Chamber of the Circle?</p><p>sitting on the parrot's perch?</p><p>reading the tenets in the Chamber of the Circle?</p><p>taking the encyclopedia?</p><p>casting YOMIN on yourself, your older self, your younger self, the troglodyte, the hawker, the park gnome, and the toll gnome (while he sleeps)?</p><p>examining yourself while FROTZed or FWEEPed?</p><p>examining the boa?</p><p>FROTZing a gnome?</p><p>FROTZing a grue in the dark?</p><p>doing an inventory while FWEEPed?</p><p>going to sleep while flying?</p><p>casting MALYON on the bunnies, the statue, the dorn beast corpse, or the bones in the Pit of Bones?</p><p>casting MALYON on the dragon a second time?</p><p>PULVERing the moat or the flume?</p><p>filling a vial with water?</p><p>climbing the flagpole?</p><p>waving or wearing the flag?</p><p>asking a character about himself?</p><p>REZROVing the door in the dial room, or the toll gate?</p><p>giving a FROTZed coin to a gnome?</p><p>biting a coin?</p><p>leaving the Arcade with the ball?</p><p>casting IZYUK or FWEEP while underwater?</p><p>turning on the floor waxer while underwater?</p><p>opening a (full) potion vial while underwater?</p><p>taking the fooble, vilstu, or blort potion while under the effect of one of the others? (Try this several times.)</p><p>dying with your GASPAR location in the glass maze, in a river bed room, or in the Guild Hall?</p><p>doing crazy things as the younger self, and then seeing how your actions are described when you become the older self?</p><p>MEEFing the morgia plant, and then looking at the very last line of the game (assuming a 400 point finish)?</p><p>Things you can read about in the encyclopedia:</p><p>ACCARDI-BY-THE-SEA</p><p>AMATHRADONIS</p><p>AMULET OF AGGTHORA</p><p>ANTHARIA</p><p>ARAGAIN FALLS</p><p>AUTHOR</p><p>BARBEL</p><p>BELBOZ</p><p>BORPHEE</p><p>BOZBARLAND</p><p>CHEVAUX</p><p>DIMWIT FLATHEAD</p><p>DOUBLE FANNUCCI</p><p>DUNCANTHRAX</p><p>EGRETH CASTLE</p><p>ENCHANTERS GUILD</p><p>ENTHARION</p><p>FIBBSBOZZA</p><p>FLATHEAD OCEAN</p><p>FLOOD CONTROL DAM</p><p>FLUMES</p><p>FORT GRIFFSPOTTER</p><p>FRIGID RIVER</p><p>GABBER TUMPER</p><p>GALEPATH</p><p>GLASS MAZE</p><p>GNOMES</p><p>GREAT SEA</p><p>GREAT UNDERGROUND EMPIRE</p><p>GUE TECH</p><p>GURTH</p><p>INFOCOM</p><p>INFOTATERS</p><p>JEEARR</p><p>KOVALLI DESERT</p><p>KRILL</p><p>LARGONETH CASTLE</p><p>LONELY MOUNTAIN</p><p>MAGICLAND</p><p>MAREILON</p><p>ME</p><p>MESSENGERS GUILD</p><p>MITHICUS</p><p>MIZNIA</p><p>MORGIA PLANTS</p><p>NYMPHS</p><p>ORKAN</p><p>QUENDOR</p><p>RAZOR GORGE</p><p>ROYAL MUSEUM</p><p>SERVANTS GUILD</p><p>SOFTSPEL</p><p>SORCERER</p><p>TEMPORAL TRAVEL</p><p>THRIFF</p><p>TROLLS</p><p>TROGLODYTE</p><p>WIZARD OF FROBOZZ</p><p>ZORK</p><p>ZORKMIDS</p><p>plus spells, potions, and the infotater animals</p>"
+            }
+        }
+    ]
+}

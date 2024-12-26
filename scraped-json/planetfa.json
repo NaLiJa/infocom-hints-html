@@ -1,0 +1,1414 @@
+{
+    "type": "menu",
+    "title": "Planetfall",
+    "children": [
+        {
+            "title": "About",
+            "child": {
+                "type": "page",
+                "title": "About PRIZM Invisiclues",
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+            }
+        },
+        {
+            "title": "Credits ",
+            "child": {
+                "type": "page",
+                "title": "Credits",
+                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>from material supplied by:</p><p>  Paul David Doherty</p><p>  Dave Newkirk</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Planetfall</b> and all other game names are registered trade marks of Activision.</p>"
+            }
+        },
+        {
+            "title": "Sample Question",
+            "child": {
+                "type": "menu",
+                "title": "Sample Question",
+                "children": [
+                    {
+                        "title": "How can I remove tough stains from a soiled patrol uniform? ",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I remove tough stains from a soiled patrol uniform?",
+                            "hints": [
+                                "Multiple-purpose robots may have laundering experience.",
+                                "Of course, if they're tough greasy stains...",
+                                "...you'll have to use Neato brand presoak."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Aboard the Feinstein",
+            "child": {
+                "type": "menu",
+                "title": "Aboard the Feinstein",
+                "children": [
+                    {
+                        "title": "How do I get past Blather?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get past Blather?",
+                            "hints": [
+                                "There's no way to get beyond Deck Eight or the Reactor Lobby.",
+                                "Really! There's no way."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get Blather to stop giving me demerits?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get Blather to stop giving me demerits?",
+                            "hints": [
+                                "Scrub harder?",
+                                "Don't worry too much; demerits aren't that important."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I do about Lieutenant Measle?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do about Lieutenant Measle?",
+                            "hints": [
+                                "All he wants is some information for your records.",
+                                "Ahem. Lieutenant Measle???"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do with the Ambassador?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do with the Ambassador?",
+                            "hints": [
+                                "Enjoy his company. He's just there to liven up the game opening."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get the translator from the Ambassador?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get the translator from the Ambassador?",
+                            "hints": [
+                                "You can't."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get the celery from the Ambassador?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get the celery from the Ambassador?",
+                            "hints": [
+                                "You can't."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get the map from the Ambassador?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get the map from the Ambassador?",
+                            "hints": [
+                                "The Ambassador doesn't have any map!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do in the Galley?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do in the Galley?",
+                            "hints": [
+                                "Try eating the stew.",
+                                "Did you find the handbook for programming autopilots?",
+                                "How did you get to a nonexistent place?",
+                                "Remember the warning in the introduction: Do not use the presence or absence of a question as an indication of what is important, and don't assume that long answers indicate important questions."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get out of the Brig?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get out of the Brig?",
+                            "hints": [
+                                "The best way to get out is never to get thrown in.",
+                                "If you don't upset Blather by leaving your post, you'll never get thrown in the Brig.",
+                                "Once you're in the Brig, there's no way out."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The Feinstein keeps blowing up! How can I prevent it?",
+                        "child": {
+                            "type": "hints",
+                            "title": "The Feinstein keeps blowing up! How can I prevent it?",
+                            "hints": [
+                                "It might be a malfunction in the Hyperspatial Jump Machinery Room.",
+                                "Of course, since you can't enter that room, you'll never know.",
+                                "There's no way to prevent it, and you won't find out until later what caused it. Best thing to do is try to survive the shipwreck."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there any way to open the escape pod bulkhead?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any way to open the escape pod bulkhead?",
+                            "hints": [
+                                "It opens automatically during any emergency.",
+                                "For example, when the Feinstein begins exploding."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Pod Trip",
+            "child": {
+                "type": "menu",
+                "title": "The Pod Trip",
+                "children": [
+                    {
+                        "title": "How do I control the pod?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I control the pod?",
+                            "hints": [
+                                "The controls are entirely automated.",
+                                "Sit back and relax. Let the autopilot do the driving."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I keep getting killed during the pod trip. Help!",
+                        "child": {
+                            "type": "hints",
+                            "title": "I keep getting killed during the pod trip. Help!",
+                            "hints": [
+                                "Are you standing?",
+                                "The adjective associated with the web is notable.",
+                                "Get in the safety web and don't stand until you've landed."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there any way to keep the pod from falling into the water?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any way to keep the pod from falling into the water?",
+                            "hints": [
+                                "No."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Should I take the emergency provisions that appear?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Should I take the emergency provisions that appear?",
+                            "hints": [
+                                "It's always a good idea in adventure games to take anything that you can carry."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I leave the pod once it has landed?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I leave the pod once it has landed?",
+                            "hints": [
+                                "Have you tried opening the door?",
+                                "You can't reach the door while you're still in the web.",
+                                "Once the door is open, either UP or OUT works.",
+                                "Needless to say, don't dally too long."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I keep drowning Underwater. How can I avoid this?",
+                        "child": {
+                            "type": "hints",
+                            "title": "I keep drowning Underwater. How can I avoid this?",
+                            "hints": [
+                                "The water is a dangerous place to be. Leave it immediately.",
+                                "There is light filtering down from above.",
+                                "Type UP."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Dormitory Area",
+            "child": {
+                "type": "menu",
+                "title": "The Dormitory Area",
+                "children": [
+                    {
+                        "title": "What is the significance of the Balcony?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the Balcony?",
+                            "hints": [
+                                "The plaque is the only thing of interest there."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the ruined castle?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the ruined castle?",
+                            "hints": [
+                                "Not much."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the Rec Area?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the Rec Area?",
+                            "hints": [
+                                "There are some interesting tapes and games there.",
+                                "Have you noticed the locked door leading north?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get past the locked door with the dial?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get past the locked door with the dial?",
+                            "hints": [
+                                "It's a combination lock.",
+                                "You could try setting it to every number from 1 to 1000.",
+                                "You can find the combination in the lab area.",
+                                "It is in the pocket of the lab uniform."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the four dorms?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the four dorms?",
+                            "hints": [
+                                "They are all identical.",
+                                "They make good places to sleep."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the sanitary facilities?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the sanitary facilities?",
+                            "hints": [
+                                "You won't need to use them. The game isn't THAT realistic.",
+                                "They are of no importance."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I open the padlock?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I open the padlock?",
+                            "hints": [
+                                "You'll need a key.",
+                                "Have you seen a \"glint of light\" anywhere while exploring?",
+                                "It's in the crevice in Admin Corridor South.",
+                                "You can't reach it with your hands. You'll need something else.",
+                                "The curved metal bar from the Tool Room.",
+                                "It's a magnet. Try holding it over the key."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I open the tin can?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I open the tin can?",
+                            "hints": [
+                                "Don't develop the next hint until you've found the can opener.",
+                                "There is no can opener. You must be cheating.",
+                                "There is no way to open the can."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I open the door at the south end of the Mess Hall?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I open the door at the south end of the Mess Hall?",
+                            "hints": [
+                                "The slot next to the door is important.",
+                                "You'll need the kitchen access card.",
+                                "It's located beyond the rift.",
+                                "It's in the desk in the Small Office. Slide it through the slot."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the ladder for?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the ladder for?",
+                            "hints": [
+                                "You need it to get past a major obstacle.",
+                                "You've probably seen the obstacle.",
+                                "The rift."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get food from the dispenser in the Kitchen?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get food from the dispenser in the Kitchen?",
+                            "hints": [
+                                "Have you tried pushing the button?",
+                                "You'll need something to catch the liquid.",
+                                "The octagonal shape of the niche is important.",
+                                "Open the canteen and put it in the niche."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Admin/Mech Area",
+            "child": {
+                "type": "menu",
+                "title": "The Admin/Mech Area",
+                "children": [
+                    {
+                        "title": "Is there any significance to the Physical Plant?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any significance to the Physical Plant?",
+                            "hints": [
+                                "No. Every large complex of buildings needs one."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there any significance to the crack in the corridor floor?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any significance to the crack in the corridor floor?",
+                            "hints": [
+                                "Yes."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there any significance to the deactivated robot in the Robot Shop?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any significance to the deactivated robot in the Robot Shop?",
+                            "hints": [
+                                "Yes, indeed!",
+                                "Turn it on."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I operate the reactor elevator?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I operate the reactor elevator?",
+                            "hints": [
+                                "The slot in the elevator is important.",
+                                "You'll need the reactor elevator access pass.",
+                                "Don't develop further until you've been on the helicopter trip.",
+                                "Cheating again, eh? There's no way to operate that elevator."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I fix the reactors?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I fix the reactors?",
+                            "hints": [
+                                "Have you opened the repair panel?",
+                                "Some of the megafuses seem to be burned out.",
+                                "Try replacing the megafuses with the good ones from the box in Storage East.",
+                                "Oh, come now, you haven't been to the reactors, have you?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I cross the rift?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I cross the rift?",
+                            "hints": [
+                                "Jumping is a bad idea.",
+                                "You'll need an item which you may not have seen yet.",
+                                "It's behind the padlocked door.",
+                                "Extend the ladder and put it across the rift."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I see in the darkened areas?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I see in the darkened areas?",
+                            "hints": [
+                                "You'll need a light source."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the chemical dispenser for?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the chemical dispenser for?",
+                            "hints": [
+                                "Have you tried pushing any of the buttons on it?",
+                                "The flask can hold the chemical fluid.",
+                                "The first seven buttons are obviously coolants and catalysts.",
+                                "The two white buttons produce an acid and a base.",
+                                "You'll need the coolants and catalysts for the Comm Room problem."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I do with the acid and base?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do with the acid and base?",
+                            "hints": [
+                                "Batteries are made out of acids and bases.",
+                                "Have you run into any dangerous creatures? You might be able to use the acid or base as a weapon.",
+                                "Actually, these two chemicals are totally useless."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I reassemble the disassembled robots?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I reassemble the disassembled robots?",
+                            "hints": [
+                                "A repair robot might be of help.",
+                                "Don't go on until you've repaired Achilles.",
+                                "There's no way to reassemble those robots."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the Plan Room and the Systems Monitors?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the Plan Room and the Systems Monitors?",
+                            "hints": [
+                                "There's nothing for you to do in these rooms, but you might pick up some useful information there."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there any way to take the hose?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any way to take the hose?",
+                            "hints": [
+                                "What hose?"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Elevators and Tower Area",
+            "child": {
+                "type": "menu",
+                "title": "The Elevators and Tower Area",
+                "children": [
+                    {
+                        "title": "How do I open the doors in the Elevator Lobby?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I open the doors in the Elevator Lobby?",
+                            "hints": [
+                                "Try pushing the red and blue buttons.",
+                                "Then wait a little while."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I operate the upper and lower elevators?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I operate the upper and lower elevators?",
+                            "hints": [
+                                "The slots on the control panels are important.",
+                                "You'll need to find the respective access passes.",
+                                "When you find them, slide them through the slot, and then type PUSH UP BUTTON or PUSH DOWN BUTTON.",
+                                "The upper elevator access card is located beyond the rift.",
+                                "It's in the desk in the Small Office.",
+                                "Floyd has the lower elevator access card.",
+                                "He may produce it when you use another access card in his presence.",
+                                "Alternately, you can search him when he's turned off."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the Helipad?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the Helipad?",
+                            "hints": [
+                                "It must be where helicopters would land and take off."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I enter the Helicopter?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I enter the Helicopter?",
+                            "hints": [
+                                "Try ENTER THE HELICOPTER."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the Observation Deck?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the Observation Deck?",
+                            "hints": [
+                                "It gives a nice view of another complex of buildings on a nearby island."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Should I do anything with the birds?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Should I do anything with the birds?",
+                            "hints": [
+                                "Try feeding them.",
+                                "Birds like insects.",
+                                "What birds? What insects?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the communications receive console?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the communications receive console?",
+                            "hints": [
+                                "Try pressing the button on it.",
+                                "Apparently, it received a transmission from the Feinstein just before the ship blew up."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the communications send console?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the communications send console?",
+                            "hints": [
+                                "Read the screen. The message is very interesting.",
+                                "The message isn't being sent, however.",
+                                "You can repair the communication system using the chemical dispenser in the Machine Shop.",
+                                "The colored light on the enunciator panel refers to one of the colored buttons on the dispenser.",
+                                "Keep pouring the proper chemical fluid into the hole on the console until it is fixed. It will take two or three trips."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Helicopter Trip",
+            "child": {
+                "type": "menu",
+                "title": "The Helicopter Trip",
+                "children": [
+                    {
+                        "title": "Where do I find the helicopter?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where do I find the helicopter?",
+                            "hints": [
+                                "You need to use the upper elevator to get to it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where do I find the key to the helicopter control panel cover?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where do I find the key to the helicopter control panel cover?",
+                            "hints": [
+                                "Try reading the green spool using the microfilm reader.",
+                                "According to the spool, the key would be in Transportation Supply."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where do I find the helicopter access card?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where do I find the helicopter access card?",
+                            "hints": [
+                                "Try reading the green spool using the microfilm reader.",
+                                "According to the spool, the card would be in Transportation Supply."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I use the helicopter?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I use the helicopter?",
+                            "hints": [
+                                "Unless you have the helicopter control panel key and the helicopter access card, don't read any further.",
+                                "Use the key to open the control panel cover.",
+                                "Use the access card to activate the controls.",
+                                "Just tell your intended destination to the voice-controlled autopilot, then sit back and enjoy the trip.",
+                                "It's hard to understand how you managed to get this far, considering the key and card don't exist."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What destination should I select?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What destination should I select?",
+                            "hints": [
+                                "Where would you expect to find people?",
+                                "A large city, perhaps?",
+                                "Try the capital city of Resida, Pilandoor.",
+                                "Don't you feel pretty silly, considering there's no way even to get the helicopter off the ground?"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Shuttle Trip",
+            "child": {
+                "type": "menu",
+                "title": "The Shuttle Trip",
+                "children": [
+                    {
+                        "title": "Where do I find the shuttle?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where do I find the shuttle?",
+                            "hints": [
+                                "You need to use the lower elevator to get to it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I operate the shuttle?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I operate the shuttle?",
+                            "hints": [
+                                "You'll need the shuttle access card. By now you should know how to use these cards.",
+                                "You can't operate the shuttle after 6000.",
+                                "You can probably figure out that you want to be in the control cabin facing the set of tracks, not the one facing the blank wall."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I use the shuttle controls?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I use the shuttle controls?",
+                            "hints": [
+                                "First, activate the controls (see previous question).",
+                                "Pushing the lever up into the \"+\" position causes the shuttle to accelerate. Pulling the lever down into the \"-\" position causes the shuttle to decelerate.",
+                                "When the lever is in the central position, the shuttle will continue to move at its current velocity.",
+                                "The digital display tells the current velocity of the shuttle."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I keep crashing when I arrive at the other station.",
+                        "child": {
+                            "type": "hints",
+                            "title": "I keep crashing when I arrive at the other station.",
+                            "hints": [
+                                "You're going too fast. Decelerate sooner.",
+                                "If you're going faster than 20 when you get to the far station, you'll be killed.",
+                                "If you're going between 5 and 20, you will survive, but the shuttle will be damaged."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Systems and Library Area",
+            "child": {
+                "type": "menu",
+                "title": "The Systems and Library Area",
+                "children": [
+                    {
+                        "title": "What is the medicine in the Infirmary?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the medicine in the Infirmary?",
+                            "hints": [
+                                "Read the label."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get through the small door in the Repair Room?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get through the small door in the Repair Room?",
+                            "hints": [
+                                "It's too small for you to get through.",
+                                "It's \"robot-sized.\"",
+                                "Ask Floyd to go through the doorway. Type FLOYD, GO THROUGH DOORWAY."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I open the cabinets in the Repair Room?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I open the cabinets in the Repair Room?",
+                            "hints": [
+                                "You'll have to repair Achilles first."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I repair Achilles?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I repair Achilles?",
+                            "hints": [
+                                "Waldo won't be of any help (unless you're playing SUSPENDED(tm)).",
+                                "Try using the microfilm reader to read the brown spool.",
+                                "The brown spool is in the Radiation Lab.",
+                                "Unfortunately, there's no way to get the brown spool to the microfilm reader.",
+                                "There is also no way to repair Achilles."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there a good fromitz board anywhere?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there a good fromitz board anywhere?",
+                            "hints": [
+                                "Yes.",
+                                "Have you been beyond the small door in the Repair Room?",
+                                "You'll have to ask Floyd to get the good (shiny) fromitz board."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there a good bedistor anywhere?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there a good bedistor anywhere?",
+                            "hints": [
+                                "Yes.",
+                                "It's in Storage East, just off Mech Corridor North. You're not doing a very good job of exploring and mapping if you missed it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of Planetary Defense?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of Planetary Defense?",
+                            "hints": [
+                                "The library might tell you something.",
+                                "Apparently, it is an automatic meteor defense. Perhaps this planetary system has a high meteor density.",
+                                "The system's discrimination circuit seems to have failed.",
+                                "This is probably why the Feinstein was destroyed. You'd better repair it.",
+                                "Open the access panel.",
+                                "Figure out which board is malfunctioning and remove it.",
+                                "It's the second board. Take it and put the shiny fromitz board in the resulting empty socket."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of Course Control?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of Course Control?",
+                            "hints": [
+                                "The library might tell you something about it.",
+                                "Apparently, the entire planet was moved into a more favorable but less stable orbit. This system ensures that the planet stays in the proper orbit.",
+                                "The course control system seems to be malfunctioning. If the planet is approaching its sun, that would explain the melting ice caps and the rise in sea level.",
+                                "You'd better repair this system.",
+                                "Try opening the cube and removing the fused bedistor.",
+                                "You'll need a tool.",
+                                "Use the pliers from the Tool Room to remove the fused bedistor.",
+                                "Put the good bedistor into the cube."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of this second Physical Plant?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of this second Physical Plant?",
+                            "hints": [
+                                "The most significant thing seems to be its size. It is larger than its counterpart in the Kalamontee Complex, even though the Lawanda Complex is slightly smaller.",
+                                "Perhaps there is a large section of the Lawanda Complex that you haven't seen yet...",
+                                "...such as the cryo-chambers, buried deep underground."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I use the computer terminal in the Library Lobby?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I use the computer terminal in the Library Lobby?",
+                            "hints": [
+                                "First, turn it on.",
+                                "To select an item in the menu, use the TYPE command. For example, to select item 2, type TYPE 2.",
+                                "Typing TYPE 0 returns you to the next highest menu level (except, of course, if you are at the Main Menu, which is the highest level)."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I use the microfilm reader?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I use the microfilm reader?",
+                            "hints": [
+                                "It must be turned on.",
+                                "The colored spools are spools of microfilm.",
+                                "Put one in the opening in the reader."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I summon the librarian?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I summon the librarian?",
+                            "hints": [
+                                "You can't.",
+                                "Really!"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The ProjCon and Lab Area",
+            "child": {
+                "type": "menu",
+                "title": "The ProjCon and Lab Area",
+                "children": [
+                    {
+                        "title": "What is the significance of SanFac F?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of SanFac F?",
+                            "hints": [
+                                "Haven't you realized by now that these SanFacs are of no interest?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the ProjCon Office?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the ProjCon Office?",
+                            "hints": [
+                                "The library might be of some help.",
+                                "It was the main office for the Project."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the logo important?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the logo important?",
+                            "hints": [
+                                "It also appears on the lab uniform.",
+                                "It's yet another little hint about what's going on."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the mural important?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the mural important?",
+                            "hints": [
+                                "Examination reveals that there might be an area behind it.",
+                                "But don't worry about it now.",
+                                "When the time comes, you'll know it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Who is Burstini Bonz?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Who is Burstini Bonz?",
+                            "hints": [
+                                "Wasn't he the great Respectivist artist who became famous for painting awesomely phenomenal murals during the 89th century?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the laboratory area for?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the laboratory area for?",
+                            "hints": [
+                                "The library might have some information on that.",
+                                "It is the laboratory built to find a cure for the Disease."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is it safe to enter the Bio Lab?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is it safe to enter the Bio Lab?",
+                            "hints": [
+                                "Try it.",
+                                "Nope, I guess it wasn't. Hope you did a SAVE first."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the card on the floor of the Bio Lab?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the card on the floor of the Bio Lab?",
+                            "hints": [
+                                "Floyd will tell you when he sees it.",
+                                "It's for the Miniaturization Booth."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get the card from the Bio Lab?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get the card from the Bio Lab?",
+                            "hints": [
+                                "You'll die trying.",
+                                "Floyd's a robot. He might be tougher.",
+                                "He'll volunteer to get the card if he has a good enough reason.",
+                                "Do you know what the card is and what you would use it for?",
+                                "The Miniaturization Booth is for repairing the computer.",
+                                "Show Floyd the computer printout, or let him see the warning light in the Computer Room.",
+                                "Then take him into Bio Lock East and do what he says."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is it safe to enter the Radiation Lab?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is it safe to enter the Radiation Lab?",
+                            "hints": [
+                                "Try it.",
+                                "Nope, I guess it wasn't. Hope you did a SAVE first."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where is the radiation suit?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where is the radiation suit?",
+                            "hints": [
+                                "It might be down near the reactors.",
+                                "Find a light source, then use the Reactor Access Stairs.",
+                                "There's a lamp in the Radiation Lab.",
+                                "Going in circles? There's no radiation suit anywhere."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Computer...and Beyond",
+            "child": {
+                "type": "menu",
+                "title": "The Computer...and Beyond",
+                "children": [
+                    {
+                        "title": "What does the computer do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What does the computer do?",
+                            "hints": [
+                                "The library might have something on it.",
+                                "It runs the automated Project...",
+                                "...which is trying to find a cure for the Disease."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the significance of the printout?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the significance of the printout?",
+                            "hints": [
+                                "It appears that the Project was incredibly close to a successful conclusion.",
+                                "Then the computer broke down.",
+                                "If you've been in the Repair Room, you'll know that summoning the repair robot didn't help.",
+                                "You'll have to fix the computer yourself.",
+                                "Use the Miniaturization Booth."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How does the Miniaturization Booth work?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How does the Miniaturization Booth work?",
+                            "hints": [
+                                "You'll need the proper access card, of course.",
+                                "It's in the Bio Lab.",
+                                "Once you've activated the booth, type the damaged sector number.",
+                                "Have you read the printout?",
+                                "The damaged sector is 384. Type TYPE 384.",
+                                "You will then be miniaturized and teleported into the damaged sector, where you can attempt to effect repairs."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I've gotten to Station 384. What do I do now?",
+                        "child": {
+                            "type": "hints",
+                            "title": "I've gotten to Station 384. What do I do now?",
+                            "hints": [
+                                "Explore around.",
+                                "Have you seen and examined the relay?",
+                                "You'll have to figure out a way to remove the speck.",
+                                "Use the laser.",
+                                "You must destroy the speck without harming the relay.",
+                                "The dial must be set to 1, so that the beam will pass harmlessly through the red translucent exterior of the relay.",
+                                "You'll have to shoot the speck a number of times to destroy it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there any way to communicate with the giant spider?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any way to communicate with the giant spider?",
+                            "hints": [
+                                "Yes.",
+                                "Play STARCROSS(tm).",
+                                "<em>This space intentionally left blank.</em>"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get past the giant microbe?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get past the giant microbe?",
+                            "hints": [
+                                "Try shooting it with the laser.",
+                                "That won't have any effect while the laser is set to 1, of course.",
+                                "If you don't keep shooting the microbe, it will get close enough to eat you.",
+                                "Repeated shootings of the microbe merely hold it at bay, and sooner or later you're killed when sector 384 comes to life.",
+                                "Has the microbe shown interest in anything besides you?",
+                                "The microbe is attracted to the warmth of the laser.",
+                                "When the laser gets warm enough, throw it over the edge of the strip, into the void below. The microbe will leap after it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get back from the strip area?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get back from the strip area?",
+                            "hints": [
+                                "Go to Station 384."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get out of the Lab Office?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get out of the Lab Office?",
+                            "hints": [
+                                "Opening the door right off isn't a healthy idea.",
+                                "There are some buttons on the wall...",
+                                "To get a clue, search the desk.",
+                                "Have you opened the desk?",
+                                "Put on the gas mask, then press the red button.",
+                                "Then, move fast. You don't have a millichron to spare."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Omigod!!! The mutants are loose and they're after me!!! How do I get rid of them?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Omigod!!! The mutants are loose and they're after me!!! How do I get rid of them?",
+                            "hints": [
+                                "You can't kill them.",
+                                "There's only one way to lose them.",
+                                "You're very close to the end of the game.",
+                                "Did you hear an announcement?",
+                                "Remember the mural?",
+                                "Go to the ProjCon Office.",
+                                "Go south into the elevator and push the button."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "General Questions",
+            "child": {
+                "type": "menu",
+                "title": "General Questions",
+                "children": [
+                    {
+                        "title": "What do I do with my ID card?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I do with my ID card?",
+                            "hints": [
+                                "It's useless."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What happened to everything I was carrying when I fell asleep?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What happened to everything I was carrying when I fell asleep?",
+                            "hints": [
+                                "Do you normally go to sleep holding things?",
+                                "You dropped them while you were sleeping. Check the floor of the room where you slept."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I read that crazy native language?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I read that crazy native language?",
+                            "hints": [
+                                "It's actually a phonetic version of English.",
+                                "\"X\" is used in place of \"TH\" and \"C\" is used in place of \"CH.\"",
+                                "Double vowels signify the long vowel sound, and single vowels indicate the short vowel sound."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I keep starving to death. What can I eat?",
+                        "child": {
+                            "type": "hints",
+                            "title": "I keep starving to death. What can I eat?",
+                            "hints": [
+                                "Didn't you take the survival kit from the Escape Pod?",
+                                "Of course, that doesn't last long.",
+                                "There's a can of spam and eggs in Storage West.",
+                                "Unfortunately, there's no way to open it.",
+                                "You'll have to get into the Kitchen.",
+                                "It's just south of the Mess Hall."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where can I sleep?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where can I sleep?",
+                            "hints": [
+                                "\"Civilized people usually sleep in beds.\"",
+                                "If you sleep elsewhere, you might be devoured (by grues?).",
+                                "There are beds in the four dorms, and the Infirmary.",
+                                "The bed in the Infirmary is a bad idea for other reasons."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where can I find a light source?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where can I find a light source?",
+                            "hints": [
+                                "Try burning the towel by shooting the laser at it.",
+                                "Okay, that didn't work. There <em>is</em> a lantern somewhere.",
+                                "It's in the Radiation Lab.",
+                                "You can't enter the Radiation Lab and survive without a radiation suit.",
+                                "There is no radiation suit.",
+                                "There is no way to get a light source into the dark rooms."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is a grue?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is a grue?",
+                            "hints": [
+                                "Ask <b>Planetfall</b>."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I use the Teleportation Booths?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I use the Teleportation Booths?",
+                            "hints": [
+                                "You'll have to find the teleportation access card first.",
+                                "It's in the lab area, which you may not have visited yet.",
+                                "It's in the pocket of the lab uniform.",
+                                "Slide the card through the slot, then press the button corresponding to the booth you want to teleport to."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How does the laser work?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How does the laser work?",
+                            "hints": [
+                                "You must be holding it to fire it.",
+                                "It has six settings. Each setting produces a different colored beam.",
+                                "The battery in it when you find it won't last very long.",
+                                "You'll need a fresh battery.",
+                                "Remove the old battery; put the new one in the depression."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Where do I find a new laser battery?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Where do I find a new laser battery?",
+                            "hints": [
+                                "Have you tried making one?",
+                                "Some batteries are made by mixing acids and bases.",
+                                "However, there's no way to make your own battery. There is a fresh battery lying around somewhere.",
+                                "It's in Lab Storage."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Why are some of my magnetic-striped access cards randomized?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Why are some of my magnetic-striped access cards randomized?",
+                            "hints": [
+                                "They've been close to a magnetic field.",
+                                "You've been carrying them at the same time as the curved bar, which is a magnet."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What are megafuses for?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What are megafuses for?",
+                            "hints": [
+                                "They're electrical components.",
+                                "They're usually used for repairing Reactor Systems."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What are fromitz boards for?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What are fromitz boards for?",
+                            "hints": [
+                                "They're electrical components.",
+                                "They're usually used for repairing Planetary Defense Systems."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What are bedistors for?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What are bedistors for?",
+                            "hints": [
+                                "They're electrical components.",
+                                "They're usually used for repairing Course Control Systems."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I seem to be getting sicker and sicker. Why? What can I do?",
+                        "child": {
+                            "type": "hints",
+                            "title": "I seem to be getting sicker and sicker. Why? What can I do?",
+                            "hints": [
+                                "You'll find out when you get to the Library.",
+                                "You have contracted the Disease. It is fatal.",
+                                "The medicine in the Infirmary might help a bit.",
+                                "But your only long-term hope is to help bring the Project to its ultimate goal."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I finished the game with fewer than 80 points. What am I missing?",
+                        "child": {
+                            "type": "hints",
+                            "title": "I finished the game with fewer than 80 points. What am I missing?",
+                            "hints": [
+                                "You didn't repair all the broken systems.",
+                                "Consult the Systems Monitors.",
+                                "You must repair the Communication System, the Planetary Defense System, and the Course Control System in order to get the optimum ending."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "How to Get All 80 Points",
+            "child": {
+                "type": "items",
+                "title": "How to Get All 80 Points",
+                "content": "<p>(Use only as a last resort.)</p><p>3 points for entering the Escape Pod.</p><p>3 points for entering the Crag.</p><p>2 points for turning Floyd on for the first time.</p><p>2 points for firing the laser for the first time.</p><p>4 points for entering Storage West.</p><p>4 points for entering Admin Corridor North.</p><p>4 points for entering the Kitchen.</p><p>4 points for entering the Tower Core.</p><p>4 points for entering the Kalamontee Platform.</p><p>4 points for entering the Lawanda Platform.</p><p>1 point for taking the kitchen access card.</p><p>1 point for taking the shuttle access card.</p><p>1 point for taking the upper elevator access card.</p><p>1 point for taking the lower elevator access card.</p><p>1 point for taking the miniaturization access card.</p><p>2 points for Floyd's death.</p><p>6 points for fixing the communications system.</p><p>6 points for fixing the planetary defense system.</p><p>6 points for fixing the course control system.</p><p>4 points for entering the Strip Near Station.</p><p>4 points for entering the Auxiliary Booth.</p><p>8 points for fixing the computer.</p><p>5 points for entering the Cryo-Elevator.</p>"
+            }
+        },
+        {
+            "title": "For Your Amusement",
+            "child": {
+                "type": "items",
+                "title": "For Your Amusement",
+                "content": "<p>(after you've finished the game)</p><p>Have you tried...</p><p>reading the graffiti in the Brig?</p><p>attacking, talking to, or throwing something at Blather?</p><p>attacking or talking to the Ambassador?</p><p>touching, eating, smelling, or looking at the slime?</p><p>scrubbing the slime?</p><p>eating the celery?</p><p>examining the games and tapes in the Rec Area?</p><p>looking under the table in the Mess Hall?</p><p>kicking, attacking, rubbing, or kissing Floyd?</p><p>throwing acid at the mutants?</p><p>reading your chronometer?</p><p>taking off your chronometer or pouring acid on it?</p><p>getting into bed in the Infirmary?</p><p>scrubbing yourself?</p><p>reading the towel?</p><p>removing your uniform while Blather or Floyd were present?</p><p>destroying the mural?</p><p>\"stealing\" the lower elevator card from Floyd and then showing it to him?</p><p>giving Floyd the Lazarus breast plate?</p>"
+            }
+        }
+    ]
+}

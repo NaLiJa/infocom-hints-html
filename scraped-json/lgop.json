@@ -1,0 +1,1301 @@
+{
+    "type": "menu",
+    "title": "Leather Goddesses of Phobos",
+    "children": [
+        {
+            "title": "About",
+            "child": {
+                "type": "page",
+                "title": "About PRIZM Invisiclues",
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+            }
+        },
+        {
+            "title": "Credits ",
+            "child": {
+                "type": "page",
+                "title": "Credits",
+                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>from material supplied by:</p><p>  Paul David Doherty &amp; Graeme Cree</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Leather Goddesses of Phobos</b> and all other game names are registered trade marks of Activision.</p>"
+            }
+        },
+        {
+            "title": "Table of Contents",
+            "child": {
+                "type": "page",
+                "title": "Table of Contents",
+                "content": "<pre> Front Cover  . . . . . . . . . . . . . . . . . . . . . . Front Cover\n Some Silly Legal Fineprint . . . . . . . . . . .  Inside Front Cover\n Table of Contents  . . . . . . . . . . . . . . .  Inside Front Cover\n Introduction . . . . . . . . . . . . . . . . . . . . . . . .  Page 1\n Joe's Bar  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2\n The Prison Area (Phobos) . . . . . . . . . . . . . . . . . . . . . 2\n Venus  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3\n Mars\n   The Ruined Castle Area . . . . . . . . . . . . . . . . . . . . . 6\n   Along the Grand Canal  . . . . . . . . . . . . . . . . . . . . . 7\n   The Sultan's Palace  . . . . . . . . . . . . . . . . . . . . .  10\n   The South Polar Region . . . . . . . . . . . . . . . . . . . .  12\n Cleveland  . . . . . . . . . . . . . . . . . . . . . . . . . . .  13\n A Funny Little Spot Caused by a Minor Printing Error Which\n   Appears Only on This Copy of the Booklet Making It a Priceless\n   Collectors Item  . . . . . . . . . . . . . . . . . . . . . . .  14\n The Spaceship Scene, Near Saturn . . . . . . . . . . . . . . . .  15\n Among the Mountains of Neptune . . . . . . . . . . . . . . . . .  17\n The Boudoir and Plaza (Phobos) . . . . . . . . . . . . . . . . .  18\n General Questions  . . . . . . . . . . . . . . . . . . . . . . .  18\n The Parts List . . . . . . . . . . . . . . . . . . . . . . . . .  20\n How All the Points Are Scored  . . . . . . . . . . . . . . . . .  20\n For Your Amusement . . . . . . . . . . . . . . . . . . . . . . .  21\n Acknowledgements . . . . . . . . . . . . . . . . . . . . . . . .  24\n Invisible Pictures of Famous, Sexy Movie Stars in the Buff\n   Which Can't Even Be Made Visible Using the Amazing Miracle\n   InvisiClues Fluid  . . . . . . . . . . . . . . . Inside Back Cover\n Back Cover . . . . . . . . . . . . . . . . . . . . . . .  Back Cover</pre>"
+            }
+        },
+        {
+            "title": "Sample Question",
+            "child": {
+                "type": "menu",
+                "title": "Sample Question",
+                "children": [
+                    {
+                        "title": "Can Professor Wurble help me save Pittsburgh from the hideous Yogurt Slime Monster?",
+                        "child": {
+                            "type": "hints",
+                            "title": "...Yogurt Slime Monster?",
+                            "hints": [
+                                "Have you read the diploma on the wall of his laboratory?",
+                                "I think we can safely assume that someone with a Doctorate in Yogurt Slime Monster Domestication would be able to help you in this area.",
+                                "Simply type PROFESSOR, TAME THE MONSTER."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Joe's Bar",
+            "child": {
+                "type": "menu",
+                "title": "Joe's Bar",
+                "children": [
+                    {
+                        "title": "How can I get out of the bar area?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get out of the bar area?",
+                            "hints": [
+                                "There's no way to leave the bar through the front door.",
+                                "There's another way to leave, but you won't be able to until you've relieved your bladder.",
+                                "Just enter the bathroom of your choice (NW or NE), relieve yourself, then wait for a few turns."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "This section on Joe's Bar sure was a short section, huh?",
+                        "child": {
+                            "type": "hints",
+                            "title": "This section on Joe's Bar sure was a short section, huh?",
+                            "hints": [
+                                "Yup."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Prison Area (Phobos)",
+            "child": {
+                "type": "menu",
+                "title": "The Prison Area (Phobos)",
+                "children": [
+                    {
+                        "title": "How can I get out of my cell?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get out of my cell?",
+                            "hints": [
+                                "You're gonna feel pretty silly when you get to the hint B.",
+                                "Try OPEN THE DOOR."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the hunk of brown food important?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the hunk of brown food important?",
+                            "hints": [
+                                "Smell it.",
+                                "You could try eating the chocolate to see what happens...",
+                                "...but since you're not hungry, it's probably best to hang onto it until you need it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I prevent being killed by the Leckbandi guards?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I prevent being killed by the Leckbandi guards?",
+                            "hints": [
+                                "Just don't go east or west from End of Hallway."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is this Trent/Tiffany character important?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is this Trent/Tiffany character important?",
+                            "hints": [
+                                "You'll never finish the story without him/her.",
+                                "Once you've met in the Other Cell, he/she will follow you around. The places where he/she can help you will be revealed in the hints to other questions."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there any way to light the Closet that is north of the Observation Room?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any way to light the Closet that is north of the Observation Room?",
+                            "hints": [
+                                "Sure. Turn on the flashlight."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get the basket off the shelf?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get the basket off the shelf?",
+                            "hints": [
+                                "There are two ways. Both involve increasing your height.",
+                                "If you brought the stool from the bathroom, you can get the basket by standing on it.",
+                                "Otherwise, find Trent/Tiffany. When he/she follows you into the closet, climb on him/her."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I leave the prison area?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I leave the prison area?",
+                            "hints": [
+                                "The answer has something to do with the black circles on the Roof and in the Closet.",
+                                "They're teleportation devices. Standing on them transports you elsewhere."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the basement important?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the basement important?",
+                            "hints": [
+                                "No.",
+                                "<em>This space intentionally left blank.</em>"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the scrap of paper in the Other Cell meaningful?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the scrap of paper in the Other Cell meaningful?",
+                            "hints": [
+                                "Yes, it's a word search.",
+                                "It will become more meaningful once Trent/Tiffany gives you the matchbook with the parts list on it.",
+                                "Search for the items on the parts list within the grid of letters on the scrap of paper. As you find each of the eight items, circle or cross off its letters.",
+                                "When you've crossed off the letters of all the items, the remaining letters in the grid form a message.",
+                                "Namely: HISSING FRIGHTENS FLYTRAPS.",
+                                "This is one of two methods of getting past the Venus flytrap. Just HISS when you're in the same location as the flytrap."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Venus",
+            "child": {
+                "type": "menu",
+                "title": "Venus",
+                "children": [
+                    {
+                        "title": "How can I get past the Venus flytrap?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get past the Venus flytrap?",
+                            "hints": [
+                                "There are two ways. The more straightforward way is to kill it. The knowledge of how to kill it comes from the scrap of paper in Trent/Tiffany's cell. See the previous question.",
+                                "A second way to get past the flytrap is to trap it.",
+                                "Don't go on unless you've been to Cleveland.",
+                                "You can set a trap at the tree hole (Fork, Of Sorts) using stuff you've seen in Cleveland.",
+                                "Put the trellis over the tree hole...",
+                                "...and the leaves over the trellis.",
+                                "If the flytrap sees you setting the trap, it won't fall for it, and therefore won't fall into it. \"Shake off\" the flytrap by going to the Clearing. Then return to the tree hole, set the trap, go to the Jungle to attract the flytrap again, and finally return to the fork and wait a few turns."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the untangling cream important?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the untangling cream important?",
+                            "hints": [
+                                "Yes.",
+                                "Don't go on unless you have the odd machine.",
+                                "Don't go on unless you understand what the odd machine does.",
+                                "Have you seen any use for unangling cream?",
+                                "It's on Mars...",
+                                "It's in the Ruined Castle area...",
+                                "See the question about King Mitre."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get out of the tree hole?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get out of the tree hole?",
+                            "hints": [
+                                "There's no reason to ever get into the tree hole.",
+                                "But if you do, you can climb out by standing on the stool or by standing on Trent/Tiffany. If you don't have the stool, or if you're alone, you're stuck."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the can of stain for?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the can of stain for?",
+                            "hints": [
+                                "Have you read what it says on the can?",
+                                "It's for staining those black circles black. Of course, it's possible that all the ones you've seen are already black.",
+                                "See the question about the white circle at the Oasis in the Mars section."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What can I give the salesman to get his machine?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What can I give the salesman to get his machine?",
+                            "hints": [
+                                "There are no clues in the story about this. You'll have to try everything you can find.",
+                                "OFFER THE FLASHLIGHT TO THE SALESMAN."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How does the odd machine work?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How does the odd machine work?",
+                            "hints": [
+                                "Have you examined it?",
+                                "You can put one item at a time in its compartment.",
+                                "You can only turn it on while it's closed.",
+                                "It's a TEE remover. Think about that for a while.",
+                                "Try using the odd machine on a number of different items.",
+                                "The odd machine removes any \"T\" from the name of the thing you use it on.",
+                                "For example, open the odd machine. Put the basket in it. Close the machine. Turn it on. Open it. You'll find that the basket has been turned into a baske.",
+                                "You'll also find that you can't carry things around in a baske the way you could in a basket.",
+                                "The odd machine is a lot of fun, but it's also needed to solve one puzzle. You'll find out more when you get to that puzzle."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I get into the house?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I get into the house?",
+                            "hints": [
+                                "The doors are locked and you cannot unlock them.",
+                                "How would you normally get into someone's house?",
+                                "Knock on the door (either front or back)."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get the rubber hose out of the cage?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get the rubber hose out of the cage?",
+                            "hints": [
+                                "Have you tried to bend the bars?",
+                                "You'll go ape solving this puzzle.",
+                                "WAIT a bit once you've gotten to the Laboratory.",
+                                "You end up switching identities with the gorilla of your sex, and can now easily get the rubber hose. But, unfortunately, you're now trapped in the cage and in the body of a gorilla! See the next question."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Egad! I'm stuck in the cage in the body of a gorilla!",
+                        "child": {
+                            "type": "hints",
+                            "title": "Egad! I'm stuck in the cage in the body of a gorilla!",
+                            "hints": [
+                                "Have you tried to bend the bars as a gorilla?",
+                                "You need a little more energy...",
+                                "...like you might get from a sugar rush...",
+                                "...from eating the chocolate you were given in your cell!",
+                                "Before the mad scientist straps you down to the slab, give the chocolate to one of the gorillas, or just put it in the cage.",
+                                "Wait until the mad scientist transfers you to the body of the gorilla and leaves the room. (You can facilitate his leaving by getting erotic with your mate.) Now, eat the chocolate, bend the bars, and leave the cage with the rubber hose.",
+                                "You still need to get back into your own body, of course. How did the mad scientist cause the transfer?",
+                                "The red power switch, of course! Throw the switch and you'll be back in your own body.",
+                                "But don't forget to untie yourself first, or you'll be trapped on the slab when you get back in your own body!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the Vizicomm Booth important?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the Vizicomm Booth important?",
+                            "hints": [
+                                "Yes.",
+                                "It's broken and can't be repaired, so you can't make any calls. But there's something you can get in the booth.",
+                                "Push the coin return knob...",
+                                "...then look in the coin return box.",
+                                "This ten marsmid coin will come in very handy."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get off Venus?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get off Venus?",
+                            "hints": [
+                                "Using the black circle at the Rocky Clifftop.",
+                                "There's also a black circle beyond the flytrap."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Mars - The Ruined Castle Area",
+            "child": {
+                "type": "menu",
+                "title": "Mars - The Ruined Castle Area",
+                "children": [
+                    {
+                        "title": "What should I do about the frog?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do about the frog?",
+                            "hints": [
+                                "You won't be able to solve this puzzle until you've been around a bit.",
+                                "To other sections of the story, that is.",
+                                "Examine the frog.",
+                                "The frog is an enchanted prince or princess.",
+                                "What's the usual way to break such an enchantment?",
+                                "Kiss the frog.",
+                                "Repelled by the sight of the frog, eh? Do something about it.",
+                                "Type CLOSE MY EYES or COVER MY EYES WITH MY HANDS. Now try kissing the frog.",
+                                "Now it's the smell of the frog that's causing the problem.",
+                                "So, hold your nose. (If you're using your hands to cover your eyes, you can pin your nose with the clothes pin from the Laundry Room.) Kiss again.",
+                                "Oh well. Now it's the sound of the frog.",
+                                "Cover your ears with your hands. (If you're already using your hands, you could plug your ears with the cotton balls from the Orphanage Foyer.) You say you still haven't scored with the frog? Can't stand the thought of the frog's lips against yours? Seen any dead aliens?",
+                                "Put the lip balm on your lips. Now kiss the frog again."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I catch the mouse?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I catch the mouse?",
+                            "hints": [
+                                "Mice are terrified of cats.",
+                                "There's a painting of a cat in your Cell.",
+                                "Show the painting to the mouse. You will be able to take the mouse until its fright wears off several turns later."
+                            ]
+                        }
+                    },
+                    {
+                        "title": ">HINTBOOK, TELL ME ABOUT KING MITRE AND THE ANGLES.",
+                        "child": {
+                            "type": "hints",
+                            "title": ">HINTBOOK, TELL ME ABOUT KING MITRE AND THE ANGLES.",
+                            "hints": [
+                                "You can't use multiple indirect objects with \"tell.\" Hey, King Mitre and the Angles -- sounds like a 50's rock and roll group, huh? But seriously, Mitre is obviously pretty dejected. Do you know why?",
+                                "Because he's turned his daughter into a 45 degree angle. (She's the angle with the golden hair and satin robes.) I bet that if you found a way to \"cure\" her, the King would be VERY grateful.",
+                                "You won't be able to solve the Mitre puzzle until you've defeated the Venus flytrap.",
+                                "It has something to do with the odd machine.",
+                                "See the question about the untangling cream in the Venus section.",
+                                "Put the unangling cream on the princess to \"cure\" her."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Along the Grand Canal",
+            "child": {
+                "type": "menu",
+                "title": "Along the Grand Canal",
+                "children": [
+                    {
+                        "title": "How can I control the royal barge?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I control the royal barge?",
+                            "hints": [
+                                "Examine the controls. Read the buttons. Try pushing them.",
+                                "The orange button turns the magnetic mooring mechanism on or off. If you're docked, pushing the orange button will send you off into the canal. If you're in the canal near a dock, turn on the MagnetoMoor to dock. If you're in the canal but not near a dock, turning on the MagnetoMoor will have no immediate effect -- but if you subsequently pass a dock, you'll dock at it automatically.",
+                                "The purple button turns the engines on or off. When the button reads \"Full Speed Ahead\" the engines are on, and the barge will move to a new canal location every turn. When the button reads \"Go With The Flow\" the engines are off, and the barge will move to a new canal location only every other turn."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I decode the coded message from Among the Dunes?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I decode the coded message from Among the Dunes?",
+                            "hints": [
+                                "Reread \"The Adventures of Lane Mastodon #91.\"",
+                                "Look at the center-left panel on Page 5 of the comic. This tells you how to decode Martian messages.",
+                                "One additional catch: once you've decoded the message you also have to read it backwards! (Including the number.)"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Just past the bend, there are docks on both sides of the canal, but I can only get the barge to stop at one of them. Is there any way",
+                        "child": {
+                            "type": "hints",
+                            "title": "...to get to the other?",
+                            "hints": [
+                                "You can get to either dock using the barge -- but not in the same play-through of the story. Once the barge has docked at one of the docks, there's no way to get the barge to the other dock.",
+                                "You should use the barge to get to the dock on the east bank.",
+                                "It has something to do with the barge controls and the river current.",
+                                "Control the barge's speed with the purple button. When the engines are on, the barge will make a wider turn and end up near the east bank. With the engines off, you'll drift around the bend and end up near the west bank.",
+                                "Later, to get to the dock on the west side of the canal, you'll need something from the palace area.",
+                                "Use the raft from the Catacombs. (Teleport to the ruined castle region, put the raft in the water, get in the raft, and drift until you're at Donald Dock or the Abandoned Dock.)"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I land if I'm in the canal on the raft?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I land if I'm in the canal on the raft?",
+                            "hints": [
+                                "You can only land when you're near a dock. To do so, just GRAB THE DOCK."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there anything to do at the Dunetop?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there anything to do at the Dunetop?",
+                            "hints": [
+                                "No. It's just a view of what's beyond the bend in the canal."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there anything to do around Canalview Mall?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there anything to do around Canalview Mall?",
+                            "hints": [
+                                "The only interesting thing is the Exit Shop."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I buy an exit?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I buy an exit?",
+                            "hints": [
+                                "You won't have what it takes until you've been to several different parts of the story.",
+                                "You need to have been to Venus...",
+                                "...and gotten the coin from the Vizicomm Booth.",
+                                "However, the proprietor will only accept a one marsmid coin.",
+                                "You also need to have been to the South Pole...",
+                                "...and \"traded\" coins with the penguins.",
+                                "Now just give the one marsmid coin to the proprietor.",
+                                "When he drops the tube into the dust, simply search the dust.",
+                                "The exit is inside the tube! It's a portable black circle! It must be on the ground to function."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What does the buoy mean?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What does the buoy mean?",
+                            "hints": [
+                                "There's danger further down the canal."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How does the white circle at the Oasis work?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How does the white circle at the Oasis work?",
+                            "hints": [
+                                "It's just like the black circles you've seen, only it's faded to white. Try stepping on it.",
+                                "I guess they only work when they're black.",
+                                "Have you been to Venus?",
+                                "You'll need the can of stain from the Clearing.",
+                                "Put the stain on the white circle. It will now function as a normal black circle."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the rabbit important?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the rabbit important?",
+                            "hints": [
+                                "No.",
+                                "Eh...What's up, Doc?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there any way to get past the ion beam without dying?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any way to get past the ion beam without dying?",
+                            "hints": [
+                                "Yes.",
+                                "There's no way to turn off the beam, and no way to pass through that section of the canal without being affected.",
+                                "There is, however, a way to \"jump past\" the beam.",
+                                "Have you been in the room off the Catacombs called Well Bottom or climbed down the well in the Oriental Garden?",
+                                "Where does this black circle take you?",
+                                "If you said \"My Kinda Dock,\" you're wrong!",
+                                "The black circle at Well Bottom takes you to the royal barge, wherever it is!",
+                                "Examine the barge while standing on a dock.",
+                                "Have you realized that you can push the buttons on the barge while standing on the dock?",
+                                "From My Kinda Dock, send the barge downstream by pressing the orange button while standing on the dock. Wait long enough to allow the barge to pass the beam. Now go to Well Bottom and step on the black circle, or climb down the well in the Oriental Garden."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Sultan's Palace",
+            "child": {
+                "type": "menu",
+                "title": "The Sultan's Palace",
+                "children": [
+                    {
+                        "title": "Is there anything for me to do in the Laundry Room?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there anything for me to do in the Laundry Room?",
+                            "hints": [
+                                "Get the clothes pin."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the Oriental Garden important?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the Oriental Garden important?",
+                            "hints": [
+                                "The well is somewhat interesting. Look into it.",
+                                "Try climbing down it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do at the Minaret?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do at the Minaret?",
+                            "hints": [
+                                "Nice view. There's also a black circle.",
+                                "Hey, wait a minute! It takes me to a place with no exits.",
+                                "Like I said, wait a minute! The floor will collapse, creating an exit from the Cramped Space, and revealing a new black circle, as well!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The Sultan/Sultaness keeps getting impatient and killing me.",
+                        "child": {
+                            "type": "hints",
+                            "title": "The Sultan/Sultaness keeps getting impatient and killing me.",
+                            "hints": [
+                                "You didn't answer when he/she asked if you were ready for the riddle. Type ANSWER \"YES.\""
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The Sultan/Sultaness keeps sneezing and then killing me.",
+                        "child": {
+                            "type": "hints",
+                            "title": "The Sultan/Sultaness keeps sneezing and then killing me.",
+                            "hints": [
+                                "You didn't give an answer to the riddle! You have only three turns to do so."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Omigosh! The Sultan/Sultaness killed Trent/Tiffany!",
+                        "child": {
+                            "type": "hints",
+                            "title": "Omigosh! The Sultan/Sultaness killed Trent/Tiffany!",
+                            "hints": [
+                                "Don't worry about it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is the answer to the riddle?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is the answer to the riddle?",
+                            "hints": [
+                                "The riddle is designed to mislead you into thinking that the answer is something like \"SEX\" or \"LOVE.\"",
+                                "However, it IS something intangible.",
+                                "It's something you've encountered in the game.",
+                                "In fact, it's something you encountered in the palace area.",
+                                "In fact, it's something you've encountered in this very room (the Audience Chamber)!",
+                                "The answer to the riddle is the riddle! Type ANSWER \"RIDDLE.\""
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What number should I give to the harem guard?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What number should I give to the harem guard?",
+                            "hints": [
+                                "I hope you've been to Among the Dunes.",
+                                "Have you deciphered the message?",
+                                "Ask for the husband/wife number mentioned in the message. Remember that the message is backwards, and so is the number. Type ANSWER \"123\" or ASK GUARD FOR 789 (for example)."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do in the Inner Harem?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do in the Inner Harem?",
+                            "hints": [
+                                "Do you really have to ask me?",
+                                "If you've asked for the correct husband/wife (see the previous question), you should know what to do.",
+                                "Ask him/her to do what the secret message tells you to ask."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "It's too dark in the Catacombs to see!",
+                        "child": {
+                            "type": "hints",
+                            "title": "It's too dark in the Catacombs to see!",
+                            "hints": [
+                                "Take the torch that the husband/wife lays at your feet, you ninny! Or use the flashlight, if you still have it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I find my way around in the Catacombs?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I find my way around in the Catacombs?",
+                            "hints": [
+                                "Use the secret map, which the husband/wife gives you, which is also the map that comes in your package.",
+                                "There's an arrow on the \"Lower Level\" side which shows you the point at which you enter the Catacombs.",
+                                "The map is very old, however. Since it was made, many of the passages have collapsed into rubble, blocking your way. You have to figure out which ones are blocked and which are still open.",
+                                "There are four interesting locations within the Catacombs; these are shown on the map as squares rather than circles."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Ack! I keep getting attacked in the Catacombs!",
+                        "child": {
+                            "type": "hints",
+                            "title": "Ack! I keep getting attacked in the Catacombs!",
+                            "hints": [
+                                "Reread \"The Adventures of Lane Mastodon #91.\"",
+                                "Specifically, the lower left panel on page 7.",
+                                "Do what Professor Ziggeraut suggests, as often as he suggests, if not more often. (You can assume that one turn equals one minute)."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get out of the Catacombs?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get out of the Catacombs?",
+                            "hints": [
+                                "Via the ladder in the Ladder Room, or the black circle in the Well Bottom."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What do I need to do in the Catacombs?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What do I need to do in the Catacombs?",
+                            "hints": [
+                                "You need to get the phone book (one of the items on the parts list) from the Forgotten Storehouse, and you need to get the raft (see the question, earlier in this section, about the two docks on opposite sides of the canal)."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The South Polar Region",
+            "child": {
+                "type": "menu",
+                "title": "The South Polar Region",
+                "children": [
+                    {
+                        "title": "Omigosh! I lost Trent/Tiffany at the Icy Dock!",
+                        "child": {
+                            "type": "hints",
+                            "title": "Omigosh! I lost Trent/Tiffany at the Icy Dock!",
+                            "hints": [
+                                "Don't worry about it."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get past the penguins?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get past the penguins?",
+                            "hints": [
+                                "Read the sign.",
+                                "You'll need something from Venus.",
+                                "Give the coin from the Vizicomm Booth to the penguins."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I stop the gypsies from getting killed?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I stop the gypsies from getting killed?",
+                            "hints": [
+                                "You can't."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do with the baby?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do with the baby?",
+                            "hints": [
+                                "Its parents have been killed.",
+                                "That makes it an orphan. Perhaps you can find an orphanage somewhere."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get into the igloo?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get into the igloo?",
+                            "hints": [
+                                "Read the sign.",
+                                "Have you seen anything that might interest those running an orphanage?",
+                                "The baby from the Tent in the Gypsy Camp.",
+                                "The matron of the orphanage will never accept an abandoned baby if the abandoner is in sight. You'll have to figure out a way to abandon the baby and get away.",
+                                "Certainly, getting the baby to stop crying is important.",
+                                "There's a cliched method of abandoning a baby.",
+                                "You'll need a couple of items from the prison area.",
+                                "Wrap the baby in the blanket (from your Cell). Then put the baby in the basket (from the Closet).",
+                                "Now put the basket on the front stoop of the igloo. Wait a few turns.",
+                                "When the matron gets the baby, she forgets to lock the door. You can now open it. Once inside, you have a few turns to grab the cotton balls before the matron discovers you."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What's with the weird geography around the igloo?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What's with the weird geography around the igloo?",
+                            "hints": [
+                                "You're at the south pole of Mars. The only direction you can go from a south pole is north! To enter the igloo, type ENTER THE IGLOO."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Cleveland",
+            "child": {
+                "type": "menu",
+                "title": "Cleveland",
+                "children": [
+                    {
+                        "title": "Are the rake, the sack, or the leaves useful?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Are the rake, the sack, or the leaves useful?",
+                            "hints": [
+                                "The rake is completely useless.",
+                                "The sack is necessary only to carry the leaves around. It's also useful for carrying things once you reach the limit of individual items that you can hold at once.",
+                                "The leaves are important for solving one puzzle.",
+                                "You find out more when you come to the particular puzzle."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Can I get the telephone directory without flooding the basement?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Can I get the telephone directory without flooding the basement?",
+                            "hints": [
+                                "Don't go on until you've been in the Basement of House.",
+                                "Have you opened the trunk labelled \"Old Appliances\"?",
+                                "Surely you examined the boomerang!",
+                                "Can we assume that you thoroughly interrogated Winston Churchill and Attila the Hun?",
+                                "Have you realized that this is one of those fake questions designed to keep you from reading hints to puzzles you're not stumped on? There's no basement in Cleveland!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there anything interesting about the bedroom?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there anything interesting about the bedroom?",
+                            "hints": [
+                                "Have you looked out the window?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get the headlight?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get the headlight?",
+                            "hints": [
+                                "There's no way to access the Ford other than via the Bedroom window.",
+                                "The sheet on the bed isn't long enough, and there's not a rope to be found.",
+                                "Seen any good prison escape movies lately?",
+                                "You can MAKE a rope from the sheet!",
+                                "You'll have to tear the sheet first.",
+                                "Tie the resulting strips together.",
+                                "Tie the rope to the bed then throw it out the window.",
+                                "If YOU climb down the rope, it breaks and you die. However, if Trent/Tiffany is with you, he/she seems willing to take the risk! Just wait a turn."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Ack! Trent/Tiffany got killed by a truck!",
+                        "child": {
+                            "type": "hints",
+                            "title": "Ack! Trent/Tiffany got killed by a truck!",
+                            "hints": [
+                                "Jolly bad show, but things are not always as they appear.",
+                                "WAIT another turn after the \"accident.\""
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there a way to stop the Ford's brakes from failing?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there a way to stop the Ford's brakes from failing?",
+                            "hints": [
+                                "Get the brakes a good tutor.",
+                                "But seriously, folks, when did your brakes fail? There's no way to get to the car, let alone get into it, let alone start it, let alone experience a brake failure. Remember the warning in the introduction?",
+                                "This is one of those fake questions."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there anything to do in the Garden?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there anything to do in the Garden?",
+                            "hints": [
+                                "There are several interesting items in the Garden.",
+                                "The flowers, however, are not one of them.",
+                                "You might want to snatch the trellis, though.",
+                                "Also, see the next question."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "HELP!!! How can I get out of Cleveland?",
+                        "child": {
+                            "type": "hints",
+                            "title": "HELP!!! How can I get out of Cleveland?",
+                            "hints": [
+                                "Millions ask this question daily.",
+                                "There's an exit in the garden.",
+                                "EXAMINE THE SOD.",
+                                "LOOK UNDER IT.",
+                                "ROLL IT UP! Voila, a black circle."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Spaceship Scene, Near Saturn",
+            "child": {
+                "type": "menu",
+                "title": "The Spaceship Scene, Near Saturn",
+                "children": [
+                    {
+                        "title": "Ack! When I get to the Hold, I'm blown up!",
+                        "child": {
+                            "type": "hints",
+                            "title": "Ack! When I get to the Hold, I'm blown up!",
+                            "hints": [
+                                "Don't step on the black circle in the Spawning Ground unless Trent/Tiffany is with you."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Ack! Trent/Tiffany keeps getting blown up when we go to the Hold!",
+                        "child": {
+                            "type": "hints",
+                            "title": "Ack! Trent/Tiffany keeps getting blown up when we go to the Hold!",
+                            "hints": [
+                                "Don't worry about it.",
+                                "See the question in this section about what to do after saving the young man/woman."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the stallion useful?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the stallion useful?",
+                            "hints": [
+                                "Yes.",
+                                "You can ride him.",
+                                "Mount the horse then type the direction you want to go.",
+                                "Only by riding the horse can you reach the hatch at the other end of the Long Corridor before the other spaceship blasts away. (See the next question.)"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What is that rumbling noise?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is that rumbling noise?",
+                            "hints": [
+                                "Have you looked through the window in the Hold?",
+                                "Try being in the Hold when the rumbling noise occurs.",
+                                "It's the small passenger yacht leaving. You must get to it before it leaves.",
+                                "But the only exit from this battleship is down at the other end of that Long Corridor.",
+                                "You can't walk to the hatch in time to get to the other ship before it rumbles away.",
+                                "But you can make it in time if you ride a horse!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I keep dying from the cold In Space.",
+                        "child": {
+                            "type": "hints",
+                            "title": "I keep dying from the cold In Space.",
+                            "hints": [
+                                "You missed something obvious.",
+                                "You need to wear the therma-suit you'll find At Main Hatch."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I get past Thorbast/Thorbala?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I get past Thorbast/Thorbala?",
+                            "hints": [
+                                "You'll never get past while he's/she's alive.",
+                                "Try killing him/her with the sword from the Hold.",
+                                "Thorbast/Thorbala is a tough opponent, but after several attempts to kill him/her with your sword you will succeed in knocking Thorbast's/Thorbala's sword out of his/her hands. Take it as it floats toward you, disarming Thorbast/Thorbala.",
+                                "Trying to kill Thorbast/Thorbala at this point is the wrong move, however. Thorbast/Thorbala is just too quick for you, even disarmed. Have you ever noticed that you're dressed all in white, and Thorbast/Thorbala all in black?",
+                                "What would the \"good guy\" in any sword fight do upon disarming his/her opponent?",
+                                "Once you're holding Thorbast's/Thorbala's sword, give it to him/her.",
+                                "You must get Thorbast/Thorbala to \"give up\" before the bug-eyed monster carries away the young man/woman."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I save the young man/woman from the space monster?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I save the young man/woman from the space monster?",
+                            "hints": [
+                                "You'll have to get past Thorbast/Thorbala first.",
+                                "Once you've done that, it's easy!",
+                                "Just kill the monster. Even your bare hands are sufficient.",
+                                "Then, don't forget to untie the young man/woman."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What should I do after saving the young man/woman?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What should I do after saving the young man/woman?",
+                            "hints": [
+                                "He/she enters the small spaceship and beckons you to follow.",
+                                "So follow!",
+                                "Once you enter the Space Yacht, Elysia/Elysium will give you the photo you need. And when you return to the battleship, you may have an unexpected meeting!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is there any way to land on Titan without crashing?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any way to land on Titan without crashing?",
+                            "hints": [
+                                "A ship this size must have an auto-pilot.",
+                                "It's probably behind the panel in the Control Room.",
+                                "Did you turn the auto-pilot on?",
+                                "Perhaps it can be repaired by the French robot.",
+                                "See the question about gourmet cooking in the section called \"The Planet of the Snobby Robot Chefs.\"",
+                                "No section by that name? Perhaps, then, you should reread the Introduction. Especially the part about not looking at questions except those relating to puzzles you're stumped by."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How do I get away from this spaceship section of the story?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How do I get away from this spaceship section of the story?",
+                            "hints": [
+                                "There's a black circle aboard the battleship.",
+                                "It's in the third Long Corridor location west of the Stable."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Among the Mountains of Neptune",
+            "child": {
+                "type": "menu",
+                "title": "Among the Mountains of Neptune",
+                "children": [
+                    {
+                        "title": "Is there any way to get a light source into the cave?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is there any way to get a light source into the cave?",
+                            "hints": [
+                                "Probably.",
+                                "But considering the \"interests\" of the creature who lives in the cave, would you really want to ruin things by bringing a light?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Is the love potion useful?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is the love potion useful?",
+                            "hints": [
+                                "Surely you've met someone who's not as interested in you as you are in him/her.",
+                                "It's someone in the Mine Shaft City.",
+                                "Natasha/Ivan seems pretty aloof, wouldn't you say?",
+                                "Put the love potion in his/her vodka.",
+                                "Don't put it in the orangutang's milk by accident."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I keep the baboons and the gibbons away from me?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I keep the baboons and the gibbons away from me?",
+                            "hints": [
+                                "Let's face it, you just have animal magnetism.",
+                                "Have you ever wondered what the extra machine on your spacesuit was?",
+                                "It's an animal magnet! Switch it off.",
+                                "The vaseline will help loosen the switch.",
+                                "Once the monkeys have stopped bothering you, the bouncer will let you into the bordello."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I leave Neptune without being blasted by the Throbber Rays?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I leave Neptune without being blasted by the Throbber Rays?",
+                            "hints": [
+                                "You'll need the germanium shielding from Mercury.",
+                                "You'll also need some fruit from the orchard on Callisto.",
+                                "And you'll definitely need the makeup kit from the transvestites on Ceres.",
+                                "But mostly, you'll need to reread the Introduction of this hint booklet, where it tells you not to look at the answers to questions you're not stuck on."
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Boudoir and Plaza (Phobos)",
+            "child": {
+                "type": "menu",
+                "title": "The Boudoir and Plaza (Phobos)",
+                "children": [
+                    {
+                        "title": "What is this Boudoir and what do I do here?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What is this Boudoir and what do I do here?",
+                            "hints": [
+                                "You find out more about the Boudoir a few turns after your arrival. Meanwhile, why not \"enjoy\" the company of your divan-mate?",
+                                "At long last, you have come face to face with your archenemies, the Leather Goddesses of Phobos!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Okay, now I'm in the Plaza. What do I do here?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Okay, now I'm in the Plaza. What do I do here?",
+                            "hints": [
+                                "If Trent/Tiffany isn't with you, not much.",
+                                "It's time for Trent/Tiffany to build his/her Super-Duper Anti-Leather Goddesses of Phobos Attack Machine. Just give him/her whatever item from the parts list he/she asks for. You must do this immediately... you can't spare a single turn.",
+                                "If you got to the Plaza without all eight items from the parts list, you're lost. You'll have to RESTART (or RESTORE) and collect them all before returning.",
+                                "If you give the eight items to Trent/Tiffany at the right moments, you will WIN THE GAME! Yow!!!"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "General Questions",
+            "child": {
+                "type": "menu",
+                "title": "General Questions",
+                "children": [
+                    {
+                        "title": "What's my goal in this story?",
+                        "child": {
+                            "type": "hints",
+                            "title": "What's my goal in this story?",
+                            "hints": [
+                                "You'll get a better idea once you've met Trent/Tiffany.",
+                                "A few dozen turns after meeting him/her, Trent/Tiffany will give you something.",
+                                "This matchbook contains a parts list for the items that Trent/Tiffany needs to build a machine that will defeat the Leather Goddesses.",
+                                "Therefore, your goal is to find these eight items, and then get to a location where Trent/Tiffany can build the machine."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "How can I change the gender of my character in the story?",
+                        "child": {
+                            "type": "hints",
+                            "title": "How can I change the gender of my character in the story?",
+                            "hints": [
+                                "You determine the sex of your character by entering either the Men's Room or the Ladies' Room in the bar. Once you've established your gender, you can't change it without restarting."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The scoring seems pretty cockamamie. How does it work?",
+                        "child": {
+                            "type": "hints",
+                            "title": "The scoring seems pretty cockamamie. How does it work?",
+                            "hints": [
+                                "You always get points at given places in the story, but there are elements of randomness.",
+                                "For one thing, you don't always get the same number of points each time you reach the same point in the story. For example, for reaching the prison cell on Phobos, you will get somewhere between 1 and 8 points.",
+                                "Another element of randomness: when you use the STATUS command, you are told the total points that your score is \"out of.\" This number starts at 9309, but decreases randomly each time you get points.",
+                                "Your points increase and your \"out of\" number decreases, until they finally meet on the final turn of the story.",
+                                "This is all designed to confuse you, of course."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Shucks! It won't let me into LEWD mode.",
+                        "child": {
+                            "type": "hints",
+                            "title": "Shucks! It won't let me into LEWD mode.",
+                            "hints": [
+                                "You must be at least 18 years old.",
+                                "If you are, just type 18 (or whatever) when prompted to input your age. If you're not, you simply can't play in LEWD mode!"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I'm not really picking up the 3-D in the comic. Can you give me some tips?",
+                        "child": {
+                            "type": "hints",
+                            "title": "I'm not really picking up the 3-D in the comic. Can you give me some tips?",
+                            "hints": [
+                                "Sure. For one thing, make sure you have the blue \"lens\" over your right eye, and the red \"lens\" over your left eye.",
+                                "It takes a few seconds for your eyes to adjust. The 3-D effect should improve noticeably within twenty seconds or so.",
+                                "Hold the comic directly in front of you and move it slowly toward and away from your face until the 3-D effect is maximized.",
+                                "Where else but here could you develop invisible ink to learn how to read 3-D? What a wild and crazy bunch we are, eh?"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "What exactly are the seven scratch 'n' sniff odors, and where do they appear in the story?",
+                        "child": {
+                            "type": "items",
+                            "title": "...do they appear in the story?",
+                            "content": "<p>Don't develop the answers until you've finished the story, or you might see things you don't want to see!</p><p>Pizza (in the bathroom after urinating)</p><p>Chocolate (whenever the hunk of chocolate is present)</p><p>Mothballs (in the Closet)</p><p>Perfume (in the Harem)</p><p>Garlic (In Space, when Thorbast/Thorbala speaks)</p><p>Leather (in the Boudoir -- this scent is admittedly weaker than the others)</p><p>Banana (on the last turn before winning)</p><p>Some other odors we were considering: Skunk, Peanut Butter, Grapefruit, Bubble Gum, Whipped Cream, Mushroom, New Car, Anchovy, Martini, Fried Chicken...</p>"
+                        }
+                    },
+                    {
+                        "title": "Is a marsmid anything like a zorkmid?",
+                        "child": {
+                            "type": "hints",
+                            "title": "Is a marsmid anything like a zorkmid?",
+                            "hints": [
+                                "They're both coins..."
+                            ]
+                        }
+                    },
+                    {
+                        "title": "I have this friend who would like to know where all the sex scenes are in Leather Goddesses of Phobos. Would you please tell me? Uh, I mean, him?",
+                        "child": {
+                            "type": "hints",
+                            "title": "... Leather Goddesses of Phobos. Would you please tell me? Uh, I mean, him?",
+                            "hints": [
+                                "That is, tell me, and I'll pass the info along to him.",
+                                "Reading the next hint will give things away. Don't go any further until you finish the story.",
+                                "There are five opportunities for some \"foolin' around\": 1. Solving the frog puzzle. 2. Your hour in the Inner Harem. 3. When you're a gorilla in the cage. 4. Following Elysia/Elysium into his/her private cabin after he/she gives you the photo. 5. On the divan in the Boudoir.",
+                                "Don't forget to experience these \"episodes\" in all three naughtiness levels. (Unless you're underage, of course. Or unless you're a personal friend of Ed Meese. If you're a personal friend of Ed Meese, we're just joking and there really aren't any sex scenes at all.)"
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "title": "The Parts List",
+            "child": {
+                "type": "items",
+                "title": "The Parts List",
+                "content": "<p>This section tells you where to find the eight items on the parts list. Use it only as a last resort.</p><pre>   Item                             Location\n  common household blender         from the frog prince\n  six feet of rubber hose          in the cage in the Laboratory\n  pair of cotton balls             in the igloo (Orphanage Foyer)\n  eighty-two degree angle          from King Mitre\n  headlight from a 1933 Ford       out the Bedroom window (Cleveland)\n  white mouse                      on Hickory Dickory Dock\n  photo of Jean Harlow             Elysia/Elysium, aboard the Space\n  Douglas Fairbanks                Yacht near Saturn\n  Cleveland phone book             in the Forgotten Storehouse off the Catacombs</pre>"
+            }
+        },
+        {
+            "title": "How All the Points Are Scored",
+            "child": {
+                "type": "items",
+                "title": "How All the Points Are Scored",
+                "content": "<p>This section should only be used as a last resort, or for your own interest after you've completed the game. For more information about how scoring works in <b>Leather Goddesses of Phobos</b>, see the scoring question in the General Questions section.</p><pre>  Event                                          Points\n  waking up in the prison cell                   from 1 to 8 points\n  getting the mouse                              from 14 to 23 points*\n  getting the odd machine from the salesman      from 3 to 10 points\n  returning to your body in the Laboratory       from 19 to 43 points*\n  getting the headlight                          from 14 to 47 points*\n  killing or trapping the flytrap                from 2 to 17 points\n  answering the riddle                           from 8 to 19 points\n  getting the Cleveland telephone book           from 13 to 39 points*\n  getting the raft                               from 8 to 11 points\n  arriving at the Icy Dock unradiated            from 4 to 19 points\n  getting the cotton balls                       from 16 to 45 points*\n  killing Thorbast/Thorbala                      from 5 to 20 points\n  getting the photo                              from 17 to 30 points*\n  getting the blender                            from 17 to 34 points*\n  getting the 82 degree angle                    from 16 to 26 points*\n  getting the flexible black circle              from 5 to 17 points\n  arriving at the Plaza                          from 9 to 22 points\n                                         Total = from 171 to 429 points\n*These events also increase your rank. Your rank is increased for a ninth time on the final turn of the story.</pre>"
+            }
+        },
+        {
+            "title": "For Your Amusement",
+            "child": {
+                "type": "items",
+                "title": "For Your Amusement",
+                "content": "<p>You shouldn't develop anything in this section until you've finished <b>Leather Goddesses of Phobos</b>. Things in this section will invariably give away the answers to puzzles in the game.</p><p>Have you ever tried to...</p><p>play <b>Leather Goddesses of Phobos</b> as a man if you're a woman, or vice versa?</p><p>buy a beer in the bar before relieving yourself?</p><p>enter the men's room after entering the ladies' room first (or vice versa)?</p><p>flush the toilet?</p><p>eat the pizza? And then typed VOMIT?</p><p>urinate in something other than a toilet?</p><p>not go to the bathroom?</p><p>knock on the door of Trent's/Tiffany's cell before opening the door?</p><p>lead Trent/Tiffany into your cell? (Try in all three naughtiness levels.)</p><p>call Trent \"Tiffany\" (while playing as a man), or vice versa?</p><p>walk west in the Observation Room?</p><p>jump off the prison Roof on Phobos?</p><p>touch, examine, or put something on one of the black circles?</p><p>push Trent/Tiffany into the tree hole (Fork, Of Sorts)?</p><p>jump into the tree hole while being chased by the flytrap?</p><p>get into the tree hole after trapping the flytrap there?</p><p>ask Trent/Tiffany about the odd machine?</p><p>T-remove the tray and then examine it?</p><p>use the odd machine on the rabbit?</p><p>use the odd machine on the raft then put the raft in the canal?</p><p>run the cotton balls through the odd machine then examine them?</p><p>DIAGNOSE and examine yourself as a gorilla?</p><p>examine your body on the slab while you're a gorilla?</p><p>examine Trent's/Tiffany's body on the slab while you're a gorilla?</p><p>leave the Laboratory while you're a gorilla?</p><p>whip someone with the rubber hose (not in TAME mode)?</p><p>give anything to King Mitre?</p><p>shake King Mitre's hand?</p><p>examine (the unangled) Princess Theta?</p><p>marry Princess Theta (in both her angled and unangled forms)?</p><p>put the unangling cream on the pile of angles? On King Mitre?</p><p>touch the frog?</p><p>ask Trent/Tiffany to kiss the frog?</p><p>click the mouse?</p><p>sink the royal barge?</p><p>examine, awaken, or kiss the dead alien messenger?</p><p>put the lip balm on the dead alien messenger?</p><p>give the flexible black circle back to the proprietor?</p><p>show the dead alien's coded message to the Sultan/Sultaness?</p><p>ask the harem guard for a different number than the \"correct\" number?</p><p>Several times?</p><p>ask the harem guard for the same number twice in a row?</p><p>wait instead of answering \"yes\" when the Sultan/Sultaness asks if you're ready for the riddle?</p><p>wait instead of answering the riddle right away?</p><p>SAVE your position in the Audience Chamber before answering the riddle?</p><p>return from the Inner Harem to the Harem holding the secret map after the Sultan's wife/Sultaness' husband warns you that if you leave that way \"the harem guards will...\"</p><p>thank the Sultan's wife/Sultaness' husband after getting the torch and secret map?</p><p>measure the Sultan's wife?</p><p>measure the Sultaness' husband (in all three naughtiness levels)?</p><p>make love to the Sultan'swife/Sultaness' husband a second time (not in TAME mode)?</p><p>speak to the Sultan's wife or Sultaness' husband by his or her wrong number? (e.g., SULTAN'S WIFE #123, HELLO, instead of SULTAN'S WIFE #789, HELLO)</p><p>move around in the Catacombs without a light?</p><p>read the Cleveland phone book?</p><p>deflate the raft? While it's in the water? While it's in the water and you're in it?</p><p>put the raft in the Oasis?</p><p>take or open the buoy (if you've solved <b>Zork I</b>(R))?</p><p>have sex with anyone while radiated from the ion beam?</p><p>talk to the robot baby?</p><p>kiss or rock the robot baby while it's crying?</p><p>suckle the robot baby (playing as both a male and a female)?</p><p>toss the robot baby into the canal?</p><p>count the leaves? (That's also how many were in the pile of leaves in <b>Zork I</b>.)</p><p>tie the strips of cloth (from the partially-made rope) to anything?</p><p>screw the stallion?</p><p>go into space from the battleship without putting on the white suit?</p><p>tell Elysia/Elysium to shut up while he/she is screaming?</p><p>read the photo that Elysia/Elysium gives you?</p><p>ask various characters about the Leather Goddesses? (such as Trent/Tiffany, the salesman, the mad scientist, Thorbast/Thorbala, Elysia/Elysium, King Mitre, Princess Theta, the Sultan/Sultaness, the Sultan's wife/Sultaness' husband, the Exit Shop proprietor...)</p><p>get fresh with the Leather Goddess in the Boudoir in TAME mode?</p><p>kiss the Leather Goddess, not in TAME mode, while Trent/Tiffany is also in the Boudoir?</p><p>get to the end of the Plaza scene without Trent/Tiffany present?</p><p>get to the end of the Plaza scene without giving all of the eight parts to Trent/Tiffany?</p><p>use \"four letter words\" in your inputs while in TAME mode?</p><p>smell the barge or the flowers in the Garden?</p><p>put the blanket, sheet, or sack on your head (if you've played <b>The Hitchhiker's Guide to the Galaxy</b>(tm))?</p><p>open your mouth?</p><p>give an age less than 5 while trying to enter LEWD mode?</p><p>LOOK with your eyes closed? With your hands over your eyes?</p><p>look through something that isn't transparent?</p><p>look inside your overalls, loincloth, or bikini?</p><p>typed control-B followed by a carriage return? (IBM version only!)</p>"
+            }
+        },
+        {
+            "title": "Acknowledgements",
+            "child": {
+                "type": "menu",
+                "title": "Acknowledgements",
+                "children": [
+                    {
+                        "title": "What are the acknowledgements doing in the hint booklet? ",
+                        "child": {
+                            "type": "hints",
+                            "title": "What are the acknowledgements doing in the hint booklet?",
+                            "hints": [
+                                "The manual is printed too early to include acknowledgements, and there simply wasn't room on the story disk. (In fact, the <b>Leather Goddesses of Phobos</b> program is 99.991% of the maximum size of a \"classic\" \"non-Plus\" Infocom story.) Testing: The primary testers for <b>Leather Goddesses of Phobos</b> were Tom Bok, Gary Brennan, Amy Briggs, Max Buxton, Liz Cyr-Jones, Suzanne Frank, and Matt Hillman. In addition, dozens of \"outside testers\" deserve praise for their help.",
+                                "Packaging: The package (and its components) was designed by Carl Genatossio and Elizabeth Langosy. The artwork for the 3-D comic (including the cover) is the work of Richard Howell; the 3-D processing was done by Ray Zone. Angela Crews tirelessly learned the ins and outs of scratch-n-sniff while tracking down an affordable scratch-n-sniff printer.",
+                                "The artwork for the <b>Leather Goddesses of Phobos</b> poster was done by Ken Barr.",
+                                "Thanks to Brian Moriarty for the idea of including a 3-D comic. Thanks to Ed Black for implementing the \"boss key\" feature in the IBM version.",
+                                "Thanks to Dave Lebling for some timely technical assistance. And thanks to Jon Palace for a host of things, but especially for his help in \"sensualizing\" the text, and for being a front-line defense against scheming marketeers."
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
