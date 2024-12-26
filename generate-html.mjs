@@ -169,11 +169,7 @@ h2 {
     `;
     let headerLevel = 1;
     function renderNode(node, title) {
-        if (node.type === 'menu') {
-            if (headerLevel > 1) output += `\n<h${headerLevel}>${title}</h${headerLevel}>\n\n`;
-        } else {
-            output += `\n<p>${title}</p>\n\n`
-        }
+        if (headerLevel > 1) output += `\n<h${headerLevel}>${title}</h${headerLevel}>\n\n`;
         headerLevel++;
         if (node.type === 'menu') {
             for (const child of node.children) {
