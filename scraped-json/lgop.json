@@ -19,14 +19,6 @@
             }
         },
         {
-            "title": "Table of Contents",
-            "child": {
-                "type": "page",
-                "title": "Table of Contents",
-                "content": "<pre> Front Cover  . . . . . . . . . . . . . . . . . . . . . . Front Cover\n Some Silly Legal Fineprint . . . . . . . . . . .  Inside Front Cover\n Table of Contents  . . . . . . . . . . . . . . .  Inside Front Cover\n Introduction . . . . . . . . . . . . . . . . . . . . . . . .  Page 1\n Joe's Bar  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2\n The Prison Area (Phobos) . . . . . . . . . . . . . . . . . . . . . 2\n Venus  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3\n Mars\n   The Ruined Castle Area . . . . . . . . . . . . . . . . . . . . . 6\n   Along the Grand Canal  . . . . . . . . . . . . . . . . . . . . . 7\n   The Sultan's Palace  . . . . . . . . . . . . . . . . . . . . .  10\n   The South Polar Region . . . . . . . . . . . . . . . . . . . .  12\n Cleveland  . . . . . . . . . . . . . . . . . . . . . . . . . . .  13\n A Funny Little Spot Caused by a Minor Printing Error Which\n   Appears Only on This Copy of the Booklet Making It a Priceless\n   Collectors Item  . . . . . . . . . . . . . . . . . . . . . . .  14\n The Spaceship Scene, Near Saturn . . . . . . . . . . . . . . . .  15\n Among the Mountains of Neptune . . . . . . . . . . . . . . . . .  17\n The Boudoir and Plaza (Phobos) . . . . . . . . . . . . . . . . .  18\n General Questions  . . . . . . . . . . . . . . . . . . . . . . .  18\n The Parts List . . . . . . . . . . . . . . . . . . . . . . . . .  20\n How All the Points Are Scored  . . . . . . . . . . . . . . . . .  20\n For Your Amusement . . . . . . . . . . . . . . . . . . . . . . .  21\n Acknowledgements . . . . . . . . . . . . . . . . . . . . . . . .  24\n Invisible Pictures of Famous, Sexy Movie Stars in the Buff\n   Which Can't Even Be Made Visible Using the Amazing Miracle\n   InvisiClues Fluid  . . . . . . . . . . . . . . . Inside Back Cover\n Back Cover . . . . . . . . . . . . . . . . . . . . . . .  Back Cover</pre>"
-            }
-        },
-        {
             "title": "Sample Question",
             "child": {
                 "type": "menu",
