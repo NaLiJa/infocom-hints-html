@@ -155,7 +155,7 @@ img.coverart {
     margin-right: 1em;
     margin-bottom: 1em;
 }
-h2 {
+hr {
     clear: both;
 }
 </style>
@@ -166,14 +166,25 @@ h2 {
 <p>Hints for ${htmlTitle}, adapted (with permission) from Infocom's original Invisiclues hint books.</p>
 <p><a href="index.html">More Infocom Invisiclues Hints</a></p>
 <p><a href="https://ifdb.org/viewgame?id=${tuid}">${htmlTitle} on IFDB</a></p>
+<hr>
     `;
     let headerLevel = 1;
-    function renderNode(node, title) {
-        if (headerLevel > 1) output += `\n<h${headerLevel}>${title}</h${headerLevel}>\n\n`;
+    function renderNode(node, title, path = "") {
+        if (headerLevel > 1) output += `\n<h${headerLevel} id="${path}">${title}</h${headerLevel}>\n\n`;
         headerLevel++;
         if (node.type === 'menu') {
-            for (const child of node.children) {
-                renderNode(child.child, child.title);
+            if (node.children.length > 2) {
+                output += `<nav>\n`;
+                for (let i = 0; i < node.children.length; i++) {
+                    const { title } = node.children[i];
+                    const id = path ? `${path}.${i + 1}` : i + 1;
+                    output += `<div><a href='#${id}'>${title}</a></div>`
+                }
+                output += `</nav>\n`;
+            }
+            for (let i = 0; i < node.children.length; i++) {
+                const {child, title} = node.children[i];
+                renderNode(child, title, path ? `${path}.${i+1}` : i+1);
             }
         } else if (node.type === 'page') {
             output += node.content + "\n\n";
