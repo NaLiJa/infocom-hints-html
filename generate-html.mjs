@@ -5,17 +5,23 @@ const files = readdirSync('./scraped-json').filter(f => /\.json$/.test(f));
 let index = `<!DOCTYPE html>
 <html>
 <head>
-<title>Infocom Hints</title>
+<title>Infocom Invisiclues Hints</title>
 </head>
 <body>
 `;
 
+const replacementTitles = {
+    'seastalk.json': "Seastalker",
+    'hhgg.json': "The Hitchhiker's Guide to the Galaxy",
+}
+
 for (const file of files) {
     const json = JSON.parse(readFileSync(`./scraped-json/${file}`));
+    json.title = replacementTitles[file] ?? json.title;
     let output = `<!DOCTYPE html>
 <html>
 <head>
-<title>Invisiclues Hints for ${json.title}</title>
+<title>Invisiclues Hints for "${json.title}"</title>
 <style>
 .spoiler[aria-expanded="false"] {
   filter: blur(0.5em);
@@ -78,7 +84,7 @@ document.querySelectorAll(".spoiler").forEach(s => {
 })
 </script>
 `
-    const outFile = file.replace("\.json", ".html");
+    const outFile = json.title.toLowerCase().replaceAll(/[ :,]+/g, "-").replaceAll(/'/g, "") + ".html";
     writeFileSync(`./generated-html/${outFile}`, output, 'utf8');
     index += `<div><a href="${outFile}">${json.title}</a></div>\n`;
 }
