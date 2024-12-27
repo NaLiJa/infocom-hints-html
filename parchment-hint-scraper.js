@@ -32,7 +32,7 @@ async function pressNavigationKey(keyCode) {
 const parser = new DOMParser();
 
 function readFullPage() {
-    return normalizeHtml(document.querySelector('.BufferWindowInner').innerHTML);
+    return normalizeHtml(document.querySelector('.BufferWindowInner').innerHTML).body.innerHTML;
 }
 
 function getTitle() {
@@ -57,6 +57,10 @@ function normalizeHtml(html) {
         }
     }
 
+    function removeClass(element) {
+        element.removeAttribute("class");
+    }
+
     doc.querySelectorAll('textarea').forEach(x => x.remove());
     doc.querySelectorAll('span[class="Style_normal"]').forEach(unwrap);
     doc.querySelectorAll('span[class="Style_emphasized"]').forEach(replaceTag('em'));
@@ -69,36 +73,39 @@ function normalizeHtml(html) {
         x.querySelectorAll('span').forEach(unwrap);
         replaceTag('pre')(x);
     });
-    doc.querySelectorAll('div[class="BufferLine Style_normal_par"]').forEach(replaceTag('p'));
-    doc.querySelectorAll('div[class="BufferLine Style_subheader_par"]').forEach(replaceTag('p'));
+    while (true) {
+        const lastDiv = doc.querySelector('div:last-child');
+        if (lastDiv?.getAttribute("class") === "BufferLine BlankPara") {
+            lastDiv.remove();
+        } else if (/^\[(Press any key|No more items|No more hints)\]$/.test(lastDiv?.innerText)) {
+            lastDiv.remove();
+        } else {
+            break;
+        }
+    }
+    doc.querySelectorAll('div[class="BufferLine Style_normal_par"]:has(+ div[class="BufferLine BlankPara"]').forEach(replaceTag('p'));
+    doc.querySelectorAll('div[class="BufferLine Style_subheader_par"]:has(+ div[class="BufferLine BlankPara"]').forEach(replaceTag('p'));
+    doc.querySelectorAll('div[class="BufferLine Style_normal_par"]').forEach(removeClass);
+    doc.querySelectorAll('div[class="BufferLine Style_subheader_par"]').forEach(removeClass);
     doc.querySelectorAll('div[class="BufferLine BlankPara"]').forEach(x => {
         x.remove();
     });
-    doc.querySelectorAll('p').forEach(pre => {
-        if (/^ > /.test(pre.firstChild?.textContent)) {
-            pre.firstChild.textContent = pre.firstChild.textContent.substring(3);
-        }
-    });
-    doc.querySelectorAll('pre').forEach(pre => {
-        if (/^ > /.test(pre.firstChild?.textContent)) {
-            pre.firstChild.textContent = "  " + pre.firstChild.textContent.substring(3);
+    doc.querySelectorAll('p, div').forEach(el => {
+        if (/^ > /.test(el.firstChild?.textContent)) {
+            el.firstChild.textContent = el.firstChild.textContent.substring(3);
+            replaceTag("li")(el);
         }
     });
     doc.querySelectorAll('pre + pre').forEach(pre2 => {
         const pre1 = pre2.previousElementSibling;
         pre1.append("\n", ...pre2.childNodes);
         pre2.remove();
-    })
-    const lastParagraph = doc.querySelector('p:last-child');
-    if (/^\[(Press any key|No more items)\]$/.test(lastParagraph?.innerText)) {
-        lastParagraph.remove();
+    });
+    if (/class=/.test(doc.body.innerHTML)) {
+        console.log(doc.body.innerHTML);
+        throw new Error("Failed to normalize HTML: " + doc.body.innerHTML);
     }
-    const result = doc.body.innerHTML;
-    if (/class=/.test(result)) {
-        console.log(result);
-        throw new Error("Failed to normalize HTML: " + result);
-    }
-    return result;
+    return doc;
 }
 
 async function readHintPage() {
@@ -107,14 +114,25 @@ async function readHintPage() {
         await pressKey(ENTER_CODE);
         if (getTitle() !== title) {
             await pressKey(ENTER_CODE);
-            const doc = parser.parseFromString(document.querySelector('.BufferWindowInner').innerHTML, 'text/html');
-            const hints = [...doc.querySelectorAll('.BufferLine')].filter(x => /^\(\d+ hints? left\)/.test(x.innerText)).map(x => {
-                const span = x.querySelector('span');
-                let text = span.innerText;
-                text = text.replace(/^\(\d+ hints? left\) > /, '');
-                span.innerText = text;
-                return normalizeHtml(x.innerHTML);
+            const doc = normalizeHtml(document.querySelector('.BufferWindowInner').innerHTML);
+            doc.querySelectorAll("div, p").forEach(div => {
+                if (/^\(\d+ hints? left\) > /.test(div.innerText)) {
+                    div.firstChild.textContent = div.firstChild.textContent.replace(/^\(\d+ hints? left\) > /, "");
+                    const li = doc.createElement("li");
+                    li.append(...div.childNodes);
+                    div.replaceWith(li);
+                } else if (div.previousElementSibling?.localName === 'li') {
+                    const li = div.previousElementSibling;
+                    li.append(div);
+                }
             });
+            const trouble = doc.querySelector('body > *:not(li)');
+            if (trouble) {
+                console.error('non-li in hints');
+                debugger;
+                throw new Error('non-li in hints');
+            }
+            const hints = [...doc.querySelectorAll('body > li')].map(li => li.innerHTML);
             return hints;
         }
     }
