@@ -145,7 +145,7 @@ body {
 .spoiler[aria-expanded="false"]:hover {
   filter: blur(0.18em);
 }
-li {
+ol li {
   margin: 1em 0;
 }
 img.coverart {
@@ -336,7 +336,7 @@ td, th {
                 }
 
                 // console.log(file, JSON.stringify(rows.map(r => Object.fromEntries(headers.map(({name}, i) => [name, r[i]]))), null, 2));
-                console.log(file, headers.map(h => h.name));
+                // console.log(file, headers.map(h => h.name));
                 const result =
                     `<table><tr>${
                         headers.map(h => `<th>${h.name}</th>`).join('')
