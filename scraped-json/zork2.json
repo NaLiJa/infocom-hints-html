@@ -551,7 +551,7 @@
                             "title": "What does the engraving say?",
                             "hints": [
                                 "It is the logo for a Frobozzco subsidiary.",
-                                "{-}<div>obo                               obo </div><div>                             r           z </div><p>AGI         becomes     f        MAGIC        z</p><div>E L                              WELL </div><div>                        c                     y </div><div>mpa                          o           n </div><div>                                  mpa{+}</div>",
+                                "<pre>obo                               obo \n                             r           z \nAGI         becomes     f        MAGIC        z\nE L                              WELL \n                        c                     y \nmpa                          o           n \n                                  mpa</pre>",
                                 "or \"Frobozz Magic Well Company\" as can be clearly read at the top of the well."
                             ]
                         }
