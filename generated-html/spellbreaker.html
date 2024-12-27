@@ -39,6 +39,15 @@ img.coverart {
 hr {
     clear: both;
 }
+table {
+    max-width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+}
+td, th {
+    border: solid;
+    padding: 0.5em 1ch;
+}
 </style>
 </head>
 <body>
@@ -2726,20 +2735,22 @@ hr {
 
 <h2 id="20">Cube Details</h2>
 
-<div class="spoiler" role="button" tabindex="0" aria-expanded="false" aria-label="Reveal hint" aria-live="polite"><div aria=hidden="true"><pre>  Found in...       Decoration     Property        BLORPLE to...
- &gt; Belwit Square     Moles          Earth           Packed Earth
- &gt; Ogre Lair         Dolphins       Water           Water Room
- &gt; Temple            Eagles         Air             Air Room
- &gt; On Pillar         Salamanders    Fire            Fire Room
- &gt; Plain             Grues          Dark            Dark Room
- &gt; Hut               Spiders        Connectivity    String Room
- &gt; Ocean Floor       Fireflies      Light           Light Room
- &gt; Dungeon Cell      Worms          Death           Boneyard
- &gt; Roc Nest          Rabbits        Life            Soft Room
- &gt; Octagonal Room    Owls           Mind            No Place
- &gt; In Pipe           Butterflies    Change          Changing Room
- &gt; Outer Vault       Turtles        Time            Sand Room
- &gt; Outcropping       Unicorns       Magic           Magic Room</pre></div></div>
+<div class="spoiler" role="button" tabindex="0" aria-expanded="false" aria-label="Reveal hint" aria-live="polite"><div aria=hidden="true"><table><tr><th>Found in...</th><th>Decoration</th><th>Property</th><th>BLORPLE to...</th></tr>
+<tr><td>Belwit Square</td><td>Moles</td><td>Earth</td><td>Packed Earth</td></tr>
+<tr><td>Ogre Lair</td><td>Dolphins</td><td>Water</td><td>Water Room</td></tr>
+<tr><td>Temple</td><td>Eagles</td><td>Air</td><td>Air Room</td></tr>
+<tr><td>On Pillar</td><td>Salamanders</td><td>Fire</td><td>Fire Room</td></tr>
+<tr><td>Plain</td><td>Grues</td><td>Dark</td><td>Dark Room</td></tr>
+<tr><td>Hut</td><td>Spiders</td><td>Connectivity</td><td>String Room</td></tr>
+<tr><td>Ocean Floor</td><td>Fireflies</td><td>Light</td><td>Light Room</td></tr>
+<tr><td>Dungeon Cell</td><td>Worms</td><td>Death</td><td>Boneyard</td></tr>
+<tr><td>Roc Nest</td><td>Rabbits</td><td>Life</td><td>Soft Room</td></tr>
+<tr><td>Octagonal Room</td><td>Owls</td><td>Mind</td><td>No Place</td></tr>
+<tr><td>In Pipe</td><td>Butterflies</td><td>Change</td><td>Changing Room</td></tr>
+<tr><td>Outer Vault</td><td>Turtles</td><td>Time</td><td>Sand Room</td></tr>
+<tr><td>Outcropping</td><td>Unicorns</td><td>Magic</td><td>Magic Room</td></tr>
+</table>
+</div></div>
 
 
 <h2 id="21">Magic Details</h2>
@@ -2766,22 +2777,24 @@ hr {
 
 <h3 id="21.2">Details of Cubes Effects on Spells</h3>
 
-<div class="spoiler" role="button" tabindex="0" aria-expanded="false" aria-label="Reveal hint" aria-live="polite"><div aria=hidden="true"><pre>  Spell       Cubes that increase chance of success
- &gt; BLORPLE     (always works)
- &gt; FROTZ       Change, Light (75% base chance)
- &gt; GNUSTO      Change, Earth (75% base chance)
- &gt; LESOCH      Air, Fire
- &gt; MALYON      Fire, Life
- &gt; REZROV      Change, Earth
- &gt; YOMIN       Mind, Light
- &gt; SNAVIG      Change, Dark
- &gt; GIRGOL      (special, as spell is so powerful)
- &gt; LISKON      Change, Earth
- &gt; TINSOT      Water, Fire
- &gt; JINDAK      Light, Connectivity
- &gt; ESPNIS      Mind, Death
- &gt; CASKLY      Change, Connectivity
- &gt; THROCK      Life, Water</pre><li>If you have the cube that BLORPLEs you to the Magic Room, it gives an extra-strong power boost to all spells. With this cube in your possession, only the GIRGOL spell can ever fail under normal circumstances.</li></div></div>
+<div class="spoiler" role="button" tabindex="0" aria-expanded="false" aria-label="Reveal hint" aria-live="polite"><div aria=hidden="true"><table><tr><th>Spell</th><th>Cubes that increase chance of success</th></tr>
+<tr><td>BLORPLE</td><td>(always works)</td></tr>
+<tr><td>FROTZ</td><td>Change, Light (75% base chance)</td></tr>
+<tr><td>GNUSTO</td><td>Change, Earth (75% base chance)</td></tr>
+<tr><td>LESOCH</td><td>Air, Fire</td></tr>
+<tr><td>MALYON</td><td>Fire, Life</td></tr>
+<tr><td>REZROV</td><td>Change, Earth</td></tr>
+<tr><td>YOMIN</td><td>Mind, Light</td></tr>
+<tr><td>SNAVIG</td><td>Change, Dark</td></tr>
+<tr><td>GIRGOL</td><td>(special, as spell is so powerful)</td></tr>
+<tr><td>LISKON</td><td>Change, Earth</td></tr>
+<tr><td>TINSOT</td><td>Water, Fire</td></tr>
+<tr><td>JINDAK</td><td>Light, Connectivity</td></tr>
+<tr><td>ESPNIS</td><td>Mind, Death</td></tr>
+<tr><td>CASKLY</td><td>Change, Connectivity</td></tr>
+<tr><td>THROCK</td><td>Life, Water</td></tr>
+</table>
+<li>If you have the cube that BLORPLEs you to the Magic Room, it gives an extra-strong power boost to all spells. With this cube in your possession, only the GIRGOL spell can ever fail under normal circumstances.</li></div></div>
 
 
 <h3 id="21.3">When I use a spell on a scroll, the scroll disappears and I can't use the spell again. Help!</h3>
@@ -2799,46 +2812,50 @@ hr {
 
 <h3 id="21.4">Spells and Their Locations</h3>
 
-<div class="spoiler" role="button" tabindex="0" aria-expanded="false" aria-label="Reveal hint" aria-live="polite"><div aria=hidden="true"><pre>  Spell       Location
- &gt; GNUSTO      Your spell book.
- &gt; REZROV      Your spell book.
- &gt; FROTZ       Your spell book.
- &gt; YOMIN       Your spell book.
- &gt; JINDAK      Your spell book.
- &gt; MALYON      Your spell book.
- &gt; LESOCH      Your spell book.
- &gt; BLORPLE     Your spell book after the shadow leaves the Council Chamber.
- &gt; THROCK      At Cliff Middle.
- &gt; CASKLY      In Roc Nest.
- &gt; GIRGOL      In the zipper in Ruins Room.
- &gt; ESPNIS      At Ogre's Lair.
- &gt; LISKON      In the bottle in mid-ocean.
- &gt; TINSOT      At the Glacier.
- &gt; SNAVIG      In the moldy book after you CASKLY it.</pre></div></div>
+<div class="spoiler" role="button" tabindex="0" aria-expanded="false" aria-label="Reveal hint" aria-live="polite"><div aria=hidden="true"><table><tr><th>Spell</th><th>Location</th></tr>
+<tr><td>GNUSTO</td><td>Your spell book.</td></tr>
+<tr><td>REZROV</td><td>Your spell book.</td></tr>
+<tr><td>FROTZ</td><td>Your spell book.</td></tr>
+<tr><td>YOMIN</td><td>Your spell book.</td></tr>
+<tr><td>JINDAK</td><td>Your spell book.</td></tr>
+<tr><td>MALYON</td><td>Your spell book.</td></tr>
+<tr><td>LESOCH</td><td>Your spell book.</td></tr>
+<tr><td>BLORPLE</td><td>Your spell book after the shadow leaves the Council Chamber.</td></tr>
+<tr><td>THROCK</td><td>At Cliff Middle.</td></tr>
+<tr><td>CASKLY</td><td>In Roc Nest.</td></tr>
+<tr><td>GIRGOL</td><td>In the zipper in Ruins Room.</td></tr>
+<tr><td>ESPNIS</td><td>At Ogre's Lair.</td></tr>
+<tr><td>LISKON</td><td>In the bottle in mid-ocean.</td></tr>
+<tr><td>TINSOT</td><td>At the Glacier.</td></tr>
+<tr><td>SNAVIG</td><td>In the moldy book after you CASKLY it.</td></tr>
+</table>
+</div></div>
 
 
 <h2 id="22">How the Points Are Scored</h2>
 
-<div class="spoiler" role="button" tabindex="0" aria-expanded="false" aria-label="Reveal hint" aria-live="polite"><div aria=hidden="true"><pre>  Points  Action
- &gt;   25    getting each of 13 cubes, for a total of 325.
- &gt;   15    reading or using BLORPLE the first time.
- &gt;   10    getting the zipper.
- &gt;   10    getting the flimsy scroll.
- &gt;   10    getting the dirty scroll.
- &gt;   10    getting the stained scroll.
- &gt;   10    getting the dusty scroll.
- &gt;   10    getting the box.
- &gt;   10    getting the damp scroll.
- &gt;   10    getting the white scroll.
- &gt;   10    getting the blue carpet.
- &gt;   10    getting the moldy book.
- &gt;   15    CASKLYing the moldy book.
- &gt;   10    getting the compass rose.
- &gt;   25    answering Belboz and getting the key.
- &gt;   10    getting the vellum scroll.
- &gt;   25    establishing the past at Dungeon Cell.
- &gt;   25    establishing the past at Ruins Room.
- &gt;   50    saving the world (but destroying magic).</pre></div></div>
+<div class="spoiler" role="button" tabindex="0" aria-expanded="false" aria-label="Reveal hint" aria-live="polite"><div aria=hidden="true"><table><tr><th>Points</th><th>Action</th></tr>
+<tr><td>25</td><td>getting each of 13 cubes, for a total of 325.</td></tr>
+<tr><td>15</td><td>reading or using BLORPLE the first time.</td></tr>
+<tr><td>10</td><td>getting the zipper.</td></tr>
+<tr><td>10</td><td>getting the flimsy scroll.</td></tr>
+<tr><td>10</td><td>getting the dirty scroll.</td></tr>
+<tr><td>10</td><td>getting the stained scroll.</td></tr>
+<tr><td>10</td><td>getting the dusty scroll.</td></tr>
+<tr><td>10</td><td>getting the box.</td></tr>
+<tr><td>10</td><td>getting the damp scroll.</td></tr>
+<tr><td>10</td><td>getting the white scroll.</td></tr>
+<tr><td>10</td><td>getting the blue carpet.</td></tr>
+<tr><td>10</td><td>getting the moldy book.</td></tr>
+<tr><td>15</td><td>CASKLYing the moldy book.</td></tr>
+<tr><td>10</td><td>getting the compass rose.</td></tr>
+<tr><td>25</td><td>answering Belboz and getting the key.</td></tr>
+<tr><td>10</td><td>getting the vellum scroll.</td></tr>
+<tr><td>25</td><td>establishing the past at Dungeon Cell.</td></tr>
+<tr><td>25</td><td>establishing the past at Ruins Room.</td></tr>
+<tr><td>50</td><td>saving the world (but destroying magic).</td></tr>
+</table>
+</div></div>
 
 
 <h2 id="23">For Your Amusement</h2>

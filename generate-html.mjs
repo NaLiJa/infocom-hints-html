@@ -159,6 +159,15 @@ img.coverart {
 hr {
     clear: both;
 }
+table {
+    max-width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+}
+td, th {
+    border: solid;
+    padding: 0.5em 1ch;
+}
 </style>
 </head>
 <body>
@@ -190,6 +199,154 @@ hr {
         } else if (node.type === 'page') {
             output += node.content + "\n\n";
         } else if (node.type === 'items') {
+            node.content = node.content.replace(/<pre>([\s\S]+?)<\/pre>/g, (match,text) => {
+                // console.log("***", file, text);
+                const [headerLine, ...lines] = text.split('\n');
+                let totalLine = null;
+                if (/\btotal\b/i.test(lines.at(-1))) {
+                    totalLine = lines.pop();
+                }
+                const headers = [];
+                let mode = 'space';
+                let start = 0;
+
+                if (file === 'seastalk.json') {
+                    for (let i = 0; i < lines.length; i++) {
+                        lines[i] = lines[i].replace(/^  /, " &gt; ");
+                    }
+                } else if (file === 'cutthroa.json') {
+                    for (let i = 0; i < lines.length; i++) {
+                        lines[i] = lines[i].replace(/^The/, " &gt; The").replace(/^ &gt; There are no points/, "  There are no points");
+                    }
+                } else if (file === 'zork1.json') {
+                    lines.shift();
+                }
+
+                if (file === 'hhgg.json' && /1 RELAX/.test(headerLine)) {
+                    lines.unshift(headerLine);
+                    headers.push(
+                        { start: 2, name: "Footnote", end: 4 },
+                        { start: 4, name: "Where to find it", end: null },
+                    );
+                } else if (file === 'hollywoo.json' && /big diamond/.test(headerLine)) {
+                    lines.unshift(headerLine);
+                    headers.push(
+                        { start: 2, name: "Treasure", end: 37 },
+                        { start: 37, name: "Where to find it", end: null },
+                    );
+                } else {
+                    for (let i = 0; i < headerLine.length; i++) {
+                        const char = headerLine[i];
+                        if (mode === 'space') {
+                            if (char === ' ') {
+                                continue;
+                            } else {
+                                start = i;
+                                mode = 'read';
+                            }
+                        } else if (mode === 'read') {
+                            if (char === ' ') {
+                                mode = 'ending?';
+                            } else {
+                                continue;
+                            }
+                        } else if (mode === 'ending?') {
+                            if (char === ' ') {
+                                mode = 'space';
+                                const name = headerLine.substring(start, i - 1);
+                                headers.push({ start, name })
+                            } else {
+                                mode = 'read';
+                            }
+                        }
+                    }
+                    headers.push({ start, name: headerLine.substring(start, headerLine.length), end: null });
+    
+                    for (let i = 1; i < headers.length; i++) {
+                        headers[i - 1].end = headers[i].start;
+                    }
+                }
+
+                if (file === 'cutthroa.json' && headers[0].name === 'Action') {
+                    headers[0].end += 2;
+                    headers[1].start += 2;
+                } else if (file === 'hollywoo.json' && headers[0].name === 'Event') {
+                    headers[0].end--;
+                    headers[1].start--;
+                } else if (file === 'lgop.json' && headers[0].name === 'Item') {
+                    headers[0].start--;
+                    headers[0].end--;
+                    headers[1].start--;
+                } else if (file === 'sorcerer.json' && headers[0].name === 'Potions') {
+                    headers[0].start--;
+                    headers[0].end--;
+                    headers[1].start--;
+                } else if (file === 'suspect.json' && headers[0].name === 'Evidence') {
+                    headers[0].start--;
+                    headers[0].end--;
+                    headers[1].start--;
+                } else if (file === 'trinity.json' && headers[0].name === 'Action') {
+                    headers[0].start--;
+                    headers[0].end--;
+                    headers[1].start--;
+                } else if (file === 'zork2.json' && headers[0].name === 'Treasure') {
+                    headers[0].end++;
+                    headers[1].start++;
+                } else if (file === 'zork1.json') {
+                    headers[1].name = "Value (touch)";
+                    headers[2].name = "Value (case)";
+                }
+
+                const rows = [];
+                for (let line of lines) {
+                    if (/^ &gt; /.test(line)) {
+                        line = line.replace(/^ &gt; /, "  ")
+                        const cells = [];
+                        for (const header of headers) {
+                            const cell = line.substring(header.start, header.end ?? line.length).trim();
+                            cells.push(cell);
+                        }
+                        rows.push(cells);
+                    } else {
+                        const previousRow = rows.at(-1);
+                        for (let i = 0; i < headers.length; i++) {
+                            const header = headers[i];
+                            const cell = line.substring(header.start, header.end ?? line.length).trim();
+                            if (cell !== "") {
+                                previousRow[i] += " " + cell;
+                            }
+                        }
+                    }
+                }
+
+                const totals = {
+                    "bureaucr.json": ["<b>Total</b>", "21 (half of 42)"],
+                    "cutthroa.json": ["<b>Total</b>", "250"],
+                    "enchante.json": ["400", "<b>Total</b>"],
+                    "hhgg.json": ["<b>Total</b>", "400"],
+                    "hollywoo.json": ["<b>Total</b>", "150"],
+                    "lgop.json": ["<b>Total</b>", "from 171 to 429 points"],
+                    "seastalk.json": ["100", "<b>Total</b>"],
+                    "stationf.json": ["80", "<b>Total</b>"],
+                    "trinity.json": ["GRAND TOTAL", "100"],
+                    "ztuu.json": ["100", "<b>Total</b>"],
+                }
+                if (totalLine) {
+                    rows.push(totals[file]);
+                }
+
+                // console.log(file, JSON.stringify(rows.map(r => Object.fromEntries(headers.map(({name}, i) => [name, r[i]]))), null, 2));
+                console.log(file, headers.map(h => h.name));
+                const result =
+                    `<table><tr>${
+                        headers.map(h => `<th>${h.name}</th>`).join('')
+                    }</tr>\n${
+                        rows.map(r => `<tr>${
+                            r.map(c => `<td>${c}</td>`).join('')
+                        }</tr>\n`).join('')
+                    }</table>\n`
+                return result;
+            })
             output += `<div class="spoiler" role="button" tabindex="0" aria-expanded="false" aria-label="Reveal hint" aria-live="polite"><div aria=hidden="true">${node.content}</div></div>\n\n`;
         } else if (node.type === 'hints') {
             output += "<ol>\n";
