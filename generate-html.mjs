@@ -69,6 +69,7 @@ img.coverart {
 const replacementTitles = {
     'seastalk.json': "Seastalker",
     'hhgg.json': "The Hitchhiker's Guide to the Galaxy",
+    'wishbrin.json': "Wishbringer",
 }
 
 const coverArt = {
