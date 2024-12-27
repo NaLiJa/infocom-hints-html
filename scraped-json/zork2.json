@@ -7,7 +7,7 @@
             "child": {
                 "type": "page",
                 "title": "About PRIZM Invisiclues",
-                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><div>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</div>"
             }
         },
         {
@@ -15,7 +15,7 @@
             "child": {
                 "type": "page",
                 "title": "Credits",
-                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>from material supplied by:</p><p>  Graeme Cree</p><p>  Volker Blasius</p><p>  Mike Threepoint</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Zork II</b> and all other game names are registered trade marks of Activision.</p>"
+                "content": "<div>Compiled, edited, and z-coded by:</div><div>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</div><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><div>from material supplied by:</div><div>  Graeme Cree</div><div>  Volker Blasius</div><p>  Mike Threepoint</p><div>Thanks also to:</div><div>  Brian Hall</div><div>  L. Ross Raszewski</div><p>  Graham Nelson.</p><div>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </div><div>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </div><div><b>Zork II</b> and all other game names are registered trade marks of Activision.</div>"
             }
         },
         {
@@ -551,7 +551,7 @@
                             "title": "What does the engraving say?",
                             "hints": [
                                 "It is the logo for a Frobozzco subsidiary.",
-                                "{-}",
+                                "{-}<div>obo                               obo </div><div>                             r           z </div><p>AGI         becomes     f        MAGIC        z</p><div>E L                              WELL </div><div>                        c                     y </div><div>mpa                          o           n </div><div>                                  mpa{+}</div>",
                                 "or \"Frobozz Magic Well Company\" as can be clearly read at the top of the well."
                             ]
                         }
@@ -1033,7 +1033,7 @@
                             "hints": [
                                 "Try looking into the blue sphere?",
                                 "It is actually clear, not white.",
-                                "",
+                                "<div>For any man with half an eye</div><div>What stands before him he may spy</div><div>But optics sharp it needs and keen</div><div>To see what is not to be seen</div><div>     --\"Sleuth\"</div>",
                                 "Clear glass is invisible under water.",
                                 "It is in the aquarium."
                             ]
@@ -1152,7 +1152,7 @@
             "child": {
                 "type": "items",
                 "title": "How Points are Earned",
-                "content": "<p> (Use only as a last resort)</p><p><b>Treasures: their values and locations</b></p><pre>  Treasure          Point Value  Where Found\n  pearl necklace        15       in the Pearl Room\n  gold key              15       hanging on the unicorn\n  dragon statuette      20       in the chest\n  red sphere            20       in the Dingy Closet\n  fancy violin          20       in the iron box\n  portrait              20       in the Bank Chairman's office\n  moby ruby             15       in the Lava Room\n  zorkmid bills         25       in the Bank Vault\n  blue sphere           20       in the Dreary Room\n  package of candy      15       under the pool of tears\n  black sphere          30       you create it\n  gaudy crown           20       in the rusty box\n  clear sphere          20       in the aquarium\n  Flathead Stamp        10       in the purple book\n  gigantic dog collar   15       in the Kennel\n  gold zorkmid coin     20       on the narrow volcano ledge\n  Wizard's wand         30       the Wizard has it</pre><p><b>Other Points</b></p><pre>  Action                            Points\n  solving the riddle                   5\n  getting to the top of the well      10\n  killing the dragon                   5\n  entering the Wizard's Workshop      10\n  solving the Oddly Angled Room maze   5\n  entering Cerberus' room             10\n  entering the Crypt anteroom          3\n  entering the Crypt                   2\n  giving treasures to the demon        2 each, maximum 20.</pre>"
+                "content": "<p> (Use only as a last resort)</p><div><b>Treasures: their values and locations</b></div><pre>  Treasure          Point Value  Where Found\n &gt; pearl necklace        15       in the Pearl Room\n &gt; gold key              15       hanging on the unicorn\n &gt; dragon statuette      20       in the chest\n &gt; red sphere            20       in the Dingy Closet\n &gt; fancy violin          20       in the iron box\n &gt; portrait              20       in the Bank Chairman's office\n &gt; moby ruby             15       in the Lava Room\n &gt; zorkmid bills         25       in the Bank Vault\n &gt; blue sphere           20       in the Dreary Room\n &gt; package of candy      15       under the pool of tears\n &gt; black sphere          30       you create it\n &gt; gaudy crown           20       in the rusty box\n &gt; clear sphere          20       in the aquarium\n &gt; Flathead Stamp        10       in the purple book\n &gt; gigantic dog collar   15       in the Kennel\n &gt; gold zorkmid coin     20       on the narrow volcano ledge\n &gt; Wizard's wand         30       the Wizard has it</pre><div><b>Other Points</b></div><pre>  Action                            Points\n &gt; solving the riddle                   5\n &gt; getting to the top of the well      10\n &gt; killing the dragon                   5\n &gt; entering the Wizard's Workshop      10\n &gt; solving the Oddly Angled Room maze   5\n &gt; entering Cerberus' room             10\n &gt; entering the Crypt anteroom          3\n &gt; entering the Crypt                   2\n &gt; giving treasures to the demon        2 each, maximum 20.</pre>"
             }
         },
         {
@@ -1160,7 +1160,7 @@
             "child": {
                 "type": "items",
                 "title": "For Your Amusement",
-                "content": "<p>Have you tried:</p><p>setting off the bomb in the Dusty Room and then waiting in the balloon tied to the ledge?</p><p>petting or killing Cerberus after putting on his collar?</p><p>removing Cerberus' collar?</p><p>attacking the Princess?</p><p>taking the serpent?</p><p>diagnosing yourself while under certain spells?</p><p>waiting around the Topiary?</p>"
+                "content": "<div>Have you tried:</div><li>setting off the bomb in the Dusty Room and then waiting in the balloon tied to the ledge?</li><li>petting or killing Cerberus after putting on his collar?</li><li>removing Cerberus' collar?</li><li>attacking the Princess?</li><li>taking the serpent?</li><li>diagnosing yourself while under certain spells?</li><li>waiting around the Topiary?</li>"
             }
         }
     ]

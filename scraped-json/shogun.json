@@ -7,7 +7,7 @@
             "child": {
                 "type": "page",
                 "title": "About PRIZM Invisiclues",
-                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><div>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</div>"
             }
         },
         {
@@ -15,7 +15,7 @@
             "child": {
                 "type": "page",
                 "title": "Credits",
-                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>from material supplied by:</p><p>  Steven Marsh</p><p>  Dave Rees</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Shogun</b> and all other game names are registered trade marks of Activision.</p>"
+                "content": "<div>Compiled, edited, and z-coded by:</div><div>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</div><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><div>from material supplied by:</div><div>  Steven Marsh</div><p>  Dave Rees</p><div>Thanks also to:</div><div>  Brian Hall</div><div>  L. Ross Raszewski</div><p>  Graham Nelson.</p><div>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </div><div>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </div><div><b>Shogun</b> and all other game names are registered trade marks of Activision.</div>"
             }
         },
         {
@@ -1452,7 +1452,7 @@
                             "type": "hints",
                             "title": "Read me first.",
                             "hints": [
-                                "This section tells you how the points in each scene are scored. You get five points for each correct action listed. It is possible to finish some scenes without getting all the points."
+                                "This section tells you how the points in each scene are scored. You get five points for each correct action listed. It is possible to finish some scenes without getting all the points.<div>Think twice before reading further! Don't spoil the game for yourself!</div>"
                             ]
                         }
                     },
@@ -1710,7 +1710,7 @@
             "child": {
                 "type": "items",
                 "title": "Have you tried?",
-                "content": "<p>Amusing things to try...</p><p>HUG VINCK (or any other of your crew)</p><p>BOW TO VINCK (or any other Dutchman)</p><p>Wandering around Anjiro naked.</p><p>KICK HEAD (of Sebastio's disrespectful henchman)</p><p>WHAT ARE COJONES (since Rodrigues wonders if you have any)</p><p>DRAW THE WORLD (for Yaemon)</p><p>SING (other than during the escape)</p><p>Find out the name of your sword (after the Earthquake scene).</p><p>LOOK UP \"TSURU\" IN DICTIONARY</p>"
+                "content": "<div>Amusing things to try...</div><li>HUG VINCK (or any other of your crew)</li><li>BOW TO VINCK (or any other Dutchman)</li><li>Wandering around Anjiro naked.</li><li>KICK HEAD (of Sebastio's disrespectful henchman)</li><li>WHAT ARE COJONES (since Rodrigues wonders if you have any)</li><li>DRAW THE WORLD (for Yaemon)</li><li>SING (other than during the escape)</li><li>Find out the name of your sword (after the Earthquake scene).</li><li>LOOK UP \"TSURU\" IN DICTIONARY</li>"
             }
         }
     ]

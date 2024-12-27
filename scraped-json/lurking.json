@@ -7,7 +7,7 @@
             "child": {
                 "type": "page",
                 "title": "About PRIZM Invisiclues",
-                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><div>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</div>"
             }
         },
         {
@@ -15,7 +15,7 @@
             "child": {
                 "type": "page",
                 "title": "Credits",
-                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>from material supplied by:</p><p>  Paul David Doherty</p><p>  Dave Newkirk</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>The Lurking Horror</b> and all other game names are registered trade marks of Activision.</p>"
+                "content": "<div>Compiled, edited, and z-coded by:</div><div>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</div><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><div>from material supplied by:</div><div>  Paul David Doherty</div><p>  Dave Newkirk</p><div>Thanks also to:</div><div>  Brian Hall</div><div>  L. Ross Raszewski</div><p>  Graham Nelson.</p><div>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </div><div>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </div><div><b>The Lurking Horror</b> and all other game names are registered trade marks of Activision.</div>"
             }
         },
         {
@@ -841,7 +841,7 @@
                         "child": {
                             "type": "items",
                             "title": "...the hacker about.",
-                            "content": "<p>Himself</p><p>Keyring</p><p>Chinese food</p><p>Master key</p><p>Missing students</p><p>PC</p><p>Lovecraft</p><p>Stone</p><p>Urchins</p>"
+                            "content": "<li>Himself</li><li>Keyring</li><li>Chinese food</li><li>Master key</li><li>Missing students</li><li>PC</li><li>Lovecraft</li><li>Stone</li><li>Urchins</li>"
                         }
                     },
                     {
@@ -849,7 +849,7 @@
                         "child": {
                             "type": "items",
                             "title": "...the urchin about.",
-                            "content": "<p>Himself</p><p>Missing students</p><p>Missing urchins</p>"
+                            "content": "<li>Himself</li><li>Missing students</li><li>Missing urchins</li>"
                         }
                     },
                     {
@@ -857,7 +857,7 @@
                         "child": {
                             "type": "items",
                             "title": "...the professor about.",
-                            "content": "<p>Term paper</p><p>Sign-up sheet</p><p>Missing students</p><p>Paper</p><p>Vat</p><p>Lovecraft</p><p>Brass hyrax</p>"
+                            "content": "<li>Term paper</li><li>Sign-up sheet</li><li>Missing students</li><li>Paper</li><li>Vat</li><li>Lovecraft</li><li>Brass hyrax</li>"
                         }
                     }
                 ]
@@ -868,7 +868,7 @@
             "child": {
                 "type": "items",
                 "title": "How the Points Are Scored",
-                "content": "<p>5 points are scored for each of the following 20 actions, resulting in a total of 100.</p><p>Getting the stone.</p><p>Getting the master key from the hacker.</p><p>Entering Ancient Storage.</p><p>Entering the brick tunnel.</p><p>Entering the steam tunnels.</p><p>Killing the rats.</p><p>Climbing the rope.</p><p>Getting the note.</p><p>Defeating the maintenance man.</p><p>Defeating the Professor.</p><p>Finding the hand.</p><p>Defeating the flier.</p><p>Reanimating the hand.</p><p>Getting the boltcutter.</p><p>Defeating the missing urchins.</p><p>Entering the concrete box.</p><p>Destroying the brick wall.</p><p>Destroying the slime curtain.</p><p>Destroying the mass.</p><p>Destroying the dark creature at the end.</p>"
+                "content": "<div>5 points are scored for each of the following 20 actions, resulting in a total of 100.</div><li>Getting the stone.</li><li>Getting the master key from the hacker.</li><li>Entering Ancient Storage.</li><li>Entering the brick tunnel.</li><li>Entering the steam tunnels.</li><li>Killing the rats.</li><li>Climbing the rope.</li><li>Getting the note.</li><li>Defeating the maintenance man.</li><li>Defeating the Professor.</li><li>Finding the hand.</li><li>Defeating the flier.</li><li>Reanimating the hand.</li><li>Getting the boltcutter.</li><li>Defeating the missing urchins.</li><li>Entering the concrete box.</li><li>Destroying the brick wall.</li><li>Destroying the slime curtain.</li><li>Destroying the mass.</li><li>Destroying the dark creature at the end.</li>"
             }
         },
         {
@@ -876,7 +876,7 @@
             "child": {
                 "type": "items",
                 "title": "For Your Amusement",
-                "content": "<p>Expose this section only after you have completed the game. If you look at this section before finishing the game, you may learn the answers to puzzles you have not yet solved.</p><p>Have you tried...</p><p>taking the pc out of the terminal room?</p><p>pushing the help key or asking the hacker for help at various times?</p><p>turning off the pc while the hacker is fixing the bug?</p><p>showing the hacker Chinese food? the stone? the hand? the rat?</p><p>giving the hacker the bottle of Coke?</p><p>reading the graffiti in the elevator? several times?</p><p>putting things in the metal flask and then getting them?</p><p>trying to escape the rats by climbing on the coaxial cables?</p><p>eating the dead rat?</p><p>attacking the urchin?</p><p>reading the inscription over the west entrance to G.U.E. Tech?</p><p>throwing the axe or the stone at the maintenance man?</p><p>waiting around while the maintenance man slips on the wax?</p><p>examining, smelling, and listening to the various creatures?</p><p>opening and looking in at the iron plate near the altar?</p><p>pouring Coke on the pentagram?</p><p>putting the dead rat in the vat?</p><p>pouring the tarry liquid?</p><p>microwaving the reanimated hand?</p><p>watching the elevator open the wall from the Concrete Box?</p>"
+                "content": "<p>Expose this section only after you have completed the game. If you look at this section before finishing the game, you may learn the answers to puzzles you have not yet solved.</p><div>Have you tried...</div><li>taking the pc out of the terminal room?</li><li>pushing the help key or asking the hacker for help at various times?</li><li>turning off the pc while the hacker is fixing the bug?</li><li>showing the hacker Chinese food? the stone? the hand? the rat?</li><li>giving the hacker the bottle of Coke?</li><li>reading the graffiti in the elevator? several times?</li><li>putting things in the metal flask and then getting them?</li><li>trying to escape the rats by climbing on the coaxial cables?</li><li>eating the dead rat?</li><li>attacking the urchin?</li><li>reading the inscription over the west entrance to G.U.E. Tech?</li><li>throwing the axe or the stone at the maintenance man?</li><li>waiting around while the maintenance man slips on the wax?</li><li>examining, smelling, and listening to the various creatures?</li><li>opening and looking in at the iron plate near the altar?</li><li>pouring Coke on the pentagram?</li><li>putting the dead rat in the vat?</li><li>pouring the tarry liquid?</li><li>microwaving the reanimated hand?</li><li>watching the elevator open the wall from the Concrete Box?</li>"
             }
         }
     ]

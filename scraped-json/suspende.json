@@ -7,7 +7,7 @@
             "child": {
                 "type": "page",
                 "title": "About PRIZM Invisiclues",
-                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><div>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</div>"
             }
         },
         {
@@ -15,7 +15,7 @@
             "child": {
                 "type": "page",
                 "title": "Credits",
-                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>from material supplied by:</p><p>  Paul David Doherty</p><p>  Graeme Cree</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Suspended</b> and all other game names are registered trade marks of Activision.</p>"
+                "content": "<div>Compiled, edited, and z-coded by:</div><div>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</div><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><div>from material supplied by:</div><div>  Paul David Doherty</div><p>  Graeme Cree</p><div>Thanks also to:</div><div>  Brian Hall</div><div>  L. Ross Raszewski</div><p>  Graham Nelson.</p><div>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </div><div>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </div><div><b>Suspended</b> and all other game names are registered trade marks of Activision.</div>"
             }
         },
         {
@@ -565,7 +565,7 @@
                                 "Have you tried killing them?",
                                 "Have you tried preventing them from getting to the Biological Area?",
                                 "Have you tried showing them what's wrong with the complex?",
-                                "Well, there are two ways, though the first gets you only another 75 cycles:"
+                                "Well, there are two ways, though the first gets you only another 75 cycles:<div>  1. Strand them in Hallway End by having a robot take the car to the Biological Area.</div><div>  2. Have a robot steal the bag once they go to sleep. When the robot does this, the people will awaken and chase the robot. Have the robot lead the people to the Maintenance Area beneath the FCs.</div>"
                             ]
                         }
                     },
@@ -713,7 +713,7 @@
                                         "hints": [
                                             "Try shutting everything off.",
                                             "Throw the Switches which control the Transit System.",
-                                            "In the following order:"
+                                            "In the following order:<div>   1. Taxis</div><div>   2. Glidewalk</div><div>   3. Floaters (when there are no people in them)</div>"
                                         ]
                                     }
                                 }
@@ -929,7 +929,7 @@
             "child": {
                 "type": "items",
                 "title": "For Your Amusement",
-                "content": "<p>(after you've finished the game)</p><p>Have you tried...</p><p>having Poet describe everyone?</p><p>having Whiz ask about Gregory Franklin?</p><p>having all the robots read the plaque in the Sterilization Chamber?</p><p>having Poet look while he's in the same room as Fred?</p><p>turning all the Hydroponics Levers down to zero?</p><p>attacking the people with the wire cutter?</p><p>having Auda go to the Activities Area and wait for the people to get there after they fix the acid leak?</p><p>having Auda hang around with the people while they wait for the car?</p><p>asking the robots to kiss one another?</p>"
+                "content": "<p>(after you've finished the game)</p><div>Have you tried...</div><li>having Poet describe everyone?</li><li>having Whiz ask about Gregory Franklin?</li><li>having all the robots read the plaque in the Sterilization Chamber?</li><li>having Poet look while he's in the same room as Fred?</li><li>turning all the Hydroponics Levers down to zero?</li><li>attacking the people with the wire cutter?</li><li>having Auda go to the Activities Area and wait for the people to get there after they fix the acid leak?</li><li>having Auda hang around with the people while they wait for the car?</li><li>asking the robots to kiss one another?</li>"
             }
         }
     ]

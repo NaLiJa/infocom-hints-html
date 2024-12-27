@@ -7,7 +7,7 @@
             "child": {
                 "type": "page",
                 "title": "About PRIZM Invisiclues",
-                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><div>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</div>"
             }
         },
         {
@@ -15,7 +15,7 @@
             "child": {
                 "type": "page",
                 "title": "Credits",
-                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>from material supplied by:</p><p>  Paul David Doherty</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Infidel</b> and all other game names are registered trade marks of Activision.</p>"
+                "content": "<div>Compiled, edited, and z-coded by:</div><div>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</div><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><div>from material supplied by:</div><p>  Paul David Doherty</p><div>Thanks also to:</div><div>  Brian Hall</div><div>  L. Ross Raszewski</div><p>  Graham Nelson.</p><div>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </div><div>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </div><div><b>Infidel</b> and all other game names are registered trade marks of Activision.</div>"
             }
         },
         {
@@ -644,7 +644,7 @@
                         "child": {
                             "type": "page",
                             "title": "Introduction",
-                            "content": "<p>This dictionary is included for those players who feel that the translations of one or two symbols would be helpful. It is one interpretation of what the hieroglyphs mean; others may be equally valid. (Then again, they may not.)</p>"
+                            "content": "<div>This dictionary is included for those players who feel that the translations of one or two symbols would be helpful. It is one interpretation of what the hieroglyphs mean; others may be equally valid. (Then again, they may not.)</div>"
                         }
                     },
                     {
@@ -652,7 +652,7 @@
                         "child": {
                             "type": "page",
                             "title": ".",
-                            "content": "<p>On/over</p>"
+                            "content": "<div>On/over</div>"
                         }
                     },
                     {
@@ -660,7 +660,7 @@
                         "child": {
                             "type": "page",
                             "title": ".",
-                            "content": "<p>Under/beneath</p>"
+                            "content": "<div>Under/beneath</div>"
                         }
                     },
                     {
@@ -668,7 +668,7 @@
                         "child": {
                             "type": "page",
                             "title": ".-",
-                            "content": "<p>West</p>"
+                            "content": "<div>West</div>"
                         }
                     },
                     {
@@ -676,7 +676,7 @@
                         "child": {
                             "type": "page",
                             "title": "-.",
-                            "content": "<p>East</p>"
+                            "content": "<div>East</div>"
                         }
                     },
                     {
@@ -684,7 +684,7 @@
                         "child": {
                             "type": "page",
                             "title": "/",
-                            "content": "<p>North-east</p>"
+                            "content": "<div>North-east</div>"
                         }
                     },
                     {
@@ -692,7 +692,7 @@
                         "child": {
                             "type": "page",
                             "title": "\\",
-                            "content": "<p>North-west</p>"
+                            "content": "<div>North-west</div>"
                         }
                     },
                     {
@@ -700,7 +700,7 @@
                         "child": {
                             "type": "page",
                             "title": "/",
-                            "content": "<p>South-west</p>"
+                            "content": "<div>South-west</div>"
                         }
                     },
                     {
@@ -708,7 +708,7 @@
                         "child": {
                             "type": "page",
                             "title": "\\",
-                            "content": "<p>South-east</p>"
+                            "content": "<div>South-east</div>"
                         }
                     },
                     {
@@ -716,7 +716,7 @@
                         "child": {
                             "type": "page",
                             "title": "!",
-                            "content": "<p>South</p>"
+                            "content": "<div>South</div>"
                         }
                     },
                     {
@@ -724,7 +724,7 @@
                         "child": {
                             "type": "page",
                             "title": "/",
-                            "content": "<p>To</p>"
+                            "content": "<div>To</div>"
                         }
                     },
                     {
@@ -732,7 +732,7 @@
                         "child": {
                             "type": "page",
                             "title": "\\/",
-                            "content": "<p>Until</p>"
+                            "content": "<div>Until</div>"
                         }
                     },
                     {
@@ -740,7 +740,7 @@
                         "child": {
                             "type": "page",
                             "title": "//\\\\",
-                            "content": "<p>Treasures</p>"
+                            "content": "<div>Treasures</div>"
                         }
                     },
                     {
@@ -748,7 +748,7 @@
                         "child": {
                             "type": "page",
                             "title": "/!\\",
-                            "content": "<p>Mast</p>"
+                            "content": "<div>Mast</div>"
                         }
                     },
                     {
@@ -756,7 +756,7 @@
                         "child": {
                             "type": "page",
                             "title": "!!!",
-                            "content": "<p>Plaster</p>"
+                            "content": "<div>Plaster</div>"
                         }
                     },
                     {
@@ -764,7 +764,7 @@
                         "child": {
                             "type": "page",
                             "title": "!---!",
-                            "content": "<p>Large area</p>"
+                            "content": "<div>Large area</div>"
                         }
                     },
                     {
@@ -772,7 +772,7 @@
                         "child": {
                             "type": "page",
                             "title": "!--!",
-                            "content": "<p>Small area</p>"
+                            "content": "<div>Small area</div>"
                         }
                     },
                     {
@@ -780,7 +780,7 @@
                         "child": {
                             "type": "page",
                             "title": "! !",
-                            "content": "<p>Room</p>"
+                            "content": "<div>Room</div>"
                         }
                     },
                     {
@@ -788,7 +788,7 @@
                         "child": {
                             "type": "page",
                             "title": "!=!",
-                            "content": "<p>Lintel</p>"
+                            "content": "<div>Lintel</div>"
                         }
                     },
                     {
@@ -796,7 +796,7 @@
                         "child": {
                             "type": "page",
                             "title": "! !",
-                            "content": "<p>Doorway/door</p>"
+                            "content": "<div>Doorway/door</div>"
                         }
                     },
                     {
@@ -804,7 +804,7 @@
                         "child": {
                             "type": "page",
                             "title": "!-!",
-                            "content": "<p>Entrance</p>"
+                            "content": "<div>Entrance</div>"
                         }
                     },
                     {
@@ -812,7 +812,7 @@
                         "child": {
                             "type": "page",
                             "title": "(=  =)",
-                            "content": "<p>Niches</p>"
+                            "content": "<div>Niches</div>"
                         }
                     },
                     {
@@ -820,7 +820,7 @@
                         "child": {
                             "type": "page",
                             "title": "(.)",
-                            "content": "<p>Between</p>"
+                            "content": "<div>Between</div>"
                         }
                     },
                     {
@@ -828,7 +828,7 @@
                         "child": {
                             "type": "page",
                             "title": "(+)",
-                            "content": "<p>Clothing</p>"
+                            "content": "<div>Clothing</div>"
                         }
                     },
                     {
@@ -836,7 +836,7 @@
                         "child": {
                             "type": "page",
                             "title": "+/+",
-                            "content": "<p>Injury</p>"
+                            "content": "<div>Injury</div>"
                         }
                     },
                     {
@@ -844,7 +844,7 @@
                         "child": {
                             "type": "page",
                             "title": "(*)",
-                            "content": "<p>Appear</p>"
+                            "content": "<div>Appear</div>"
                         }
                     },
                     {
@@ -852,7 +852,7 @@
                         "child": {
                             "type": "page",
                             "title": "(",
-                            "content": "<p>Open</p>"
+                            "content": "<div>Open</div>"
                         }
                     },
                     {
@@ -860,7 +860,7 @@
                         "child": {
                             "type": "page",
                             "title": "))",
-                            "content": "<p>Turn</p>"
+                            "content": "<div>Turn</div>"
                         }
                     },
                     {
@@ -868,7 +868,7 @@
                         "child": {
                             "type": "page",
                             "title": ")(",
-                            "content": "<p>Mummy</p>"
+                            "content": "<div>Mummy</div>"
                         }
                     },
                     {
@@ -876,7 +876,7 @@
                         "child": {
                             "type": "page",
                             "title": "(())",
-                            "content": "<p>All</p>"
+                            "content": "<div>All</div>"
                         }
                     },
                     {
@@ -884,7 +884,7 @@
                         "child": {
                             "type": "page",
                             "title": "-)",
-                            "content": "<p>Will</p>"
+                            "content": "<div>Will</div>"
                         }
                     },
                     {
@@ -892,7 +892,7 @@
                         "child": {
                             "type": "page",
                             "title": "->",
-                            "content": "<p>Through</p>"
+                            "content": "<div>Through</div>"
                         }
                     },
                     {
@@ -900,7 +900,7 @@
                         "child": {
                             "type": "page",
                             "title": "<-*",
-                            "content": "<p>Place/put</p>"
+                            "content": "<div>Place/put</div>"
                         }
                     },
                     {
@@ -908,7 +908,7 @@
                         "child": {
                             "type": "page",
                             "title": "*->",
-                            "content": "<p>Remove</p>"
+                            "content": "<div>Remove</div>"
                         }
                     },
                     {
@@ -916,7 +916,7 @@
                         "child": {
                             "type": "page",
                             "title": "...",
-                            "content": "<p>Then</p>"
+                            "content": "<div>Then</div>"
                         }
                     },
                     {
@@ -924,7 +924,7 @@
                         "child": {
                             "type": "page",
                             "title": "<...",
-                            "content": "<p>Return</p>"
+                            "content": "<div>Return</div>"
                         }
                     },
                     {
@@ -932,7 +932,7 @@
                         "child": {
                             "type": "page",
                             "title": "...>",
-                            "content": "<p>Go/travel</p>"
+                            "content": "<div>Go/travel</div>"
                         }
                     },
                     {
@@ -940,7 +940,7 @@
                         "child": {
                             "type": "page",
                             "title": ">...",
-                            "content": "<p>From</p>"
+                            "content": "<div>From</div>"
                         }
                     },
                     {
@@ -948,7 +948,7 @@
                         "child": {
                             "type": "page",
                             "title": "--->>",
-                            "content": "<p>Pathway</p>"
+                            "content": "<div>Pathway</div>"
                         }
                     },
                     {
@@ -956,7 +956,7 @@
                         "child": {
                             "type": "page",
                             "title": "---",
-                            "content": "<p>Papyrus</p>"
+                            "content": "<div>Papyrus</div>"
                         }
                     },
                     {
@@ -964,7 +964,7 @@
                         "child": {
                             "type": "page",
                             "title": "-",
-                            "content": "<p>Lies/rests</p>"
+                            "content": "<div>Lies/rests</div>"
                         }
                     },
                     {
@@ -972,7 +972,7 @@
                         "child": {
                             "type": "page",
                             "title": "=",
-                            "content": "<p>Winds</p>"
+                            "content": "<div>Winds</div>"
                         }
                     },
                     {
@@ -980,7 +980,7 @@
                         "child": {
                             "type": "page",
                             "title": "-!-",
-                            "content": "<p>Balance</p>"
+                            "content": "<div>Balance</div>"
                         }
                     },
                     {
@@ -988,7 +988,7 @@
                         "child": {
                             "type": "page",
                             "title": "=!=",
-                            "content": "<p>Offering</p>"
+                            "content": "<div>Offering</div>"
                         }
                     },
                     {
@@ -996,7 +996,7 @@
                         "child": {
                             "type": "page",
                             "title": "=",
-                            "content": "<p>Book</p>"
+                            "content": "<div>Book</div>"
                         }
                     },
                     {
@@ -1004,7 +1004,7 @@
                         "child": {
                             "type": "page",
                             "title": ";",
-                            "content": "<p>With</p>"
+                            "content": "<div>With</div>"
                         }
                     },
                     {
@@ -1012,7 +1012,7 @@
                         "child": {
                             "type": "page",
                             "title": ":",
-                            "content": "<p>A</p>"
+                            "content": "<div>A</div>"
                         }
                     },
                     {
@@ -1020,7 +1020,7 @@
                         "child": {
                             "type": "page",
                             "title": "::",
-                            "content": "<p>And</p>"
+                            "content": "<div>And</div>"
                         }
                     },
                     {
@@ -1028,7 +1028,7 @@
                         "child": {
                             "type": "page",
                             "title": "#",
-                            "content": "<p>The</p>"
+                            "content": "<div>The</div>"
                         }
                     },
                     {
@@ -1036,7 +1036,7 @@
                         "child": {
                             "type": "page",
                             "title": "#.",
-                            "content": "<p>This</p>"
+                            "content": "<div>This</div>"
                         }
                     },
                     {
@@ -1044,7 +1044,7 @@
                         "child": {
                             "type": "page",
                             "title": "*",
-                            "content": "<p>Ra</p>"
+                            "content": "<div>Ra</div>"
                         }
                     },
                     {
@@ -1052,7 +1052,7 @@
                         "child": {
                             "type": "page",
                             "title": "*",
-                            "content": "<p>dawn</p>"
+                            "content": "<div>dawn</div>"
                         }
                     },
                     {
@@ -1060,7 +1060,7 @@
                         "child": {
                             "type": "page",
                             "title": "*",
-                            "content": "<p>Night</p>"
+                            "content": "<div>Night</div>"
                         }
                     },
                     {
@@ -1068,7 +1068,7 @@
                         "child": {
                             "type": "page",
                             "title": "**",
-                            "content": "<p>New</p>"
+                            "content": "<div>New</div>"
                         }
                     },
                     {
@@ -1076,7 +1076,7 @@
                         "child": {
                             "type": "page",
                             "title": "!*",
-                            "content": "<p>Gold</p>"
+                            "content": "<div>Gold</div>"
                         }
                     },
                     {
@@ -1084,7 +1084,7 @@
                         "child": {
                             "type": "page",
                             "title": "*!",
-                            "content": "<p>Silver</p>"
+                            "content": "<div>Silver</div>"
                         }
                     },
                     {
@@ -1092,7 +1092,7 @@
                         "child": {
                             "type": "page",
                             "title": ">*>",
-                            "content": "<p>Scarab</p>"
+                            "content": "<div>Scarab</div>"
                         }
                     },
                     {
@@ -1100,7 +1100,7 @@
                         "child": {
                             "type": "page",
                             "title": "<.>",
-                            "content": "<p>One</p>"
+                            "content": "<div>One</div>"
                         }
                     },
                     {
@@ -1108,7 +1108,7 @@
                         "child": {
                             "type": "page",
                             "title": "<:>",
-                            "content": "<p>Two</p>"
+                            "content": "<div>Two</div>"
                         }
                     },
                     {
@@ -1116,7 +1116,7 @@
                         "child": {
                             "type": "page",
                             "title": "<:.>",
-                            "content": "<p>Three</p>"
+                            "content": "<div>Three</div>"
                         }
                     },
                     {
@@ -1124,7 +1124,7 @@
                         "child": {
                             "type": "page",
                             "title": "<::>",
-                            "content": "<p>Four</p>"
+                            "content": "<div>Four</div>"
                         }
                     },
                     {
@@ -1132,7 +1132,7 @@
                         "child": {
                             "type": "page",
                             "title": "<::.>",
-                            "content": "<p>Five</p>"
+                            "content": "<div>Five</div>"
                         }
                     },
                     {
@@ -1140,7 +1140,7 @@
                         "child": {
                             "type": "page",
                             "title": "<:::>",
-                            "content": "<p>Six</p>"
+                            "content": "<div>Six</div>"
                         }
                     },
                     {
@@ -1148,7 +1148,7 @@
                         "child": {
                             "type": "page",
                             "title": "<:::.>",
-                            "content": "<p>Seven</p>"
+                            "content": "<div>Seven</div>"
                         }
                     },
                     {
@@ -1156,7 +1156,7 @@
                         "child": {
                             "type": "page",
                             "title": "<::::>",
-                            "content": "<p>Eight</p>"
+                            "content": "<div>Eight</div>"
                         }
                     },
                     {
@@ -1164,7 +1164,7 @@
                         "child": {
                             "type": "page",
                             "title": "<::::.>",
-                            "content": "<p>Nine</p>"
+                            "content": "<div>Nine</div>"
                         }
                     },
                     {
@@ -1172,7 +1172,7 @@
                         "child": {
                             "type": "page",
                             "title": "<+>",
-                            "content": "<p>Rutabaga</p>"
+                            "content": "<div>Rutabaga</div>"
                         }
                     },
                     {
@@ -1180,7 +1180,7 @@
                         "child": {
                             "type": "page",
                             "title": "(@)",
-                            "content": "<p>First</p>"
+                            "content": "<div>First</div>"
                         }
                     },
                     {
@@ -1188,7 +1188,7 @@
                         "child": {
                             "type": "page",
                             "title": "(@@)",
-                            "content": "<p>Second</p>"
+                            "content": "<div>Second</div>"
                         }
                     },
                     {
@@ -1196,7 +1196,7 @@
                         "child": {
                             "type": "page",
                             "title": "(@@@)",
-                            "content": "<p>Third</p>"
+                            "content": "<div>Third</div>"
                         }
                     },
                     {
@@ -1204,7 +1204,7 @@
                         "child": {
                             "type": "page",
                             "title": "(@@@@)",
-                            "content": "<p>Fourth</p>"
+                            "content": "<div>Fourth</div>"
                         }
                     },
                     {
@@ -1212,7 +1212,7 @@
                         "child": {
                             "type": "page",
                             "title": "!@!",
-                            "content": "<p>Queen/she/her</p>"
+                            "content": "<div>Queen/she/her</div>"
                         }
                     },
                     {
@@ -1220,7 +1220,7 @@
                         "child": {
                             "type": "page",
                             "title": "@=",
-                            "content": "<p>Tennis racket</p>"
+                            "content": "<div>Tennis racket</div>"
                         }
                     }
                 ]
@@ -1231,7 +1231,7 @@
             "child": {
                 "type": "items",
                 "title": "How Points Are Scored",
-                "content": "<p>(use as a last resort)</p><pre>  Object                   Location          Value\n  diamond cluster          Room of Nephthys    5\n  emerald cluster          Room of Isis        5\n  opal cluster             Room of Neith       5\n  ruby cluster             Room of Selkis      5\n  beam                     barge              15\n  golden chalice           Golden Alcove      15\n  silver chalice           Silver Alcove      15\n  ancient book             in slab in Annex   10\n  scarab                   Treasury           10\nOther points are awarded for:\n  breaking the lock on the trunk (5)\n  finding the pyramid while digging (25)\n  putting the stone cube in the opening (20)\n  entering the Circular Room (30)\n  entering the Room of Isis (25)\n  entering the Room of Neith (25)\n  entering the Room of Nephthys (25)\n  entering the Room of Selkis (25)\n  taking the right bricks out of the panel in the Cube (25)\n  breaking the plaster at Bottom of Stairs (10)\n  breaking the plaster at the west end of the Narrow Passageway (25)\n  opening the sealed door in the north Antechamber (40)\n  opening the sarcophagus (35).</pre>"
+                "content": "<p>(use as a last resort)</p><pre>  Object                   Location          Value\n &gt; diamond cluster          Room of Nephthys    5\n &gt; emerald cluster          Room of Isis        5\n &gt; opal cluster             Room of Neith       5\n &gt; ruby cluster             Room of Selkis      5\n &gt; beam                     barge              15\n &gt; golden chalice           Golden Alcove      15\n &gt; silver chalice           Silver Alcove      15\n &gt; ancient book             in slab in Annex   10\n &gt; scarab                   Treasury           10\nOther points are awarded for:\n &gt; breaking the lock on the trunk (5)\n &gt; finding the pyramid while digging (25)\n &gt; putting the stone cube in the opening (20)\n &gt; entering the Circular Room (30)\n &gt; entering the Room of Isis (25)\n &gt; entering the Room of Neith (25)\n &gt; entering the Room of Nephthys (25)\n &gt; entering the Room of Selkis (25)\n &gt; taking the right bricks out of the panel in the Cube (25)\n &gt; breaking the plaster at Bottom of Stairs (10)\n &gt; breaking the plaster at the west end of the Narrow Passageway (25)\n &gt; opening the sealed door in the north Antechamber (40)\n &gt; opening the sarcophagus (35).</pre>"
             }
         },
         {
@@ -1239,7 +1239,7 @@
             "child": {
                 "type": "items",
                 "title": "For Your Amusement",
-                "content": "<p>Have you tried...</p><p>reading the matchbook?</p><p>reading the inside of the matchbook?</p><p>reading the coupon?</p><p>filling out the coupon?</p><p>sending the coupon?</p><p>swimming?</p><p>wandering endlessly through the desert?</p><p>folding the cot?</p><p>sleeping on the cot outside your tent?</p><p>waving at the plane?</p><p>walking the plank?</p><p>dropping objects into the bottomless pit?</p><p>trying to do any of the following to yourself: EAT, DRINK, KILL, FIND, TAKE, EXAMINE, RUB, PLAY, GET ON, CLEAN, CLOSE, LEAVE, DROP, FOLLOW, SEARCH, SMELL, MAKE, SEARCH, WEAR?</p><p>drinking repeatedly from the Nile?</p><p>sitting on the crate?</p><p>attacking the crate with the pick axe?</p><p>praying?</p><p>filling the canteen with sand, emptying it, filling it with water, and taking a drink?</p>"
+                "content": "<div>Have you tried...</div><li>reading the matchbook?</li><li>reading the inside of the matchbook?</li><li>reading the coupon?</li><li>filling out the coupon?</li><li>sending the coupon?</li><li>swimming?</li><li>wandering endlessly through the desert?</li><li>folding the cot?</li><li>sleeping on the cot outside your tent?</li><li>waving at the plane?</li><li>walking the plank?</li><li>dropping objects into the bottomless pit?</li><li>trying to do any of the following to yourself: EAT, DRINK, KILL, FIND, TAKE, EXAMINE, RUB, PLAY, GET ON, CLEAN, CLOSE, LEAVE, DROP, FOLLOW, SEARCH, SMELL, MAKE, SEARCH, WEAR?</li><li>drinking repeatedly from the Nile?</li><li>sitting on the crate?</li><li>attacking the crate with the pick axe?</li><li>praying?</li><li>filling the canteen with sand, emptying it, filling it with water, and taking a drink?</li>"
             }
         }
     ]

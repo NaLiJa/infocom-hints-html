@@ -7,7 +7,7 @@
             "child": {
                 "type": "page",
                 "title": "About PRIZM Invisiclues",
-                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><div>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</div>"
             }
         },
         {
@@ -15,7 +15,7 @@
             "child": {
                 "type": "page",
                 "title": "Credits",
-                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>from material supplied by:</p><p>  Activision</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Zork</b> and all other game names are registered trade marks of Activision.</p>"
+                "content": "<div>Compiled, edited, and z-coded by:</div><div>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</div><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><div>from material supplied by:</div><p>  Activision</p><div>Thanks also to:</div><div>  Brian Hall</div><div>  L. Ross Raszewski</div><p>  Graham Nelson.</p><div>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </div><div>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </div><div><b>Zork</b> and all other game names are registered trade marks of Activision.</div>"
             }
         },
         {
@@ -469,7 +469,7 @@
             "child": {
                 "type": "items",
                 "title": "How Points are Scored",
-                "content": "<p>(Use only as a last resort.)</p><pre>  Points  Action\n     5    fixing the lantern\n     8    seeing a Grue\n    10    impersonating a Grue\n     5    opening the massive door\n     5    choosing a lens\n     5    experimenting with the glasses\n    10    revealing the hidden picture\n     8    decorating a coin\n    10    consulting the oracles\n     5    opening the closet\n    19    finding sundry items\n     5    escaping the GUE\n     5    debugging the GUE\n   100    Total</pre>"
+                "content": "<p>(Use only as a last resort.)</p><pre>  Points  Action\n &gt;    5    fixing the lantern\n &gt;    8    seeing a Grue\n &gt;   10    impersonating a Grue\n &gt;    5    opening the massive door\n &gt;    5    choosing a lens\n &gt;    5    experimenting with the glasses\n &gt;   10    revealing the hidden picture\n &gt;    8    decorating a coin\n &gt;   10    consulting the oracles\n &gt;    5    opening the closet\n &gt;   19    finding sundry items\n &gt;    5    escaping the GUE\n &gt;    5    debugging the GUE\n   100    Total</pre>"
             }
         },
         {
@@ -477,7 +477,7 @@
             "child": {
                 "type": "items",
                 "title": "For Your Amusement",
-                "content": "<p>(after you have finished the game)</p><p>Have you tried:</p><p>Attempting to kill the Salesman</p><p>Breaking the Mirror in the Changing Room</p><p>Going down the Trash Chute</p><p>Wearing the adventurer's hat from the Convention Hall</p><p>Licking the Boulders</p><p>Sitting on the seats in the Theater main area</p><p>Looking at the curtains</p><p>Pulling down the curtains</p><p>Taking a bow on stage</p><p>Looking at the stickers on the trunk</p><p>Opening the Mailbox on the model white house</p>"
+                "content": "<p>(after you have finished the game)</p><div>Have you tried:</div><li>Attempting to kill the Salesman</li><li>Breaking the Mirror in the Changing Room</li><li>Going down the Trash Chute</li><li>Wearing the adventurer's hat from the Convention Hall</li><li>Licking the Boulders</li><li>Sitting on the seats in the Theater main area</li><li>Looking at the curtains</li><li>Pulling down the curtains</li><li>Taking a bow on stage</li><li>Looking at the stickers on the trunk</li><li>Opening the Mailbox on the model white house</li>"
             }
         }
     ]

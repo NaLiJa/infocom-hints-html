@@ -7,7 +7,7 @@
             "child": {
                 "type": "page",
                 "title": "About PRIZM Invisiclues",
-                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><div>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</div>"
             }
         },
         {
@@ -15,7 +15,7 @@
             "child": {
                 "type": "page",
                 "title": "Credits",
-                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>from material supplied by:</p><p>  Paul David Doherty</p><p>  Dave Newkirk</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Beyond Zork</b> and all other game names are registered trade marks of Activision.</p>"
+                "content": "<div>Compiled, edited, and z-coded by:</div><div>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</div><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><div>from material supplied by:</div><div>  Paul David Doherty</div><p>  Dave Newkirk</p><div>Thanks also to:</div><div>  Brian Hall</div><div>  L. Ross Raszewski</div><p>  Graham Nelson.</p><div>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </div><div>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </div><div><b>Beyond Zork</b> and all other game names are registered trade marks of Activision.</div>"
             }
         },
         {
@@ -1821,7 +1821,7 @@
                                     "child": {
                                         "type": "items",
                                         "title": "Weapons",
-                                        "content": "<p>Dagger</p><p>Shillelagh</p><p>Spade</p><p>Battle-axe</p><p>Longsword</p><p>Vague Outline/Phase Blade</p>"
+                                        "content": "<li>Dagger</li><li>Shillelagh</li><li>Spade</li><li>Battle-axe</li><li>Longsword</li><li>Vague Outline/Phase Blade</li>"
                                     }
                                 },
                                 {
@@ -1829,7 +1829,7 @@
                                     "child": {
                                         "type": "items",
                                         "title": "Animals",
-                                        "content": "<p>Pterodactyl</p><p>Minx</p><p>Butterfly/Caterpillar</p>"
+                                        "content": "<li>Pterodactyl</li><li>Minx</li><li>Butterfly/Caterpillar</li>"
                                     }
                                 }
                             ]
@@ -1846,7 +1846,7 @@
                                     "child": {
                                         "type": "items",
                                         "title": "Wands",
-                                        "content": "<p>Anethesia [sic]</p><p>Annihilation</p><p>Dispel</p><p>Eversion</p><p>Levitation</p><p>Sayonara</p>"
+                                        "content": "<li>Anethesia [sic]</li><li>Annihilation</li><li>Dispel</li><li>Eversion</li><li>Levitation</li><li>Sayonara</li>"
                                     }
                                 },
                                 {
@@ -1854,7 +1854,7 @@
                                     "child": {
                                         "type": "items",
                                         "title": "Scrolls",
-                                        "content": "<p>Fireworks</p><p>Gating</p><p>Honing</p><p>Mischief</p><p>Protection</p><p>Refreshment</p>"
+                                        "content": "<li>Fireworks</li><li>Gating</li><li>Honing</li><li>Mischief</li><li>Protection</li><li>Refreshment</li>"
                                     }
                                 },
                                 {
@@ -1862,7 +1862,7 @@
                                     "child": {
                                         "type": "items",
                                         "title": "Potions",
-                                        "content": "<p>Death</p><p>Enlightenment</p><p>Forgetfulness</p><p>Healing</p><p>Might</p>"
+                                        "content": "<li>Death</li><li>Enlightenment</li><li>Forgetfulness</li><li>Healing</li><li>Might</li>"
                                     }
                                 }
                             ]
@@ -1876,7 +1876,7 @@
             "child": {
                 "type": "items",
                 "title": "Treasure Locations and Values",
-                "content": "<p>(Note -- Magick items can also be resold for zorkmids.)</p><pre>  Treasure               Location                Value\n  Silver Ornament        Christmas Trees            2\n  Truffles (3)           Under Oak Trees            5\n  Gold Doubloon          Crab's Nest               10\n  Tiny Crown             On the Crab               20\n  Bubble Gum Card        2nd Floor Lighthouse      30\n  Sextant                Lamphouse                 30\n  Ivory Tusk             Jungle                    40\n  Diamond                Snow Wight                50\n  Crocodile's Tear       Idol                    1000</pre>"
+                "content": "<p>(Note -- Magick items can also be resold for zorkmids.)</p><pre>  Treasure               Location                Value\n &gt; Silver Ornament        Christmas Trees            2\n &gt; Truffles (3)           Under Oak Trees            5\n &gt; Gold Doubloon          Crab's Nest               10\n &gt; Tiny Crown             On the Crab               20\n &gt; Bubble Gum Card        2nd Floor Lighthouse      30\n &gt; Sextant                Lamphouse                 30\n &gt; Ivory Tusk             Jungle                    40\n &gt; Diamond                Snow Wight                50\n &gt; Crocodile's Tear       Idol                    1000</pre>"
             }
         },
         {
@@ -1884,7 +1884,7 @@
             "child": {
                 "type": "items",
                 "title": "For Your Amusement",
-                "content": "<p>Have you tried...</p><p>asking the old woman (each one) about almost anything?</p><p>asking the cook about himself?</p><p>pointing the Sayonara wand at the snow wight?</p><p>insulting the cruel puppet?</p><p>pointing the Levitation wand at the reliquary?</p><p>touching people after crossing the bear rug?</p><p>opening the umbrella while flying on the pterodactyl?</p><p>opening the umbrella indoors?</p><p>eating a truffle in front of the minx?</p><p>selling a truffle to the old woman?</p><p>tasting the sticky coating in the goblet?</p><p>opening the chest a second time?</p><p>turning the crank on the hurdy-gurdy (12 possibilities) near the old woman?</p><p>drinking the potion of forgetfulness? death?</p>"
+                "content": "<div>Have you tried...</div><li>asking the old woman (each one) about almost anything?</li><li>asking the cook about himself?</li><li>pointing the Sayonara wand at the snow wight?</li><li>insulting the cruel puppet?</li><li>pointing the Levitation wand at the reliquary?</li><li>touching people after crossing the bear rug?</li><li>opening the umbrella while flying on the pterodactyl?</li><li>opening the umbrella indoors?</li><li>eating a truffle in front of the minx?</li><li>selling a truffle to the old woman?</li><li>tasting the sticky coating in the goblet?</li><li>opening the chest a second time?</li><li>turning the crank on the hurdy-gurdy (12 possibilities) near the old woman?</li><li>drinking the potion of forgetfulness? death?</li>"
             }
         }
     ]

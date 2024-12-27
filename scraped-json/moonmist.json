@@ -7,7 +7,7 @@
             "child": {
                 "type": "page",
                 "title": "About PRIZM Invisiclues",
-                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><div>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</div>"
             }
         },
         {
@@ -15,7 +15,7 @@
             "child": {
                 "type": "page",
                 "title": "Credits",
-                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>from material supplied by:</p><p>  Paul David Doherty</p><p>  Graeme Cree</p><p>  Mark Howell</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Moonmist</b> and all other game names are registered trade marks of Activision.</p>"
+                "content": "<div>Compiled, edited, and z-coded by:</div><div>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</div><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><div>from material supplied by:</div><div>  Paul David Doherty</div><div>  Graeme Cree</div><p>  Mark Howell</p><div>Thanks also to:</div><div>  Brian Hall</div><div>  L. Ross Raszewski</div><p>  Graham Nelson.</p><div>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </div><div>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </div><div><b>Moonmist</b> and all other game names are registered trade marks of Activision.</div>"
             }
         },
         {
@@ -816,7 +816,7 @@
             "child": {
                 "type": "items",
                 "title": "Secret Passage Entrances",
-                "content": "<p>Don't read this list unless you are really stuck or really curious. Some exits (not listed) open only from the inside.</p><pre>  Secret Entrance          How to Open It\n  Your Bedroom             EXAMINE WALL MIRROR. PUSH SWITCH\n  Vivien's Bedroom         MOVE FIGURINE\n  Wendish's Bedroom        MOVE SCONCE\n  Ian's Bedroom            MOVE ANDIRONS\n  Library                  SEARCH BOOKCASE. GET HISTORY BOOK\n  Tamara's Bedroom         MOVE POST\n  Jack's Bedroom           MOVE TELESCOPE\n  Sitting Room (one-way)   SIT ON WINDOW SEAT. MOVE WYVERN\n  Drawing Room             LOOK BEHIND TAPESTRY. OPEN SECRET DOOR</pre>"
+                "content": "<p>Don't read this list unless you are really stuck or really curious. Some exits (not listed) open only from the inside.</p><pre>  Secret Entrance          How to Open It\n &gt; Your Bedroom             EXAMINE WALL MIRROR. PUSH SWITCH\n &gt; Vivien's Bedroom         MOVE FIGURINE\n &gt; Wendish's Bedroom        MOVE SCONCE\n &gt; Ian's Bedroom            MOVE ANDIRONS\n &gt; Library                  SEARCH BOOKCASE. GET HISTORY BOOK\n &gt; Tamara's Bedroom         MOVE POST\n &gt; Jack's Bedroom           MOVE TELESCOPE\n &gt; Sitting Room (one-way)   SIT ON WINDOW SEAT. MOVE WYVERN\n &gt; Drawing Room             LOOK BEHIND TAPESTRY. OPEN SECRET DOOR</pre>"
             }
         },
         {
@@ -824,7 +824,7 @@
             "child": {
                 "type": "items",
                 "title": "Have You Tried To...",
-                "content": "<p>read the magazine in the lumber room? (especially in the blue variation)</p><p>kiss Iris if you are playing as a man, or kiss Jack or Ian if you are playing as a woman?</p><p>drink Moonmist? (in the green variation only)</p><p>take Dr. Wendish's mustache? (in the green variation)</p><p>show the villain the incriminating evidence in his or her own bedroom, before or after you have taken the blowgun? (in the green and blue variations only)</p><p>play the secret tape in Jack's door with Tamara following you? (in the red variation)</p><p>ring the bell on the fighting deck after dinner and then wait?</p><p>pray?</p><p>shoot billiards in the game room?</p><p>play the piano?</p><p>ask the other guests to play the piano?</p><p>turn on the computer in the office?</p><p>ASK VIVIEN ABOUT TAMARA (in the blue variation) or ASK TAMARA ABOUT IRIS (in the yellow variation)?</p>"
+                "content": "<li>read the magazine in the lumber room? (especially in the blue variation)</li><li>kiss Iris if you are playing as a man, or kiss Jack or Ian if you are playing as a woman?</li><li>drink Moonmist? (in the green variation only)</li><li>take Dr. Wendish's mustache? (in the green variation)</li><li>show the villain the incriminating evidence in his or her own bedroom, before or after you have taken the blowgun? (in the green and blue variations only)</li><li>play the secret tape in Jack's door with Tamara following you? (in the red variation)</li><li>ring the bell on the fighting deck after dinner and then wait?</li><li>pray?</li><li>shoot billiards in the game room?</li><li>play the piano?</li><li>ask the other guests to play the piano?</li><li>turn on the computer in the office?</li><li>ASK VIVIEN ABOUT TAMARA (in the blue variation) or ASK TAMARA ABOUT IRIS (in the yellow variation)?</li>"
             }
         },
         {
@@ -832,7 +832,7 @@
             "child": {
                 "type": "page",
                 "title": "Thanks!",
-                "content": "<p>The authors thank the <b>Moonmist</b> testers at Infocom: Tomas Bok, Gary Brennan, Amy Briggs, Max Buxton, Liz Cyr-Jones, Suzanne Frank, and Matt Hillman. Numerous \"outside\" testers also gave us their valuable input. </p><p>Thanks to Carl Genatossio and Elizabeth Langosy for their excellent work on the package design and the package contents, including the tourist brochure.</p>"
+                "content": "<p>The authors thank the <b>Moonmist</b> testers at Infocom: Tomas Bok, Gary Brennan, Amy Briggs, Max Buxton, Liz Cyr-Jones, Suzanne Frank, and Matt Hillman. Numerous \"outside\" testers also gave us their valuable input. </p><div>Thanks to Carl Genatossio and Elizabeth Langosy for their excellent work on the package design and the package contents, including the tourist brochure.</div>"
             }
         }
     ]

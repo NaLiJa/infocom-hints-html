@@ -7,7 +7,7 @@
             "child": {
                 "type": "page",
                 "title": "About PRIZM Invisiclues",
-                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><div>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</div>"
             }
         },
         {
@@ -15,7 +15,7 @@
             "child": {
                 "type": "page",
                 "title": "Credits",
-                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>from material supplied by:</p><p>  Paul David Doherty</p><p>  Volker Blasius</p><p>  Mike Threepoint</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Zork III</b> and all other game names are registered trade marks of Activision.</p>"
+                "content": "<div>Compiled, edited, and z-coded by:</div><div>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</div><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><div>from material supplied by:</div><div>  Paul David Doherty</div><div>  Volker Blasius</div><p>  Mike Threepoint</p><div>Thanks also to:</div><div>  Brian Hall</div><div>  L. Ross Raszewski</div><p>  Graham Nelson.</p><div>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </div><div>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </div><div><b>Zork III</b> and all other game names are registered trade marks of Activision.</div>"
             }
         },
         {
@@ -558,7 +558,7 @@
                                 "Try mapping (movable pieces to represent walls may help). Push as few walls as possible.",
                                 "You might make use of the slot (not recommended).",
                                 "Walls can only be pushed, never pulled.",
-                                "Starting from the Royal Puzzle entrance, the following moves will solve the puzzle."
+                                "Starting from the Royal Puzzle entrance, the following moves will solve the puzzle.<div>D. PUSH EAST WALL. S. S. SE. PUSH SOUTH WALL. N. NE. PUSH SOUTH WALL. TAKE BOOK. PUSH SOUTH WALL. E. NE. PUSH WEST WALL. SW. NW. NE. PUSH SOUTH WALL. SW. PUSH EAST WALL. NE. PUSH SOUTH WALL. NW. N. N. PUSH EAST WALL. SW. S. SE. NE. N. PUSH WEST WALL. NW. PUSH SOUTH WALL. AGAIN. W. NW. NW. PUSH SOUTH WALL. SE. SE. SE. NE. PUSH WEST WALL. AGAIN. SW. PUSH NORTH WALL. AGAIN. AGAIN. NW. UP. YELL. (Note: Innumerable other sequences will reach the same result.)</div>"
                             ]
                         }
                     },
@@ -946,7 +946,7 @@
                             "type": "hints",
                             "title": "What should be thrown into the flaming pit?",
                             "hints": [
-                                "",
+                                "<div>  The end had come, and this was it;</div><div>  He dropped her in the flaming pit.</div><div>      -- Edward Gorey</div>",
                                 "Anything dropped into the pit is lost forever."
                             ]
                         }
@@ -1102,7 +1102,7 @@
             "child": {
                 "type": "items",
                 "title": "How Points Are Earned",
-                "content": "<p>(Use only as a last resort.)</p><p>You earn one point when you...</p><p>encounter the hooded figure.</p><p>attack the hooded figure.</p><p>reach the Cliff Ledge.</p><p>jump in the lake.</p><p>touch the viewing table.</p><p>push the button on the time machine while the dial is set to 776.</p><p>push a sandstone wall in the Royal Puzzle.</p><p>Of course, you can have all seven points and still be far from completing the game.</p>"
+                "content": "<p>(Use only as a last resort.)</p><div>You earn one point when you...</div><li>encounter the hooded figure.</li><li>attack the hooded figure.</li><li>reach the Cliff Ledge.</li><li>jump in the lake.</li><li>touch the viewing table.</li><li>push the button on the time machine while the dial is set to 776.</li><li>push a sandstone wall in the Royal Puzzle.</li><li>Of course, you can have all seven points and still be far from completing the game.</li>"
             }
         },
         {
@@ -1110,7 +1110,7 @@
             "child": {
                 "type": "items",
                 "title": "For Your Amusement",
-                "content": "<p>(After you've finished the game)</p><p>Have you ever:</p><p>said HELLO to the man at the cliff?</p><p>tried to throw anything from the cliff at the man?</p><p>been eaten by the Roc or swallowed by the fish in the lake?</p><p>tried to eat the algae?</p><p>tried to examine the key repeatedly?</p><p>tried saying HELLO SAILOR at the ocean before the Viking boat arrives or after it leaves?</p><p>been at the Aqueduct View, on the Aqueduct, at the Great Door, or visiting one of the other Zorks while the earthquake took place?</p><p>seen the robot that tidies the Royal Museum (and no doubt closes doors it finds open)?</p><p>walked into the grue convention in the dark rooms?</p><p>gone to the Museum Entrance or Jewel Room in 777?</p><p>moved the temporizer to one of the other rooms in 776 and left it there (and then read the plaque in 948)?</p><p>listened to the guards or the dedication through the museum door?</p><p>looked into the passageway alongside the mirror box while next to the Guardians?</p><p>looked into the mirror or knocked on the dungeon door while invisible?</p><p>tried to walk through the swamp or quicksand?</p><p>burned the staff, book, tree, grue repellant can,...?</p>"
+                "content": "<p>(After you've finished the game)</p><div>Have you ever:</div><li>said HELLO to the man at the cliff?</li><li>tried to throw anything from the cliff at the man?</li><li>been eaten by the Roc or swallowed by the fish in the lake?</li><li>tried to eat the algae?</li><li>tried to examine the key repeatedly?</li><li>tried saying HELLO SAILOR at the ocean before the Viking boat arrives or after it leaves?</li><li>been at the Aqueduct View, on the Aqueduct, at the Great Door, or visiting one of the other Zorks while the earthquake took place?</li><li>seen the robot that tidies the Royal Museum (and no doubt closes doors it finds open)?</li><li>walked into the grue convention in the dark rooms?</li><li>gone to the Museum Entrance or Jewel Room in 777?</li><li>moved the temporizer to one of the other rooms in 776 and left it there (and then read the plaque in 948)?</li><li>listened to the guards or the dedication through the museum door?</li><li>looked into the passageway alongside the mirror box while next to the Guardians?</li><li>looked into the mirror or knocked on the dungeon door while invisible?</li><li>tried to walk through the swamp or quicksand?</li><li>burned the staff, book, tree, grue repellant can,...?</li>"
             }
         }
     ]

@@ -7,7 +7,7 @@
             "child": {
                 "type": "page",
                 "title": "About PRIZM Invisiclues",
-                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><p>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</p>"
+                "content": "<p>The <b>PRIZM</b> project (<b>P</b>retty <b>R</b>eliable <b>I</b>nvisiclues for <b>Z</b>-<b>M</b>achine) resulted from a collaboration between <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com) and <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com), with the aim of making the genuine Infocom invisiclues available as Z-Code computer files. The project was endorsed by Activision, who now hold the copyright for Infocom's material.</p><p>Whenever possible we have stayed faithful to the original printed Invisiclues booklets. Where both in-game and printed versions were available we have used the printed clues, as these were generally more detailed. Printing errors have been corrected whenever possible. The files have been formatted to display correctly on any screen with a width of at least 80 characters. </p><div>The home of the PRIZM project is <b>www.waitingforgo.com</b>. There you can download different versions of the files, with or without sample transcripts and missing documentation, and grouped by various classifications (unfortunately, limitations within the Z-Machine prevent all the invisiclues being packaged into one big file).</div>"
             }
         },
         {
@@ -15,7 +15,7 @@
             "child": {
                 "type": "page",
                 "title": "Credits",
-                "content": "<p>Compiled, edited, and z-coded by:</p><p>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</p><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><p>from material supplied by:</p><p>  Henrik Dittmann &amp; Paul David Doherty</p><p>  Volker Blasius</p><p>  Mike Threepoint</p><p>Thanks also to:</p><p>  Brian Hall</p><p>  L. Ross Raszewski</p><p>  Graham Nelson.</p><p>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </p><p>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </p><p><b>Zork</b> and all other game names are registered trade marks of Activision.</p>"
+                "content": "<div>Compiled, edited, and z-coded by:</div><div>  <b>Digby McWiggle</b> (digby_mcwiggle@hotmail.com)</div><p>  <b>Steven Marsh</b> (marsh@netally.com, www.waitingforgo.com)</p><div>from material supplied by:</div><div>  Henrik Dittmann &amp; Paul David Doherty</div><div>  Volker Blasius</div><p>  Mike Threepoint</p><div>Thanks also to:</div><div>  Brian Hall</div><div>  L. Ross Raszewski</div><p>  Graham Nelson.</p><div>All material Copyright 1993, 1999 Activision, Inc. Used with permission. </div><div>This file Copyright 1999 Digby McWiggle &amp; Steven Marsh. </div><div><b>Zork</b> and all other game names are registered trade marks of Activision.</div>"
             }
         },
         {
@@ -1113,7 +1113,7 @@
                         "child": {
                             "type": "items",
                             "title": "Progress Points",
-                            "content": "<p>(Use only as a last resort.)</p><p>You get:</p><p>10 points for getting into the house</p><p>25 for getting into the Cellar</p><p>5 for getting past the Troll</p><p>13 for getting to the Drafty Room</p><p>25 for getting to the Treasure Room.</p><p>These points plus all the treasure points make 350. When you have all 350 points, the twentieth treasure will appear in the case -- a map which leads (indirectly) to 400 more points (<b>Zork II</b>).</p>"
+                            "content": "<p>(Use only as a last resort.)</p><div>You get:</div><li>10 points for getting into the house</li><li>25 for getting into the Cellar</li><li>5 for getting past the Troll</li><li>13 for getting to the Drafty Room</li><li>25 for getting to the Treasure Room.</li><li>These points plus all the treasure points make 350. When you have all 350 points, the twentieth treasure will appear in the case -- a map which leads (indirectly) to 400 more points (<b>Zork II</b>).</li>"
                         }
                     },
                     {
@@ -1121,7 +1121,7 @@
                         "child": {
                             "type": "items",
                             "title": "Treasures: Their Values and Locations",
-                            "content": "<p>Use only as a last resort.</p><pre>  Treasure            Value   Value   Where found \n                     (touch)  (case)\n  jewel-encrusted egg   5       5     in nest in tree\n  clockwork canary      6       4     in the egg\n  beautiful painting    4       6     Gallery\n  platinum bar         10       5     Loud Room\n  ivory torch          14       6     Torch Room\n  gold coffin          10      15     Egypt Room\n  Egyptian sceptre      4       6     in the coffin\n  trunk of jewels      15       5     Reservoir\n  crystal trident       4      11     Atlantis Room\n  jade figurine         5       5     Bat Room\n  sapphire bracelet     5       5     Gas Room\n  huge diamond         10      10     you create it\n  bag of coins         10       5     in the Maze\n  crystal skull        10      10     Land of Living Dead\n  jeweled scarab        5       5     buried in Sandy Cave\n  large emerald         5      10     in the buoy\n  silver chalice       10       5     Treasure Room\n  pot of gold          10      10     End of Rainbow\n  brass bauble          1       1     the songbird has it</pre>"
+                            "content": "<p>Use only as a last resort.</p><pre>  Treasure            Value   Value   Where found \n                     (touch)  (case)\n &gt; jewel-encrusted egg   5       5     in nest in tree\n &gt; clockwork canary      6       4     in the egg\n &gt; beautiful painting    4       6     Gallery\n &gt; platinum bar         10       5     Loud Room\n &gt; ivory torch          14       6     Torch Room\n &gt; gold coffin          10      15     Egypt Room\n &gt; Egyptian sceptre      4       6     in the coffin\n &gt; trunk of jewels      15       5     Reservoir\n &gt; crystal trident       4      11     Atlantis Room\n &gt; jade figurine         5       5     Bat Room\n &gt; sapphire bracelet     5       5     Gas Room\n &gt; huge diamond         10      10     you create it\n &gt; bag of coins         10       5     in the Maze\n &gt; crystal skull        10      10     Land of Living Dead\n &gt; jeweled scarab        5       5     buried in Sandy Cave\n &gt; large emerald         5      10     in the buoy\n &gt; silver chalice       10       5     Treasure Room\n &gt; pot of gold          10      10     End of Rainbow\n &gt; brass bauble          1       1     the songbird has it</pre>"
                         }
                     }
                 ]
@@ -1132,7 +1132,7 @@
             "child": {
                 "type": "items",
                 "title": "For Your Amusement",
-                "content": "<p>(after you've finished the game)</p><p>Have you ever:</p><p>opened the grating from beneath while the leaves were still on it?</p><p>tried swearing at <b>Zork I</b>?</p><p>waved the sceptre while standing on the rainbow?</p><p>tried anything nasty with the bodies in Hades?</p><p>burned the black book?</p><p>damaged the painting?</p><p>lit the candles with the torch?</p><p>read the matchbook?</p><p>tried to take yourself (or the Thief, Troll, or Cyclops)?</p><p>tried cutting things with the knife or sword?</p><p>poured water on something burning?</p><p>said WAIT or SCORE while dead (as a spirit)?</p>"
+                "content": "<p>(after you've finished the game)</p><div>Have you ever:</div><li>opened the grating from beneath while the leaves were still on it?</li><li>tried swearing at <b>Zork I</b>?</li><li>waved the sceptre while standing on the rainbow?</li><li>tried anything nasty with the bodies in Hades?</li><li>burned the black book?</li><li>damaged the painting?</li><li>lit the candles with the torch?</li><li>read the matchbook?</li><li>tried to take yourself (or the Thief, Troll, or Cyclops)?</li><li>tried cutting things with the knife or sword?</li><li>poured water on something burning?</li><li>said WAIT or SCORE while dead (as a spirit)?</li>"
             }
         },
         {
@@ -1140,7 +1140,7 @@
             "child": {
                 "type": "items",
                 "title": "Words You May Not Have Tried",
-                "content": "<p>HELLO (to Troll, Thief, Cyclops)</p><p>ZORK</p><p>OIL (lubricate)</p><p>XYZZY</p><p>WALK AROUND (in forest, outside house, or inside house)</p><p>PLUGH</p><p>FIND (especially with house, hands, teeth, me)</p><p>CHOMP</p><p>COUNT (candles, leaves, matches)</p><p>WIN</p><p>MUMBLE (or SIGH)</p><p>LISTEN (especially to the Troll, Thief, or Cyclops)</p><p>REPENT</p><p>WHAT IS (grue, zorkmid, ...)</p><p>YELL (or SCREAM)</p><p>SMELL</p>"
+                "content": "<li>HELLO (to Troll, Thief, Cyclops)</li><li>ZORK</li><li>OIL (lubricate)</li><li>XYZZY</li><li>WALK AROUND (in forest, outside house, or inside house)</li><li>PLUGH</li><li>FIND (especially with house, hands, teeth, me)</li><li>CHOMP</li><li>COUNT (candles, leaves, matches)</li><li>WIN</li><li>MUMBLE (or SIGH)</li><li>LISTEN (especially to the Troll, Thief, or Cyclops)</li><li>REPENT</li><li>WHAT IS (grue, zorkmid, ...)</li><li>YELL (or SCREAM)</li><li>SMELL</li>"
             }
         }
     ]
